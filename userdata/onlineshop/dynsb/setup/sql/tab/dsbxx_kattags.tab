@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}kattags 
+(
+	`Count` int(11) unsigned NOT NULL default '0',
+	`KatCount` int(11) unsigned NOT NULL default '0',
+	`LanguageId` char(3) {gssb_charset} NOT NULL default '',
+	`Tag` varchar(64) {gssb_charset} NOT NULL,
+	`TextName` varchar(64) {gssb_charset} NOT NULL,
+	KEY `LanguageId` (`LanguageId`),
+	KEY `KatCount` (`KatCount`),
+	KEY `Tag` (`Tag`)
+ ) {gssb_charset};

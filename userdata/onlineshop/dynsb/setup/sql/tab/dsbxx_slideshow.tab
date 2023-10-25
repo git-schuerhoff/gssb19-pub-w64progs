@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}slideshow 
+ (
+	slideshowId int(11) unsigned NOT NULL,
+	slideshowImageName varchar(250) {gssb_charset} NOT NULL default '',
+	slideshowImageLink varchar(250) {gssb_charset} NOT NULL default '',
+	slideshowSort int(11) unsigned default 0,
+	PRIMARY KEY  (slideshowId)
+ ) {gssb_charset};

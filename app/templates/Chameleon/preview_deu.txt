@@ -1,0 +1,15 @@
+Template Chameleon
+==================
+
+Wie das gleichnamige Tier passt sich dieses Template an seine Umgebung an.
+Egal ob Smartphone, Tablet-PC, Netbook, Laptop oder klassischer PC, mit dem
+Chameleon-Template macht Ihr Shop immer eine gute Figur.
+
+Das vorberechnete Warengruppenmenü sorgt für eine hohe Geschwindigkeit beim
+Seitenaufbau, auch bei vielen Warengruppen.
+
+Die Hauptwarengruppen* werden mit einem Icon horizontal angezeigt. Unterwarengruppen
+klappen beim Überfahren mit der Maus auf.
+
+*Wir empfehlen exakt 10 Hauptwarengruppen für optimale Anzeige oder eine durch
+10 teilbare Anzahl an Warengruppen.

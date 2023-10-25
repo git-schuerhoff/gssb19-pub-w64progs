@@ -1,0 +1,14 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}moduleinfo 
+ (
+	modId varchar(16) {gssb_charset} NOT NULL default '',
+	modParentId varchar(16) {gssb_charset} NOT NULL default '',
+	modName varchar(32) {gssb_charset} NOT NULL default '',
+	modCaption varchar(64) {gssb_charset} NOT NULL default '',
+	modVersion varchar(8) {gssb_charset} NOT NULL default '',
+	modFolder varchar(32) {gssb_charset} NOT NULL default '',
+	modChgTimestamp timestamp NOT NULL,
+	modChgUserIdNo int(11) NOT NULL default '0',
+	modChgApplicId varchar(255) {gssb_charset} NOT NULL default '',
+	modChgHistoryFlg char(1) {gssb_charset} NOT NULL default 'N',
+	PRIMARY KEY  (modId)
+ ) {gssb_charset};

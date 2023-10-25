@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS `{dsbxx_}nl_documents` 
+ (
+	`nldoIdNo` int(10) unsigned NOT NULL auto_increment,
+	`nldoStatusFlg` varchar(45) {gssb_charset} NOT NULL default '0',
+	`nldoContentText` text {gssb_charset},
+	`nldoContentHtml` text {gssb_charset},
+	`nldoChangeDate` datetime default NULL,
+	`nldoSendDate` varchar(45) {gssb_charset} default NULL,
+	`nldoSubject` varchar(255) {gssb_charset} NOT NULL default '',
+	PRIMARY KEY  (`nldoIdNo`)
+ ) {gssb_charset};

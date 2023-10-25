@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}log 
+ (
+	logId int(11) unsigned NOT NULL auto_increment,
+	logData blob,
+	logFlg char(1) {gssb_charset} NOT NULL default 'N',
+	PRIMARY KEY  (logId)
+ ) {gssb_charset};

@@ -1,0 +1,25 @@
+<div class="block block-related">
+	<div class="block-title">
+		<strong><span>{GSSE_INCL_CROSSUPHEAD}</span></strong>
+	</div>
+	<div class="block-content csslider horizontal" id="{GSSE_INCL_BLOCKID}">
+		<script type="text/javascript">decorateList('block-related', 'none-recursive')</script>
+		<div class="viewport">
+			<ul style="width: 197px; margin-left: 0px;" class="products-grid slides" id="block-related">
+				{GSSE_INCL_CROSSUPITEMS}
+			</ul>
+		</div>
+		<div class="controls">
+			<a style="display: none;" href="#" title="Prev" class="prev">Prev</a>
+			<a style="display: none;" title="Next" href="#" class="next">Next</a>
+		</div>
+	</div>
+	<script type="text/javascript">
+		jQuery(window).on('load',function() {
+			jQuery('#{GSSE_INCL_BLOCKID}').csslider({
+				move : 1,
+				direction : 'horizontal'
+			});
+		});
+	</script>
+</div>

@@ -1,0 +1,129 @@
+<div class="tabs-widget ">
+	<div class="block-title"></div>
+	<div class="block-description"></div>
+	<div id="gs_tabbedslider_main" class="emtabs">
+		<ul class="tabs_control">
+			<li>
+				<a href="#gs_tabbedslider_main_feat">
+					Empfehlungen
+				</a>
+			</li>
+			<li>
+				<a href="#gs_tabbedslider_main_new">
+					{GSSE_LANG_LangTagProductGroupNew}
+				</a>
+			</li>
+			<li>
+				<a href="#gs_tabbedslider_main_best">
+					Bestseller
+				</a>
+			</li>
+		</ul>
+		<div id="gs_tabbedslider_main_feat" class="tab-item content_gs_tabbedslider_main_feat">
+			<div id="slide_main_feat" class="slider_container">
+				<div class="slider_featured">
+					<div class="widget em-widget-featured-products-grid">
+						<div class="widget-products">
+							<ul class="products-grid">
+								<li style="display: none">&nbsp;</li>
+								{GSSE_INCL_FEATUREDITEMS}
+							</ul>
+						</div>
+					</div>
+				</div>
+				
+				<div id="slide_main_feat_css"></div>
+			</div>
+		</div>
+		<script type="text/javascript">
+			//<![CDATA[
+			decorateGeneric($$('ul.products-grid'),['last','first','odd','even']);
+				function em_slider_init_widget_slide_main_feat(){
+					if(jQuery('#slide_main_feat .slider_featured ul.products-grid').length){
+						jQuery('#slide_main_feat .slider_featured ul.products-grid').addClass('slides');
+						jQuery('#slide_main_feat .slider_featured ul.products-grid').parent().csslider({
+							move : 1,
+							parentHidden : '.ui-slider-tab-content'
+						});
+					}
+				}
+				jQuery(document).ready(function($) {
+					em_slider_init_widget_slide_main_feat();
+				});
+			//]]>
+		</script>
+		<div id="gs_tabbedslider_main_new" class="tab-item content_gs_tabbedslider_main_new">
+			<div id="slide_main_new" class="slider_container">
+				<div class="slider_new">
+					<div class="widget em-widget-new-products-grid">
+						<div class="widget-products">
+							<ul class="products-grid">
+								<li style="display: none">&nbsp;</li>
+								{GSSE_INCL_NEWITEMS}
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div id="slide_main_new_css"></div>
+			</div>
+		</div>
+		<script type="text/javascript">
+			decorateGeneric($$('ul.products-grid'),['last','first','odd','even']);
+			//<![CDATA[
+			function em_slider_init_widget_slide_main_new(){
+				if(jQuery('#slide_main_new .slider_new ul.products-grid').length){
+					jQuery('#slide_main_new .slider_new ul.products-grid').addClass('slides');
+					jQuery('#slide_main_new .slider_new ul.products-grid').parent().csslider({
+						move : 1,
+						parentHidden : '.ui-slider-tab-content'
+					});
+				}
+			}
+			jQuery(document).ready(function($) {
+				em_slider_init_widget_slide_main_new();
+			});
+			//]]>
+		</script>
+		<div id="gs_tabbedslider_main_best" class="tab-item content_gs_tabbedslider_main_best">
+			<div id="slide_main_best" class="slider_container">
+				<div class="slider_bestseller">
+					<div class="widget em-widget-bestseller-products-grid">
+						<div class="widget-products">
+							<ul class="products-grid">
+								<li style="display: none">&nbsp;</li>
+								{GSSE_INCL_BESTITEMS}
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div id="slide_main_best_css"></div>
+			</div>
+			
+		</div>
+		<script type="text/javascript">
+			//<![CDATA[
+			decorateGeneric($$('ul.products-grid'),['last','first','odd','even']);
+			function em_slider_init_widget_slide_main_best(){
+				if(jQuery('#slide_main_best .slider_bestseller ul.products-grid').length){
+					jQuery('#slide_main_best .slider_bestseller ul.products-grid').addClass('slides');
+					jQuery('#slide_main_best .slider_bestseller ul.products-grid').parent().csslider({
+						move : 1,
+						parentHidden : '.ui-slider-tab-content'
+					});
+				}
+			}
+			jQuery(document).ready(function($) {
+				em_slider_init_widget_slide_main_best();
+			});
+			//]]>
+		</script>
+	</div>
+</div>
+<script type="text/javascript">
+	function init_gs_tabbedslider_main(){
+		jQuery('#gs_tabbedslider_main').sliderTabs();
+	}
+	jQuery(window).on('load',function(){
+		init_gs_tabbedslider_main();
+	});
+</script>

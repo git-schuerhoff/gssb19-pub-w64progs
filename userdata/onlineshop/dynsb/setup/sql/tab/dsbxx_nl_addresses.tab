@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS `{dsbxx_}nl_addresses` 
+ (
+	`nladIdNo` int(10) unsigned NOT NULL auto_increment,
+	`nladAddress` varchar(250) {gssb_charset} NOT NULL default '',
+	`nladFormat` char(1) {gssb_charset} NOT NULL default 'N',
+	`nladActiveFlg` char(1) NOT NULL default 'N',
+	`nladActivationCode` varchar(16) {gssb_charset} default NULL,
+	`nladCreateDate` timestamp NOT NULL default '0000-00-00 00:00:00',
+	`nladActivationDate` timestamp NOT NULL default '0000-00-00 00:00:00',
+	PRIMARY KEY  (`nladIdNo`)
+ ) {gssb_charset};

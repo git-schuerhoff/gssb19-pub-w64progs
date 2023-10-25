@@ -1,0 +1,23 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}banks (
+	`ID` int(11) NOT NULL AUTO_INCREMENT,
+	`countryId` char(3) {gssb_charset} NOT NULL DEFAULT 'DEU',
+	`BankCode` varchar(20) {gssb_charset} NOT NULL DEFAULT '',
+	`Attribute` int(11) NOT NULL DEFAULT '0',
+	`BankName` varchar(255) {gssb_charset} NOT NULL DEFAULT '',
+	`zip` varchar(20) {gssb_charset} NOT NULL DEFAULT '',
+	`city` varchar(255) {gssb_charset} NOT NULL DEFAULT '',
+	`BankNameShort` varchar(255) {gssb_charset} NOT NULL DEFAULT '',
+	`pan` varchar(50) {gssb_charset} NOT NULL DEFAULT '',
+	`BIC` varchar(50) {gssb_charset} NOT NULL DEFAULT '',
+	`CheckNumMethod` varchar(20) {gssb_charset} NOT NULL DEFAULT '',
+	`DatasetNo` varchar(20) {gssb_charset} DEFAULT '',
+	`ChangeFlag` varchar(10) {gssb_charset} NOT NULL DEFAULT '',
+	`BankCodeDeleted` CHAR(1) NOT NULL DEFAULT 'N',
+	`NewBankCode` varchar(20) {gssb_charset} NOT NULL DEFAULT '',
+	PRIMARY KEY (`ID`),
+	KEY `countryId` (`countryId`),
+	KEY `BankCode` (`BankCode`),
+	KEY `BankName` (`BankName`),
+	KEY `BIC` (`BIC`),
+	KEY `countryBankCode` (`countryId`,`BankCode`)
+) {gssb_charset};

@@ -1,0 +1,24 @@
+<div class="box">
+	<form name="newsletter2inc_form" method="post" action="index.php?page=emailform">
+		<ul class="form-list">
+			<li>
+				<label>{GSSE_LANG_LangTagEmail}</label>
+				<div class="input-box">
+					<input class="input-text" type="text" name="emailaddress" value="{GSSE_MSG_EMAIL}" />
+				</div>
+			</li>
+			<li {GSSE_STYLE}>
+				<label>{GSSE_LANG_LangTagFormat}</label>
+				<div class="input-box">
+					<select name="nl2format">
+						<option value="H">HTML</option>
+						<option value="T">Text</option>
+					</select>
+				</div>
+			</li>
+			{GSSE_INCL_MAILINGGROUP}
+			{GSSE_INCL_AKTIVCODE}
+		</ul>
+		{GSSE_INCL_BUTTON}
+	</form>
+</div>

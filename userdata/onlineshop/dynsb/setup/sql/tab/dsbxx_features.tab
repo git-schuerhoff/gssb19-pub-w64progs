@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}features
+(
+	id integer NOT NULL,
+	langid varchar(3) NOT NULL DEFAULT 'deu',
+	groupid integer,
+	name varchar(255) NOT NULL DEFAULT '',
+	PRIMARY KEY (id)
+);

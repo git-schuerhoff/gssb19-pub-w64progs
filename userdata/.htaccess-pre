@@ -1,0 +1,197 @@
+#BEGIN Browser-Caching
+AddType application/vnd.ms-fontobject .eot 
+AddType application/x-font-ttf .ttf
+AddType application/x-font-opentype .otf
+AddType application/x-font-woff .woff
+AddType image/svg+xml .svg
+
+<IfModule mod_expires.c>  
+	ExpiresActive On
+	ExpiresByType text/css "access plus 1 week"
+	ExpiresByType text/javascript "access plus 1 year"
+	ExpiresByType application/x-javascript "access plus 1 year"
+	ExpiresByType application/javascript "access plus 1 year"
+	ExpiresByType application/vnd.ms-fontobject "access plus 1 year"
+	ExpiresByType application/x-font-ttf "access plus 1 year"
+	ExpiresByType application/x-font-opentype "access plus 1 year"
+	ExpiresByType application/x-font-woff "access plus 1 year"
+	ExpiresByType image/svg+xml "access plus 1 year"
+	ExpiresByType image/gif "access plus 1 day"
+	ExpiresByType image/jpeg "access plus 1 day"
+	ExpiresByType image/png "access plus 1 day"
+	<FilesMatch "960\\.css$">
+		ExpiresByType text/css "access plus 1 month"
+	</FilesMatch>
+	<FilesMatch "colors\\.css$">
+		ExpiresByType text/css "access plus 1 month"
+	</FilesMatch>
+	<FilesMatch "layout\\.css$">
+		ExpiresByType text/css "access plus 1 month"
+	</FilesMatch>
+	<FilesMatch "maincolors\\.css$">
+		ExpiresByType text/css "access plus 1 month"
+	</FilesMatch>
+	<FilesMatch "menu\\.css$">
+		ExpiresByType text/css "access plus 1 month"
+	</FilesMatch>
+	<FilesMatch "em_productlabels\\.css$">
+		ExpiresByType text/css "access plus 1 year"
+	</FilesMatch>
+	<FilesMatch "jquery-ui.min\\.css$">
+		ExpiresByType text/css "access plus 1 year"
+	</FilesMatch>
+	<FilesMatch "jquery.fancybox\\.css$">
+		ExpiresByType text/css "access plus 1 year"
+	</FilesMatch>
+	<FilesMatch "print\\.css$">
+		ExpiresByType text/css "access plus 1 year"
+	</FilesMatch>
+	<FilesMatch "customerfuncs\\.js$">
+		ExpiresByType text/javascript "access plus 1 week"
+		ExpiresByType application/x-javascript "access plus 1 week"
+		ExpiresByType application/javascript "access plus 1 week"
+	</FilesMatch>
+	<FilesMatch "shopengine\\.js$">
+		ExpiresByType text/javascript "access plus 1 week"
+		ExpiresByType application/x-javascript "access plus 1 week"
+		ExpiresByType application/javascript "access plus 1 week"
+	</FilesMatch>
+	<FilesMatch "blank\\.gif$">
+		ExpiresByType image/gif "access plus 1 year"
+	</FilesMatch>
+	<FilesMatch "icon-nav\\.gif$">
+		ExpiresByType image/gif "access plus 1 year"
+	</FilesMatch>
+	<FilesMatch "loading\\.gif$">
+		ExpiresByType image/gif "access plus 1 year"
+	</FilesMatch>
+	<FilesMatch "fax\\.png$">
+		ExpiresByType image/png "access plus 1 year"
+	</FilesMatch>
+	<FilesMatch "gs_icons\\.png$">
+		ExpiresByType image/png "access plus 1 year"
+	</FilesMatch>
+	<FilesMatch "i_email\\.png$">
+		ExpiresByType image/png "access plus 1 year"
+	</FilesMatch>
+	<FilesMatch "icon-nav\\.png$">
+		ExpiresByType image/png "access plus 1 year"
+	</FilesMatch>
+	<FilesMatch "icons\\.png$">
+		ExpiresByType image/png "access plus 1 year"
+	</FilesMatch>
+	<FilesMatch "icons_s6\\.png$">
+		ExpiresByType image/png "access plus 1 year"
+	</FilesMatch>
+	<FilesMatch "logos_s6\\.png$">
+		ExpiresByType image/png "access plus 1 year"
+	</FilesMatch>
+	<FilesMatch "mobile\\.png$">
+		ExpiresByType image/png "access plus 1 year"
+	</FilesMatch>
+	<FilesMatch "phone\\.png$">
+		ExpiresByType image/png "access plus 1 year"
+	</FilesMatch>
+	<FilesMatch "productlabel_icons\\.png$">
+		ExpiresByType image/png "access plus 1 year"
+	</FilesMatch>
+	<FilesMatch "qty\\.png$">
+		ExpiresByType image/png "access plus 1 year"
+	</FilesMatch>
+</IfModule>
+
+#1 Tag = 86400
+#1 Woche = 604800
+#1 Monat = 2592000
+#1 Jahr = 31536000
+<IfModule mod_headers.c>
+	Header set Connection keep-alive
+	<filesmatch "\.(jpg|jpeg|png|gif)$">
+		Header set Cache-Control "max-age=86400, public"
+	</filesmatch>
+	<filesmatch "\.(eot|woff|otf|ttf|svg)$">
+		Header set Cache-Control "max-age=31536000, public"
+	</filesmatch>
+	# css and js should use private for proxy caching https://developers.google.com/speed/docs/best-practices/caching#LeverageProxyCaching
+	<filesmatch "\.(css)$">
+		Header set Cache-Control "max-age=2592000, private"
+	</filesmatch>
+	<filesmatch "em_productlabels\\.css$">
+		Header set Cache-Control "max-age=31536000, private"
+	</filesmatch>
+	<filesmatch "jquery-ui.min\\.css$">
+		Header set Cache-Control "max-age=31536000, private"
+	</filesmatch>
+	<filesmatch "jquery.fancybox\\.css$">
+		Header set Cache-Control "max-age=31536000, private"
+	</filesmatch>
+	<filesmatch "print\\.css$">
+		Header set Cache-Control "max-age=31536000, private"
+	</filesmatch>
+	<filesmatch "\.(js)$">
+		Header set Cache-Control "max-age=31536000, private"
+	</filesmatch>
+	<filesmatch "customerfuncs\\.js$">
+		Header set Cache-Control "max-age=604800, private"
+	</filesmatch>
+	<filesmatch "shopengine\\.js$">
+		Header set Cache-Control "max-age=604800, private"
+	</filesmatch>
+	<filesMatch "\.(x?html?|php)$">
+		Header set Cache-Control "max-age=600, private, must-revalidate"
+	</filesMatch>
+	<FilesMatch "blank\\.gif$">
+		Header set Cache-Control "max-age=31536000, public"
+	</FilesMatch>
+	<FilesMatch "icon-nav\\.gif$">
+		Header set Cache-Control "max-age=31536000, public"
+	</FilesMatch>
+	<FilesMatch "loading\\.gif$">
+		Header set Cache-Control "max-age=31536000, public"
+	</FilesMatch>
+	<FilesMatch "fax\\.png$">
+		Header set Cache-Control "max-age=31536000, public"
+	</FilesMatch>
+	<FilesMatch "gs_icons\\.png$">
+		Header set Cache-Control "max-age=31536000, public"
+	</FilesMatch>
+	<FilesMatch "i_email\\.png$">
+		Header set Cache-Control "max-age=31536000, public"
+	</FilesMatch>
+	<FilesMatch "icon-nav\\.png$">
+		Header set Cache-Control "max-age=31536000, public"
+	</FilesMatch>
+	<FilesMatch "icons\\.png$">
+		Header set Cache-Control "max-age=31536000, public"
+	</FilesMatch>
+	<FilesMatch "icons_s6\\.png$">
+		Header set Cache-Control "max-age=31536000, public"
+	</FilesMatch>
+	<FilesMatch "logos_s6\\.png$">
+		Header set Cache-Control "max-age=31536000, public"
+	</FilesMatch>
+	<FilesMatch "mobile\\.png$">
+		Header set Cache-Control "max-age=31536000, public"
+	</FilesMatch>
+	<FilesMatch "phone\\.png$">
+		Header set Cache-Control "max-age=31536000, public"
+	</FilesMatch>
+	<FilesMatch "productlabel_icons\\.png$">
+		Header set Cache-Control "max-age=31536000, public"
+	</FilesMatch>
+	<FilesMatch "qty\\.png$">
+		Header set Cache-Control "max-age=31536000, public"
+	</FilesMatch>
+</IfModule>
+#End Browser-Caching
+
+#BEGIN Gzip-Komprimierung
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html text/xml text/css text/plain application/json
+AddOutputFilterByType DEFLATE image/svg+xml application/xhtml+xml application/xml
+AddOutputFilterByType DEFLATE application/rdf+xml application/rss+xml application/atom+xml
+AddOutputFilterByType DEFLATE text/javascript application/javascript application/x-javascript
+AddOutputFilterByType DEFLATE application/x-font-ttf application/x-font-otf
+AddOutputFilterByType DEFLATE font/truetype font/opentype
+</IfModule>
+#END Gzip-Komprimierung

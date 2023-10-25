@@ -1,0 +1,299 @@
+<div class="col-2 registered-users">
+    <div class="box">
+		<ul class="form-list">
+			<li>
+				<label for="userid" class="required"><em>*</em>{GSSE_LANG_LangTagTextUser}</label>
+				<div class="input-box">
+					<input name="userid" value="" id="userid" class="input-text required-entry validate-email" title="{GSSE_LANG_LangTagTextUser}" type="text">
+				</div>
+			</li>
+			<li>
+				<label for="password" class="required"><em>*</em>{GSSE_LANG_LangTagTextPassword}</label>
+				<div class="input-box">
+					<input name="password" class="input-text required-entry validate-password" id="password" title="{GSSE_LANG_LangTagTextPassword}" type="password">
+				</div>
+			</li>
+		</ul>
+	</div>
+	<div class="buttons-set">
+        <button type="submit" class="button" title="{GSSE_LANG_LangTagTextLogin}" name="send" id="send2" onclick="chkcustomerlogin(document.getElementById('userid').value, document.getElementById('password').value);">
+		<span><span>{GSSE_LANG_LangTagTextLogin}</span></span>
+		</button>
+		<a onclick="document.getElementById('passw_forgot').style.display='';return false;" href="" id="pv"  class="f-left">{GSSE_LANG_LangTagResendPasswdCustomer}</a>
+    </div>
+	<br /><br />
+	<div class="widget widget-static-block" id="passw_forgot" style="display:none";>
+		<h1>{GSSE_LANG_LangTagResendPasswdCustomer}</h1>
+		<div class="box">
+			<h3>{GSSE_LANG_LangTagResentCPasswd}</h3>
+			{GSSE_LANG_LangTagResendPasswMailText1}
+			<ul class="form-list">
+				<li>
+					<label for="email_address" class="required"><em>*</em>{GSSE_LANG_LangTagFieldEmail}</label>
+					<div class="input-box">
+						<input name="email" alt="email" id="user_mail" class="input-text required-entry validate-email" value="" type="text">
+					</div>
+				</li>
+			</ul>
+			<div class="buttons-set">
+				<button type="submit" title="Submit" class="button" id="pvb" onclick="resend_pwd();">
+					<span><span>{GSSE_LANG_LangTagSubmit}</span></span>
+				</button>
+                <div id="fd_msg" class="err_box no-display"></div>
+			</div>
+		</div>
+	</div>
+
+	<div class="account-create">
+		<h2>{GSSE_LANG_LangTagCreateCustomer}</h2>
+		<p>{GSSE_LANG_LangTagCreateCustomerText}</p>
+		<form name="orderform" id="customer-registry" method="post" action="index.php?page=savecustomer" >
+			<input type="hidden" name="shopname" value="{GSSE_TXDB_setting|SettingValue|SettingName|edShopName_Text}" />
+			<input type="hidden" name="recipient" value="{GSSE_TXDB_setting|SettingValue|SettingName|edShopEmail_Text}" />
+			<input type="hidden" name="dear" value="{GSSE_LANG_LangTagDear}" />
+			<input type="hidden" name="logindata_email_text1" value="{GSSE_TXDB_contentpool|Text|Name|LoginDataEmailText1}" />
+			<input type="hidden" name="logindata_email_text2" value="{GSSE_TXDB_contentpool|Text|Name|LoginDataEmailText2}" />
+			<input type="hidden" name="user" value="{GSSE_LANG_LangTagTextUser}" />
+			<input type="hidden" name="password" value="{GSSE_LANG_LangTagTextPassword}" />
+		<div class="box">
+			<!-- <div class="zeile"> -->
+			<div class="zeile">
+				<div class='zl'>
+				<h2>{GSSE_LANG_LangTagBillingAddress}</h2>
+				<ul class="form-list">
+					<li>
+						<label for="_LANGTAGFNFIELDCOMPANYORPRIVATE_" class="required"><em>*</em>{GSSE_LANG_LangTagTextPleaseChoose}</label>
+						<div class="input-box">
+							<select name="_LANGTAGFNFIELDCOMPANYORPRIVATE_" id="_LANGTAGFNFIELDCOMPANYORPRIVATE_" class="cusCountry" onchange="set_compopriv_style(this.options.selectedIndex)">
+							<option value="privat">{GSSE_LANG_LangTagBuy2InputLabelPrivat}</option>
+							<option value="firma">{GSSE_LANG_LangTagBuy2InputLabelBusiness}</option>
+							</select>
+						</div>
+					</li>
+					<div id="fd_company" style="display:none">
+					<li>
+						<label  class="required"><em>*</em>{GSSE_LANG_LangTagBuy2InputLabelBusiness}</label>
+						<div class="input-box">
+							<input name="cusFirmname" class="input-text required-entry" id="cusFirmname" title="{GSSE_LANG_LangTagTextPassword}" type="text">
+						</div>
+					</li>
+					</div>
+					<div id="fd_vatid" style="display:none">
+					<li>
+						<label>{GSSE_LANG_LangTagFieldFirmVATId}</label>
+						<div class="input-box">
+							<input name="cusFirmVATId" class="input-text" id="cusFirmVATId" title="{GSSE_LANG_LangTagFieldFirmVATId}" type="text">
+						</div>
+					</li>
+					</div>
+					
+					<li class="fields">
+						<label class="required" for="{GSSE_LANG_LangTagFNFieldFormToAddress}"><em>*</em>{GSSE_LANG_LangTagFieldFormToAddress}</label>
+						<div class="input-box">
+							<select name="cusTitle" id="cusTitle" class="required-entry">
+							<option value="" selected>{GSSE_LANG_LangTagTextPleaseChoose}!</option>
+							<option value="Herr">{GSSE_LANG_LangTagMr}</option>
+							<option value="Frau">{GSSE_LANG_LangTagMrs}</option>
+							</select>
+						</div>
+					</li>
+					<li>
+						<label class="required"><em>*</em>{GSSE_LANG_LangTag__FieldFirstName}</label>
+						<div class="input-box">
+							<input type="text" name="cusFirstName"  class="input-text required-entry" title="{GSSE_LANG_LangTag__FieldFirstName}"/>
+						</div>
+					</li>
+					<li>
+						<label class="required"><em>*</em>{GSSE_LANG_LangTag__FieldLastName}</label>
+						<div class="input-box">
+							<input type="text" name="cusLastName"  class="input-text required-entry" title="{GSSE_LANG_LangTag__FieldLastName}"/>
+						</div>
+					</li>
+					<li>
+						<label class="required"><em>*</em>{GSSE_LANG_LangTagFieldAddress}</label>
+						<div class="input-box">
+							<input type="text" name="cusStreet"  class="input-text required-entry" title="{GSSE_LANG_LangTagFieldAddress}"/>
+						</div>
+					</li>
+					<li>
+						<label>{GSSE_LANG_LangTagFieldAddress2}</label>
+						<div class="input-box">
+							<input type="text" name="cusStreet2"  class="input-text" />
+						</div>
+					</li>
+					<li>
+						<label class="required"><em>*</em>{GSSE_LANG_LangTagFieldCity}</label>
+						<div class="input-box">
+							<input type="text" name="cusCity" id="cusCity" class="input-text required-entry" />
+						</div>
+					</li>
+					<li>
+						<label class="required"><em>*</em>{GSSE_LANG_LangTagFieldZipCode}</label>
+						<div class="input-box">
+							<input type="text" name="cusZipCode" id="cusZipCode" class="input-text required-entry" />
+						</div>
+					</li>
+					<li>
+						<label>{GSSE_LANG_LangTagFNFieldState}</label>
+						<div class="input-box">
+							<select name="cusCountry" class="required-entry" >
+							<option value="" selected>{GSSE_LANG_LangTagTextPleaseChoose}!</option>
+							{GSSE_FUNC_COUNTRY}
+							</select>
+						</div>
+					</li>
+					<li>
+						<label class="required"><em>*</em>{GSSE_LANG_LangTagEmail}</label>
+						<div class="input-box">
+							<input type="text" name="cusEMail"  class="input-text required-entry validate-email" />
+						</div>
+					</li>
+					<li>
+						<label class="required">{GSSE_IF_PHONE}<em>*</em>{GSSE_ENDIF_PHONE}{GSSE_LANG_LangTagFieldPhone}</label>
+						<div class="input-box">
+							<input type="text" name="cusPhone"  class="input-text {GSSE_IF_PHONE}required-entry{GSSE_ENDIF_PHONE}" />
+						</div>
+					</li>
+					<li>
+						<label>{GSSE_LANG_LangTagFNFieldFax}</label>
+						<div class="input-box">
+							<input type="text" name="cusFax"  class="input-text" />
+						</div>
+					</li>
+					<li>
+						<label>{GSSE_LANG_LangTagFieldMobil}</label>
+						<div class="input-box">
+							<input type="text" name="cusMobil" class="input-text" />
+						</div>
+					</li>
+					<li>
+						<label class="required">{GSSE_IF_BIRTHDATE}<em>*</em>{GSSE_ENDIF_BIRTHDATE}{GSSE_LANG_LangTagFNFieldGeburtsdatum}</label>
+						<div class="input-box">
+							<input type="text" name="cusBirthdate" class="input-text" id="cusBirthdate" />
+						</div>
+					</li>
+					<li>
+						<label>{GSSE_LANG_LangTagFieldEmailFormat}</label>
+						<div class="input-box">
+							<select name="cusEMailFormat">
+								<option value="html" selected>HTML</option>
+								<option value="text">{GSSE_LANG_LangTagEmailFormatText}</option>
+							</select>
+						</div>
+					</li>
+				</ul>
+				</div>
+				<div class='zl'>
+				<h2>{GSSE_LANG_LangTagShippingAddress}</h2>
+				<ul class="form-list">
+					<li>
+						<label>{GSSE_LANG_LangTagFieldCompany}</label>
+						<div class="input-box">
+							<input type="text" name="cusDeliverFirmname"  class="input-text" />
+						</div>
+					</li>
+					<li>
+						<label>{GSSE_LANG_LangTagFieldFormToAddress}</label>
+						<div class="input-box">
+						<select name="cusDeliverTitle" class="cusCountry">
+							<option selected>{GSSE_LANG_LangTagTextPleaseChoose}!</option>
+							<option value="Herr">{GSSE_LANG_LangTagMr}</option>
+							<option value="Frau">{GSSE_LANG_LangTagMrs}</option>
+						</select>
+						</div>
+					</li>
+					<li>
+						<label>{GSSE_LANG_LangTag__FieldFirstName}</label>
+						<div class="input-box">
+							<input type="text" name="cusDeliverFirstName"  class="input-text" />
+						</div>
+					</li>
+					<li>
+						<label>{GSSE_LANG_LangTag__FieldLastName}</label>
+						<div class="input-box">
+							<input type="text" name="cusDeliverLastName"  class="input-text" />
+						</div>
+					</li>
+					<li>
+						<label>{GSSE_LANG_LangTagFieldAddress}</label>
+						<div class="input-box">
+							<input type="text" name="cusDeliverStreet"  class="input-text" />
+						</div>
+					</li>
+					<li>
+						<label>{GSSE_LANG_LangTagFieldAddress2}</label>
+						<div class="input-box">
+							<input type="text" name="cusDeliverStreet2"  class="input-text" />
+						</div>
+					</li>
+					<li>
+						<label>{GSSE_LANG_LangTagFieldCity}</label>
+						<div class="input-box">
+							<input type="text" name="cusDeliverCity"  class="input-text" />
+						</div>
+					</li>
+					<li>
+						<label>{GSSE_LANG_LangTagFieldZipCode}</label>
+						<div class="input-box">
+							<input type="text" name="cusDeliverZipCode" class="input-text" />
+						</div>
+					</li>
+					<li>&nbsp;</li>
+					<li>
+						<h2>{GSSE_LANG_LangTagAccountData}</h2>
+					</li>
+					<li>
+						<label>{GSSE_LANG_LangTagFinancialInstitution}</label>
+						<div class="input-box">
+							<input type="text" name="cusBank" class="input-text" />
+						</div>
+					</li>
+					<li>
+						<label>{GSSE_LANG_LangTag__BankCodeNumber}</label>
+						<div class="input-box">
+							<input type="text" name="cusBLZ" class="input-text" />
+						</div>
+					</li>
+					<li>
+						<label>{GSSE_LANG_LangTag__AccountNumber}</label>
+						<div class="input-box">
+							<input type="text" name="cusAccountNo" class="input-text" />
+						</div>
+					</li>
+					<li>
+						<label>{GSSE_LANG_LangTag__AccountHolder}</label>
+						<div class="input-box">
+							<input type="text" name="cusAccountOwner" class="input-text" />
+						</div>
+					</li>
+				</ul>
+				</div>
+			</div>
+			<div class="zeile1">
+				<div class="zl">
+					<div class="buttons-set">
+						<button type="submit" onclick="validFormAddress();" class="button validation-passed" title="{GSSE_LANG_LangTagSave}" name="button2" id="send2">
+						<span><span>{GSSE_LANG_LangTagSave}</span></span>
+						</button>
+					</div>
+				</div>
+			</div>
+		</div>
+			<input type="hidden" name="userdata" value="Benutzerdaten" />
+			<input type="hidden" name="cusPassword" value="cusPassword" />
+		</form>
+	</div>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+	function validFormAddress() {
+		var valid = new Validation('customer-registry');
+		var result = valid.validate();
+		if(result == true)
+		{
+			document.orderform.submit();
+		}
+	};
+//]]>
+</script>

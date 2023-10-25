@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}session 
+ (
+	sessIdNo int(11) unsigned NOT NULL auto_increment,
+	sessId varchar(255) {gssb_charset} NOT NULL default '',
+	sessUserIdNo int(11) NOT NULL default '0',
+	sessCustomerIdNo int(11) NOT NULL default '0',
+	sessUserLogin varchar(32) {gssb_charset} NOT NULL default '',
+	sessLanguageIdNo varchar(5) {gssb_charset} NOT NULL default 'deu',
+	sessLastAccess timestamp NOT NULL,
+	PRIMARY KEY  (sessIdNo)
+) {gssb_charset};

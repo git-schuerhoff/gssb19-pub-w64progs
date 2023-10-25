@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}black_email_list (
+  `blackType` tinyint(3) unsigned NOT NULL default 0,
+  `blackValues` varchar(255) {gssb_charset} NOT NULL default ''
+) {gssb_charset};

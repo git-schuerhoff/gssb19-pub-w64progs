@@ -1,0 +1,8 @@
+INSERT INTO {dsbxx_}customlabels (`languageid`, `langtag`, `customlabel`) VALUES 
+	('deu', 'LangTagLabelSale', 'Sale'),
+	('deu', 'LangTagLabelBest', 'Best'),
+	('deu', 'LangTagLabelNew', 'Neu'),
+	('deu', 'LangTagTextViewBasket', 'Warenkorb anzeigen'),
+	('deu', 'LangTagOrder', 'Zur Kasse'),
+	('deu', 'LangTagLastViewedItem', 'Angesehene Artikel'),
+	('deu', 'LangTagFAQs', "FAQ's");

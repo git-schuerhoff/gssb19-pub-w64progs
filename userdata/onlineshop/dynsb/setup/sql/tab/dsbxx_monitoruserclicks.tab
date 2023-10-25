@@ -1,0 +1,10 @@
+CREATE TABLE IF NOT EXISTS  {dsbxx_}monitoruserclicks (
+  `moucIdNo` int(10) unsigned NOT NULL auto_increment,
+  `moucCountClicks` int(10) unsigned NOT NULL default '0',
+  `moucOrdSubmitted` CHAR(1) NOT NULL default 'N',
+  `moucDatetimeFirst` timestamp NOT NULL default CURRENT_TIMESTAMP COMMENT 'First visit',
+  `moucDatetimeLast` varchar(45) {gssb_charset} NOT NULL default '' COMMENT 'Last visit',
+  `moucSessionid` varchar(64) {gssb_charset} NOT NULL default '',
+  PRIMARY KEY  (`moucIdNo`),
+  KEY `index_2` (`moucSessionid`)
+) {gssb_charset};

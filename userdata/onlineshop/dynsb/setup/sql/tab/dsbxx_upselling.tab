@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}upselling (
+	`upsUpsellingId` int(10) unsigned NOT NULL default '0',
+	`upsObjectCount` int(10) unsigned NOT NULL default '0',
+	`upsUpsellingObjectCount` int(10) unsigned NOT NULL default '0',
+	`upsTitle` varchar(255) {gssb_charset} NOT NULL default '',
+	`upsDescription` text {gssb_charset}
+) {gssb_charset};

@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+<head>
+	{GSSE_INCL_META}
+	<title>{GSSE_INCL_HTMLTITLE}</title>
+	<link rel="stylesheet" type="text/css" href="template/css/menu.css" media="all" /><!--!!!-->
+	<link rel="stylesheet" type="text/css" href="template/css/jquery.fancybox.css" media="all" /><!--!!!-->
+	<link rel="stylesheet" type="text/css" href="template/css/em_productlabels.css" media="all" /><!--!!!-->
+	<link rel="stylesheet" type="text/css" href="template/css/print.css" media="print" /><!--!!!-->
+	<link rel="stylesheet" type="text/css" href="template/css/layout.css" media="all" /><!--!!!-->
+	<link rel="stylesheet" type="text/css" href="template/css/colors.css" media="all" /><!--!!!-->
+	<link rel="stylesheet" type="text/css" href="template/css/jquery-ui.min.css" media="all" /><!--!!!-->
+	<!--Platz fuer globale JavaScript-Variablen-->
+	<script type="text/javascript" src="js/preloading.js.php" charset="utf-8"></script>
+		
+	<script type="text/javascript" charset="UTF-8">
+		var ADAPT_CONFIG = {
+			path: "template/css/",
+			dynamic: true,
+			range: [
+			'0px    to 768px  = mobile.css',
+			'768px  to 960px  = 768-mobile.css',
+			'960px  to 1200px = 960.css',
+			'1200px to 1440px = 1200.css',
+			'1440px to 1680px = 1440.css',
+			'1680px to 1920px = 1680.css',
+			'1920px to 2560px = 1920.css',
+			'2560px to 2880px = 2560.css',
+			'2880px to 5120px = 2880.css',
+			'5120px to 99999px = 5120.css'
+			]
+		};
+	</script>
+	<script type="text/javascript" charset="UTF-8">
+		//<![CDATA[   
+		var isMobile = /iPhone|iPod|iPad|Phone|Mobile|Android|hpwos/i.test(navigator.userAgent);
+		var isPhone = /iPhone|iPod|Phone|Android/i.test(navigator.userAgent);
+		var product_zoom = null;
+		var urlsite = '';
+		var AJAXCART_AUTOCLOSE = 5;
+		var FREEZED_TOP_MENU = 0;
+		var boxwide_v = 'wide';
+		console.log(navigator.userAgent);
+		//]]>
+	</script>
+	
+	<script type="text/javascript" src="js/jquery-3.1.1.min.js" charset="utf-8"></script>
+	<script type="text/javascript" src="js/shopengine.js" charset="utf-8"></script>
+	<script type="text/javascript" src="js/prototype.js" charset="utf-8"></script><!--!!!-->
+	<script type="text/javascript" src="js/validation.js" charset="utf-8"></script><!--!!!-->
+	<script type="text/javascript" src="js/js.js" charset="utf-8"></script><!--!!!-->
+	
+	<script type="text/javascript">
+		jQuery(function($) {
+			if(isMobile == true){
+				$('#top_cart').attr('href','javascript:void(0)');
+				$("#top_cart").click(
+					function( event ){
+						$('#block-cart').slideToggle();
+						$('#top-links').slideUp();
+					}
+				);
+			}else{
+				$('#top_cart')
+				.bind('mouseover', showmenu)
+				.bind('click', showmenu)
+				.bind('mouseout', hidemenu);
+				$('#block-cart')
+				.bind('mouseover', showmenu)
+				.bind('click', hidemenu)
+				.bind('mouseout', hidemenu);
+			}
+			var timeout = null;
+			function hidemenu() {
+				if (timeout)
+					clearTimeout(timeout);
+				timeout = setTimeout(function() {
+					timeout = null;
+					$('#block-cart').slideUp();
+					$('#top_cart').removeClass('over');
+				}, 200);
+			}
+			function showmenu() {
+				if (timeout)
+					clearTimeout(timeout);
+				timeout = setTimeout(function() {
+					timeout = null;
+					$('#block-cart').slideDown();
+					$('#top_cart').addClass('over');
+				}, 200);
+			}
+		});
+	</script>
+</head>

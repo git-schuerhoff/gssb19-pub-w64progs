@@ -1,0 +1,2 @@
+INSERT INTO {dsbxx_}newsticker VALUES 
+	(1,'Willkommen in unserem Demoshop! Bitte beachten Sie auch unsere neuen Angebote bei den <a href=\"index.php?page=productgroup&idx=158&childs=0&start=0\">Standardfliegern</a>. Unsere neuen Modelle werden sicherlich auch Sie begeistern. Also bitte kaufen Sie solange der Vorrat reicht. Greifen Sie zu...',2,'0','20041213204813',1,'mod.news.ticker.save.php','1');

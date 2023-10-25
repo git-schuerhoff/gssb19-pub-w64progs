@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS `{dsbxx_}addressarea` (
+  `AreaId` int(11) NOT NULL DEFAULT '0',
+  `CountryId` char(3) {gssb_charset} NOT NULL,
+  `LanguageId` char(3) {gssb_charset} NOT NULL,
+  `Text` varchar(255) {gssb_charset} NOT NULL,
+  `OtherId` int(11) NOT NULL DEFAULT '0',
+  `WithVat` CHAR(1) NOT NULL DEFAULT 'N',
+  KEY `AreaId` (`AreaId`),
+  KEY `CountryId` (`CountryId`),
+  KEY `LanguageId` (`LanguageId`)
+) {gssb_charset};

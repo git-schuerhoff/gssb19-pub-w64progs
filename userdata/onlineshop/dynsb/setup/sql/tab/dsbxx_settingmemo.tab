@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS `{dsbxx_}settingmemo` (
+  `LanguageId` char(3) {gssb_charset} NOT NULL,
+  `CountryId` char(3) {gssb_charset} NOT NULL,
+  `SettingName` char(64) {gssb_charset} NOT NULL,
+  `SettingMemo` text {gssb_charset} NOT NULL,
+  KEY `LanguageId` (`LanguageId`,`CountryId`,`SettingName`)
+) {gssb_charset};

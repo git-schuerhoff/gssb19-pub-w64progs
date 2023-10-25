@@ -1,0 +1,138 @@
+<!-- Don't remove these lines!!!-->
+<!-- Diese Zeilen nicht entfernen!!!-->
+{GSSE_JSCR_accordion.js}
+{GSSE_JSCR_opcheckout.js}
+{GSSE_JSCR_iban.js}
+<script src="https://www.paypalobjects.com/webstatic/ppplus/ppplus.min.js" type="text/javascript"></script>
+<!-- End -->
+<body>
+<div id="buy_wrapper" class="wrapper ">
+	<noscript>
+		<div class="global-site-notice noscript">
+			<div class="notice-inner">
+				<p>
+					<strong>{GSSE_LANG_LangTagPleaseActivateJavascript}</strong>
+				</p>
+			</div>
+		</div>
+	</noscript>
+	<div class="page one-column">
+		<div class="bkg_header_top">
+			<div class="container_24 container_header_top">
+				<div class="grid_24">
+					<div class="header_top">
+						<div class="grid_24 omega">
+							{GSSE_FUNC_SHOPINFO}
+							{GSSE_FUNC_SHOPMENU}
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="bkg_header_top cust_menu">
+			<div class="container_24 container_header_top cust_menu">
+				<div class="grid_24">
+					<div class="header_top" id="cust_menu">
+						{GSSE_FUNC_CUSMENU}
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="bkg_header_bottom">
+			<div class="container_24 container_header">
+				<div class="grid_24">
+					<div class="header-container">
+						{GSSE_FUNC_CONTHEADER}
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="main-container">
+			<div class="container_24 ">
+				<div class="grid_24 col-main">
+					<!--Begin Top Selling Brands-->
+					<!--End Top Selling Brands-->
+					<div class="widget widget-static-block ">
+						<div id="checkoutcard" class="widget widget-static-block ">
+                        </div>
+					</div>
+					<!--Begin ProductSlider-->
+					<!--Begin ProductSliderHeader-->
+				</div>
+				<div class="clear"></div>
+				<!--Begin Homeads2-->
+				<!--End Homeads2-->
+				<!--Begin MoreWayToShopping-->
+				<!--End MoreWayToShopping-->
+				<!--Begin Specials-->
+				<!--End Specials--> 
+				<!--Begin Homeads3-->
+				<!--End Homeads3-->
+				<!--Begin Social-->
+				{GSSE_FUNC_SOCIALNETWORKS}
+				<!--End Social-->
+				<!--Begin Footer inline Block-->
+				{GSSE_FUNC_FOOTER}
+				<!--End Footer inline Block-->
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="bkg_footer_bottom">
+			<div class="container_24 container_footer">
+				<div class="grid_14">
+					<div class="footer-container">
+						<div class="footer">
+							<address>
+								<span>{GSSE_TXDB_contentpool|Text|Name|ShopFootNote}&nbsp;{GSSE_TXDB_contentpool|Text|Name|FootNote}</span>
+							</address>
+						</div>
+					</div>
+					<p style="display: none;" id="back-top">
+						<a title="Back To Top" href="#top">Back to Top</a>
+					</p>
+				</div>
+				<div class="grid_10">
+					{GSSE_FUNC_SHIPMPAYM}
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="">
+			<div id="containerDiv" style="display: none;">
+				<div class="ajaxcart">
+					<img class="ajax_loading" id="ajax_loading" src="{GSSE_SURL_}template/images/loading.gif" alt="">
+					<div id="ajax_content" style="display:none">
+						<div class="ajaxcart_row1 row1">
+							<div id="ajax_image"></div>
+						</div>
+						<div class="row2">
+							<a href="javascript:void(0);" id="closeLink" class="back"><span>Not Now</span><span class="emajc_num"></span></a>
+							<a id="viewcart_button" href="javascript:void(0);" class="next" onclick="ajaxaddnext();"><span>Add to Cart</span></a>
+							<a id="ajc_btn_checkout" class="next" href="#"><span>View cart &amp; checkout</span></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--Begin Most Popular Keywords-->
+	<!--End Most Popular Keywords-->
+</div>
+<div id="bg_fade"></div>
+<div id="sb_busy_screen" class="no-display" style="height: 100%;">
+</div>
+<div id="sb_busy_screen_inner" class="no-display">
+	<img style="margin: 0 auto;" src="{GSSE_SURL_}template/images/loading.gif" alt="In Arbeit" title="In Arbeit" />
+</div>
+<script type="text/javascript">
+//<![CDATA[
+    processCheckout(1);
+//]]>
+</script>
+</body>
+</html>

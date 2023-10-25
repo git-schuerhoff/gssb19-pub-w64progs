@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}items2group (
+	ID int(11) NOT NULL AUTO_INCREMENT,
+	ProductGroup int(11) NOT NULL DEFAULT '0',
+	ItemID int(11) NOT NULL DEFAULT '0',
+	OrderIDX int(11) NOT NULL DEFAULT '0',
+	PRIMARY KEY (ID),
+	KEY ProductGroup (ProductGroup),
+	KEY OrderIDX (OrderIDX),
+	KEY ItemID (ItemID),
+	KEY OrderItem (OrderIDX,ItemID)
+) AUTO_INCREMENT=1 {gssb_charset};

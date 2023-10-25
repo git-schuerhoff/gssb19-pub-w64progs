@@ -1,0 +1,12 @@
+Template Planets
+================
+
+The new template-series "Planets" expands our range of fancy templates
+for GS ShopBuilder once again with another pretty template.
+
+A special highlight is the one row header, which integrates
+the shop-logo, the fulltextsearch, the minibasket and the mainmenu
+in one line.
+
+The fulltextsearch and the login-prompt smoothly scroll out of the
+header row, when the icon or the text were clicked.

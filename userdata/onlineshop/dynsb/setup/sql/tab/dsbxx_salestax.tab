@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS `{dsbxx_}salestax` (
+  `CountryId` char(3) {gssb_charset} NOT NULL,
+  `SalesTaxNo` int(11) NOT NULL DEFAULT '0',
+  `TaxCodeId2eWWS` varchar(50) {gssb_charset} NOT NULL,
+  `VATRate` decimal(6,2) NOT NULL DEFAULT '0.00',
+  KEY `CountryId` (`CountryId`)
+) {gssb_charset};

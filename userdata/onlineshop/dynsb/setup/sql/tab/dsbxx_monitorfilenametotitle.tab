@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}monitorfilenametotitle 
+ (
+	id int(10) unsigned NOT NULL auto_increment,
+	filename varchar(255) {gssb_charset} NOT NULL default '',
+	title varchar(255) {gssb_charset} NOT NULL default '',
+	PRIMARY KEY  (id)
+ ) {gssb_charset};

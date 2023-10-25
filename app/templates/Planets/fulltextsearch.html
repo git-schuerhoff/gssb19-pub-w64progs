@@ -1,0 +1,44 @@
+<div id="search-form-full">
+	<form id="search_mini_form" action="index.php?page=shopsearch" method="post">
+		<div class="form-search">
+			<label for="search">{GSSE_LANG_LangTagExtendedSearch}:</label>
+			<div class="input_search">
+				<input autocomplete="off" id="search" name="search" value="" placeholder="{GSSE_LANG_LangTagSearchHint}" class="input-text" maxlength="128" type="text">
+				<div style="display: none;" id="search_autocomplete" class="search-autocomplete"></div>
+			</div>
+			<button type="submit" title="{GSSE_LANG_LangTagExtendedSearch}" class="button">
+				<span>
+					<span>{GSSE_LANG_LangTagExtendedSearch}</span>
+				</span>
+			</button>
+		</div>
+	</form>
+</div>
+<div id="search-form-mini">
+	<div class="form-search" id="form-search-button">
+		<button type="button" title="{GSSE_LANG_LangTagSearchToolTip}" class="button">
+			<span>
+				<span>{GSSE_LANG_LangTagExtendedSearch}</span>
+			</span>
+		</button>
+	</div>
+	<script>
+		
+		var show_hide_searchbar = function() {
+			if(jQuery('#search-form-row').hasClass('no-display')) {
+				jQuery('#search-form-row').removeClass('no-display');
+				jQuery('#search-form-row').animate({top: '50px'}, 400);
+			} else {
+				jQuery('#search-form-row').animate({top: '0'},400, function() {
+					jQuery('#search-form-row').addClass('no-display');
+				});
+			}
+			return false;
+		}
+		
+		jQuery('#form-search-button').unbind('click').bind('click', function(e) {
+			//debugger;
+			return show_hide_searchbar();
+		});
+	</script>
+</div>

@@ -1,0 +1,162 @@
+<div class="my-account">
+	<div class="col2-set order-info-box">
+		<div class="col-1">
+			<h1>{GSSE_LANG_LangTagBillingAddress}</h1>
+			<ul class="form-list">
+				<li class="fields">
+					<label for="{GSSE_LANG_LangTagFieldCustomerNR}">{GSSE_LANG_LangTagFieldCustomerNR}:</label>
+					<div class="input-box">
+						<input name="{GSSE_LANG_LangTagFieldCustomerNR}" id="{GSSE_LANG_LangTagFieldCustomerNR}" class="input-text" readonly="true" value="{GSSE_COOKIE_INP|LangTagFNFieldCustomerNR}">
+					</div>
+				</li>
+				<li class="fields">
+					<label class="required" for="{GSSE_LANG_LangTagFNFieldCompanyOrPrivate}" ><em>*</em>{GSSE_LANG_LangTagTextPleaseChoose}</label>
+					<div class="input-box">
+						<select name="{GSSE_LANG_LangTagFNFieldCompanyOrPrivate}" id="{GSSE_LANG_LangTagFNFieldCompanyOrPrivate}" class="required-entry" onchange="set_compopriv_style(this.options.selectedIndex); set_cookie(this);">
+							{GSSE_INCL_PRIVORBUSI}
+						</select>
+					</div>
+				</li>
+				<li class="fields" id="fd_company" style="display:none">
+					<label class="required" for="{GSSE_LANG_LangTagFNFieldCompany}"><em>*</em>{GSSE_LANG_LangTagBuy2InputLabelBusiness}</label>
+					<div class="input-box">
+						<input type="text" onchange="set_cookie(this)" name="{GSSE_LANG_LangTagFNFieldCompany}" class="input-text required-entry" id="{GSSE_LANG_LangTagFNFieldCompany}" title="{GSSE_LANG_LangTagTextPassword}" value="{GSSE_COOKIE_INP|LangTagFNFieldCompany}" />
+					</div>
+				</li>
+				<li id="fd_vatid" class="fields" style="display:none">
+					<label for="{GSSE_LANG_LangTagFNFieldFirmVATId}">{GSSE_LANG_LangTagFieldFirmVATId}</label>
+					<div class="input-box">
+						<input type="text" onchange="set_cookie(this)" name="{GSSE_LANG_LangTagFNFieldFirmVATId}" class="input-text" id="{GSSE_LANG_LangTagFNFieldFirmVATId}" title="{GSSE_LANG_LangTagFieldFirmVATId}" value="{GSSE_COOKIE_INP|LangTagFNFieldFirmVATId}" />
+					</div>
+				</li>
+				<li class="fields">
+					<label class="required" for="{GSSE_LANG_LangTagFNFieldFormToAddress}"><em>*</em>{GSSE_LANG_LangTagFieldFormToAddress}</label>
+					<div class="input-box">
+						<select onchange="set_cookie(this)" name="{GSSE_LANG_LangTagFNFieldFormToAddress}" id="{GSSE_LANG_LangTagFNFieldFormToAddress}" class="required-entry">
+						{GSSE_INCL_MRORMRS}
+						</select>
+					</div>
+				</li>
+				<li class="fields">
+					<label class="required" for="{GSSE_LANG_LangTagFNFieldFirstName}"><em>*</em>{GSSE_LANG_LangTag__FieldFirstName}</label>
+					<div class="input-box">
+						<input type="text" onchange="set_cookie(this)" id="{GSSE_LANG_LangTagFNFieldFirstName}" name="{GSSE_LANG_LangTagFNFieldFirstName}" class="input-text required-entry" title="{GSSE_LANG_LangTag__FieldFirstName}" value="{GSSE_COOKIE_INP|LangTagFNFieldFirstName}" />
+					</div>
+				</li>
+				<li class="fields">
+					<label class="required" for="{GSSE_LANG_LangTagFNFieldLastName}"><em>*</em>{GSSE_LANG_LangTag__FieldLastName}</label>
+					<div class="input-box">
+						<input type="text" onchange="set_cookie(this)" id="{GSSE_LANG_LangTagFNFieldLastName}" name="{GSSE_LANG_LangTagFNFieldLastName}" class="input-text required-entry" title="{GSSE_LANG_LangTag__FieldLastName}" value="{GSSE_COOKIE_INP|LangTagFNFieldLastName}" />
+					</div>
+				</li>
+				<li class="fields">
+					<label class="required" for="{GSSE_LANG_LangTagFNFieldAddress}"><em>*</em>{GSSE_LANG_LangTagFieldAddress}</label>
+					<div class="input-box">
+						<input type="text" onchange="set_cookie(this)" id="{GSSE_LANG_LangTagFNFieldAddress}" name="{GSSE_LANG_LangTagFNFieldAddress}" class="input-text required-entry" title="{GSSE_LANG_LangTagFieldAddress}" value="{GSSE_COOKIE_INP|LangTagFNFieldAddress}" kl_virtual_keyboard_secure_input="on" />
+					</div>
+				</li>
+				<li class="fields">
+					<label for="{GSSE_LANG_LangTagFNFieldAddress2}">{GSSE_LANG_LangTagFieldAddress2}</label>
+					<div class="input-box">
+						<input type="text" onchange="set_cookie(this)" name="{GSSE_LANG_LangTagFNFieldAddress2}" id="{GSSE_LANG_LangTagFNFieldAddress2}" class="input-text" value="{GSSE_COOKIE_INP|LangTagFNFieldAddress2}" />
+					</div>
+				</li>
+				<li class="fields">
+					<label class="required" for="{GSSE_LANG_LangTagFNFieldZipCode}"><em>*</em>{GSSE_LANG_LangTagFieldZipCode}</label>
+					<div class="input-box">
+						<input type="text" onchange="set_cookie(this)" name="{GSSE_LANG_LangTagFNFieldZipCode}" id="{GSSE_LANG_LangTagFNFieldZipCode}" class="input-text required-entry" value="{GSSE_COOKIE_INP|LangTagFNFieldZipCode}" />
+					</div>
+				</li>
+				<li class="fields">
+					<label class="required" for="{GSSE_LANG_LangTagFNFieldCity}"><em>*</em>{GSSE_LANG_LangTagFieldCity}</label>
+					<div class="input-box">
+						<input type="text" onchange="set_cookie(this)" name="{GSSE_LANG_LangTagFNFieldCity}" id="{GSSE_LANG_LangTagFNFieldCity}" class="input-text required-entry" value="{GSSE_COOKIE_INP|LangTagFNFieldCity}" />
+					</div>
+				</li>
+				<li class="fields">
+					<label class="required" for="{GSSE_LANG_LangTagFNFieldState}"><em>*</em>{GSSE_LANG_LangTagFNFieldState}</label>
+					<div class="input-box">
+						<select onchange="set_cookie(this)" name="{GSSE_LANG_LangTagFNFieldState}" class="cusCountry required-entry" id="{GSSE_LANG_LangTagFNFieldState}">
+							{GSSE_INCL_COUNTRYITEMS}
+						</select>
+					</div>
+				</li>
+				<li class="fields">
+					<label class="required" for="cust_email"><em>*</em>{GSSE_LANG_LangTagEmail}</label>
+					<div class="input-box">
+						<input type="email" onchange="set_cookie(this)" id="cust_email" name="cust_email" class="input-text required-entry validate-email" value="{GSSE_COOKIE_INP|cust_email}" />
+					</div>
+				</li>
+				{GSSE_INCL_EMAILRPT}
+				{GSSE_INKL_PHONEFIELD}
+				{GSSE_INKL_FAXFIELD}
+				{GSSE_INKL_MOBILFIELD}
+				{GSSE_INKL_BIRTHFIELD}
+				<li class="fields">
+					<label for="{GSSE_LANG_LangTagFNFieldEmailFormat}">{GSSE_LANG_LangTagFieldEmailFormat}<br />
+					<p>{GSSE_TXDB_contentpool|Text|Name|EmailNote}</p></label>
+					<div class="input-box">
+						<select onchange="set_cookie(this)" name="{GSSE_LANG_LangTagFNFieldEmailFormat}" id="{GSSE_LANG_LangTagFNFieldEmailFormat}">
+							<option value="html" selected>HTML</option>
+							<option value="text">{GSSE_LANG_LangTagEmailFormatText}</option>
+						</select>
+					</div>
+				</li>
+				{GSSE_INCL_ADDITIONALFIELDS}
+				{GSSE_INCL_FIELDACTIONKEY}
+				{GSSE_INKL_MESSAGEFIELD}
+			</ul>
+		</div>
+		<div class="col-2">
+			{GSSE_INCL_DELIVERYADDRESS}
+			{GSSE_INCL_DIRECTDEBIT}
+			{GSSE_INCL_CREDITCARD}
+		</div>
+	</div>
+	<div>
+		<ul class="form-list">
+			<li class="fields">
+				&nbsp;
+			</li>
+			<li class="fields">{GSSE_INCL_NEWSLETTER}</li>
+			<li class="fields">{GSSE_INCL_ACCEPTTAC}</li>
+			<li class="fields">{GSSE_INCL_ACCEPTROR}</li>
+			<li class="fields">{GSSE_INCL_ACCEPTALL}</li>
+			<li class="fields"> 
+				<input onclick="set_cookie(this)" type="checkbox" class="checkbox" name="rememberme" id="rememberme" value="2" {GSSE_COOKIE_CHK|rememberme|2} />
+				<label for="rememberme">{GSSE_LANG_LangTagTextSaveData}</label>
+			</li>
+			<!--
+			<li class="fields">{GSSE_INCL_EMAILFORMAT}</li>
+			
+			<li class="fields">
+				<p>{GSSE_TXDB_contentpool|Text|Name|EmailNote}</p>
+			</li>
+			-->
+			<li class="fields"> 
+				<div class="buttons-set">
+					<button id="gs_order_cont_button" type="button" class="button attention" title="{GSSE_LANG_LangTagOrderContinue}" value="{GSSE_LANG_LangTagOrderContinue}" onclick="checkout.setSummaryMethod();">
+						<span><span id="gs_order_cont_span">{GSSE_LANG_LangTagOrderContinue}</span></span>
+					</button>
+					<button type="button" class="button btn-continue" title="{GSSE_LANG_LangTagPaymentSelection}" value="{GSSE_LANG_LangTagPaymentSelection}" onclick="checkout.setBillingMethod();">
+						<span><span>{GSSE_LANG_LangTagPaymentSelection}</span></span>
+					</button>
+					<button type="button" class="button btn-continue" title="{GSSE_LANG_LangTagTermsAndCond}" value="{GSSE_LANG_LangTagTermsAndCond}" onclick="display();">
+						<span><span>{GSSE_LANG_LangTagTermsAndCond}</span></span>
+					</button>
+					<button type="button" class="button btn-continue" title="{GSSE_LANG_LangTagTermsAndCondWithdrawal}" value="{GSSE_LANG_LangTagTermsAndCondWithdrawal}" onclick="displayROR();">
+						<span><span>{GSSE_LANG_LangTagTermsAndCondWithdrawal}</span></span>
+					</button>
+					<span id="billing-please-wait" class="please-wait" style="display:none;">
+						<img class="v-middle" title="{GSSE_LANG_LangTagNextStep}" alt="{GSSE_LANG_LangTagNextStep}" src="template/images/opc-ajax-loader.gif"></img>
+						{GSSE_LANG_LangTagNextStep}
+					</span>
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>
+<!--A TS 29.08.2014: Formular nach aktueller Einstellung von Privat/Firma nach dem Laden der Seite umstellen-->
+<script language="javascript">
+	set_compopriv_style(document.getElementById('{GSSE_LANG_LangTagFNFieldCompanyOrPrivate}').options.selectedIndex);
+</script>

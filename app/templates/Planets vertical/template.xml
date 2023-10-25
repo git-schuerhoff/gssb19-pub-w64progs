@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+	<TemplateName>Planets vertical</TemplateName>
+	<GSSBVersion>18</GSSBVersion>
+	<GSSBEdition>All</GSSBEdition>
+	<IsResponsive>1</IsResponsive>
+	<IsHTML5>0</IsHTML5>
+	<UseCSSEditor>0</UseCSSEditor>
+	<Images>
+		<ShopLogo>
+			<UseShopLogo>1</UseShopLogo>
+			<UseUserDefDimensions>0</UseUserDefDimensions>
+			<AspectRatio>4:3</AspectRatio>
+		</ShopLogo>
+	</Images>
+	<ItemGroups>
+		<MaximumColums>5</MaximumColums>
+		<MaximumItems>15</MaximumItems>
+		<UseGroupTemplate>0</UseGroupTemplate>
+	</ItemGroups>
+	<ItemMenu>
+		<PreCalculated>1</PreCalculated>
+	</ItemMenu>
+	<ItemBasket>
+		<UseMiniBasket>0</UseMiniBasket>
+	</ItemBasket>
+	<MenuOrientation>vertical</MenuOrientation>
+	<SpecialTemplate>0</SpecialTemplate>
+	<SubTemplates>
+		<SubTemplate name="Earth">
+			<Color prior="1">blue</Color>
+			<Color prior="2">green</Color>
+		</SubTemplate>
+		<SubTemplate name="Jupiter">
+			<Color prior="1">lightblue</Color>
+			<Color prior="2">orange</Color>
+		</SubTemplate>
+		<SubTemplate name="Mars">
+			<Color prior="1">red</Color>
+			<Color prior="2">lightbrown</Color>
+		</SubTemplate>
+		<SubTemplate name="Mercury">
+			<Color prior="1">brown</Color>
+			<Color prior="2">lightbrown</Color>
+		</SubTemplate>
+		<SubTemplate name="Neptune">
+			<Color prior="1">blue</Color>
+			<Color prior="2">darkblue</Color>
+		</SubTemplate>
+		<SubTemplate name="Pluto">
+			<Color prior="1">grey</Color>
+			<Color prior="2">darkgrey</Color>
+		</SubTemplate>
+		<SubTemplate name="Pluto2">
+			<Color prior="1">grey</Color>
+			<Color prior="2">white</Color>
+		</SubTemplate>
+		<SubTemplate name="Saturn">
+			<Color prior="1">yellow</Color>
+			<Color prior="2">purple</Color>
+		</SubTemplate>
+		<SubTemplate name="Uranus">
+			<Color prior="1">blue</Color>
+			<Color prior="2">lightblue</Color>
+		</SubTemplate>
+		<SubTemplate name="Venus">
+			<Color prior="1">green</Color>
+			<Color prior="2">mint</Color>
+		</SubTemplate>
+	</SubTemplates>
+</Template>

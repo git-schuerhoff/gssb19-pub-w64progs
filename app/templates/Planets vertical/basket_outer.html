@@ -1,0 +1,63 @@
+<div class="cart">
+	<fieldset>
+		<table id="shopping-cart-table" class="data-table cart-table">
+			<colgroup>
+				<col>
+				<col width="1">
+				<col class="{GSSE_INCL_CLASSVATCOL}" width="1">
+				<col width="1">
+				<col width="1">
+				<col width="1">
+			</colgroup>
+			<thead>
+				<tr class="first last">
+					<th rowspan="1">
+						<span class="nobr">{GSSE_LANG_LangTagTextItem}</span>
+					</th>
+					<th class="a-center" colspan="1">
+						<span class="nobr">{GSSE_LANG_LangTagFieldTextUnitPrice}</span>
+					</th>
+					<th class="{GSSE_INCL_CLASSVATHEAD}" colspan="1">
+						<span class="nobr">{GSSE_INCL_VATTITLE}</span>
+					</th>
+					<th class="a-center" rowspan="1">{GSSE_LANG_LangTagFieldQuantity}</th>
+					<th class="a-center" colspan="1">{GSSE_LANG_LangTagSubTotal}</th>
+					<th class="a-center" rowspan="1"></th>
+				</tr>
+			</thead>
+			<tfoot>
+				<tr class="first last">
+					<td class="a-right last" colspan="50">
+						<button class="button btn-update" onclick="self.location.reload();" title="{GSSE_LANG_LangTagTextUpdateItem}" value="update_qty" name="update_cart_action">
+							<span>
+								<span>{GSSE_LANG_LangTagTextUpdateItem}</span>
+							</span>
+						</button>
+						<button id="empty_cart_button" onclick="new_del_from_basket(-1);" class="button btn-empty" title="{GSSE_LANG_LangTagClearBasket}" value="empty_cart" name="update_cart_action">
+							<span>
+								<span>{GSSE_LANG_LangTagClearBasket}</span>
+							</span>
+						</button>
+					</td>
+				</tr>
+			</tfoot>
+			<tbody>
+				{GSSE_INCL_BASKETITEMS}
+			</tbody>
+		</table>
+		<script type="text/javascript">
+			decorateTable('shopping-cart-table')
+		</script>
+	</fieldset>
+	<div class="cart-collaterals">
+		<div class="col2-set">
+			<div class="col-1">
+				{GSSE_INCL_COUPON}
+			</div>
+			<div class="col-2">
+			</div>
+		</div>
+		{GSSE_INCL_BASKETTOTALS}
+		<div class="clear"></div>
+	</div>
+</div>

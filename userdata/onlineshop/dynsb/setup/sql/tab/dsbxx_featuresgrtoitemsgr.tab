@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}featuresgrtoitemsgr
+(
+	id integer NOT NULL AUTO_INCREMENT,
+	langid varchar(3) NOT NULL DEFAULT 'deu',
+	featuresgroupid integer NOT NULL,
+	itemsgroupid integer NOT NULL,
+	PRIMARY KEY (id)
+);

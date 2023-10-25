@@ -1,0 +1,146 @@
+<!-- Don't remove these lines!!!-->
+<!-- Diese Zeilen nicht entfernen!!!-->
+{GSSE_JSCR_customerfuncs.js}
+<!-- End -->
+<body>
+<div class="wrapper ">
+	<noscript>
+		<div class="global-site-notice noscript">
+			<div class="notice-inner">
+				<p>
+					<strong>{GSSE_LANG_LangTagPleaseActivateJavascript}</strong>
+				</p>
+			</div>
+		</div>
+	</noscript>
+	<div class="page one-column">
+		<div class="main-container">
+			<div class="container_24 ">
+				<div class="clear"></div>
+				<div class="grid_24 col-main">
+					<div class="std"><div>&nbsp;&nbsp;</div></div>
+					<h1>{GSSE_LANG_LangTagInquiry}</h1>
+					<div class="box">
+						<p>{GSSE_LANG_LangTagQuestionsAbout}?</p>
+						<p>
+							<img src="images/small/{GSSE_INCL_ITEMIMG}" alt="{GSSE_INCL_ITEMNAME}" />
+							<b>{GSSE_INCL_ITEMNAME}</b><br />
+						</p>
+						<input type="hidden" id="msg1" VALUE="{GSSE_LANG_LangTagErrorFroms}" />
+						<input type="hidden" id="msg2" VALUE="{GSSE_LANG_LangTagErrorSendMail}" />
+						<input type="hidden" id="msg3" VALUE="{GSSE_LANG_LangTagThankSendMail}" />
+						<input type="hidden" name="tellhello" id="tellhello" value="{GSSE_LANG_LangTagGreetingInquiry}" />
+						<input type="hidden" name="productlink" id="productlink" VALUE="{GSSE_INCL_ITEMLNK}" />
+						<input type="hidden" name="tell" id="tell" value="{GSSE_TXDB_contentpool|Text|Name|AnswerTextTellAFriend}" />
+						<input type="hidden" name="shortn" id="shortn" value="{GSSE_INCL_ITEMNAMEESC}" />
+						<input type="hidden" name="recipient" id="recipient" class="input" value="{GSSE_INCL_RECEMAIL}" />
+						<input type="hidden" name="greeting" id="greeting" class="input" value="{GSSE_LANG_LangTagGreetingsInquiry}" />
+						<input type="hidden" name="subject" id="subject" class="input" value="{GSSE_LANG_LangTagDefaultAnswerSubjectRequiry}" />
+						<ul class="form-list">
+							<li>
+								{GSSE_LANG_LangTagInquiryFields}:
+							</li>
+							<li>
+								{GSSE_LANG_LangTagQuestRelatedTo}:
+							</li>
+							<li>
+								<label>{GSSE_LANG_LangTagCBQuantity}:</label>
+								<div class="input-box">
+									<input type="checkbox" name="cbamont" id="cbamont" class="input" />
+									<input type="text" name="amont" id="amont" size="20" class="input-text" />
+								</div>
+							</li>
+							<li>
+								<label>{GSSE_LANG_LangTagCBPrice}:</label>
+								<div class="input-box">
+									<input type="checkbox" name="cbprice" id="cbprice" class="input" />
+									<input type="text" name="price" id="price" size="20" class="input-text" />
+								</div>
+							</li>
+							<li>
+								<label>{GSSE_LANG_LangTagCBDeliveryDate}:</label>
+								<div class="input-box">
+									<input type="checkbox" name="cbdatum" id="cbdatum" class="input" />
+									<input type="text" name="datum" id="datum" size="20" class="input-text" />
+								</div>
+							</li>
+							<li>
+								<label>{GSSE_LANG_LangTagCBProductDescr}:</label>
+								<div class="input-box">
+									<input type="checkbox" name="cbdecription" id="cbdecription" class="input-text" />
+								</div>
+							</li>
+							<li>
+								<label>{GSSE_LANG_LangTagOtherArticle}:</label>
+								<div class="input-box">
+									<input type="checkbox" name="cbother" id="cbother" class="input" /> ({GSSE_LANG_LangTagOnlyFreeText})
+								</div>
+							</li>
+							<li>
+								<label>{GSSE_LANG_LangTagMessageFreeText}:</label>
+								<div class="input-box">
+									<textarea name="tellmessage" id="tellmessage" cols="40" rows="5" class="textarea" wrap="physical"></textarea>
+								</div>
+							</li>
+							<li>
+								{GSSE_LANG_LangTagYourName}:
+							</li>
+							<li>
+								<label>{GSSE_LANG_LangTagFieldFirstName}:</label>
+								<div class="input-box">
+									<input type="text" name="sender1" id="sender1" size="26" class="input-text" />
+								</div>
+							</li>
+							<li>
+								<label>{GSSE_LANG_LangTagFieldLastName}:*</label>
+								<div class="input-box">
+									<input type="text" name="sender2" size="26" class="input-text" id="sender2" />
+								</div>
+							</li>
+							<li>
+								<label>{GSSE_LANG_LangTagFieldEmail}:*</label>
+								<div class="input-box">
+									<input type="text" name="email" size="26" class="input-text" id="email" />
+								</div>
+							</li>
+							<li>
+								<div class="buttons-set">
+									<button type="submit" class="button" id="commbutton" name="commsubmit" title="{GSSE_LANG_LangTagSubmit}" onclick="inquiry_send();" />
+										<span><span>{GSSE_LANG_LangTagSubmit}</span></span>
+									</button>
+								</div>
+							</li>
+							<li>
+								<p id="fd_msg" class="no-display"></p>
+							</li>
+						</ul>
+					</div>
+					{GSSE_FUNC_INQUIRY}
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="">
+			<div id="containerDiv" style="display: none;">
+				<div class="ajaxcart">
+					<img class="ajax_loading" id="ajax_loading" src="{GSSE_SURL_}template/images/loading.gif" alt="">
+					<div id="ajax_content" style="display:none">
+						<div class="ajaxcart_row1 row1">
+							<div id="ajax_image"></div>
+						</div>
+						<div class="row2">
+							<a href="javascript:void(0);" id="closeLink" class="back"><span>Not Now</span><span class="emajc_num"></span></a>
+							<a id="viewcart_button" href="javascript:void(0);" class="next" onclick="ajaxaddnext();"><span>Add to Cart</span></a>
+							<a id="ajc_btn_checkout" class="next" href="#"><span>View cart &amp; checkout</span></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--Begin Most Popular Keywords-->
+	<!--End Most Popular Keywords-->
+</div>
+<div id="bg_fade"></div>
+</body>
+</html>

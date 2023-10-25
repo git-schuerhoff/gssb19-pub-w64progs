@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS `{dsbxx_}generalinfo` (
+  `userlng` char(3) {gssb_charset} NOT NULL,
+  `shoplng` char(3) {gssb_charset} NOT NULL,
+  `cntlng` char(3) {gssb_charset} NOT NULL,
+  `shopinfo` varchar(255) {gssb_charset} NOT NULL,
+  `shopurl` varchar(255) {gssb_charset} NOT NULL,
+  KEY `shoplng` (`shoplng`)
+) {gssb_charset};

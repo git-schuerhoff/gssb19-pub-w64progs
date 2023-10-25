@@ -1,0 +1,95 @@
+<div class="box">
+<form name='extsearchform' action='index.php?page=extendedsearch_result' method='post'>
+	<input type='hidden' name='lang' value='{GSSE_VAL_LANG}' />
+
+	<table class="extendedsearch">
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><b>{GSSE_LANG_LangTagItemDescriptionKeyword}:&nbsp;&nbsp;</b></td>
+			<td>
+				<ul class="form-list">
+					<li>
+						<div class="input-box">
+							<input type='text' class="input-text" name='sText'/>
+						</div>
+					</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><b>{GSSE_LANG_LangTagItemNumber}:</b></td>
+			<td>
+				<ul class="form-list">
+					<li>
+						<div class="input-box">
+							<input type='text' class="input-text" name='sItemNo'/>
+						</div>
+					</li>
+				</ul>
+			</td>
+		</tr>
+
+		<tr>
+			<td><b>{GSSE_LANG_LangTagCBPrice}:</b></td>
+			<td>
+			<ul class="form-list">
+				<li>
+					<label>{GSSE_LANG_LangTagFromPrice}</label>
+						<div class="input-box">
+							<input type='text' class="input-text" name='sStartPrice' size='35' />
+						</div>
+					<label>{GSSE_LANG_LangTagTo}</label>
+						<div class="input-box">
+							<input type='text' class="input-text" name='sEndPrice' size='35' /> EUR
+						</div>
+				</li>
+			</ul>	
+			</td>
+		</tr>
+		<tr>
+			<td><b>{GSSE_LANG_LangTagSort}:</b></td>
+			<td>
+				<ul class="form-list">
+					<li>
+						<div class="input-box">
+							<select name='sort' size='1'>
+								<option value='1'>{GSSE_LANG_LangTagItemNumber}</option>
+								<option value='3'>{GSSE_LANG_LangTagCBPrice}</option>
+								<option value='2'>{GSSE_LANG_LangTagProductGroups}</option>
+							</select>
+						</div>
+					</li>
+				</ul>
+			</td>
+		</tr>
+
+		<!--tr>
+			<td>&nbsp;</td>
+			<td><input type='checkbox' name='sSpecialItem' /> {GSSE_LANG_LangTagOnlySpecialItems}</td>
+		</tr-->
+
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="2" align="left">
+			<div class="buttons-set">
+				<button type="submit" class="button" title="{GSSE_LANG_LangTagStartSearch}" name="searchsubmit">
+					<span><span>{GSSE_LANG_LangTagStartSearch}</span></span>
+				</button>
+				<button type="reset" class="button" title="{GSSE_LANG_LangTagReset}" name="searchsubmit">
+					<span><span>{GSSE_LANG_LangTagReset}</span></span>
+				</button>
+			</div>
+			</td>
+		</tr>
+	</table>
+</form>
+</div>

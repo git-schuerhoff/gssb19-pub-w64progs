@@ -1,0 +1,12 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}availability 
+(
+	avaId int(11) NOT NULL DEFAULT 0,
+	avaColor varchar(15) {gssb_charset} NOT NULL default '',
+	avaDescription text {gssb_charset} NOT NULL,
+	avaMinQty DOUBLE NOT NULL DEFAULT 0,
+	avaMaxQty DOUBLE NOT NULL DEFAULT 0,
+	avaPos int(11) NOT NULL DEFAULT 13,
+	KEY avaId (avaId),
+	KEY avaMinQty (avaMinQty),
+	KEY avaMaxQty (avaMaxQty)
+) {gssb_charset};

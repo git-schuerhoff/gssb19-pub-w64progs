@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS `{dsbxx_}deliverylanguage` (
+  `SortId` int(11) NOT NULL DEFAULT '0',
+  `LanguageId` char(3) {gssb_charset} NOT NULL,
+  `ShippingKey` varchar(255) {gssb_charset} NOT NULL,
+  `ShippingName` varchar(255) {gssb_charset} NOT NULL,
+  KEY `LanguageId` (`LanguageId`)
+) {gssb_charset};

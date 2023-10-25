@@ -1,0 +1,188 @@
+<div name="steptwo" id="steptwo">
+<div id="headerProgressbar" class="row step-2">
+<div class="checkout-progressbar nopadlr grid_24">
+    <ul class="grid_16 push_4 checkout-progressbar-steps">
+        <li class="checkout-step-login ">
+            <div class="stepname">
+            <span class="checkout-progressbar-stepName">
+            <i icon class="icon icon-check green"></i>
+            <span class="step-naming"><a href="" onclick="processCheckout(1,2)">{GSSE_LANG_LangTagRegistration}</a></span>
+            </span>
+            </div><div class="arrow-wrapper-right"><div class="arrow"></div><div class="arrow-off"></div></div>
+        </li>
+        <li class="checkout-step-address checkout-progressbar-current ">
+            <div class="stepname">
+            <span class="checkout-progressbar-stepName">
+            <span class="checkout-progressbar-stepNumber"><i icon class="icon icon-check green"></i><span class="nr">1</span></span>
+            <span class="step-naming">{GSSE_LANG_LangTagPersonalInformation}</span>
+            </span>
+            </div><div class="arrow-wrapper-right"><div class="arrow"></div><div class="arrow-off"></div></div>
+        </li>
+        <li class="checkout-step-shipping-payment  ">
+            <div class="stepname">
+            <span class="checkout-progressbar-stepName">
+            <span class="checkout-progressbar-stepNumber"><i icon class="icon icon-check green"></i><span class="nr">2</span></span>
+            <span class="step-naming">{GSSE_LANG_LangTagPaymShipm}</span>
+            </span>
+            </div><div class="arrow-wrapper-right"><div class="arrow"></div><div class="arrow-off"></div></div>
+        </li>
+        <li class="checkout-step-review  ">
+            <div class="stepname">
+            <span class="checkout-progressbar-stepName">
+            <span class="checkout-progressbar-stepNumber"><i icon class="icon icon-check green"></i><span class="nr">3</span></span>
+            <span class="step-naming">{GSSE_LANG_LangTagCheckout}</span>
+            </span>
+            </div>
+        </li>
+    </ul>
+</div>
+</div>
+<div class="clear"></div>
+<div class="grid_8 push_2 my-account step a-item">
+	<div class="">
+        {GSSE_REGFORM}
+        <h1>{GSSE_LANG_LangTagBillingAddress}</h1>
+        <ul class="form-list">
+            <li class="fields">
+                <div class="input-box">
+                    <label class="checkout required" for="{GSSE_LANG_LangTagFNFieldCompanyOrPrivate}" >{GSSE_LANG_LangTagTextPleaseChoose}</label>
+                    <select name="{GSSE_LANG_LangTagFNFieldCompanyOrPrivate}" id="PrivatOderFirma" class="required-entry" onchange="set_compopriv_style(this.options.selectedIndex); set_cookie(this);">
+                        <option value="privat">{GSSE_LANG_LangTagBuy2InputLabelPrivat}</option>
+						<option value="firma">{GSSE_LANG_LangTagBuy2InputLabelBusiness}</option>
+                    </select>
+                </div>
+            </li>
+            <li class="fields" id="fd_company" style="display:none">
+                <div class="input-box">
+                    <label class="checkout required" for="{GSSE_LANG_LangTagFNFieldCompany}">{GSSE_LANG_LangTagBuy2InputLabelBusiness}*</label>
+                    <input type="text" onchange="set_cookie(this)" name="{GSSE_LANG_LangTagFNFieldCompany}" class="input-text required-entry" id="company" title="{GSSE_LANG_LangTagTextPassword}" value="" />
+                </div>
+            </li>
+            <li id="fd_vatid" class="fields" style="display:none">
+                <div class="input-box">
+                    <label class="checkout" for="{GSSE_LANG_LangTagFNFieldFirmVATId}">{GSSE_LANG_LangTagFieldFirmVATId}</label>
+                    <input type="text" onchange="set_cookie(this)" name="{GSSE_LANG_LangTagFNFieldFirmVATId}" class="input-text" id="firmVATId" title="{GSSE_LANG_LangTagFieldFirmVATId}" value="" />
+                </div>
+            </li>
+            <li class="fields">
+                <div class="input-box">
+                    <label class="checkout required" for="{GSSE_LANG_LangTagFNFieldFormToAddress}">{GSSE_LANG_LangTagFieldFormToAddress}*</label>
+                    <select onchange="set_cookie(this)" name="{GSSE_LANG_LangTagFNFieldFormToAddress}" id="mrormrs" class="required-entry">
+                        <option value="" selected>{GSSE_LANG_LangTagTextPleaseChoose}!</option>
+                        <option value="Herr">{GSSE_LANG_LangTagMr}</option>
+                        <option value="Frau">{GSSE_LANG_LangTagMrs}</option>
+                    </select>
+                </div>
+            </li>
+            <li class="fields">
+                <div class="input-box">
+                    <label class="checkout required" for="{GSSE_LANG_LangTagFNFieldFirstName}">{GSSE_LANG_LangTag__FieldFirstName}*</label>
+                    <input type="text" onchange="set_cookie(this)" id="firstname" name="{GSSE_LANG_LangTagFNFieldFirstName}" class="input-text required-entry" title="{GSSE_LANG_LangTag__FieldFirstName}" value="" />
+                </div>
+            </li>
+            <li class="fields">
+                <div class="input-box">
+                    <label class="checkout required" for="{GSSE_LANG_LangTagFNFieldLastName}">{GSSE_LANG_LangTag__FieldLastName}*</label>
+                    <input type="text" onchange="set_cookie(this)" id="lastname" name="{GSSE_LANG_LangTagFNFieldLastName}" class="input-text required-entry" title="{GSSE_LANG_LangTag__FieldLastName}" value="" />
+                </div>
+            </li>
+            <li class="fields">
+                <div class="input-box">
+                    <label class="checkout required" for="{GSSE_LANG_LangTagFNFieldAddress}">{GSSE_LANG_LangTagFieldAddress}*</label>
+                    <input type="text" onchange="set_cookie(this)" id="street" name="{GSSE_LANG_LangTagFNFieldAddress}" class="input-text required-entry" title="{GSSE_LANG_LangTagFieldAddress}" value="" kl_virtual_keyboard_secure_input="on" />
+                </div>
+            </li>
+            <li class="fields">
+                <div class="input-box">
+                    <label class="checkout" for="{GSSE_LANG_LangTagFNFieldAddress2}">{GSSE_LANG_LangTagFieldAddress2}</label>
+                    <input type="text" onchange="set_cookie(this)" name="{GSSE_LANG_LangTagFNFieldAddress2}" id="street2" class="input-text" value="" />
+                </div>
+            </li>
+            <li class="fields">
+                <div class="input-box">
+                    <label class="checkout required" for="{GSSE_LANG_LangTagFNFieldZipCode}">{GSSE_LANG_LangTagFieldZipCode}*</label>
+                    <input type="text" onchange="set_cookie(this)" name="{GSSE_LANG_LangTagFNFieldZipCode}" id="zip" class="input-text required-entry" value="" />
+                </div>
+            </li>
+            <li class="fields">
+                <div class="input-box">
+                    <label class="checkout required" for="{GSSE_LANG_LangTagFNFieldCity}">{GSSE_LANG_LangTagFieldCity}*</label>
+                    <input type="text" onchange="set_cookie(this)" name="{GSSE_LANG_LangTagFNFieldCity}" id="city" class="input-text required-entry" value="" />
+                </div>
+            </li>
+            <li class="fields">
+                <div class="input-box">
+                    <label class="checkout required" for="{GSSE_LANG_LangTagFNFieldState}">{GSSE_LANG_LangTagFNFieldState}*</label>
+                    <select onchange="set_cookie(this)" name="{GSSE_LANG_LangTagFNFieldState}" class="cusCountry required-entry" id="areaID">
+                        {GSSE_FUNC_ADDRESSAREA}
+                    </select>
+                </div>
+            </li>
+            <li class="fields">
+                <div class="input-box" id="divcustemail">
+                    <label class="checkout required" for="cust_email">{GSSE_LANG_LangTagEmail}*</label>
+                    <input type="email" onchange="set_cookie(this)" id="cust_email" name="cust_email" class="input-text required-entry validate-email" value="" />
+                </div>
+            </li>
+            {GSSE_FUNC_ADDITIONALFIELDS}
+			{GSSE_INCL_EMAILFORMAT}
+            {GSSE_INCL_NEWSLETTER}
+			{GSSE_INCL_ACCEPTTAC}
+			{GSSE_INCL_ACCEPTROR}
+			{GSSE_INCL_ACCEPTALL}
+			<li class="fields"> 
+				<div class="input-box" id="cockie">
+					<span id="cockiecheck" class="sprite ms-checkbox " onclick="checkToggle('cockiecheck','rememberme');">
+					<input onclick="set_cookie(this)" type="checkbox" class="checkbox" name="rememberme" id="rememberme" value="2" {GSSE_COOKIE_CHK|rememberme|2} />
+					<span class="h6">{GSSE_LANG_LangTagTextSaveData}</span>
+					</span>
+				</div>
+			</li>
+        </ul>
+        <ul class="form-list">
+            <li class="fields"> 
+                <div class="buttons-set">
+                    <button type="button" class="button btn-continue" title="{GSSE_LANG_LangTagTermsAndCond}" value="{GSSE_LANG_LangTagTermsAndCond}" onclick="display();">
+                        <span><span>{GSSE_LANG_LangTagTermsAndCond}</span></span>
+                    </button>
+                    <button type="button" class="button btn-continue" title="{GSSE_LANG_LangTagTermsAndCondWithdrawal}" value="{GSSE_LANG_LangTagTermsAndCondWithdrawal}" onclick="displayROR();">
+                        <span><span>{GSSE_LANG_LangTagTermsAndCondWithdrawal}</span></span>
+                    </button>
+                    <span id="billing-please-wait" class="please-wait" style="display:none;">
+                        <img class="v-middle" title="{GSSE_LANG_LangTagNextStep}" alt="{GSSE_LANG_LangTagNextStep}" src="template/images/opc-ajax-loader.gif"></img>
+                        {GSSE_LANG_LangTagNextStep}
+                    </span>
+                </div>
+            </li>
+		</ul>
+	</div>
+</div>
+<div class="grid_8 push_2 step a-item">
+	    <div class="clearfix checkout-newsletter margb20 text-left">
+	    	<span class="sprite ms-checkbox " id="useshipp" onclick="show_shippaddress();" {GSSE_INCL_STYLE}>
+	    		<input type="checkbox" name="UseShippingAddress" id="UseShippingAddress"/>
+	    		<span class="h3">{GSSE_LANG_LangTagUseShippingAddress}</span>
+	    	</span>
+	    </div>
+		<div class="grid_8 my-account shippaddress" id="shippaddress" style="display:none">
+	        <h2>{GSSE_LANG_LangTagShippingAddress}</h2>
+	        {GSSE_FUNC_USESHIPPADDRESS}
+	    </div>
+    </div>
+	<div class="clear"></div>
+<div class="grid_4 push_15">
+    <ul class="form-list">
+        <li class="fields"> 
+            <div class="buttons-set">
+                <button id="gs_order_cont_button" type="button" class="button attention" title="{GSSE_LANG_LangTagOrderContinue}" value="{GSSE_LANG_LangTagOrderContinue}" onclick="processCheckout(3,2,'True');">
+                    <span><span id="gs_order_cont_span">{GSSE_LANG_LangTagOrderContinue}</span></span>
+                </button>
+                <span id="billing-please-wait" class="please-wait" style="display:none;">
+                    <img class="v-middle" title="{GSSE_LANG_LangTagNextStep}" alt="{GSSE_LANG_LangTagNextStep}" src="template/images/opc-ajax-loader.gif"></img>
+                    {GSSE_LANG_LangTagNextStep}
+                </span>
+            </div>
+        </li>
+    </ul>
+</div>
+</div>

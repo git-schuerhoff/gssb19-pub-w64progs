@@ -1,0 +1,42 @@
+
+	<table id="shopping-cart-table" class="data-table cart-table">
+		<colgroup>
+				<col width="1">
+				<col width="1">
+				<col width="1">
+				<col width="1">
+				<col width="1">
+				<col width="1">
+		</colgroup>
+		<thead>
+			<tr class="first last">
+				<th class="a-center">&nbsp;</th>
+				<th class="a-center"><span class="nobr">{GSSE_LANG_LangTagSearchItems}</span></th>
+				<th class="a-center"><span class="nobr">{GSSE_LANG_LangTagTextQuantity}</span></th>
+				<th class="a-center"><span class="nobr">{GSSE_LANG_LangTagTextUnitPrice}</span></th>
+				<th class="a-center"><span class="nobr">{GSSE_INCL_VATTITLE}</span></th>
+				<th class="a-center"><span class="nobr">{GSSE_LANG_LangTagFieldTotalPrice}</span></th>
+			</tr>
+		</thead>
+		<tbody>
+			{GSSE_FUNC_BASKET2}
+			<tr>
+				<td colspan="5" class="gs_summary"><b>{GSSE_LANG_LangTagTextOrderTotal}:</b></td>
+				<td class="gs_summary"><span id="baskettotal">{GSSE_INCL_BASKETTOTAL}</span></td>
+			</tr>
+			<tr>
+				<td colspan="5" class="gs_summary"><b>{GSSE_LANG_LangTagTextPayment}</b> (<span id="paymenttext">{GSSE_INCL_PAYMENT}</span>):</td>
+				<td class="gs_summary"><span id="paymentcost">{GSSE_INCL_PAYMENTCOST}</span></td>
+			</tr>
+			<tr>
+				<td colspan="5" class="gs_summary"><b>{GSSE_LANG_LangTagFieldPostage}</b> (<span id="shipmenttext">{GSSE_INCL_SHIPMENT}</span>):</td>
+				<td class="gs_summary"><span id="shipmentcost">{GSSE_INCL_SHIPMENTCOST}</span></td>
+			</tr>
+			{GSSE_INCL_BASKETSUBTOTAL}
+			{GSSE_INCL_BASKETVAT}
+			<tr>
+				<td colspan="5" class="gs_summary"><h1>{GSSE_LANG_LangTagTotalAmount}:</h1></td>
+				<td class="gs_summary_total"><span id="summetotal">{GSSE_INCL_SUMTOTAL}</span></td>
+			</tr>
+		</tbody>
+	</table>

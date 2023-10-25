@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS `{dsbxx_}languagename` (
+  `LanguageId` char(3) {gssb_charset} NOT NULL,
+  `LanguageKey` char(3) {gssb_charset} NOT NULL,
+  `LanguageName` varchar(255) {gssb_charset} NOT NULL,
+  KEY `LanguageId` (`LanguageId`,`LanguageKey`)
+) {gssb_charset};

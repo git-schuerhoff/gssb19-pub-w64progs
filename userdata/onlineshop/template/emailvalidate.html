@@ -1,0 +1,23 @@
+<div class="my-account">
+	<div class="col2-set order-info-box">
+		<div class="col-1">
+			{GSSE_LANG_LangTagValidationText}<br />&nbsp;<br />
+			<a href="javascript:sendValMail(document.getElementById('cust_email_rpt').value,1);" title="{GSSE_LANG_LangTagValidateResend}">{GSSE_LANG_LangTagValidateResend}</a>
+			<ul class="form-list">
+				<li class="fields">
+					<label for="validationcode">{GSSE_LANG_LangTagFieldValidationCode}:</label>
+					<div class="input-box">
+						<input name="validationcode" id="validationcode" class="input-text">
+					</div>
+				</li>
+				<li class="fields"> 
+					<div class="buttons-set">
+						<button type="button" class="button btn-continue" title="{GSSE_LANG_LangTagButtonValidate}" value="{GSSE_LANG_LangTagButtonValidate}" onclick="checkout.validateCheck();">
+							<span><span>{GSSE_LANG_LangTagButtonValidate}</span></span>
+						</button>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>

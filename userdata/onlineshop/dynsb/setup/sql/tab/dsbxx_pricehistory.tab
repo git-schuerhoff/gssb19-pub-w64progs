@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS  {dsbxx_}pricehistory (
+  `prchItemNumber` varchar(32) {gssb_charset} NOT NULL,
+  `prchLanguageId` char(3) {gssb_charset} NOT NULL,
+  `prchDateTime` datetime NOT NULL,
+  `prchPrice` double(10,2) default NULL,
+  PRIMARY KEY  (`prchItemNumber`,`prchLanguageId`,`prchDateTime`)
+) {gssb_charset};

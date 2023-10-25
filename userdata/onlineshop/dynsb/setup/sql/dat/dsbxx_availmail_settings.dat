@@ -1,0 +1,2 @@
+INSERT INTO {dsbxx_}availmail_settings VALUES
+	(1,'Ihr GS-Shop','Der Artikel {i} - {d} ist wieder da!', 'Sehr geehrte Damen und Herren. Der Artikel {i} - {d} ist wieder für den Kauf verfügbar. Ihr GS Shopteam.');

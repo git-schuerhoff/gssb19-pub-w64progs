@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}history 
+ (
+	hisSessionId varchar(255) {gssb_charset} NOT NULL default '',
+	hisData1 blob,
+	hisData2 varchar(255) {gssb_charset} default NULL,
+	hisData3 varchar(255) {gssb_charset} default NULL,
+	hisChgTimestamp timestamp NOT NULL,
+	PRIMARY KEY  (hisSessionId)
+ ) {gssb_charset};

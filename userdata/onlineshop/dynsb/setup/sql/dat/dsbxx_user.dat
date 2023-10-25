@@ -1,0 +1,2 @@
+INSERT INTO {dsbxx_}user VALUES 
+	(1,1,'admin','21232f297a57a5a743894a0e4a801fc3','Administrator','20041022100400',1,'Stammdaten','1');

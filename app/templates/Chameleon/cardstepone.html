@@ -1,0 +1,89 @@
+<div name="stepone" id="stepone">
+<div id="headerProgressbar" class="row step-1">
+<div class="checkout-progressbar nopadlr">
+    <ul class="grid_16 push_4 checkout-progressbar-steps">
+        <li class="checkout-step-login  checkout-progressbar-current  checkout-progressbar-one">
+            <div class="stepname">
+            <span class="checkout-progressbar-stepName">
+            <i icon class="icon icon-check green"></i>
+            <span class="step-naming">{GSSE_LANG_LangTagRegistration}</span>
+            </span>
+            </div><div class="arrow-wrapper-right"><div class="arrow"></div><div class="arrow-off"></div></div>
+        </li>
+        <li class="checkout-step-address  ">
+            <div class="stepname">
+            <span class="checkout-progressbar-stepName">
+            <span class="checkout-progressbar-stepNumber"><i icon class="icon icon-check green"></i><span class="nr">1</span></span>
+            <span class="step-naming">{GSSE_LANG_LangTagPersonalInformation}</span>
+            </span>
+            </div><div class="arrow-wrapper-right"><div class="arrow"></div><div class="arrow-off"></div></div>
+        </li>
+        <li class="checkout-step-shipping-payment  ">
+            <div class="stepname">
+            <span class="checkout-progressbar-stepName">
+            <span class="checkout-progressbar-stepNumber"><i icon class="icon icon-check green"></i><span class="nr">2</span></span>
+            <span class="step-naming">{GSSE_LANG_LangTagPaymShipm}</span>
+            </span>
+            </div><div class="arrow-wrapper-right"><div class="arrow"></div><div class="arrow-off"></div></div>
+        </li>
+        <li class="checkout-step-review  ">
+            <div class="stepname">
+            <span class="checkout-progressbar-stepName">
+            <span class="checkout-progressbar-stepNumber"><i icon class="icon icon-check green"></i><span class="nr">3</span></span>
+            <span class="step-naming">{GSSE_LANG_LangTagCheckout}</span>
+            </span>
+            </div>
+        </li>
+    </ul>
+</div>
+</div>
+<div class="clear"></div>
+<div class="grid_8 push_2 my-account step a-item">
+<h2>{GSSE_LANG_LangTagIhaveAccount}</h2>
+<p>{GSSE_LANG_LangTagRegisterHere}</p>
+<ul class="form-list">
+    <li class="fields">
+        <label for="cust_email" class="required"></label>
+        <div class="input-box">
+            <input type="email" placeholder="Email*" id="cust_email" name="cust_email"  class="input-text required-entry validate-email" title="{GSSE_LANG_LangTag__FieldFirstName}"/>
+        </div>
+    </li>
+    <li class="fields">
+        <label for="cust_pass"></label>
+        <div class="input-box">
+            <input autocomplete="off" type="password" placeholder="Kennwort*" id="cust_pass" name="cust_pass"  class="input-text required-entry" title="{GSSE_LANG_LangTag__FieldFirstName}"/>
+        </div>
+    </li>
+</ul>
+<div class="gs-forgot-pwd">
+ <a name="resendpwd" href="index.php?page=resendpwd" title="{GSSE_LANG_LangTagResendPasswdCustomer}">{GSSE_LANG_LangTagResendPasswdCustomer}</a>
+</div>
+<div class="buttons-set">
+    <button id="loginCustomer" title="" class="button" onclick="processCheckout(2,1,'True')">
+        <span>
+            <span>{GSSE_LANG_LangTagTextLogin}</span>
+        </span>    
+    </button>
+</div>
+</div>
+<div class="grid_8 push_2 my-account step a-item">
+<h2>{GSSE_LANG_LangTagNewCustomer}</h2>
+<p>{GSSE_LANG_LangTagOrderWithoutRegistering}</p>
+<div class="buttons-set">
+        <button id="newCustomer" title="" class="button button-grey" onclick="processCheckout(2,1,'False','&guest=True')">
+            <span>
+                <span>{GSSE_LANG_LangTagWithoutRegistering}</span>
+            </span>    
+        </button>
+    </div>
+<p><br/>    
+{GSSE_LANG_LangTagMsgRegistering}</p>
+<div class="buttons-set">
+    <button id="regCustomer" title="" class="button button-grey" onclick="processCheckout(2,1,'False','&regform=True')">
+        <span>
+            <span>{GSSE_LANG_LangTagRegisterAndOrder}</span>
+        </span>    
+    </button>
+</div>
+</div>
+</div>

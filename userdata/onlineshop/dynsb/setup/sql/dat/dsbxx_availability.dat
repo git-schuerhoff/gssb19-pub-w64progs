@@ -1,0 +1,4 @@
+INSERT INTO {dsbxx_}availability VALUES
+	(1,'#299C39','Produkt ab Lager versandfertig, Lieferzeit ca. 1-3 Werktage', '20', '99999', '54'),
+	(2,'#FFFF10','Produkt wird sofort bestellt, Lieferzeit ca. 5-10 Werktage', '3', '19', '34'),
+	(3,'#FF0000','Produkt nicht immer verfügbar, Lieferzeiten von mehr als 2 Wochen sind zu erwarten.', '0', '2', '13');

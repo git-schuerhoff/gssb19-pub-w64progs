@@ -1,0 +1,12 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}newsticker 
+ (
+	ntIdNo int(11) unsigned NOT NULL auto_increment,
+	ntContent blob,
+	ntScrollSpeed int(4) NOT NULL default '85',
+	ntShowFlg char(1) {gssb_charset} NOT NULL default 'N',
+	ntTimestamp timestamp NOT NULL,
+	ntChgUserIdNo int(11) NOT NULL default '0',
+	ntChgApplicId varchar(255) {gssb_charset} NOT NULL default '',
+	ntChgHistoryFlg char(1) {gssb_charset} NOT NULL default 'N',
+	PRIMARY KEY  (ntIdNo)
+ ) {gssb_charset};

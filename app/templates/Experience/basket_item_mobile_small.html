@@ -1,0 +1,31 @@
+<tr class="{GSSE_INCL_FOL}{GSSE_INCL_EOO}">
+	<td>
+		{GSSE_INCL_ITEMIMG}
+		<h2 class="product-name">
+			{GSSE_INCL_ITEMQTY} x {GSSE_INCL_ITEMNAME}
+		</h2>
+		<p class="sku">{GSSE_INCL_ATTRIBUTES}</p>
+		<p class="sku">{GSSE_INCL_TEXT}</p>
+		<p class="sku">{GSSE_INCL_ITEMNUMBER}</p>
+		<div class="{GSSE_INCL_BASKETQTYCHGCLASS}">
+			<div class="qty-ctl">
+				<button class="decrease" onclick="changeQty('qty_{GSSE_INCL_BASKETIDX}',0,{GSSE_INCL_BASKETIDX}); return false;" title="{GSSE_LANG_LangTagDecrease}">decrease</button>
+			</div>
+			<input id="qty_{GSSE_INCL_BASKETIDX}" onchange="return changeQtyEnter(this,{GSSE_INCL_BASKETIDX});" class="input-text qty" maxlength="12" title="Qty" size="4" value="{GSSE_INCL_ITEMQTY}" name="cart[{GSSE_INCL_ITEMID}][qty]" kl_virtual_keyboard_secure_input="on">
+			<div class="qty-ctl">
+				<button class="increase" onclick="changeQty('qty_{GSSE_INCL_BASKETIDX}',1,{GSSE_INCL_BASKETIDX}); return false;" title="{GSSE_LANG_LangTagIncrease}">increase</button>
+			</div>
+			<div class="qty-ctl">
+				<button class="delete" onclick="new_del_from_basket({GSSE_INCL_BASKETIDX});" title="{GSSE_LANG_LangTagDelete}">delete</button>
+			</div>
+		</div>
+		<div class="{GSSE_INCL_BASKETQTYDISPCLASS}">
+			{GSSE_INCL_ITEMQTY}{GSSE_INCL_BILLINGPERIOD}
+		</div>
+	</td>
+	<td class="a-right">
+		<span class="cart-price">
+			<span id="gs_itemtotal_price{GSSE_INCL_BASKETIDX}" class="price">{GSSE_INCL_ITEMTOTAL}</span>
+		</span>
+	</td>
+</tr>

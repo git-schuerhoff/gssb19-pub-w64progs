@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}citys (
+	`bund_land` varchar(6) {gssb_charset} default NULL,
+	`ort` varchar(150) {gssb_charset} default NULL,
+	`plz` varchar(10) {gssb_charset} NOT NULL default '',
+	KEY `ort` (`ort`),
+	KEY `plz` (`plz`)
+) {gssb_charset};

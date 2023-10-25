@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}customlabels (
+	`id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT,
+	`languageid` varchar(3) {gssb_charset} default 'deu',
+	`langtag` varchar(255) {gssb_charset} default '',
+	`customlabel` varchar(500) {gssb_charset} default '',
+	PRIMARY KEY `id` (`id`)
+) CHARACTER SET utf8 COLLATE utf8_general_ci;

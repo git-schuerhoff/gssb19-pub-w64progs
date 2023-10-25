@@ -1,0 +1,2307 @@
+//important notice !!!	---	Lines begining with LangTagFN... MUST NOT contain blanks or special characters.Please use ONLY a-z, A_Z, 0-9 or _ (underscore).	date20000101	
+LangTagAccountHolder	deu	Kontoinhaber	date20030300	
+LangTagAccountHolder	eng	Account Holder	date20030300	
+LangTagAccountHolder	ita	Titolare c/c	date20030300	
+LangTagAccountNumber	deu	Kontonummer	date20030300	
+LangTagAccountNumber	eng	Account Number	date20030300	
+LangTagAccountNumber	ita	N. c/c	date20030300	
+LangTagBankCodeNumber	deu	BLZ	date20030300	
+LangTagBankCodeNumber	eng	Bank Code	date20030300	
+LangTagBankCodeNumber	ita	Coordinate bancarie	date20030300	
+LangTagBasket	deu	Warenkorb	date20030300	LinkMenü/Tabellenüberschrift
+LangTagBasket	eng	Basket	date20030300	
+LangTagBasket	ita	Carrello	date20030300	LinkMenü/Tabellenüberschrift
+LangTagButtonBack	deu	Zurück	date20030300	Buttonbeschriftung buy2
+LangTagButtonBack	eng	Back	date20030300	
+LangTagButtonBack	ita	Indietro	date20030300	Buttonbeschriftung buy2
+LangTagButtonBackToOrder	deu	Korrigieren	date20030300	Seite buy3
+LangTagButtonBackToOrder	eng	Back to Order Form	date20030300	
+LangTagButtonBackToOrder	ita	Correggere	date20030300	Seite buy3
+LangTagButtonCloseWindow	deu	Fenster schließen	date20030300	Buttonbeschriftung cond
+LangTagButtonCloseWindow	eng	Close Window	date20030300	
+LangTagButtonCloseWindow	ita	Chiudere la finestra	date20030300	Buttonbeschriftung cond
+LangTagButtonCond	deu	AGB	date20030300	Buttonbeschriftung buy2
+LangTagButtonCond	eng	Conditions	date20030300	
+LangTagButtonCond	ita	Condizioni generali di vendita	date20030300	Buttonbeschriftung buy2
+LangTagButtonOrderForm	deu	Weiter zum Bestellformular	date20030300	Buttonbeschriftung Seite basket, buy
+LangTagButtonOrderForm	eng	Go forward to Order Form	date20030300	
+LangTagButtonOrderForm	ita	Proseguire al modulo d´ordine	date20030300	Buttonbeschriftung Seite basket, buy
+LangTagButtonPrintConditions	deu	AGB drucken	date20030300	Buttonbeschriftung cond
+LangTagButtonPrintConditions	eng	Print Conditions	date20030300	
+LangTagButtonPrintConditions	ita	Stampare le condizioni di vendita	date20030300	Buttonbeschriftung cond
+LangTagButtonPrintOrder	deu	Bestellung drucken	date20030300	Buttonbeschriftung buy3
+LangTagButtonPrintOrder	eng	Print Order	date20030300	
+LangTagButtonPrintOrder	ita	Stampare l´ordine	date20030300	Buttonbeschriftung buy3
+LangTagButtonSearch	deu	Schnellsuche	date20030300	Buttonbeschriftung Suche
+LangTagButtonSearch	eng	Search	date20030300	
+LangTagButtonSearch	ita	Ricerca	date20030300	Buttonbeschriftung Suche
+LangTagButtonSubmit	deu	kostenpflichtig bestellen	date20030300	Buttonbeschriftung buy2, buy3
+LangTagButtonSubmit	eng	charge order	date20030300	
+LangTagButtonSubmit	ita	Inviare l´ordine	date20030300	Buttonbeschriftung buy2, buy3
+LangTagCheckboxConditions	deu	AGB	date20030300	
+LangTagCheckboxConditions	eng	Conditions	date20030300	
+LangTagCheckboxConditions	ita	Condizioni di vendita generali	date20030300	
+LangTagCheckboxConditionsValue	deu	gelesen	date20030300	
+LangTagCheckboxConditionsValue	eng	checked	date20030300	
+LangTagCheckboxConditionsValue	ita	Letto	date20030300	
+LangTagCreditCard	deu	Kreditinstitut	date20030300	
+LangTagCreditCard	eng	Credit Card	date20030300	
+LangTagCreditCard	ita	Istituto di credito	date20030300	
+LangTagCreditCardHolder	deu	Kreditkarteninhaber	date20030300	
+LangTagCreditCardHolder	eng	Credit Card Holder	date20030300	
+LangTagCreditCardHolder	ita	Titolare carta di credito	date20030300	
+LangTagCreditCardNumber	deu	Kreditkartennummer	date20030300	
+LangTagCreditCardNumber	eng	Credit Card Number	date20030300	
+LangTagCreditCardNumber	ita	Numero carta di credito	date20030300	
+LangTagDetails	deu	Details	date20030300	
+LangTagDetails	eng	Details	date20030300	
+LangTagDetails	ita	Dettagli	date20030300	
+LangTagEmail	deu	Email	date20030300	LinkMenü
+LangTagEmail	eng	Email	date20030300	
+LangTagEmail	ita	Email	date20030300	LinkMenü
+LangTagExpirationDate	deu	Gültig bis	date20030300	
+LangTagExpirationDate	eng	Expiration Date	date20030300	
+LangTagExpirationDate	ita	Valida fino al	date20030300	
+LangTagFieldAddress	deu	Straße	date20030300	
+LangTagFieldAddress	eng	Address Line 1	date20030300	
+LangTagFieldAddress	ita	Indirizzo	date20030300	
+LangTagFieldAddress2	deu	Adressenzusatz	date20030300	
+LangTagFieldAddress2	eng	Address Line 2	date20030300	
+LangTagFieldAddress2	ita	Indirizzo aggiuntivo	date20030300	
+LangTagFieldCity	deu	Ort	date20030300	
+LangTagFieldCity	eng	Town/City	date20030300	
+LangTagFieldCity	ita	Città	date20030300	
+LangTagFieldCompany	deu	Firma	date20030300	
+LangTagFieldCompany	eng	Company	date20030300	
+LangTagFieldCompany	ita	Ditta	date20030300	
+LangTagFieldEmail	deu	Email	date20030300	
+LangTagFieldEmail	eng	Email	date20030300	
+LangTagFieldEmail	ita	Email	date20030300	
+LangTagFieldFax	deu	Fax	date20030300	
+LangTagFieldFax	eng	Fax	date20030300	
+LangTagFieldFax	ita	Fax	date20030300	
+LangTagFieldFirstName	deu	Vorname	date20030300	
+LangTagFieldFirstName	eng	First Name	date20030300	
+LangTagFieldFirstName	ita	Nome	date20030300	
+LangTagFieldFormToAddress	deu	Anrede	date20030300	
+LangTagFieldFormToAddress	eng	Title	date20030300	
+LangTagFieldFormToAddress	ita	Titolo	date20030300	
+LangTagFieldLastName	deu	Nachname	date20030300	
+LangTagFieldLastName	eng	Last Name	date20030300	
+LangTagFieldLastName	ita	Cognome	date20030300	
+LangTagFieldPhone	deu	Telefon	date20030300	
+LangTagFieldPhone	eng	Phone	date20030300	
+LangTagFieldPhone	ita	Telefono	date20030300	
+LangTagFieldShippingAddress	deu	Abweichende Lieferadresse	date20030300	
+LangTagFieldShippingAddress	eng	Delivery address	date20030300	
+LangTagFieldShippingAddress	ita	Indirizzo di spedizione diverso	date20030300	
+LangTagFieldState	deu	Land	date20030300	
+LangTagFieldState	eng	Country/State	date20030300	
+LangTagFieldState	ita	Paese	date20030300	
+LangTagFieldZipCode	deu	PLZ	date20030300	
+LangTagFieldZipCode	eng	Postcode/Zipcode	date20030300	
+LangTagFieldZipCode	ita	CAP	date20030300	
+LangTagFinancialInstitution	ita	Istituto di credito	date20030300	
+LangTagHeadOrderData	deu	Bestelldaten	date20030300	
+LangTagHeadOrderData	eng	Order data	date20030300	
+LangTagHeadOrderData	ita	Riepilogo dati dell´ordine	date20030300	
+LangTagHome	deu	Home	date20030300	LinkMenü/Tabellenüberschrift
+LangTagHome	eng	Home	date20030300	
+LangTagHome	ita	Homepage	date20030300	LinkMenü/Tabellenüberschrift
+LangTagImprint	deu	Impressum	date20030300	LinkMenü/Tabellenüberschrift
+LangTagImprint	eng	Imprint	date20030300	
+LangTagImprint	ita	Sigla editoriale	date20030300	LinkMenü/Tabellenüberschrift
+LangTagInfo	deu	Info	date20030300	LinkMenü/Tabellenüberschrift
+LangTagInfo	eng	Info	date20030300	
+LangTagInfo	ita	Informazioni	date20030300	LinkMenü/Tabellenüberschrift
+LangTagMonth	deu	Monat	date20030300	
+LangTagMonth	eng	Month	date20030300	
+LangTagMonth	ita	Mese	date20030300	
+LangTagMonthExpirationDate	deu	Monat der Gültigkeit Ihrer Kreditkarte	date20030300	
+LangTagMonthExpirationDate	eng	Month of the Expiration Date	date20030300	
+LangTagMonthExpirationDate	ita	Mese di scadenza della cara di credito	date20030300	
+LangTagNews	deu	News	date20030300	Tabellenüberschrift
+LangTagNews	eng	News	date20030300	
+LangTagNews	ita	Novità	date20030300	Tabellenüberschrift
+LangTagNextPageLinkName	deu	nächste Seite	date20030300	
+LangTagNextPageLinkName	eng	next page	date20030300	
+LangTagNextPageLinkName	ita	Pagina seguente	date20030300	
+LangTagOrder	deu	Zur Kasse	date20030300	LinkMenü/Tabellenüberschrift
+LangTagOrder	eng	Order Form	date20030300	
+LangTagOrder	ita	Modulo d´ordine	date20030300	LinkMenü/Tabellenüberschrift
+LangTagPrevPageLinkName	deu	vorherige Seite	date20030300	
+LangTagPrevPageLinkName	eng	previous page	date20030300	
+LangTagPrevPageLinkName	ita	Pagina precedente	date20030300	
+LangTagProductGroups	deu	Warengruppen	date20030300	Tabellenüberschrift
+LangTagProductGroups	eng	Categories	date20030300	
+LangTagProductGroups	ita	Categorie	date20030300	Tabellenüberschrift
+LangTagSearchItems	deu	Artikel	date20030300	
+LangTagSearchItems	eng	Items	date20030300	
+LangTagSearchItems	ita	Articoli	date20030300	
+LangTagShipment	deu	Versand	date20030300	LinkMenü/Tabellenüberschrift
+LangTagShipment	eng	Delivery	date20030300	
+LangTagShipment	ita	Condizioni di trasporto	date20030300	LinkMenü/Tabellenüberschrift
+LangTagSitemap	deu	Sitemap	date20030300	LinkMenü/Tabellenüberschrift
+LangTagSitemap	eng	Sitemap	date20030300	
+LangTagSitemap	ita	Sitemap	date20030300	LinkMenü/Tabellenüberschrift
+LangTagTermsAndCond	deu	AGB & Info	date20030300	LinkMenü/Tabellenüberschrift
+LangTagTermsAndCond	eng	Conditions	date20030300	
+LangTagTermsAndCond	ita	Condizioni generali di vendita	date20030300	LinkMenü/Tabellenüberschrift
+LangTagTextAddItem	deu	Hinweis:\nDer Artikel befindet sich bereits im Korb.\nSoll die Anzahl addiert werden?\nClicken Sie OK zum Addieren,\nKlicken Sie Abbrechen zum Ersetzen\n	date20030300	
+LangTagTextAddItem	eng	Notice:\nThis item is already in the basket.\nDo you want to add the quantity?\nClick OK to add,\nclick Abort to replace.\n	date20030300	
+LangTagTextAddItem	ita	Avviso:\nl´articolo è già presente nel carrello.\nSi desidera sommare la quantità?\nFare clic su OK per sommare,\nfare clic su Interrompi per cambiarlo\n	date20030300	
+LangTagTextBasketEmpty	deu	Keine Artikel im Warenkorb	date20030300	
+LangTagTextBasketEmpty	eng	The basket is empty.	date20030300	
+LangTagTextBasketEmpty	ita	Nessun articolo nel carrello	date20030300	
+LangTagTextBasketItem	deu	 Artikel im Warenkorb	date20030300	
+LangTagTextBasketItem	eng	 Item(s) in the basket.	date20030300	
+LangTagTextBasketItem	ita	Articolo nel carrello	date20030300	
+LangTagTextBeforeUnload	deu	Sie haben Artikel im Warenkorb. Wenn Sie diesen Shop verlassen, wird Ihr Warenkorb geleert.	date20030300	
+LangTagTextBeforeUnload	eng	You have items in your basket. After leaving this shop all items will be removed from your basket.	date20030300	
+LangTagTextBeforeUnload	ita	Nel carrello sono presenti degli articoli. Il carrello sarà svuotato se si esce dal negozio!	date20030300	
+LangTagTextChooseAttribute	deu	Bitte 	date20030300	
+LangTagTextChooseAttribute	eng	Please choose the 	date20030300	
+LangTagTextChooseAttribute	ita	Prego	date20030300	
+LangTagTextChooseAttribute2	deu	 wählen!	date20030300	
+LangTagTextChooseAttribute2	eng	 !	date20030300	
+LangTagTextChooseAttribute2	ita	scegliere!	date20030300	
+LangTagTextChooseDeliveryPayment	deu	1. Bitte wählen Sie die gewünschte Versand- und Zahlungsart aus: 	date20030300	Seite buy
+LangTagTextChooseDeliveryPayment	eng	1. Please choose your Delivery and Payment Conditions: 	date20030300	
+LangTagTextChooseDeliveryPayment	ita	1. Selezionare la modalità di spedizione e di pagamento:	date20030300	Seite buy
+LangTagTextConfirmConditons	deu	Bitte bestätigen Sie unsere AGB	date20030300	
+LangTagTextConfirmConditons	eng	Please confirm our Conditions	date20030300	
+LangTagTextConfirmConditons	ita	Si prega di confermate le nostre condizioni di vendita	date20030300	
+LangTagTextDelivery	deu	Versandart	date20030300	Seite buy
+LangTagTextDelivery	eng	Delivery Mode	date20030300	
+LangTagTextDelivery	ita	Tipo di trasporto	date20030300	Seite buy
+LangTagTextEmailAddressIncorrect	deu	Fehler im Feld Email-Adresse	date20030300	
+LangTagTextEmailAddressIncorrect	eng	The Email address is not correct	date20030300	
+LangTagTextEmailAddressIncorrect	ita	Errore nel campo dell´ indirizzo di posta elettronica	date20030300	
+LangTagTextEncludedVAT	deu	Enthaltene	date20030300	
+LangTagTextEncludedVAT	eng	Included	date20030300	
+LangTagTextEncludedVAT	ita	Inclusa	date20030300	
+LangTagTextIClear	deu	Sicher und bequem bezahlen mit iclear. Falls Sie per iclear bezahlen möchten, ist das Ausfüllen des Bestellformulars nicht erforderlich. Bitte klicken Sie dann hier: 	date20030300	
+LangTagTextIClear	eng	Easy and secure payment by iclear. If you like to pay per iclear, it is not needed to enter the order form. In that case please click here: 	date20030300	
+LangTagTextIClear	ita	Pagare in modo sicuro e comodo con iclear. Se si desidera pagare con iclear, non é necessario compilare il modulo d´ordine. Si prega di fare clic qui:	date20030300	
+LangTagTextIClearLink	deu	Bezahlen mit iclear	date20030300	
+LangTagTextIClearLink	eng	Payment by iclear 	date20030300	
+LangTagTextIClearLink	ita	Pagare con iclear	date20030300	
+LangTagTextInteger	deu	Bitte eine ganzzahlige positive Anzahl eingeben!	date20030300	
+LangTagTextInteger	eng	Please enter a positive integer!	date20030300	
+LangTagTextInteger	ita	Si prega di immettere un numero positivo intero!	date20030300	
+LangTagTextItem	deu	Artikel	date20030300	
+LangTagTextItem	eng	Item	date20030300	
+LangTagTextItem	ita	Articolo	date20030300	
+LangTagTextItems	deu	Bitte wählen Sie die gewünschte Warengruppe aus	date20030300	
+LangTagTextItems	eng	Please choose the relevant category	date20030300	
+LangTagTextItems	ita	Si prega di selezionare la categoria desiderata:	date20030300	
+LangTagTextMaxQuantity	deu	Die maximale Bestellmenge ist	date20030300	
+LangTagTextMaxQuantity	eng	The maximum order quantity is	date20030300	
+LangTagTextMaxQuantity	ita	La quantità massimale per un ordine é:	date20030300	
+LangTagTextMinOrderValue1	deu	Sie haben Artikel für	date20030300	
+LangTagTextMinOrderValue1	eng	You have articles for	date20030300	
+LangTagTextMinOrderValue1	ita	Lei ha articoli per	date20030300	
+LangTagTextMinOrderValue2	deu	in Ihrem Warenkorb.\nDer Mindestbestellwert von	date20030300	
+LangTagTextMinOrderValue2	eng	in your basket.\nThe least order value by	date20030300	
+LangTagTextMinOrderValue2	ita	nel suo carrello.\nL´ importo minimo di	date20030300	
+LangTagTextMinOrderValue3	deu	ist noch nicht erreicht.	date20030300	
+LangTagTextMinOrderValue3	eng	is not reached yet.	date20030300	
+LangTagTextMinOrderValue3	ita	non é ancora raggiunto.	date20030300	
+LangTagTextNoItems	deu	In dieser Warengruppe gibt es zur Zeit keine Produkte und keine weiteren Unterwarengruppen. 	date20030300	
+LangTagTextNoItems	eng	No items are listed in this category.	date20030300	
+LangTagTextNoItems	ita	In questa categoria in questo momento non ci sono prodotti o sottocategorie.	date20030300	
+LangTagTextOrderForm	deu	2. Bitte füllen Sie das folgende Bestellformular aus (*Felder bitte unbedingt angeben) und drücken Sie den ´Bestellung fortsetzen´ Knopf.	date20030300	Seite buy2
+LangTagTextOrderForm	eng	2. Please enter the information below (*text fields are required). To complete your order click on ´Submit´.	date20030300	
+LangTagTextOrderForm	ita	2. Prego compilare il seguente modulo (* campi obbligatori) e premere il pulsante "Avanti".	date20030300	Seite buy2
+LangTagTextOrderTotal	deu	Summe	date20030300	
+LangTagTextOrderTotal	eng	Order Total	date20030300	
+LangTagTextOrderTotal	ita	Totale	date20030300	
+LangTagTextPaybox	deu	Paybox - Bezahlen per Handy. Falls Sie per Handy bezahlen möchten, wählen Sie oben als Zahlungsart bitte Paybox aus.	date20030300	
+LangTagTextPaybox	eng	Paybox - Pay by mobile. Please choose Paybox as Payment Conditions if you like to pay with your mobile.	date20030300	
+LangTagTextPaybox	ita	Paybox - Pagare col telefono cellulare. Se volete pagare col telefono cellulare, selezionare in alto come modalità di pagamento Paybox. 	date20030300	
+LangTagTextPayment	deu	Zahlungsart	date20030300	Seite buy
+LangTagTextPayment	eng	Payment	date20030300	
+LangTagTextPayment	ita	Modalità di pagamento	date20030300	Seite buy
+LangTagTextPleaseChoose	deu	Bitte wählen	date20030300	
+LangTagTextPleaseChoose	eng	Please choose	date20030300	
+LangTagTextPleaseChoose	ita	Prego scegliere	date20030300	
+LangTagTextPleaseEnter	deu	Bitte eingeben:	date20030300	
+LangTagTextPleaseEnter	eng	Please enter:	date20030300	
+LangTagTextPleaseEnter	ita	Prego inserire:	date20030300	
+LangTagTextPostage	deu	Versandkosten	date20030300	
+LangTagTextPostage	eng	Delivery Charges	date20030300	
+LangTagTextPostage	ita	Spese di spedizione	date20030300	
+LangTagTextQuantity	deu	Menge	date20030300	Überschrift Seite thankyou
+LangTagTextQuantity	eng	Quantity	date20030300	
+LangTagTextQuantity	ita	Quantità	date20030300	Überschrift Seite thankyou
+LangTagTextRabat	deu	Rabatt (Warenwert)	date20030300	
+LangTagTextRabat	eng	Discount (value of goods)	date20030300	
+LangTagTextRabat	ita	Sconto (valore merce)	date20030300	
+LangTagTextRemoveConfirm	deu	Möchten Sie wirklich alle Artikel aus dem Einkaufswagen entfernen?	date20030300	
+LangTagTextRemoveConfirm	eng	Do you really want to remove all items from the basket?	date20030300	
+LangTagTextRemoveConfirm	ita	Rimuovere  davvero tutti gli articoli dal carrello?	date20030300	
+LangTagTextRemoveItem	deu	Entfernen	date20030300	
+LangTagTextRemoveItem	eng	Remove	date20030300	
+LangTagTextRemoveItem	ita	Rimuovere	date20030300	
+LangTagTextSearchEnter	deu	Bitte einen Suchbegriff eingeben!	date20030300	
+LangTagTextSearchEnter	eng	Please enter a word to search for!	date20030300	
+LangTagTextSearchEnter	ita	Prego immettere una parola per la ricerca:	date20030300	
+LangTagTextSearchNoResult	deu	nicht gefunden!	date20030300	
+LangTagTextSearchNoResult	eng	not found!	date20030300	
+LangTagTextSearchNoResult	ita	Non trovato!	date20030300	
+LangTagTextSearchResults	deu	Suchresultate	date20030300	
+LangTagTextSearchResults	eng	Search Results	date20030300	
+LangTagTextSearchResults	ita	Risultati della ricerca	date20030300	
+LangTagTextSecondCurrency	deu	Dies entspricht einem Preis von	date20030300	
+LangTagTextSecondCurrency	eng	This corresponds to a price of	date20030300	
+LangTagTextSecondCurrency	ita	Ciò corrisponde ad un prezzo di	date20030300	
+LangTagTextShortVAT	deu	MwSt.	date20030300	
+LangTagTextShortVAT	eng	VAT	date20030300	
+LangTagTextShortVAT	ita	IVA	date20030300	
+LangTagTextTextField	deu	Text	date20030300	Shoppage
+LangTagTextTextField	eng	Text	date20030300	
+LangTagTextTextField	ita	Testo	date20030300	Shoppage
+LangTagTextThanks	deu	Danke	date20030300	
+LangTagTextThanks	eng	Thanks	date20030300	
+LangTagTextThanks	ita	Grazie	date20030300	
+LangTagTextTotalPrice	deu	Gesamtpreis	date20030300	
+LangTagTextTotalPrice	eng	Total Price	date20030300	
+LangTagTextTotalPrice	ita	Totale	date20030300	
+LangTagTextUnitPrice	deu	Einzelpreis	date20030300	
+LangTagTextUnitPrice	eng	Unit Price	date20030300	
+LangTagTextUnitPrice	ita	Prezzo unitario	date20030300	
+LangTagTextUpdateItem	deu	Aktualisieren	date20030300	
+LangTagTextUpdateItem	eng	Update	date20030300	
+LangTagTextUpdateItem	ita	Aggiorna	date20030300	
+LangTagTextVAT	deu	MwSt.	date20030300	
+LangTagTextVAT	eng	VAT	date20030300	
+LangTagTextVAT	ita	IVA	date20030300	
+LangTagTextViewBasket	deu	Warenkorb anzeigen	date20030300	
+LangTagTextViewBasket	eng	View Basket	date20030300	
+LangTagTextViewBasket	ita	Visualizza carrello	date20030300	
+LangTagTotalAmount	deu	Rechnungsbetrag	date20030300	
+LangTagTotalAmount	eng	Invoice total	date20030300	
+LangTagTotalAmount	ita	Totale fattura	date20030300	
+LangTagYear	deu	Jahr	date20030300	
+LangTagYear	eng	Year	date20030300	
+LangTagYear	ita	Anno	date20030300	
+LangTagYearExpirationDate	deu	Jahr der Gültigkeit Ihrer Kreditkarte	date20030300	
+LangTagYearExpirationDate	eng	Year of the Expiration Date	date20030300	
+LangTagYearExpirationDate	ita	Anno di scadenza della carta di credito	date20030300	
+LangTagCharset	deu	iso-8859-1	date20030315	
+LangTagCharset	eng	iso-8859-1	date20030315	
+LangTagCharset	ita	iso-8859-1	date20030315	
+LangTagIssueNumber	deu	Prüfnummer	date20030315	
+LangTagIssueNumber	eng	Issue Number<br />(Switch/Solo only)	date20030315	
+LangTagIssueNumber	ita	Numero di controllo	date20030315	
+LangTagNoImage	deu	kein Bild!	date20030315	
+LangTagNoImage	eng	no image!	date20030315	
+LangTagNoImage	ita	Nessuna immagine!	date20030315	
+LangTagSecurityCode	deu	Prüfnummer2	date20030315	
+LangTagSecurityCode	eng	Security Code	date20030315	
+LangTagSecurityCode	ita	Numero di controllo2	date20030315	
+LangTagCharsetIso	deu	iso-8859-1	date20030502	
+LangTagCharsetIso	eng	iso-8859-1	date20030502	
+LangTagCharsetIso	ita	iso-8859-1	date20030502	
+LangTagCharsetWindows	deu	windows-1252	date20030502	
+LangTagCharsetWindows	eng	windows-1252	date20030502	
+LangTagCharsetWindows	ita	windows-1252	date20030502	
+LangTagContentLanguage	deu	DE	date20030502	
+LangTagContentLanguage	eng	EN	date20030502	
+LangTagContentLanguage	ita	IT	date20030502	
+LangTagExpirationMonth	deu	GültigkeitMonat	date20030502	
+LangTagExpirationMonth	eng	ExpirationMonth	date20030502	
+LangTagExpirationMonth	ita	ValiditàMese	date20030502	
+LangTagExpirationYear	deu	GültigkeitJahr	date20030502	
+LangTagExpirationYear	eng	ExpirationYear	date20030502	
+LangTagExpirationYear	ita	ValiditàAnno	date20030502	
+LangTagTermsAndCondChecked	deu	gelesen und bestätigt	date20030502	
+LangTagTermsAndCondChecked	eng	checked	date20030502	
+LangTagTermsAndCondChecked	ita	Letto e confermato	date20030502	
+//wichtige Bemerkung !!!	Xxx	Zeilen, die mit LangTagFN... beginnen, duerfen keine Leerzeichen und keine Sonderzeichen enthalten, Nur a-z, A-Z, 0-9 und _ verwenden !!	date20030508	
+LangTagFNAccountHolder	deu	Kontoinhaber	date20030509	
+LangTagFNAccountHolder	eng	AccountHolder	date20030509	
+LangTagFNAccountHolder	ita	Titolare_c_c	date20030509	
+LangTagFNAccountNumber	deu	Kontonummer	date20030509	
+LangTagFNAccountNumber	eng	AccountNumber	date20030509	
+LangTagFNAccountNumber	ita	Numero_c_c	date20030509	
+LangTagFNBankCodeNumber	deu	BLZ	date20030509	
+LangTagFNBankCodeNumber	eng	BankCode	date20030509	
+LangTagFNBankCodeNumber	ita	Coordinate_bancarie	date20030509	
+LangTagFNCreditCard	deu	Kreditinstitut	date20030509	
+LangTagFNCreditCard	eng	CreditCardType	date20030509	
+LangTagFNCreditCard	ita	Istituto_di_credito	date20030509	
+LangTagFNCreditCardHolder	deu	Kreditkarteninhaber	date20030509	
+LangTagFNCreditCardHolder	eng	CreditCardHolder	date20030509	
+LangTagFNCreditCardHolder	ita	Titolare_carta_di_credito	date20030509	
+LangTagFNCreditCardNumber	deu	Kreditkartennummer	date20030509	
+LangTagFNCreditCardNumber	eng	CreditCardNumber	date20030509	
+LangTagFNCreditCardNumber	ita	Numero_carta_di_credito	date20030509	
+LangTagFNFieldAddress	deu	Strasse	date20030509	
+LangTagFNFieldAddress	eng	Address	date20030509	
+LangTagFNFieldAddress	ita	Via	date20030509	
+LangTagFNFieldAddress2	deu	Adressenzusatz	date20030509	
+LangTagFNFieldAddress2	eng	Second_Line	date20030509	
+LangTagFNFieldAddress2	ita	Indirizzo_aggiuntivo	date20030509	
+LangTagFNFieldCity	deu	Ort	date20030509	
+LangTagFNFieldCity	eng	Town_City	date20030509	
+LangTagFNFieldCity	ita	Localita	date20030509	
+LangTagFNFieldCompany	deu	Firma	date20030509	
+LangTagFNFieldCompany	eng	Company	date20030509	
+LangTagFNFieldCompany	ita	Ditta	date20030509	
+LangTagFNFieldEmail	deu	Email	date20030509	
+LangTagFNFieldEmail	eng	Email	date20030509	
+LangTagFNFieldEmail	ita	Email	date20030509	
+LangTagFNFieldFax	deu	Fax	date20030509	
+LangTagFNFieldFax	eng	Fax	date20030509	
+LangTagFNFieldFax	ita	Fax	date20030509	
+LangTagFNFieldFirstName	deu	Vorname	date20030509	
+LangTagFNFieldFirstName	eng	FirstName	date20030509	
+LangTagFNFieldFirstName	ita	Nome	date20030509	
+LangTagFNFieldFormToAddress	deu	Anrede	date20030509	
+LangTagFNFieldFormToAddress	eng	Title	date20030509	
+LangTagFNFieldFormToAddress	ita	Intestazione	date20030509	
+LangTagFNFieldLastName	deu	Nachname	date20030509	
+LangTagFNFieldLastName	eng	LastName	date20030509	
+LangTagFNFieldLastName	ita	Cognome	date20030509	
+LangTagFNFieldPhone	deu	Telefon	date20030509	
+LangTagFNFieldPhone	eng	Phone	date20030509	
+LangTagFNFieldPhone	ita	Telefono	date20030509	
+LangTagFNFieldShippingAddress	deu	Abweichende_Lieferadresse	date20030509	
+LangTagFNFieldShippingAddress	eng	DeliveryAddress	date20030509	
+LangTagFNFieldShippingAddress	ita	Indirizzo_di_consegna_differente	date20030509	
+LangTagFNFieldState	deu	Land	date20030509	
+LangTagFNFieldState	eng	Country_State	date20030509	
+LangTagFNFieldState	ita	Paese	date20030509	
+LangTagFNFieldZipCode	deu	PLZ	date20030509	
+LangTagFNFieldZipCode	eng	Postcode_Zipcode	date20030509	
+LangTagFNFieldZipCode	ita	CAP	date20030509	
+LangTagFNFinancialInstitution	deu	Geldinstitut	date20030509	
+LangTagFNFinancialInstitution	eng	FinancialInstitution	date20030509	
+LangTagFNFinancialInstitution	ita	Istituto_di_credito	date20030509	
+LangTagFNIssueNumber	deu	Pruefnummer	date20030509	
+LangTagFNIssueNumber	eng	IssueNumber_SwitchSolo	date20030509	
+LangTagFNIssueNumber	ita	Numero_di_controllo	date20030509	
+LangTagFNMonthExpirationDate	deu	GueltigkeitMonat	date20030509	
+LangTagFNMonthExpirationDate	eng	ExpirationDateMonth	date20030509	
+LangTagFNMonthExpirationDate	ita	Validita_mese	date20030509	
+LangTagFNSecurityCode	deu	ZweitePruefnummer	date20030509	
+LangTagFNSecurityCode	eng	SecurityCode	date20030509	
+LangTagFNSecurityCode	ita	Numero_di_controllo2	date20030509	
+LangTagFNYearExpirationDate	deu	GueltigkeitJahr	date20030509	
+LangTagFNYearExpirationDate	eng	ExpirationDateYear	date20030509	
+LangTagFNYearExpirationDate	ita	Validità_anno	date20030509	
+LangTagItemData	deu	Artikelbezogene Daten	date20030509	
+LangTagItemData	eng	Item Data	date20030509	
+LangTagItemData	ita	Dati articoli	date20030509	
+LangTagOrderGSShopBuilder	deu	Bestellung GS ShopBuilder	date20030509	
+LangTagOrderGSShopBuilder	eng	Order GS ShopBuilder	date20030509	Alle weiteren Sprachen: Order GS ShopBuilder
+LangTagOrderGSShopBuilder	ita	Ordine GS ShopBuilder	date20030509	do not translate !!!
+LangTagPersonalData	deu	Personenbezogene Daten	date20030509	
+LangTagPersonalData	eng	Personal Data	date20030509	
+LangTagPersonalData	ita	Dati personali	date20030509	
+LangTagFNTermsAndCond	deu	AGB	date20030514	
+LangTagFNTermsAndCond	eng	Conditions	date20030514	
+LangTagFNTermsAndCond	ita	Condizioni_generali_di_vendita	date20030514	
+LangTagGuestbook	deu	G&#228;stebuch	date20030922	
+LangTagGuestbook	eng	Guestbook	date20030922	
+LangTagGuestbook	ita	Guestbook	date20030922	
+L_OnlineShopSlogan	deu	Welcome to our international Online Shop!	date20031201	
+L_OnlineShopSlogan	eng	Welcome to our international Online Shop!	date20031201	
+L_OnlineShopSlogan	ita	Benvenuti nel nostro Online Shop internazionale!	date20031201	
+L_OrderButton	deu	bestellen	date20031201	
+L_OrderButton	eng	order	date20031201	
+L_OrderButton	ita	ordinare	date20031201	
+L_OrderDialog	deu	: Möchten Sie diesen Artikel in den Warenkorb legen ?	date20031201	
+L_OrderDialog	eng	: This item will be stored in the basket?	date20031201	
+L_OrderDialog	ita	: Si desidera deporre questo articolo nel carrello ?	date20031201	
+L_Paperflier	deu	Papierflieger	date20031201	
+L_Paperflier	eng	Paperflier	date20031201	
+L_Paperflier	ita	Aeroplanino di carta 	date20031201	
+L_PaperflierOnlineShop	deu	Paperflieger Shop	date20031201	
+L_PaperflierOnlineShop	eng	Paperflier Online Shop	date20031201	
+L_PaperflierOnlineShop	ita	Online Shop aeroplanini di carta	date20031201	
+L_ProductGroupNewCategory	deu	Neue Warengruppe	date20031202	
+L_ProductGroupNewCategory	eng	New category	date20031202	
+L_ProductGroupNewCategory	ita	Nuova categoria	date20031202	
+L_ProductGroupRecycleBin	deu	Recycle	date20031203	//Lager : die Gelbe Tonne enthaelt die Artikel die in der gerade geloeschten Warengruppe enthalten waren
+L_ProductGroupRecycleBin	eng	Recycle bin	date20031203	//Recycle bin contains the items of the deleted category
+L_ProductGroupRecycleBin	ita	Cestino	date20031203	//Il bidone giallo contiene gli articoli contenuti nella categoria appena cancellata
+LangTagFieldMessage	deu	Weitere Nachricht?	date20040128	
+LangTagFieldMessage	eng	Your message	date20040128	
+LangTagFieldMessage	ita	Altro messaggio?	date20040128	
+LangTagFNFieldFirstNameSender	deu	AbsenderVorname	date20040128	
+LangTagFNFieldFirstNameSender	eng	FirstNameSender	date20040128	
+LangTagFNFieldFirstNameSender	ita	MittenteNome	date20040128	
+LangTagFNFieldLastNameSender	deu	AbsenderNachname	date20040128	
+LangTagFNFieldLastNameSender	eng	LastNameSender	date20040128	
+LangTagFNFieldLastNameSender	ita	MittenteCognome	date20040128	
+LangTagFNFieldMessage	deu	Nachricht	date20040128	
+LangTagFNFieldMessage	eng	Message	date20040128	
+LangTagFNFieldMessage	ita	Messaggio	date20040128	
+LangTagHello	deu	Hallo	date20040128	
+LangTagHello	eng	Hello	date20040128	
+LangTagHello	ita	Ciao	date20040128	
+LangTagSubmit	deu	Abschicken	date20040128	
+LangTagSubmit	eng	Submit	date20040128	
+LangTagSubmit	ita	Invia	date20040128	
+LangTagTellAFriend	deu	Artikel weiterempfehlen	date20040128	
+LangTagTellAFriend	eng	Tell a friend	date20040128	
+LangTagTellAFriend	ita	Consiglia ad un amico	date20040128	
+LangTagYourFriend	deu	Artikel weiterempfehlen an	date20040128	
+LangTagYourFriend	eng	Send product link to	date20040128	
+LangTagYourFriend	ita	Consiglia l´articolo a	date20040128	
+LangTagYourName	deu	Ihr Name	date20040128	
+LangTagYourName	eng	Your name	date20040128	
+LangTagYourName	ita	Il tuo nome	date20040128	
+LangTagCashDiscount	deu	Rabatt (Zahlungsart)	date20040129	
+LangTagCashDiscount	eng	Discount (method of payment)	date20040129	
+LangTagCashDiscount	ita	Sconto (modalità di pagamento)	date20040129	
+LangTagFieldCustomerNR	deu	KundenNr	date20040129	
+LangTagFieldCustomerNR	eng	CustomerNo	date20040129	
+LangTagFieldCustomerNR	ita	NumeroCliente	date20040129	
+LangTagFNFieldTotalAmount	deu	Rechnungsbetrag	date20040129	
+LangTagFNFieldTotalAmount	eng	Invoice_total	date20040129	
+LangTagFNFieldTotalAmount	ita	Importo_totale	date20040129	
+LangTagFNTotalAmount	deu	Rechnungsbetrag	date20040129	
+LangTagFNTotalAmount	eng	Invoice_total	date20040129	
+LangTagFNTotalAmount	ita	Importo_totale	date20040129	
+LangTagOrderContinue	deu	Bestellung fortsetzen	date20040129	
+LangTagOrderContinue	eng	Continue Order	date20040129	
+LangTagOrderContinue	ita	Continua l´ordine	date20040129	
+LangTagPaymentSelection	deu	Zurück zur Versand- und Zahlungsart	date20040129	
+LangTagPaymentSelection	eng	Back to Payment Selection	date20040129	
+LangTagPaymentSelection	ita	Torna alle modalità di pagamento e di spedizione	date20040129	
+LangTagWorldPayPayment	deu	WorldPay Bezahlung OK?	date20040129	
+LangTagWorldPayPayment	eng	WorldPay Payment OK?	date20040129	
+LangTagWorldPayPayment	ita	Pagamento WorldPay OK?	date20040129	
+LangTagFNFieldCustomerNR	deu	KundenNr	date20040130	
+LangTagFNFieldCustomerNR	eng	CustomerNo	date20040130	
+LangTagFNFieldCustomerNR	ita	NumeroCliente	date20040130	
+LangTagTextSaveData	deu	Eingegebene Formulardaten speichern.<br />(Die Daten werden als Cookie abgespeichert.)	date20040131	Tabellenüberschrift buy3.htm
+LangTagTextSaveData	eng	Save the formular data.(Data are saved in a cookie)	date20040131	
+LangTagTextSaveData	ita	Salvare i dati immessi nel modulo d´ ordine.<br />(I dati saranno salvati come cookie)	date20040131	
+LangTagCrossSellingText	deu	Zu diesem Artikel passen auch folgende Produkte	date20040201	
+LangTagCrossSellingText	eng	The following products also fit to this article	date20040201	
+LangTagCrossSellingText	ita	Per il seguente articolo vanno bene anche i seguenti prodotti	date20040201	
+LangTagFrom	deu	ab	date20040201	
+LangTagFrom	eng	min.	date20040201	
+LangTagFrom	ita	min.	date20040201	
+LangTextFieldCustomerNrLogin	deu	Kundennummer	date20040201	
+LangTextFieldCustomerNrLogin	eng	CustomerNumber	date20040201	
+LangTextFieldCustomerNrLogin	ita	NumeroCliente	date20040201	
+LangTextFNFieldCustomerNrLogin	deu	Kundennummer	date20040201	
+LangTextFNFieldCustomerNrLogin	eng	CustomerNumber	date20040201	
+LangTextFNFieldCustomerNrLogin	ita	NumeroCliente	date20040201	
+LangTagFieldLastNameSender	deu	Absender	date20040207	
+LangTagFieldLastNameSender	eng	Sender	date20040207	
+LangTagFieldLastNameSender	ita	Mittente	date20040207	
+LangTagCashInclude	deu	inkl.	date20040211	
+LangTagCashInclude	eng	incl.	date20040211	
+LangTagIncluded	deu	inkl.	date20040213	
+LangTagIncluded	eng	incl.	date20040213	
+LangTagCashInclude	ita	incl.	date20040228	
+LangTagIncluded	ita	incl.	date20040228	
+LangTagItemNumber	deu	ArtikelNr.	date20040302	
+LangTagItemNumber	eng	ProductNo	date20040302	
+LangTagItemNumber	ita	N. articolo	date20040302	
+LangTagPleaseActivateJavascript	deu	The onlineshop needs JavaScript for full functionality.<br />Please activate JavaScript in your browser settings.<br />	date20040304	
+LangTagPleaseActivateJavascript	eng	The onlineshop needs JavaScript for full functionality.<br />Please activate JavaScript in your browser settings.<br />	date20040304	
+LangTagPleaseActivateJavascript	ita	Il negozio online per funzionare correttamente necessita JavaScript.<br />Si prega di attivare JavaScript nelle impostazioni del Vostro browser.<br />	date20040304	
+LangTagFieldShippingCity	deu	Stadt	date20040325	
+LangTagFieldShippingCity	eng	Town/City	date20040325	
+LangTagFieldShippingCity	ita	Località	date20040325	
+LangTagFieldShippingFirstName	deu	Vorname	date20040325	
+LangTagFieldShippingFirstName	eng	First Name	date20040325	
+LangTagFieldShippingFirstName	ita	Nome	date20040325	
+LangTagFieldShippingLastName	deu	Nachname	date20040325	
+LangTagFieldShippingLastName	eng	Last Name	date20040325	
+LangTagFieldShippingLastName	ita	Cognome	date20040325	
+LangTagFieldShippingStreet	deu	Straße	date20040325	
+LangTagFieldShippingStreet	eng	Address	date20040325	
+LangTagFieldShippingStreet	ita	Indirizzo	date20040325	
+LangTagFieldShippingTitle	deu	Abweichende Lieferadresse	date20040325	
+LangTagFieldShippingTitle	eng	Delivery Address	date20040325	
+LangTagFieldShippingTitle	ita	Indirizzo di spedizione	date20040325	
+LangTagFieldShippingZipCode	deu	PLZ	date20040325	
+LangTagFieldShippingZipCode	eng	Postcode/Zipcode	date20040325	
+LangTagFieldShippingZipCode	ita	CAP	date20040325	
+LangTagFNFieldShippingCity	deu	LieferStadt	date20040325	
+LangTagFNFieldShippingCity	eng	DeliveryCity	date20040325	
+LangTagFNFieldShippingCity	ita	Località_spedizione	date20040325	
+LangTagFNFieldShippingFirstName	deu	LieferVorname	date20040325	
+LangTagFNFieldShippingFirstName	eng	DeliveryFirstName	date20040325	
+LangTagFNFieldShippingFirstName	ita	Nome_spedizione	date20040325	
+LangTagFNFieldShippingLastName	deu	LieferNachname	date20040325	
+LangTagFNFieldShippingLastName	eng	DeliveryLastName	date20040325	
+LangTagFNFieldShippingLastName	ita	Cognome_spedizione	date20040325	
+LangTagFNFieldShippingStreet	deu	LieferStrasse	date20040325	
+LangTagFNFieldShippingStreet	eng	DeliveryAddress	date20040325	
+LangTagFNFieldShippingStreet	ita	Indirizzo_spedizione	date20040325	
+LangTagFNFieldShippingZipCode	deu	LieferPLZ	date20040325	
+LangTagFNFieldShippingZipCode	eng	DeliveryPostcode_Zipcode	date20040325	
+LangTagFNFieldShippingZipCode	ita	CAP_spedizione	date20040325	
+LangTagFNIclearDiscount	deu	Rabatt	date20040326	
+LangTagFNIclearDiscount	eng	Discount	date20040326	
+LangTagFNIclearDiscount	ita	Sconto	date20040326	
+LangTagFNIclearPostage	deu	Versandkosten	date20040326	
+LangTagFNIclearPostage	eng	DeliveryCharges	date20040326	
+LangTagFNIclearPostage	ita	Spese_di_spedizione	date20040326	
+LangTagIclearDiscount	deu	Rabatt	date20040326	
+LangTagIclearDiscount	eng	Discount	date20040326	
+LangTagIclearDiscount	ita	Sconto	date20040326	
+LangTagIclearPostage	deu	Versandkosten	date20040326	
+LangTagIclearPostage	eng	Delivery charges	date20040326	
+LangTagIclearPostage	ita	Spese di spedizione	date20040326	
+LangTagNoFrames	deu	Ihr Browser unterstuezt keine Frames (siehe http://www.gs-shopbuilder.com)	date20040926	
+LangTagNoFrames	eng	Your browser does not support frame setting (see FAQ at http://www.gs-shopbuilder.com)	date20040926	
+LangTagNoFrames	ita	Il Vostro browser non supporta le impostazioni frame (vedi FAQ all´indirizzo http://www.gs-shopbuilder.com)	Date20040926	
+ 			date20041202	
+LangTagBillingAddress	deu	Rechnungsanschrift	date20041202	
+LangTagBillingAddress	eng	Billing address	date20041202	
+LangTagBillingAddress	ita	Indirizzo fattura	Date20041202	
+LangTagFieldShippingAddress2	deu	Adressenzusatz	date20041202	
+LangTagFieldShippingAddress2	eng	Address 2	date20041202	
+LangTagFieldShippingAddress2	ita	Indirizzo aggiuntivo	Date20041202	
+LangTagFieldShippingCompany	deu	Lieferfirma	date20041202	
+LangTagFieldShippingCompany	eng	Shipping company	date20041202	
+LangTagFieldShippingCompany	ita	Ditta di spedizione	Date20041202	
+LangTagFieldShippingEmail	deu	Lieferemail	date20041202	
+LangTagFieldShippingEmail	eng	ShippingEmail	date20041202	
+LangTagFieldShippingEmail	ita	Email di spedizione	Date20041202	
+LangTagFNFieldShippingAddress2	deu	LieferAdressenZusatz	date20041202	
+LangTagFNFieldShippingAddress2	eng	ShippingAddress2_	date20041202	
+LangTagFNFieldShippingAddress2	ita	AggiuntaIndirizzoFornitura	Date20041202	
+LangTagFNFieldShippingCompany	deu	Lieferfirma	date20041202	
+LangTagFNFieldShippingCompany	eng	ShippingCompany	date20041202	
+LangTagFNFieldShippingCompany	ita	DittaSpedizione	Date20041202	
+LangTagFNFieldShippingFax	deu	Lieferfax	date20041202	
+LangTagFNFieldShippingFax	eng	ShippingFax	date20041202	
+LangTagFNFieldShippingFax	ita	FaxSpedizione	Date20041202	
+LangTagFNFieldShippingState	deu	Lieferland	date20041202	
+LangTagFNFieldShippingState	eng	ShippingState	date20041202	
+LangTagFNFieldShippingState	ita	PaeseSpedizione	Date20041202	
+LangTagFNFieldShippingTelefon	deu	LieferTelefon	date20041202	
+LangTagFNFieldShippingTelefon	eng	ShippingTelefon	date20041202	
+LangTagFNFieldShippingTelefon	ita	TelefonoSpedizione	Date20041202	
+LangTagShippingAddress	deu	Lieferanschrift	date20041202	
+LangTagShippingAddress	eng	Shipping address	date20041202	
+LangTagShippingAddress	ita	Indirizzo di spedizione	Date20041202	
+LangTagShippingFieldEmail	deu	Lieferemail	date20041202	
+LangTagShippingFieldEmail	eng	Shipping email	date20041202	
+LangTagShippingFieldEmail	ita	Email di spedizione	Date20041202	
+LangTagShippingFieldFax	deu	Lieferfax	date20041202	
+LangTagShippingFieldFax	eng	Shipping fax	date20041202	
+LangTagShippingFieldFax	ita	Fax di spedizione	Date20041202	
+LangTagShippingFieldPhone	deu	Telefon	date20041202	
+LangTagShippingFieldPhone	eng	Shipping phone	date20041202	
+LangTagShippingFieldPhone	ita	Telefono	Date20041202	
+LangTagShippingFieldState	deu	Lieferland	date20041202	
+LangTagShippingFieldState	eng	Shipping country	date20041202	
+LangTagShippingFieldState	ita	Paese di destinazione	Date20041202	
+LangTagTextAddressArea	deu	Länderzone	date20041206	
+LangTagTextAddressArea	eng	Address area	date20041206	
+LangTagTextAddressArea	ita	Zona Paese	Date20041206	
+LangTagTextPaymentAddressArea	deu	Länderzone (Rechnung)	date20041206	
+LangTagTextPaymentAddressArea	eng	Billing to	date20041206	
+LangTagTextPaymentAddressArea	ita	Zona Paese (fattura)	Date20041206	
+LangTagTextShippingAddressArea	deu	Versandgebiet	date20041206	
+LangTagTextShippingAddressArea	eng	Shipping to	date20041206	
+LangTagTextShippingAddressArea	ita	Area di invio	Date20041206	
+LangTagInfoPage	deu	Info	date20041207	LinkMenü/Tabellenüberschrift
+LangTagInfoPage	eng	Info	date20041207	
+LangTagInfoPage	ita	Infomazioni	date20041207	
+LangTagInfoTitleNews	deu	News	date20041207	LinkMenü/Tabellenüberschrift
+LangTagInfoTitleNews	eng	News	date20041207	
+LangTagInfoTitleNews	ita	Novità	date20041207	
+LangTagSearchAllWordsAnd	deu	Alle Wörter (AND)	date20041207	
+LangTagSearchAllWordsAnd	eng	All words (AND)	date20041207	
+LangTagSearchAllWordsAnd	ita	Tutte le parole (AND)	date20041207	
+LangTagSearchOneWordOr	deu	Ein Wort (OR)	date20041207	
+LangTagSearchOneWordOr	eng	One Word (OR)	date20041207	
+LangTagSearchOneWordOr	ita	Una parola (OR)	date20041207	
+LangTagFieldBuy2Message	deu	Weitere Nachricht	date20041209	
+LangTagFieldBuy2Message	eng	Your message	date20041209	
+LangTagFieldBuy2Message	ita	Altro messaggio	date20041209	
+LangTagFieldEmailFormat	deu	Gewünschtes Format der Bestätigungsemail	date20041209	
+LangTagFieldEmailFormat	eng	Email format	date20041209	
+LangTagFieldEmailFormat	ita	Formato desiderato della E-Mail di conferma	date20041209	
+LangTagFieldTellMessage	deu	Weitere Nachricht?	date20041209	
+LangTagFieldTellMessage	eng	Your message	date20041209	
+LangTagFieldTellMessage	ita	Altro messaggio?	date20041209	
+LangTagFNFieldBuy2Message	deu	Nachricht	date20041209	
+LangTagFNFieldBuy2Message	eng	Message	date20041209	
+LangTagFNFieldBuy2Message	ita	Messaggio	date20041209	
+LangTagFNFieldEmailFormat	deu	EmailFormat	date20041209	
+LangTagFNFieldEmailFormat	eng	EmailFormat	date20041209	
+LangTagFNFieldEmailFormat	ita	Formato E-Mail	date20041209	
+LangTagFNFieldShippingFormToAddress	deu	LieferAnrede	date20041209	
+LangTagFNFieldShippingFormToAddress	eng	ShippingFormToAddress	date20041209	
+LangTagFNFieldShippingFormToAddress	ita	IntestazioneFornitura	date20041209	
+LangTagMr	deu	Herr	date20041209	
+LangTagMr	eng	Mr	date20041209	
+LangTagMr	ita	Signor	date20041209	
+LangTagMrs	deu	Frau	date20041209	
+LangTagMrs	eng	Mrs	date20041209	
+LangTagMrs	ita	Signora	date20041209	
+LangTagErrorMissingRootPathFile	deu	Web-Server-Fehler - missing root path file!	date20041210	
+LangTagErrorMissingRootPathFile	eng	Web-server-error - missing root path file!!	date20041210	
+LangTagErrorMissingRootPathFile	ita	Errore Web-server - missing root path file!!	date20041210	
+LangTagFieldPID	deu	AuftragsNr	date20041213	
+LangTagFieldPID	eng	OderNo	date20041213	
+LangTagFieldPID	ita	OrdineNr	date20041213	
+LangTagFNFieldCashDiscountPercent	deu	Skonto	date20041213	
+LangTagFNFieldCashDiscountPercent	eng	Discount	date20041213	
+LangTagFNFieldCashDiscountPercent	ita	Sconto	date20041213	
+LangTagFNFieldDelivery	deu	Versandart	date20041213	
+LangTagFNFieldDelivery	eng	DeliveryMode	date20041213	
+LangTagFNFieldDelivery	ita	Modalità di spedizione	date20041213	
+LangTagFNFieldLocDiscount	deu	Rabatt	date20041213	
+LangTagFNFieldLocDiscount	eng	Discount	date20041213	
+LangTagFNFieldLocDiscount	ita	Scontp	date20041213	
+LangTagFNFieldLocTotal	deu	Summe	date20041213	
+LangTagFNFieldLocTotal	eng	OrderTotal	date20041213	
+LangTagFNFieldLocTotal	ita	Totale	date20041213	
+LangTagFNFieldLongVat	deu	MwSt	date20041213	
+LangTagFNFieldLongVat	eng	VAT	date20041213	
+LangTagFNFieldLongVat	ita	IVA	date20041213	
+LangTagFNFieldPayment	deu	Zahlungsart	date20041213	
+LangTagFNFieldPayment	eng	Payment	date20041213	
+LangTagFNFieldPayment	ita	Modalità di pagamento	date20041213	
+LangTagFNFieldPaymentCharge	deu	Gebühr	date20041213	
+LangTagFNFieldPaymentCharge	eng	Charge	date20041213	
+LangTagFNFieldPaymentCharge	ita	Imposta	date20041213	
+LangTagFNFieldPID	deu	Auftragsnummer	date20041213	
+LangTagFNFieldPID	eng	Ordernumber	date20041213	
+LangTagFNFieldPID	ita	Numero_d´ordine	date20041213	
+LangTagFNFieldPostage	deu	Versandkosten	date20041213	
+LangTagFNFieldPostage	eng	DeliveryCharges	date20041213	
+LangTagFNFieldPostage	ita	Spese_di_spedizione	date20041213	
+LangTagFNFieldQuantity	deu	Menge	date20041213	
+LangTagFNFieldQuantity	eng	Quantity	date20041213	
+LangTagFNFieldQuantity	ita	Quantita	date20041213	
+LangTagFNFieldSender	deu	Absender	date20041213	
+LangTagFNFieldSender	eng	Sender	date20041213	
+LangTagFNFieldSender	ita	Mittente	date20041213	
+LangTagFNFieldShippingAddressArea	deu	Versandgebiet	date20041213	
+LangTagFNFieldShippingAddressArea	eng	ShippingTo	date20041213	
+LangTagFNFieldShippingAddressArea	ita	Area_spedizione	date20041213	
+LangTagFNFieldShortVat	deu	MwSt	date20041213	
+LangTagFNFieldShortVat	eng	VAT	date20041213	
+LangTagFNFieldShortVat	ita	IVA	date20041213	
+LangTagFNFieldTextItem	deu	Artikel	date20041213	
+LangTagFNFieldTextItem	eng	Items	date20041213	
+LangTagFNFieldTextItem	ita	Articoli	date20041213	
+LangTagFNFieldTextUnitPrice	deu	Einzelpreis	date20041213	
+LangTagFNFieldTextUnitPrice	eng	UnitPrice	date20041213	
+LangTagFNFieldTextUnitPrice	ita	Prezzo unitario	date20041213	
+LangTagFNFieldTotalPrice	deu	Gesamtpreis	date20041213	
+LangTagFNFieldTotalPrice	eng	TotalPrice	date20041213	
+LangTagFNFieldTotalPrice	ita	Totale	date20041213	
+LangTagAddress	deu	Anschrift	date20041215	
+LangTagAddress	eng	Address	date20041215	
+LangTagAddress	ita	Indirizzo	date20041215	
+LangTagEmailFormatText	deu	Text	date20041215	
+LangTagEmailFormatText	eng	Text	date20041215	
+LangTagEmailFormatText	ita	Testo	date20041215	
+LangTagName	deu	Name	date20041215	
+LangTagName	eng	Name	date20041215	
+LangTagName	ita	Cognome	date20041215	
+LangTagWeightUnit	deu	kg	date20041220	
+LangTagWeightUnit	eng	kg	date20041220	
+LangTagWeightUnit	ita	kg	date20041220	
+LangTagFieldFirmVATId	deu	UstID	date20041221	
+LangTagFieldFirmVATId	eng	Tax Number	date20041221	
+LangTagFieldFirmVATId	ita	Codice fiscale	date20041221	
+LangTagFNFieldFirmVATId	deu	UstID	date20041221	
+LangTagFNFieldFirmVATId	eng	TaxNumber	date20041221	
+LangTagFNFieldFirmVATId	ita	Codice fiscale	date20041221	
+LangTagNoVariantDetail	deu	Zu dieser Variante ist keine Detailseite vorhanden.	date20050104	
+LangTagNoVariantDetail	eng	No detail page available for this variant.	date20050104	
+LangTagNoVariantDetail	ita	Nessuna pagina dettagli disponibile per questa variante	date20050104	
+LangTagTextPreview	deu	Template-Vorschau	date20050104	
+LangTagTextPreview	eng	Template preview	date20050104	
+LangTagTextPreview	ita	Anteprima Template	date20050104	
+LangTagFNFieldSubTotal	deu	Zwischensumme	date20050106	
+LangTagFNFieldSubTotal	eng	Subtotal	date20050106	
+LangTagFNFieldSubTotal	ita	Subtotale	date20050106	
+LangTagFNSubTotal	deu	Zwischensumme	date20050106	
+LangTagFNSubTotal	eng	Subtotal	date20050106	
+LangTagFNSubTotal	ita	Subtotale	date20050106	
+LangTagTextGoodsValue	deu	Warenwert	date20050111	
+LangTagTextGoodsValue	eng	Value of goods 	date20050111	
+LangTagTextGoodsValue	ita	Valore merce	date20050111	
+LangTagAdressData	deu	Adressdaten	date20050112	
+LangTagAdressData	eng	Address Data	date20050112	
+LangTagAdressData	ita	Dati di indirizzo	date20050112	
+LangTagChangeAddress	deu	Adressdaten ändern	date20050112	
+LangTagChangeAddress	eng	Change Address Data	date20050112	
+LangTagChangeAddress	ita	Modifica i dati di indirizzo	date20050112	
+LangTagSave	deu	Speichern	date20050112	
+LangTagSave	eng	Save	date20050112	
+LangTagSave	ita	Salva	date20050112	
+LangTagTextAdressData	deu	Sie haben hier die Möglichkeit, Ihre bei uns gespeicherten Adressdaten zu ändern. <br />Ändern Sie Ihre Angaben und klicken Sie anschließend auf "Speichern". <br />Die mit * gekennzeichneten Felder sind zwingend auszufüllen.	date20050112	
+LangTagTextAdressData	eng	You may change here your address data saved on our database server. <br />* fields must be filled	date20050112	
+LangTagTextAdressData	ita	Qui si ha la possibilità di modificare i dati di indirizzo memorizzati. <br />Modificare le indicazioni e successivamente fare clic su "Salva". <br />I campi contrassegnati con * sono campi obbligatori.	date20050112	
+LangTagTextCustomerLogin	deu	Kundenlogin	date20050112	
+LangTagTextCustomerLogin	eng	Customer login	date20050112	
+LangTagTextLogin	deu	Login	date20050112	
+LangTagTextLogin	eng	Login	date20050112	
+LangTagTextLogin	ita	Login	date20050112	
+LangTagTextLogout	deu	Logout	date20050112	
+LangTagTextLogout	eng	Logout	date20050112	
+LangTagTextLogout	ita	Logout	date20050112	
+LangTagTextPassword	deu	Passwort	date20050112	
+LangTagTextPassword	eng	Password	date20050112	
+LangTagTextPassword	ita	Password	date20050112	
+LangTagTextUser	deu	Benutzername	date20050112	
+LangTagTextUser	eng	User	date20050112	
+LangTagTextUser	ita	Utente	date20050112	
+LangTagTextLoginError	deu	Login fehlgeschlagen.	date20050113	
+LangTagTextLoginError	eng	Login failed	date20050113	
+LangTagTextLoginError	ita	Login non riuscito	date20050113	
+LangTagTextLoginWelcome	deu	Willkommen	date20050113	
+LangTagTextLoginWelcome	eng	Welcome	date20050113	
+LangTagTextLoginWelcome	ita	Benvenuto	date20050113	
+LangTagDescription	deu	Beschreibung	date20050114	
+LangTagDescription	eng	Description	date20050114	
+LangTagDescription	ita	Descrizione	date20050114	
+LangTagManufacturer	deu	Hersteller	date20050114	
+LangTagManufacturer	eng	Manufacturer	date20050114	
+LangTagManufacturer	ita	Produttore	date20050114	
+LangTagRequest	deu	Anfrage	date20050114	
+LangTagRequest	eng	Request	date20050114	
+LangTagRequest	ita	Richiesta	date20050114	
+LangTagRequestFormular	deu	Anfrageformular	date20050114	
+LangTagRequestFormular	eng	Request Formular	date20050114	
+LangTagRequestFormular	ita	Modulo richiesta	date20050114	
+LangTagRequestSubmit	deu	Anfrage abschicken	date20050114	
+LangTagRequestSubmit	eng	Submit Request	date20050114	
+LangTagRequestSubmit	ita	Invia richiesta	date20050114	
+LangTagRequestText	deu	2. Bitte füllen Sie das folgende Anfrageformular aus (*Felder bitte unbedingt angeben) und drücken Sie den ´Anfrage abschicken´ Knopf.	date20050114	
+LangTagRequestText	eng	2. Please enter the information below (*text fields are required). To complete your request click on ´Submit Request´.	date20050114	
+LangTagRequestText	ita	2.  Compilare il seguente modulo di richiesta  (i campi * sono obbligatori) e premere il pulsante ´Invia richiesta´.	date20050114	
+LangTagTextChangePassword	deu	Passwort ändern	date20050114	
+LangTagTextChangePassword	eng	Change Password	date20050114	
+LangTagTextChangePassword	ita	Modifica password	date20050114	
+LangTagTextPasswordNew	deu	Neues Password	date20050114	
+LangTagTextPasswordNew	eng	New Password	date20050114	
+LangTagTextPasswordNew	ita	Nuova password	date20050114	
+LangTagTextPasswordOld	deu	Altes Passwort	date20050114	
+LangTagTextPasswordOld	eng	Old Password	date20050114	
+LangTagTextPasswordOld	ita	Password precedente	date20050114	
+LangTagTextRepetition	deu	Wiederholung des Passworts	date20050114	
+LangTagTextRepetition	eng	Repeat Password	date20050114	
+LangTagTextRepetition	ita	Ripetere password	date20050114	
+LangTagMsgChangePasswordEmptyPasswordError	deu	Das Passwort sollte mindestens 6 Zeichen enthalten.	date20050116	
+LangTagMsgChangePasswordEmptyPasswordError	eng	Password too short (min. 6 characters).	date20050116	
+LangTagMsgChangePasswordEmptyPasswordError	ita	La password deve essere di almeno 6 caratteri.	date20050116	
+LangTagMsgChangePasswordNotFoundError	deu	Passwort nicht gefunden.	date20050116	
+LangTagMsgChangePasswordNotFoundError	eng	Password not found.	date20050116	
+LangTagMsgChangePasswordNotFoundError	ita	Password non trovata.	date20050116	
+LangTagMsgChangePasswordRepetitionError	deu	Falsches Passwort.	date20050116	
+LangTagMsgChangePasswordRepetitionError	eng	Wrong password.	date20050116	
+LangTagMsgChangePasswordRepetitionError	ita	Password errata.	date20050116	
+LangTagMsgChangePasswordSuccess	deu	Passwort ist geändert.	date20050116	
+LangTagMsgChangePasswordSuccess	eng	Password was changed.	date20050116	
+LangTagMsgChangePasswordSuccess	ita	La password è stata modificata.	date20050116	
+LangTagMsgChangePasswordUpdateError	deu	Fehler beim Ändern.	date20050116	
+LangTagMsgChangePasswordUpdateError	eng	Password update error.	date20050116	
+LangTagMsgChangePasswordUpdateError	ita	Errore durante la modifica.	date20050116	
+LangTagCloseAll	deu	alle schließen	date20050126	
+LangTagCloseAll	eng	close all	date20050126	
+LangTagCloseAll	ita	chiudi tutto	date20050126	
+LangTagOpenAll	deu	alle öffnen	date20050126	
+LangTagOpenAll	eng	open all	date20050126	
+LangTagOpenAll	ita	apri tutto	date20050126	
+LangTagSearchProductGroups	deu	Warengruppe(n)	date20050126	
+LangTagSearchProductGroups	eng	product group(s)	date20050126	
+LangTagSearchProductGroups	ita	Categorie	date20050126	
+LangTagLastItem	deu	Artikel	date20050310	
+LangTagLastItem	eng	Item	date20050310	
+LangTagLastItem	ita	Articolo	date20050310	
+LangTagLastItem1	deu	Artikel	date20050310	
+LangTagLastItem1	eng	Item	date20050310	
+LangTagLastItem1	ita	Articolo	date20050310	
+LangTagLastItemPrice	deu	Preis	date20050310	
+LangTagLastItemPrice	eng	Price	date20050310	
+LangTagLastItemPrice	ita	Prezzo	date20050310	
+LangTagLastViewedItem	deu	Angesehene Artikel	date20050310	
+LangTagLastViewedItem	eng	Last viewed items	date20050310	
+LangTagLastViewedItem	ita	Articoli visitati	date20050310	
+LangTagB2BLogout	deu	Logout	date20050412	
+LangTagB2BLogout	eng	Logout	date20050412	
+LangTagB2BLogout	ita	Logout	date20050412	
+LangTagLogout	deu	Logout	date20050412	
+LangTagLogout	eng	Logout	date20050412	
+LangTagLogout	ita	Logout	date20050412	
+LangTagRequestGSShopBuilder	deu	Anfrage GS ShopBuilder	date20050414	
+LangTagRequestGSShopBuilder	eng	Request GS ShopBuilder	date20050414	
+LangTagRequestGSShopBuilder	ita	Richiesta GS ShopBuilder	date20050414	
+LangTagStart	deu	Start	date20050414	
+LangTagStart	eng	Start	date20050414	
+LangTagStart	ita	Start	date20050414	
+LangTagFAQ	deu	Fragen	date20050601	
+LangTagFAQ	eng	FAQ	date20050601	
+LangTagFAQ	ita	FAQ	date20050601	
+LangTagFromNew	deu	ab	date20050601	
+LangTagFromNew	eng	from 	date20050601	
+LangTagFromNew	ita	dal	date20050601	
+LangTagGallery	deu	Galerie 	date20050601	
+LangTagGallery	eng	Gallery	date20050601	
+LangTagGallery	ita	Galleria	date20050601	
+LangTagItemUnit	deu	Einh. 	date20050601	
+LangTagItemUnit	eng	Pck.	date20050601	
+LangTagItemUnit	ita	Un.	date20050601	
+LangTagLinks	deu	Links 	date20050601	
+LangTagLinks	eng	Links 	date20050601	
+LangTagLinks	ita	Links 	date20050601	
+LangTagSpecials	deu	Sonderaktionen 	date20050601	
+LangTagSpecials	eng	Specials	date20050601	
+LangTagSpecials	ita	Offerte speciali	date20050601	
+LangTagVacations	deu	Urlaubszeiten 	date20050601	
+LangTagVacations	eng	Vacations 	date20050601	
+LangTagVacations	ita	Vacanze	date20050601	
+LangTagWeightTotal	deu	Warengewicht 	date20050601	
+LangTagWeightTotal	eng	Net weight 	date20050601	
+LangTagWeightTotal	ita	Peso merce	date20050601	
+//LangTagCookie	deu	Für unser Login sind Cookies erforderlich. Bitte aktivieren Sie Cookies in Ihren Browserseinstellungen	date20050869	
+//LangTagCookie	eng	Please activate Cookies in your browser settings.	date20050869	
+LangTagCookie	deu	Für unser Login sind Cookies erforderlich. Bitte aktivieren Sie Cookies in Ihren Browserseinstellungen	date20051003	
+LangTagCookie	eng	Please activate Cookies in your browser settings.	date20051003	
+LangTagCookie	ita	Per il nostro Login sono necessari i cookies. Si prega di attivare i cookies nelle impostazioni del Vostro browser.	date20051003	
+LangTagInclusiveVatAndExcludingDelivery	deu	inkl. MwSt. zzgl. Versandkosten	date20051003	
+LangTagInclusiveVatAndExcludingDelivery	eng	inc. VAT and excluding delivery	date20051003	
+LangTagInclusiveVatAndExcludingDelivery	ita	incl. IVA e spese di spedizione escluse	date20051003	
+LangTagAccountData	deu	Kontodaten	date20051012	
+LangTagAccountData	eng	Account data	date20051012	
+LangTagAccountData	ita	Cati c/c	date20051012	
+LangTagAutoCrossSelling	deu	Kunden, die diesen Artikel bestellt haben, haben auch bestellt...	date20051012	
+LangTagAutoCrossSelling	eng	Customer, who order this article, order also...	date20051012	
+LangTagAutoCrossSelling	ita	I clienti che hanno ordinato questo articolo, hanno ordinato anche...	date20051012	
+LangTagBestseller	deu	Bestseller	date20051012	
+LangTagBestseller	eng	Bestseller	date20051012	
+LangTagBestseller	ita	Committente	date20051012	
+LangTagCoupon	deu	Gutschein	date20051012	
+LangTagCoupon	eng	coupon	date20051012	
+LangTagCoupon	ita	Buono	date20051012	
+LangTagCouponCode	deu	Gutschein Code	date20051012	
+LangTagCouponCode	eng	coupon code	date20051012	
+LangTagCouponCode	ita	Codice buono	date20051012	
+LangTagCouponText	deu	Sie haben hier die Möglichkeit Ihren Gutschein einzulösen. Tragen Sie den Gutscheincode ein und klicken Sie auf "ok".	date20051012	
+LangTagCouponText	eng	You are able to honor a coupon here. Enter your coupon´s number and press "ok".	date20051012	
+LangTagCouponText	ita	Qui si ha la possibilità di poter riscuotere quanto previsto dal buono. Inserire il codice e fare clic su "ok".	date20051012	
+LangTagExtendedSearch	deu	Suche	date20051012	
+LangTagExtendedSearch	eng	Search	date20051012	
+LangTagExtendedSearch	ita	Cerca	date20051012	
+LangTagExtendedSearchText	deu	Die erweiterte Suche bietet Ihnen die Möglichkeit, Ihre Suche feiner einzugrenzen.	date20051012	
+LangTagExtendedSearchText	eng	The extended search allows you to precise your search criteria.	date20051012	
+LangTagExtendedSearchText	ita	La ricerca avanzata consente di poter effettuare una ricerca più precisa.	date20051012	
+LangTagFieldDiscount	deu	Kundenrabatt	date20051012	
+LangTagFieldDiscount	eng	Customer allowance	date20051012	
+LangTagFieldDiscount	ita	Sconto cliente	date20051012	
+LangTagFNFieldValue	deu	Wert	date20051012	
+LangTagFNFieldValue	eng	value	date20051012	
+LangTagFNFieldValue	ita	Valore	date20051012	
+LangTagHonor	deu	einlösen	date20051012	
+LangTagHonor	eng	honor	date20051012	
+LangTagHonor	ita	riscuoti	date20051012	
+LangTagHonorCoupon	deu	Gutschein einlösen	date20051012	
+LangTagHonorCoupon	eng	honor coupon	date20051012	
+LangTagHonorCoupon	ita	Riscuoti buono	date20051012	
+LangTagOk	deu	OK	date20051012	
+LangTagOk	eng	OK	date20051012	
+LangTagOk	ita	OK	date20051012	
+LangTagOnlyOneCoupon	deu	Es kann nur ein Gutschein eingelöst werden!	date20051012	
+LangTagOnlyOneCoupon	eng	You can only use one coupon!	date20051012	
+LangTagOnlyOneCoupon	ita	È possibile riscuotere un solo buono!	date20051012	
+LangTagOrderData	deu	Bestellungen	date20051012	
+LangTagOrderData	eng	order data	date20051012	
+LangTagOrderData	ita	Ordini	date20051012	
+LangTagTextChgCData	deu	Kundendaten ändern	date20051012	
+LangTagTextChgCData	eng	change customer data	date20051012	
+LangTagTextChgCData	ita	Modifica dati cliente	date20051012	
+LangTagTextOrderData	deu	Sie haben hier die Möglichkeit, Ihre letzten Bestellungen einzusehen.	date20051012	
+LangTagTextOrderData	eng	Here you are able to view your last orderdata.	date20051012	
+LangTagTextOrderData	ita	Qui si ha la possibilità di poter visualizzare gli ultimi ordini effettuati.	date20051012	
+LangTagViewOrderData	deu	Bestellungen einsehen	date20051012	
+LangTagViewOrderData	eng	view order data	date20051012	
+LangTagViewOrderData	ita	Visualizza ordini	date20051012	
+LangTagWrongCouponCode	deu	Der eingetragende Gutscheincode ist uns nicht bekannt!	date20051012	
+LangTagWrongCouponCode	eng	The entered coupon number is not valid! 	date20051012	
+LangTagWrongCouponCode	ita	Il codice buono immesso non è valido! 	date20051012	
+LangTagFromPrice	deu	von	date20051013	
+LangTagFromPrice	eng	from	date20051013	
+LangTagFromPrice	ita	da	date20051013	
+LangTagItemDescriptionKeyword	deu	Artikelbeschreibung/Stichwort	date20051013	
+LangTagItemDescriptionKeyword	eng	Item Description/Keyword	date20051013	
+LangTagItemDescriptionKeyword	ita	Descrizione articolo/Parola chiave	date20051013	
+LangTagOnlySpecialItems	deu	nur Sonderposten	date20051013	
+LangTagOnlySpecialItems	eng	only special items	date20051013	
+LangTagOnlySpecialItems	ita	solo articoli speciali	date20051013	
+LangTagReset	deu	Eingaben löschen	date20051013	
+LangTagReset	eng	Reset inputs	date20051013	
+LangTagReset	ita	Cancella immissione	date20051013	
+LangTagStartSearch	deu	Suche starten	date20051013	
+LangTagStartSearch	eng	Start search	date20051013	
+LangTagStartSearch	ita	Avvia ricerca	date20051013	
+LangTagTo	deu	bis	date20051013	
+LangTagTo	eng	to	date20051013	
+LangTagTo	ita	fino a	date20051013	
+LangTagManufacturerNo	deu	Herstellernummer	date20051020	
+LangTagManufacturerNo	eng	Manufacturer No.	date20051020	
+LangTagManufacturerNo	ita	N. produttore	date20051020	
+LangTagNoSearchResults	deu	Die Suche ergab keine Ergebnisse	date20051020	
+LangTagNoSearchResults	eng	There are no search results	date20051020	
+LangTagNoSearchResults	ita	La ricerca non ha prodotto risultati	date20051020	
+LangTagResultsExtendedSearch	deu	Resultate der erweiterten Suche	date20051020	
+LangTagResultsExtendedSearch	eng	Results of the extended search	date20051020	
+LangTagResultsExtendedSearch	ita	Risultati della ricerca avanzata	date20051020	
+LangTagSearchCriteria	deu	Suchkriterien	date20051020	
+LangTagSearchCriteria	eng	search criteria	date20051020	
+LangTagSearchCriteria	ita	Criteri di ricerca	date20051020	
+LangTagFieldName	deu	Name	date20051024	
+LangTagFieldName	eng	Name	date20051024	
+LangTagFieldName	ita	Cognome	date20051024	
+LangTagFieldZipCodeCity	deu	PLZ/Ort	date20051024	
+LangTagFieldZipCodeCity	eng	Zip code/City	date20051024	
+LangTagFieldZipCodeCity	ita	CAP/Località	date20051024	
+LangTagFNFieldImage	deu	Bild	date20051025	
+LangTagFNFieldImage	eng	Image	date20051025	
+LangTagFNFieldImage	ita	Immagine	date20051025	
+LangTagDear	deu	Sehr geehrte/r	date20051026	
+LangTagDear	eng	Dear	date20051026	
+LangTagDear	ita	Gentile	date20051026	
+LangTagYourOrderData	deu	Ihre Bestelldaten	date20051027	
+LangTagYourOrderData	eng	Your order data	date20051027	
+LangTagYourOrderData	ita	I Vostri dati d´ordine	date20051027	
+LangTagCouponCashed	deu	Gutschein eingelöst!	date20051031	
+LangTagCouponCashed	eng	Coupon cashed	date20051031	
+LangTagCouponCashed	ita	Buono riscosso	date20051031	
+LangTagFinancialInstitution	deu	Geldinstitut	date20051102	
+LangTagFinancialInstitution	eng	Financial institution	date20051102	
+LangTagFinancialInstitution	ita	Istituto di credito	date20051102	
+LangTagValue	deu	Wert	date20051102	
+LangTagValue	eng	value	date20051102	
+LangTagValue	ita	Valore	date20051102	
+LangTagEmailFormat	deu	EmailFormat	date20051103	
+LangTagEmailFormat	eng	EmailFormat	date20051103	
+LangTagEmailFormat	ita	Formato E-Mail	date20051103	
+LangTagFieldDelivery	deu	Versandart	date20051103	
+LangTagFieldDelivery	eng	DeliveryMode	date20051103	
+LangTagFieldDelivery	ita	Modalità di spedizione	date20051103	
+LangTagFieldLocDiscount	deu	Rabatt	date20051103	
+LangTagFieldLocDiscount	eng	Discount	date20051103	
+LangTagFieldLocDiscount	ita	Sconto	date20051103	
+LangTagFieldLocTotal	deu	Summe	date20051103	
+LangTagFieldLocTotal	eng	OrderTotal	date20051103	
+LangTagFieldLocTotal	ita	Totale	date20051103	
+LangTagFieldMessage2	deu	Nachricht	date20051103	
+LangTagFieldMessage2	eng	Message	date20051103	
+LangTagFieldMessage2	ita	Messaggio	date20051103	
+LangTagFieldPayment	deu	Zahlungsart	date20051103	
+LangTagFieldPayment	eng	Payment	date20051103	
+LangTagFieldPayment	ita	Modalità di pagamento	date20051103	
+LangTagFieldPaymentCharge	deu	Gebühr	date20051103	
+LangTagFieldPaymentCharge	eng	Charge	date20051103	
+LangTagFieldPaymentCharge	ita	Imposta	date20051103	
+LangTagFieldPostage	deu	Versandkosten	date20051103	
+LangTagFieldPostage	eng	DeliveryCharges	date20051103	
+LangTagFieldPostage	ita	Spese di spedizione	date20051103	
+LangTagFieldSender	deu	Absender	date20051103	
+LangTagFieldSender	eng	Sender	date20051103	
+LangTagFieldSender	ita	Mittente	date20051103	
+LangTagFieldShippingAddressArea	deu	Versandgebiet	date20051103	
+LangTagFieldShippingAddressArea	eng	ShippingTo	date20051103	
+LangTagFieldShippingAddressArea	ita	Area di spedizione	date20051103	
+LangTagFieldShortVat	deu	MwSt	date20051103	
+LangTagFieldShortVat	eng	VAT	date20051103	
+LangTagFieldShortVat	ita	IVA	date20051103	
+LangTagFieldTextUnitPrice	deu	Einzelpreis	date20051103	
+LangTagFieldTextUnitPrice	eng	UnitPrice	date20051103	
+LangTagFieldTextUnitPrice	ita	Prezzo unitario	date20051103	
+LangTagFieldTotalAmount	deu	Rechnungsbetrag	date20051103	
+LangTagFieldTotalAmount	eng	Invoice_total	date20051103	
+LangTagFieldTotalAmount	ita	Importo fattura	date20051103	
+LangTagFieldTotalPrice	deu	Gesamtpreis	date20051103	
+LangTagFieldTotalPrice	eng	TotalPrice	date20051103	
+LangTagFieldTotalPrice	ita	Totale	date20051103	
+LangTagFieldQuantity	deu	Menge	date20051104	
+LangTagFieldQuantity	eng	Quantity	date20051104	
+LangTagFieldQuantity	ita	Quantità	date20051104	
+LangTagTextPosition	deu	Position	date20051107	
+LangTagTextPosition	eng	position	date20051107	
+LangTagTextPosition	ita	Posizione	date20051107	
+LangTagPrint	deu	Seite drucken	date20051111	
+LangTagPrint	eng	Print page	date20051111	
+LangTagPrint	ita	Stampa pagina	date20051111	
+LangTagToTheTop	deu	Zum Seitenanfang	date20051111	
+LangTagToTheTop	eng	To the top	date20051111	
+LangTagToTheTop	ita	Inizio pagina	date20051111	
+LangTagBrand	deu	Marke	date20051230	
+LangTagBrand	eng	Brand	date20051230	
+LangTagBrand	ita	Marca	date20051230	
+LangTagEAN	deu	EAN	date20051230	
+LangTagEAN	eng	EAN	date20051230	
+LangTagEAN	ita	EAN	date20051230	
+LangTagEANISBN	deu	EAN/ISBN	date20051230	
+LangTagEANISBN	eng	EAN/ISBN	date20051230	
+LangTagEANISBN	ita	EAN/ISBN	date20051230	
+LangTagISBN	deu	ISBN	date20051230	
+LangTagISBN	eng	ISBN	date20051230	
+LangTagISBN	ita	ISBN	date20051230	
+LangTagManufacturerProductCode	deu	Herstellernummer	date20051230	
+LangTagManufacturerProductCode	eng	Manufacturer	date20051230	
+LangTagManufacturerProductCode	ita	Codice produttore	date20051230	
+LangTagOldPrice	deu	Alter Preis	date20051230	
+LangTagOldPrice	eng	Old Price	date20051230	
+LangTagOldPrice	ita	Prezzo precedente	date20051230	
+LangTagReferencePrice	deu	Grundpreis	date20051230	
+LangTagReferencePrice	eng	Reference Price	date20051230	
+LangTagReferencePrice	ita	Prezzo base	date20051230	
+LangTagSelectArgentina	deu	Argentinien	date20051230	
+LangTagSelectArgentina	eng	Argentina	date20051230	
+LangTagSelectArgentina	ita	Argentina	date20051230	
+LangTagSelectAustralia	deu	Australien	date20051230	
+LangTagSelectAustralia	eng	Australia	date20051230	
+LangTagSelectAustralia	ita	Australia	date20051230	
+LangTagSelectAustria	deu	Österreich	date20051230	
+LangTagSelectAustria	eng	Austria	date20051230	
+LangTagSelectAustria	ita	Austria	date20051230	
+LangTagSelectBelgium	deu	Belgien	date20051230	
+LangTagSelectBelgium	eng	Belgium	date20051230	
+LangTagSelectBelgium	ita	Belgio	date20051230	
+LangTagSelectCanada	deu	Kanada	date20051230	
+LangTagSelectCanada	eng	Canada	date20051230	
+LangTagSelectCanada	ita	Canada	date20051230	
+LangTagSelectCyprus	deu	Zypern	date20051230	
+LangTagSelectCyprus	eng	Cyprus	date20051230	
+LangTagSelectCyprus	ita	Cipro	date20051230	
+LangTagSelectCzechRep	deu	Tschechien	date20051230	
+LangTagSelectCzechRep	eng	Czech Republic	date20051230	
+LangTagSelectCzechRep	ita	Repubblica Ceca	date20051230	
+LangTagSelectDenmark	deu	Dänemark	date20051230	
+LangTagSelectDenmark	eng	Denmark	date20051230	
+LangTagSelectDenmark	ita	Danimarca	date20051230	
+LangTagSelectEstonia	deu	Estland	date20051230	
+LangTagSelectEstonia	eng	Estonia	date20051230	
+LangTagSelectEstonia	ita	Estonia	date20051230	
+LangTagSelectFinland	deu	Finnland	date20051230	
+LangTagSelectFinland	eng	Finland	date20051230	
+LangTagSelectFinland	ita	Finlandia	date20051230	
+LangTagSelectFrance	deu	Frankreich	date20051230	
+LangTagSelectFrance	eng	France	date20051230	
+LangTagSelectFrance	ita	Francia	date20051230	
+LangTagSelectGreece	deu	Griechenland	date20051230	
+LangTagSelectGreece	eng	Greece	date20051230	
+LangTagSelectGreece	ita	Grecia	date20051230	
+LangTagSelectHungary	deu	Ungarn	date20051230	
+LangTagSelectHungary	eng	Hungary	date20051230	
+LangTagSelectHungary	ita	Ungheria	date20051230	
+LangTagSelectIceland	deu	Island	date20051230	
+LangTagSelectIceland	eng	Iceland	date20051230	
+LangTagSelectIceland	ita	Islanda	date20051230	
+LangTagSelectIreland	deu	Irland	date20051230	
+LangTagSelectIreland	eng	Ireland	date20051230	
+LangTagSelectIreland	ita	Irlanda	date20051230	
+LangTagSelectIsrael	deu	Israel	date20051230	
+LangTagSelectIsrael	eng	Israel	date20051230	
+LangTagSelectIsrael	ita	Israele	date20051230	
+LangTagSelectItaly	deu	Italien	date20051230	
+LangTagSelectItaly	eng	Italy	date20051230	
+LangTagSelectItaly	ita	Italia	date20051230	
+LangTagSelectLatvia	deu	Lettland	date20051230	
+LangTagSelectLatvia	eng	Latvia	date20051230	
+LangTagSelectLatvia	ita	Lettonia	date20051230	
+LangTagSelectLithuania	deu	Litauen	date20051230	
+LangTagSelectLithuania	eng	Lithuania	date20051230	
+LangTagSelectLithuania	ita	Lituania	date20051230	
+LangTagSelectLuxembourg	deu	Luxemburg	date20051230	
+LangTagSelectLuxembourg	eng	Luxembourg	date20051230	
+LangTagSelectLuxembourg	ita	Lussemburgo	date20051230	
+LangTagSelectMalta	deu	Malta	date20051230	
+LangTagSelectMalta	eng	Malta	date20051230	
+LangTagSelectMalta	ita	Malta	date20051230	
+LangTagSelectNether	deu	Niederlande	date20051230	
+LangTagSelectNether	eng	Netherlands	date20051230	
+LangTagSelectNether	ita	Paesi Bassi	date20051230	
+LangTagSelectNewZealand	deu	Neuseeland	date20051230	
+LangTagSelectNewZealand	eng	NewZealand	date20051230	
+LangTagSelectNewZealand	ita	Nuova Zelanda	date20051230	
+LangTagSelectNorway	deu	Norwegen	date20051230	
+LangTagSelectNorway	eng	Norway	date20051230	
+LangTagSelectNorway	ita	Norvegia	date20051230	
+LangTagSelectPoland	deu	Polen	date20051230	
+LangTagSelectPoland	eng	Poland	date20051230	
+LangTagSelectPoland	ita	Polonia	date20051230	
+LangTagSelectPortugal	deu	Portugal	date20051230	
+LangTagSelectPortugal	eng	Portugal	date20051230	
+LangTagSelectPortugal	ita	Portogallo	date20051230	
+LangTagSelectSingapore	deu	Singapur	date20051230	
+LangTagSelectSingapore	eng	Singapore	date20051230	
+LangTagSelectSingapore	ita	Singapore	date20051230	
+LangTagSelectSlovakia	deu	Slowakei	date20051230	
+LangTagSelectSlovakia	eng	Slovakia	date20051230	
+LangTagSelectSlovakia	ita	Slovacchia	date20051230	
+LangTagSelectSouthAfri	deu	Südafrika	date20051230	
+LangTagSelectSouthAfri	eng	South Africa	date20051230	
+LangTagSelectSouthAfri	ita	Sudafrica	date20051230	
+LangTagSelectSpain	deu	Spanien	date20051230	
+LangTagSelectSpain	eng	Spain	date20051230	
+LangTagSelectSpain	ita	Spagna	date20051230	
+LangTagSelectSweden	deu	Schweden	date20051230	
+LangTagSelectSweden	eng	Sweden	date20051230	
+LangTagSelectSweden	ita	Svezia	date20051230	
+LangTagSelectSwitzerl	deu	Schweiz	date20051230	
+LangTagSelectSwitzerl	eng	Switzerland	date20051230	
+LangTagSelectSwitzerl	ita	Svizzera	date20051230	
+LangTagSelectTurkey	deu	Türkei	date20051230	
+LangTagSelectTurkey	eng	Turkey	date20051230	
+LangTagSelectTurkey	ita	Turchia	date20051230	
+LangTagSelectUK	deu	UK	date20051230	
+LangTagSelectUK	eng	UK	date20051230	
+LangTagSelectUK	ita	UK	date20051230	
+LangTagSelectUS	deu	USA	date20051230	
+LangTagSelectUS	eng	US	date20051230	
+LangTagSelectUS	ita	USA	date20051230	
+...	eng	Example	date2005mmtt	
+...	ita	Esempio	date2005mmtt	
+LangTagCreateCustomer	deu	Noch kein Kunde?	date20060104	
+LangTagCreateCustomer	eng	No customer?	date20060104	
+LangTagCreateCustomer	ita	Non ancora nostro cliente?	date20060104	
+LangTagCreateCustomerText	deu	Hier können Sie sich als Kunde registrieren lassen. Nach erfolgreicher Registrierung erhalten Sie von uns eine Email mit Ihren Login-Daten.	date20060104	
+LangTagCreateCustomerText	eng	You are able to register yourself as one of our customers here. After your successfull registration we will send you an email with your login data.	date20060104	
+LangTagCreateCustomerText	ita	Qui è possibile registrarsi come cliente. Dopo esservi registrati vi invieremo una E-Mail con i dati con cui potersi registrare.	date20060104	
+LangTagCustomerCreated	deu	Sie wurden als Kunde registriert!	date20060104	
+LangTagCustomerCreated	eng	You were successfully registred as our customer!	date20060104	
+LangTagCustomerCreated	ita	Siete registrato come cliente!	date20060104	
+LangTagEmailAlreadyExist	deu	Ihre Email-Adresse ist bereits vorhanden!	date20060104	
+LangTagEmailAlreadyExist	eng	Your email address already exists!	date20060104	
+LangTagEmailAlreadyExist	ita	Il Vostro indirizzo E-Mail è già esistente!	date20060104	
+LangTagEmailSaved	deu	Ihre Email-Adresse wurde gespeichert!	date20060104	
+LangTagEmailSaved	eng	Your email address was saved!	date20060104	
+LangTagEmailSaved	ita	Il Vostro indirizzo E-Mail è stato memorizzato!	date20060104	
+LangTagEmailWrong	deu	Ihre Email-Adresse ist falsch!	date20060104	
+LangTagEmailWrong	eng	Your email address is not correct!	date20060104	
+LangTagEmailWrong	ita	Il Vostro indirizzo E-Mail è errato!	date20060104	
+LangTagEnter	deu	Eintragen	date20060104	
+LangTagEnter	eng	Enter	date20060104	
+LangTagEnter	ita	Entra	date20060104	
+LangTagEnterEmail	deu	Sie müssen Ihre Email-Adresse eingeben!	date20060104	
+LangTagEnterEmail	eng	You have to enter your email address!	date20060104	
+LangTagEnterEmail	ita	È necessario immettere il proprio indirizzo E-Mail!	date20060104	
+LangTagFieldFilled	deu	Sie müssen das folgendes Feld ausfüllen	date20060104	
+LangTagFieldFilled	eng	Your have to fill in	date20060104	
+LangTagFieldFilled	ita	È necessario compilare il campo seguente	date20060104	
+LangTagNewsletter	deu	Newsletter	date20060104	
+LangTagNewsletter	eng	Newsletter	date20060104	
+LangTagNewsletter	ita	Newsletter	date20060104	
+LangTagNewsletterInfoText	deu	Die mit einem * gekennzeichneten Felder müssen ausgefüllt werden!<br /><br />Die Weitergabe Ihrer eMail-Adresse und der von uns ermittelten Daten<br />dienen ausschließlich internen Zwecken und werden an unberechtigte Dritte<br />grundsätzlich nicht weitergegeben.	date20060104	
+LangTagNewsletterInfoText	eng	The fields with * have to be filled in!<br /><br />You can find more information about how we process<br />personal information in our terms and conditions.	date20060104	
+LangTagNewsletterInfoText	ita	I campi contrassegnati con * sono campi obbligatori!<br /><br />La trasmissione del Vostro indirizzo E-Mail ed i dati da noi rilevati <br />servono esclusivamente per scopi interni e non saranno trasmessi a <br />terzi.	date20060104	
+LangTagNewsletterText	deu	Möchten Sie über Neuerungen, Angebote und Aktionen rund um unsere Produkte informiert sein, können Sie sich gern in unserem Newsletter-Dienst mit Ihrer Email-Adresse eintragen	date20060104	
+LangTagNewsletterText	eng	Do you like to subscribe yourself in our email newsletter if you´d like to be steadily informed about our improvements, offers and promotions.	date20060104	
+LangTagNewsletterText	ita	Se desiderate essere informati sulle novità e le offerte dei nostri prodotti potrete registrarvi al nostro servizio Newsletter indicando il Vostro indirizzo E-mail.	date20060104	
+LangTagNoData	deu	Keine Daten	date20060104	
+LangTagNoData	eng	No data	date20060104	
+LangTagNoData	ita	Nessun dato	date20060104	
+LangTagSelectGermany	deu	Deutschland	date20060104	
+LangTagSelectGermany	eng	Germany	date20060104	
+LangTagSelectGermany	ita	Germania	date20060104	
+LangTagSubTotal	deu	Zwischensumme	date20060104	
+LangTagSubTotal	eng	Subtotal	date20060104	
+LangTagSubTotal	ita	Subtotale	date20060104	
+LangTagUserdata	deu	Benutzerdaten	date20060104	
+LangTagUserdata	eng	User data	date20060104	
+LangTagUserdata	ita	Dati utente	date20060104	
+LangTagFieldPIDLong	deu	Auftragsnummer	date20060105	
+LangTagFieldPIDLong	eng	Ordernumber	date20060105	
+LangTagFieldPIDLong	ita	Numero d´ordine	date20060105	
+LangTagSignOut	deu	Austragen	date20060105	
+LangTagSignOut	eng	unsubcribe	date20060105	
+LangTagSignOut	ita	Cancellazione	date20060105	
+LangTagEanISBN	deu	EAN/ISBN	date20060106	
+LangTagEanISBN	eng	EAN/ISBN	date20060106	
+LangTagEanISBN	ita	EAN/ISBN	date20060106	
+LangTagEmailDeleted	deu	Ihre Email-Adresse wurde gelöscht!	date20060106	
+LangTagEmailDeleted	eng	Your email address is deleted!	date20060106	
+LangTagEmailDeleted	ita	Il Vostro indirizzo E-Mail è stato cancellato!	date20060106	
+LangTagEmailNotDeletable	deu	Ihre Email-Adresse konnte nicht gelöscht werden!	date20060106	
+LangTagEmailNotDeletable	eng	Your email address is temporay not deletable!	date20060106	
+LangTagEmailNotDeletable	ita	Non è stato possibile camcellare il Vostro indirizzo E-Mail!	date20060106	
+LangTagEmailNotExisting	deu	Ihre Email-Adresse ist nicht vorhanden!	date20060106	
+LangTagEmailNotExisting	eng	Your email address is not existing!	date20060106	
+LangTagEmailNotExisting	ita	Il Vostro indirizzo E-Mail è inesistente!	date20060106	
+LangTagProductCode	deu	Produktcode	date20060106	
+LangTagProductCode	eng	Product code	date20060106	
+LangTagProductCode	ita	Codice prodotto	date20060106	
+LangTagTrustedShopsClick	deu	Trusted Shops Gütesiegel - Bitte hier Gültigkeit prüfen!	date20060106	
+LangTagTrustedShopsClick	eng	Certified online shop with free money-back guarantee by Trusted Shops. Click to verify!	date20060106	
+LangTagTrustedShopsClick	ita	Marchio di qualità Trusted Shops - Verificare la validità!	date20060106	
+LangTagTrustedShopsSiegel	deu	Geprüfter Online-Shop mit kostenloser Geld-zurück- Garantie von Trusted Shops. Klicken Sie auf das Gütesiegel, um die Gültigkeit zu prüfen.	date20060106	
+LangTagTrustedShopsSiegel	eng	Certified online shop with free money-back guarantee by Trusted Shops. Click to verify! 	date20060106	
+LangTagTrustedShopsSiegel	ita	Online-Shop certificato con garanzia del diritto di recesso della Trusted Shops. Fare clic sul marchio per verificare la validità.	date20060106	
+LangTagTrustedShopsSignIn	deu	Anmeldung zur Geld-zurück-Garantie	date20060106	
+LangTagTrustedShopsSignIn	eng	Register for money-back guarantee...	date20060106	
+LangTagTrustedShopsSignIn	ita	Registrazione alla garanzia del diritto di recesso...	date20060106	
+LangTagTrustedShopsText	deu	Als Trusted Shops Mitglied bieten wir Ihnen als zusätzlichen Service die Geld-zurück-Garantie der Atradius Versicherungsgruppe an. Wir übernehmen alle Kosten dieser Garantie, Sie müssen sich lediglich anmelden.	date20060106	
+LangTagTrustedShopsText	eng	As a certified Trusted Shops member, we offer the additional service of the money-back guarantee backed by the Atradius Insurance Group. We cover all costs for the guarantee. You only have to register.	date20060106	
+LangTagTrustedShopsText	ita	Come socio Trusted Vi offriamo come ulteriore servizio il diritto di recesso del gruppo assicurativo Atradius. Tulle le spese di questa garanzia sono a carico nostro, dovere solo registrarvi.	date20060106	
+LangTagPrivacy	deu	Datenschutz	date20060107	
+LangTagPrivacy	eng	Privacy	date20060107	
+LangTagPrivacy	ita	Privacy	date20060107	
+LangTagUnits	deu	Stk.	date20060109	
+LangTagUnits	eng	units	date20060109	
+LangTagUnits	ita	Pz.	date20060109	
+LangTagFieldValue	deu	Wert	date20060111	
+LangTagFieldValue	eng	Value	date20060111	
+LangTagFieldValue	ita	Valore	date20060111	
+LangTagNoOrder	deu	Es sind keine Bestellungen vorhanden!	date20060111	
+LangTagNoOrder	eng	No order data available.	date20060111	
+LangTagNoOrder	ita	Non sono presenti ordini!	date20060111	
+LangTagOrderDate	deu	Bestelldatum	date20060111	
+LangTagOrderDate	eng	Order Date	date20060111	
+LangTagOrderDate	ita	Data ordine	date20060111	
+LangTagSubscribeNewsletter	deu	Eintragen	date20060111	
+LangTagSubscribeNewsletter	eng	Subscribe	date20060111	
+LangTagSubscribeNewsletter	ita	Registrazione	date20060111	
+LangTagUnsubscribeNewsletter	deu	Austragen	date20060111	
+LangTagUnsubscribeNewsletter	eng	Unsubcribe	date20060111	
+LangTagUnsubscribeNewsletter	ita	Cancellazione	date20060111	
+LangTagSpecialItemText	deu	Jetzt günstiger!	date20060112	
+LangTagSpecialItemText	eng	Special Offer!	date20060112	
+LangTagSpecialItemText	ita	Offerta speciale!	date20060112	
+LangTagGSearch	deu	Suchen	date20060116	
+LangTagGSearch	eng	Search	date20060116	
+LangTagGSearch	ita	Cerca 	date20060116	
+LangTagTextCustomerDiscount	deu	Kundenrabatt	date20060117	
+LangTagTextCustomerDiscount	eng	Customer discount	date20060117	
+LangTagTextCustomerDiscount	ita	Sconto clienti	date20060117	
+LangTag__AccountHolder	deu	Kontoinhaber	date20060119	
+LangTag__AccountHolder	eng	AccountHolder	date20060119	
+LangTag__AccountHolder	ita	Titolare conto	date20060119	
+LangTag__AccountNumber	deu	Kontonummer	date20060119	
+LangTag__AccountNumber	eng	AccountNumber	date20060119	
+LangTag__AccountNumber	ita	N. c/c	date20060119	
+LangTag__BankCodeNumber	deu	BLZ	date20060119	
+LangTag__BankCodeNumber	eng	BankCode	date20060119	
+LangTag__BankCodeNumber	ita	Coordinate bancarie	date20060119	
+LangTag__CreditCard	deu	Kreditinstitut	date20060119	
+LangTag__CreditCard	eng	CreditCardType	date20060119	
+LangTag__CreditCard	ita	Istituto di credito	date20060119	
+LangTag__CreditCardHolder	deu	Kreditkarteninhaber	date20060119	
+LangTag__CreditCardHolder	eng	CreditCardHolder	date20060119	
+LangTag__CreditCardHolder	ita	Titolare della carta di credito	date20060119	
+LangTag__CreditCardNumber	deu	Kreditkartennummer	date20060119	
+LangTag__CreditCardNumber	eng	CreditCardNumber	date20060119	
+LangTag__CreditCardNumber	ita	N. carta di credito	date20060119	
+LangTag__FieldAddress	deu	Strasse	date20060119	
+LangTag__FieldAddress	eng	Address	date20060119	
+LangTag__FieldAddress	ita	Via	date20060119	
+LangTag__FieldAddress2	deu	Adressenzusatz	date20060119	
+LangTag__FieldAddress2	eng	Second_Line	date20060119	
+LangTag__FieldAddress2	ita	Indirizzo aggiuntivo	date20060119	
+LangTag__FieldBuy2Message	deu	Nachricht	date20060119	
+LangTag__FieldBuy2Message	eng	Message	date20060119	
+LangTag__FieldBuy2Message	ita	Messaggio	date20060119	
+LangTag__FieldCashDiscountPercent	deu	Skonto	date20060119	
+LangTag__FieldCashDiscountPercent	eng	Discount	date20060119	
+LangTag__FieldCashDiscountPercent	ita	Sconto	date20060119	
+LangTag__FieldCity	deu	Ort	date20060119	
+LangTag__FieldCity	eng	Town_City	date20060119	
+LangTag__FieldCity	ita	Città	date20060119	
+LangTag__FieldCompany	deu	Firma	date20060119	
+LangTag__FieldCompany	eng	Company	date20060119	
+LangTag__FieldCompany	ita	Ditta	date20060119	
+LangTag__FieldCustomerNR	deu	KundenNr	date20060119	
+LangTag__FieldCustomerNR	eng	CustomerNo	date20060119	
+LangTag__FieldCustomerNR	ita	N. cliente	date20060119	
+LangTag__FieldDelivery	deu	Versandart	date20060119	
+LangTag__FieldDelivery	eng	DeliveryMode	date20060119	
+LangTag__FieldDelivery	ita	Modalità di spedizione	date20060119	
+LangTag__FieldEmail	deu	Email	date20060119	
+LangTag__FieldEmail	eng	Email	date20060119	
+LangTag__FieldEmail	ita	E-mail	date20060119	
+LangTag__FieldEmailFormat	deu	EmailFormat	date20060119	
+LangTag__FieldEmailFormat	eng	EmailFormat	date20060119	
+LangTag__FieldEmailFormat	ita	Formato E-Mail	date20060119	
+LangTag__FieldFax	deu	Fax	date20060119	
+LangTag__FieldFax	eng	Fax	date20060119	
+LangTag__FieldFax	ita	Fax	date20060119	
+LangTag__FieldFirmVATId	deu	UstID	date20060119	
+LangTag__FieldFirmVATId	eng	TaxNumber	date20060119	
+LangTag__FieldFirmVATId	ita	Codice fiscale	date20060119	
+LangTag__FieldFirstName	deu	Vorname	date20060119	
+LangTag__FieldFirstName	eng	FirstName	date20060119	
+LangTag__FieldFirstName	ita	Nome	date20060119	
+LangTag__FieldFirstNameSender	deu	AbsenderVorname	date20060119	
+LangTag__FieldFirstNameSender	eng	FirstNameSender	date20060119	
+LangTag__FieldFirstNameSender	ita	NomeMittente	date20060119	
+LangTag__FieldFormToAddress	deu	Anrede	date20060119	
+LangTag__FieldFormToAddress	eng	Title	date20060119	
+LangTag__FieldFormToAddress	ita	Titolo	date20060119	
+LangTag__FieldImage	deu	Bild	date20060119	
+LangTag__FieldImage	eng	Image	date20060119	
+LangTag__FieldImage	ita	Immagine	date20060119	
+LangTag__FieldLastName	deu	Nachname	date20060119	
+LangTag__FieldLastName	eng	LastName	date20060119	
+LangTag__FieldLastName	ita	Cognome	date20060119	
+LangTag__FieldLastNameSender	deu	AbsenderNachname	date20060119	
+LangTag__FieldLastNameSender	eng	LastNameSender	date20060119	
+LangTag__FieldLastNameSender	ita	CognomeMittente	date20060119	
+LangTag__FieldLocDiscount	deu	Rabatt	date20060119	
+LangTag__FieldLocDiscount	eng	Discount	date20060119	
+LangTag__FieldLocDiscount	ita	Sconto	date20060119	
+LangTag__FieldLocTotal	deu	Summe	date20060119	
+LangTag__FieldLocTotal	eng	OrderTotal	date20060119	
+LangTag__FieldLocTotal	ita	Totale	date20060119	
+LangTag__FieldLongVat	deu	MwSt	date20060119	
+LangTag__FieldLongVat	eng	VAT	date20060119	
+LangTag__FieldLongVat	ita	IVA	date20060119	
+LangTag__FieldMessage	deu	Nachricht	date20060119	
+LangTag__FieldMessage	eng	Message	date20060119	
+LangTag__FieldMessage	ita	Messaggio	date20060119	
+LangTag__FieldPayment	deu	Zahlungsart	date20060119	
+LangTag__FieldPayment	eng	Payment	date20060119	
+LangTag__FieldPayment	ita	Modalità di pagamento	date20060119	
+LangTag__FieldPaymentCharge	deu	Gebühr	date20060119	
+LangTag__FieldPaymentCharge	eng	Charge	date20060119	
+LangTag__FieldPaymentCharge	ita	Imposta	date20060119	
+LangTag__FieldPhone	deu	Telefon	date20060119	
+LangTag__FieldPhone	eng	Phone	date20060119	
+LangTag__FieldPhone	ita	Telefono	date20060119	
+LangTag__FieldPID	deu	Auftragsnummer	date20060119	
+LangTag__FieldPID	eng	Ordernumber	date20060119	
+LangTag__FieldPID	ita	N. ordine	date20060119	
+LangTag__FieldPostage	deu	Versandkosten	date20060119	
+LangTag__FieldPostage	eng	DeliveryCharges	date20060119	
+LangTag__FieldPostage	ita	Spese di spedizione	date20060119	
+LangTag__FieldQuantity	deu	Menge	date20060119	
+LangTag__FieldQuantity	eng	Quantity	date20060119	
+LangTag__FieldQuantity	ita	Quantità	date20060119	
+LangTag__FieldSender	deu	Absender	date20060119	
+LangTag__FieldSender	eng	Sender	date20060119	
+LangTag__FieldSender	ita	Mittente	date20060119	
+LangTag__FieldShippingAddress	deu	Abweichende_Lieferadresse	date20060119	
+LangTag__FieldShippingAddress	eng	DeliveryAddress	date20060119	
+LangTag__FieldShippingAddress	ita	Indirizzo_fornitura_diverso	date20060119	
+LangTag__FieldShippingAddress2	deu	LieferAdressenZusatz	date20060119	
+LangTag__FieldShippingAddress2	eng	ShippingAddress2_	date20060119	
+LangTag__FieldShippingAddress2	ita	Indirizzo supplementare	date20060119	
+LangTag__FieldShippingAddressArea	deu	Versandgebiet	date20060119	
+LangTag__FieldShippingAddressArea	eng	ShippingTo	date20060119	
+LangTag__FieldShippingAddressArea	ita	Area di spedizione	date20060119	
+LangTag__FieldShippingCity	deu	LieferStadt	date20060119	
+LangTag__FieldShippingCity	eng	DeliveryCity	date20060119	
+LangTag__FieldShippingCity	ita	Città di spedizione	date20060119	
+LangTag__FieldShippingCompany	deu	Lieferfirma	date20060119	
+LangTag__FieldShippingCompany	eng	ShippingCompany	date20060119	
+LangTag__FieldShippingCompany	ita	Ditta fornitrice	date20060119	
+LangTag__FieldShippingFax	deu	Lieferfax	date20060119	
+LangTag__FieldShippingFax	eng	ShippingFax	date20060119	
+LangTag__FieldShippingFax	ita	Fax di spedizione	date20060119	
+LangTag__FieldShippingFirstName	deu	LieferVorname	date20060119	
+LangTag__FieldShippingFirstName	eng	DeliveryFirstName	date20060119	
+LangTag__FieldShippingFirstName	ita	Nome di spedizione	date20060119	
+LangTag__FieldShippingFormToAddress	deu	LieferAnrede	date20060119	
+LangTag__FieldShippingFormToAddress	eng	ShippingFormToAddress	date20060119	
+LangTag__FieldShippingFormToAddress	ita	Titolo spedizione	date20060119	
+LangTag__FieldShippingLastName	deu	LieferNachname	date20060119	
+LangTag__FieldShippingLastName	eng	DeliveryLastName	date20060119	
+LangTag__FieldShippingLastName	ita	Cognome spedizione	date20060119	
+LangTag__FieldShippingState	deu	Lieferland	date20060119	
+LangTag__FieldShippingState	eng	ShippingState	date20060119	
+LangTag__FieldShippingState	ita	Paese di spedizione	date20060119	
+LangTag__FieldShippingStreet	deu	LieferStrasse	date20060119	
+LangTag__FieldShippingStreet	eng	DeliveryAddress	date20060119	
+LangTag__FieldShippingStreet	ita	Indirizzo spedizione	date20060119	
+LangTag__FieldShippingTelefon	deu	LieferTelefon	date20060119	
+LangTag__FieldShippingTelefon	eng	ShippingTelefon	date20060119	
+LangTag__FieldShippingTelefon	ita	Telefono spedizione	date20060119	
+LangTag__FieldShippingZipCode	deu	LieferPLZ	date20060119	
+LangTag__FieldShippingZipCode	eng	DeliveryPostcode_Zipcode	date20060119	
+LangTag__FieldShippingZipCode	ita	CAP spedizione	date20060119	
+LangTag__FieldShortVat	deu	MwSt	date20060119	
+LangTag__FieldShortVat	eng	VAT	date20060119	
+LangTag__FieldShortVat	ita	IVA	date20060119	
+LangTag__FieldState	deu	Land	date20060119	
+LangTag__FieldState	eng	Country_State	date20060119	
+LangTag__FieldState	ita	Paese	date20060119	
+LangTag__FieldSubTotal	deu	Zwischensumme	date20060119	
+LangTag__FieldSubTotal	eng	Subtotal	date20060119	
+LangTag__FieldSubTotal	ita	Subtotale	date20060119	
+LangTag__FieldTextItem	deu	Artikel	date20060119	
+LangTag__FieldTextItem	eng	Items	date20060119	
+LangTag__FieldTextItem	ita	Articoli	date20060119	
+LangTag__FieldTextUnitPrice	deu	Einzelpreis	date20060119	
+LangTag__FieldTextUnitPrice	eng	UnitPrice	date20060119	
+LangTag__FieldTextUnitPrice	ita	Prezzo unitario	date20060119	
+LangTag__FieldTotalAmount	deu	Rechnungsbetrag	date20060119	
+LangTag__FieldTotalAmount	eng	Invoice_total	date20060119	
+LangTag__FieldTotalAmount	ita	Totale fattura	date20060119	
+LangTag__FieldTotalPrice	deu	Gesamtpreis	date20060119	
+LangTag__FieldTotalPrice	eng	TotalPrice	date20060119	
+LangTag__FieldTotalPrice	ita	Totale	date20060119	
+LangTag__FieldValue	deu	Wert	date20060119	
+LangTag__FieldValue	eng	value	date20060119	
+LangTag__FieldValue	ita	Valore	date20060119	
+LangTag__FieldZipCode	deu	PLZ	date20060119	
+LangTag__FieldZipCode	eng	Postcode_Zipcode	date20060119	
+LangTag__FieldZipCode	ita	CAP	date20060119	
+LangTag__FinancialInstitution	deu	Geldinstitut	date20060119	
+LangTag__FinancialInstitution	eng	FinancialInstitution	date20060119	
+LangTag__FinancialInstitution	ita	Istituto di credito	date20060119	
+LangTag__IclearDiscount	deu	Rabatt	date20060119	
+LangTag__IclearDiscount	eng	Discount	date20060119	
+LangTag__IclearDiscount	ita	Sconto	date20060119	
+LangTag__IclearPostage	deu	Versandkosten	date20060119	
+LangTag__IclearPostage	eng	DeliveryCharges	date20060119	
+LangTag__IclearPostage	ita	Spese di spedizione	date20060119	
+LangTag__IssueNumber	deu	Pruefnummer	date20060119	
+LangTag__IssueNumber	eng	IssueNumber_SwitchSolo	date20060119	
+LangTag__IssueNumber	ita	Numero di controllo	date20060119	
+LangTag__MonthExpirationDate	deu	GueltigkeitMonat	date20060119	
+LangTag__MonthExpirationDate	eng	ExpirationDateMonth	date20060119	
+LangTag__MonthExpirationDate	ita	Mese di scadenza	date20060119	
+LangTag__SecurityCode	deu	ZweitePruefnummer	date20060119	
+LangTag__SecurityCode	eng	SecurityCode	date20060119	
+LangTag__SecurityCode	ita	Secondo numero di controllo	date20060119	
+LangTag__SubTotal	deu	Zwischensumme	date20060119	
+LangTag__SubTotal	eng	Subtotal	date20060119	
+LangTag__SubTotal	ita	Subtotale	date20060119	
+LangTag__TermsAndCond	deu	AGB	date20060119	
+LangTag__TermsAndCond	eng	Conditions	date20060119	
+LangTag__TermsAndCond	ita	Condizioni generali di vendita	date20060119	
+LangTag__TotalAmount	deu	Rechnungsbetrag	date20060119	
+LangTag__TotalAmount	eng	Invoice_total	date20060119	
+LangTag__TotalAmount	ita	Importo fattura	date20060119	
+LangTag__YearExpirationDate	deu	GueltigkeitJahr	date20060119	
+LangTag__YearExpirationDate	eng	ExpirationDateYear	date20060119	
+LangTag__YearExpirationDate	ita	Anno di scadenza	date20060119	
+LangTagAvailability	deu	Verfügbarkeit	date20060125	
+LangTagAvailability	eng	Availability	date20060125	
+LangTagAvailability	ita	Disponibilità	date20060125	
+LangTag__FieldShopURL	deu	Onlineshop	date20060126	
+LangTag__FieldShopURL	eng	Online shop	date20060126	
+LangTag__FieldShopURL	ita	Online shop	date20060126	
+LangTagFNFieldShopURL	deu	Onlineshop	date20060126	
+LangTagFNFieldShopURL	eng	Onlineshop	date20060126	
+LangTagFNFieldShopURL	ita	Onlineshop	date20060126	
+LangTagStartOnlineShop	deu	Zum Shop	date20060215	
+LangTagStartOnlineShop	eng	online shop	date20060215	
+LangTagStartOnlineShop	ita	Vai al negozio	date20060215	
+DefaultAnswerCustomerInfos	deu	Wichtige Kundeninformationen:<br /><br />-----------------------<br />1. Geltungsbereich<br />-----------------------<br /><br />Für alle Lieferungen von DemoShop e.K. (nachfolgend: DemoShop) an Verbraucher (§ 13 BGB) gelten diese Allgemeinen Geschäftsbedingungen (AGB).<br />... <br />2.<br />3.	date20060302	
+DefaultAnswerCustomerInfos	eng	Important informations:<br /><br />-----------------------<br />1. Governing law and jurisdiction<br />-----------------------<br /><br />....<br />.... <br />2.<br />3.	date20060302	
+DefaultAnswerCustomerInfos	ita	Informazioni importanti per i clienti:<br /><br />-----------------------<br />1. Settore di validità<br />-----------------------<br /><br />Per tutte le forniture di DemoShop e.K. (di seguito: DemoShop) ai consumatori (§ 13 BGB) sono da applicare le seguenti condizioni generali di vendita (AGB).<br />... <br />2.<br />3.	date20060302	
+DefaultAnswerGreetingText	deu	Herzlichen Dank für Ihre Bestellung beim Papierflieger Shop und vielen Dank für Ihr Interesse an der GS ShopBuilder Produktfamilie. Mit dieser Email ist der Kaufvertrag zustande gekommen.<p>Bitte kontrollieren Sie nochmals, ob alle Angaben korrekt sind und teilen uns gegebenenfalls Änderungswünsche mit.<p>Bitte beachten Sie ebenfalls unsere Allgemeinen Geschäftsbedingungen mit der Widerrufsbelehrung.	date20060302	
+DefaultAnswerGreetingText	eng	Please translate : Herzlichen Dank für Ihre Bestellung beim Papierflieger Shop und vielen Dank für Ihr Interesse an der GS ShopBuilder Produktfamilie. Mit dieser Email ist der Kaufvertrag zustande gekommen.<p>Bitte kontrollieren Sie nochmals, ob alle Angaben korrekt sind und teilen uns gegebenenfalls Änderungswünsche mit.<p>Bitte beachten Sie ebenfalls unsere Allgemeinen Geschäftsbedingungen mit der Widerrufsbelehrung.	date20060302	
+DefaultAnswerGreetingText	ita	Molte grazie per il Vostro ordine al negozio di aeroplanini di carta e molte grazie per il Vostro interessa ai prodotti GS ShopBuilder. Con questa E-Mail è stato stipulato il contratto.<p>Vi preghiamo di verificare la correttezza di tutti i dati e di comunicarci eventuali richieste di modifica.<p>Vi preghiamo di voler osservare le nostre condizioni generali di vendita con l´informativa sul diritto di recesso.	date20060302	
+DefaultAnswerProvider	deu	-----------<br />Anbieter:<br />-----------<br /><br />Firma: ...<br />Inhaber: ...<br />Strasse: ...<br />Ort: ....<br />Telefon: +49-123-123456<br />Email: ...<br /><br />Bitte geben Sie hier auch Ihre Bankverbindung an.<br /><br />	date20060302	
+DefaultAnswerProvider	eng	-----------<br />Shop provider:<br />-----------<br /><br />Company: ...<br />CEO: ...<br />Street: ...<br />City: ....<br />Phone: +49-123-123456<br />Email: ...<br /><br />Please do not forget... .<br /><br />	date20060302	
+DefaultAnswerProvider	ita		date20060302	
+DefaultAnswerSubject	deu	Ihre Bestellung im Demoshop	date20060302	
+DefaultAnswerSubject	eng	Please translate...	date20060302	
+DefaultAnswerSubject	ita	Il Vostro ordine nel Demoshop	date20060302	
+DefaultAnswerSubjectTellAFriend	deu	Artikelempfehlung	date20060302	
+DefaultAnswerSubjectTellAFriend	eng	Tell a friend subject	date20060302	
+DefaultAnswerSubjectTellAFriend	ita	Consiglia ad un amico	date20060302	
+DefaultAnswerTextEnd	deu	Mit freundlichem Gruss,	date20060302	
+DefaultAnswerTextEnd	eng	Best regards,	date20060302	
+DefaultAnswerTextEnd	ita	Cordiali saluti	date20060302	
+DefaultAnswerTextTellAFriend	deu	Sie haben eine Artikelempfehlung erhalten.	date20060302	
+DefaultAnswerTextTellAFriend	eng	Please translate...	date20060302	
+DefaultAnswerTextTellAFriend	ita	Avete ricevuto un consiglio su un articolo.	date20060302	
+DefaultBasket	deu	Die folgenden Artikel haben Sie für Ihre Bestellung ausgewählt. Sie können die Stückzahlen überschreiben und durch Anklicken des grünen Häkchens den Warenkorb aktualisieren, oder Sie können den Artikel aus der Liste entfernen. 	date20060302	
+DefaultBasket	eng	Please translate...	date20060302	
+DefaultBasket	ita	Avete scelto i seguenti articoli. Il numero dei pezzi può essere sovrascritto ed aggiornare il carrello facendo clic sulla spunta verde o rimuovre l´articolo dalla lista.	date20060302	
+DefaultBuyText	deu	<b>Versand / Lieferung</b><br /><br />Die Lieferung erfolgt nur innerhalb Deutschlands.<br /><br />Die Lieferzeit beträgt im Regelfall 3 Werktage. Auf evtl. abweichende Lieferzeiten weisen wir auf der jeweiligen Produktseite hin..<br /><br /><hr>.<br /><br /><b>Zahlungsarten</b>.<br /><br />....	date20060302	
+DefaultBuyText	eng	Please translate...	date20060302	
+DefaultBuyText	ita	Please translate...	date20060302	
+DefaultHelicopter	deu	Filigrane Feinstarbeit zeichnet die Bauweise des XR-2i aus und verleiht ihm ein Flugverhalten von unglaublicher Stabilität.	date20060302	
+DefaultHelicopter	eng	Blue helicopter	date20060302	
+DefaultHelicopter	ita	XR-2i è caratterizzato da un lavoro di precisione di filigrana e conferisce un incredibile stabilità durante il volo.	date20060302	
+DefaultLoginDataEmailText1	deu	Es freut uns Sie als Kunden in unserem Shop begrüßen zu dürfen. Mit dieser Email erhalten Sie ihre Logindaten für unseren Kundenbereich.	date20060302	
+DefaultLoginDataEmailText1	eng	Please translate	date20060302	
+DefaultLoginDataEmailText1	ita	Ci fa piacere accoglierla nel nostro negozio. Con questa E-Mail ricevete i dati per registrarvi nella nostra area clienti.	date20060302	
+DefaultLoginDataEmailText2	deu	Im Kundenbereich können Sie sich Ihre Bestellungen ansehen oder Ihre Benutzerdaten einsehen und ändern. Mit freundlichen Grüssen	date20060302	
+DefaultLoginDataEmailText2	eng	You may view your order in the customer database or modify your contact data. <br /> Best regards, <br /> http://www.shopcity24.de	date20060302	
+DefaultLoginDataEmailText2	ita	Nell´area clienti potrete visualizzare i Vostri ordnini oppure visualizzare e modificare i dati utente. Cordiali saluti	date20060302	
+DefaultMississipi	deu	Diese handgefertigte detailgetreue Abbildung eines original Mississippi-Raddampfers sollte der Stolz jeder Papiermodelsammlung sein.	date20060302	
+DefaultMississipi	eng	Mississippi steamer	date20060302	
+DefaultMississipi	ita	Questa figura realizzata a mano e fedele all´originale barca a vapore del Mississippi dovrebbe essere l´orgoglio di ogni collezione di modellini di carta.	date20060302	
+DefaultSwallow	deu	Die Silberschwalbe ist der ganze Stolz unserer Modellreihe A 2000 und imitiert täuschend echt das Flugverhalten einer richtigen Schwalbe.	date20060302	
+DefaultSwallow	eng	Silverswallow	date20060302	
+DefaultSwallow	ita	La rondine d´argento è l´orgoglio della nostra serie di modelli A 2000 ed imita in modo verosimile il volo di una vera rondine.	date20060302	
+DefaultTermsAndCond	deu	<i class=red>Beispielhafte AGB mit wichtigen Kundeninformationen. Bitte passen Sie die AGB auf Ihre eigenen Bedürfnisse an.</i>	date20060302	
+DefaultTermsAndCond	eng	Please translate...	date20060302	
+DefaultTermsAndCond	ita	<i class=red>Condizioni generali di vendita esemplari con importanti informazioni per la clientela. Si prega di adattare le condizioni di vendita generali alle proprie esigenze.</i>	date20060302	
+DefaultTermsAndCondAccept	deu	Ich habe die AGB gelesen und akzeptiert.	date20060302	
+DefaultTermsAndCondAccept	eng	I aggree with the terms and conditions.	date20060302	
+DefaultTermsAndCondAccept	ita	Ho letto ed accetto le condizioni di vendita generali.	date20060302	
+DefaultTextAfterRequest	deu	Vielen Dank für Ihre Anfrage...	date20060302	
+DefaultTextAfterRequest	eng	Thank you for your request	date20060302	
+DefaultTextAfterRequest	ita	Grazie per la Vostra richiesta	date20060302	
+DefaultTextBeforeOrderData	deu	Bitte überprüfen Sie Ihre Eingaben. Sie können diese durch Klicken über den entsprechenden Button korrigieren. Wenn alle Eingaben richtig sind, klicken Sie auf "Bestellung abschicken".	date20060302	
+DefaultTextBeforeOrderData	eng	Please check your data. After you have completed the order please click the button to send it...	date20060302	
+DefaultTextBeforeOrderData	ita	Si prega di verificare i dati. Questi possono essere corretti facendo clic sul relativo tasto. Se tutti i dati sono esatti, fare clic su "Invia ordine".	date20060302	
+DefaultTextOrderFormular	deu	<b>2. Bitte füllen Sie das folgende Bestellformular aus (*Felder bitte unbedingt angeben) und klicken Sie den ´Bestellung fortsetzen´ Knopf. </b><br /><br /><br />Vor dem Absenden der Bestellung sehen Sie noch einmal die von Ihnen eingegebenen Daten und haben die Möglichkeit, diese durch Anklicken des entsprechenden Buttons zu korrigieren. Den Bestellvorgang können Sie jederzeit durch Schließen des Browser-Fensters abbrechen oder durch Anklicken des Buttons ´Bestellung abschicken´ abschließen.	date20060302	
+DefaultTextOrderFormular	eng	Please translate	date20060302	
+DefaultTextOrderFormular	ita	<b>2. Si prega di compilare il seguente modulo d´ordine (i campi * sono obbligatori) e fare clic sul tasto ´Prosegui ordine´. </b><br /><br /><br />Prima di inviare l´ordine verificare nuovamente i dati e se necessario correggerli con i relativi tasti. La procedura dell´ordine può essere interrotta in qualsiasi momento chiudendo la finestra del browser oppure può essere conclusa facendo clic sul tasto ´Invia ordine´.	date20060302	
+LangTagSort	deu	Sortierung	date20060315	
+LangTagSort	eng	Sort	date20060315	
+LangTagSort	ita	Assortimento	date20060315	
+LangTagCreditCardData	deu	Kreditkartendaten	date20060412	
+LangTagCreditCardData	eng	Credit card data	date20060412	
+LangTagCreditCardData	ita	Dati carta di credito	date20060412	
+LangTagFieldPaymentCost	deu	Zahlungskosten	date20060418	
+LangTagFieldPaymentCost	eng	Costs of payment	date20060418	
+LangTagFieldPaymentCost	ita	Spese di pagamento	date20060418	
+LangTagFinalAmount	deu	Endbetrag	date20060418	
+LangTagFinalAmount	eng	Final amount	date20060418	
+LangTagFinalAmount	ita	Importo finale	date20060418	
+LangTagPos	deu	Pos.	date20060418	
+LangTagPos	eng	Pos.	date20060418	
+LangTagPos	ita	Pos.	date20060418	
+LangTagTotal	deu	Gesamt	date20060418	
+LangTagTotal	eng	Total	date20060418	
+LangTagTotal	ita	Totale	date20060418	
+LangTagTxShipmentConditions	deu	Lieferbedingungen	Date20060514	
+LangTagTxShipmentConditions	eng	Conditions of delivery	Date20060514	
+LangTagTxShipmentConditions	ita	Condizioni di fornitura	Date20060514	
+DefaultPaynovaContractText	deu	Vielen Dank für Ihre Bezahlung mit Paynova.	Date20060515	
+DefaultPaynovaContractText	eng	Specification of the purchase. Text will be shown in payment confirmation email to customer.	Date20060515	
+DefaultPaynovaContractText	ita	Grazie per il Vostro pagamento con Paynova.	Date20060515	
+LangTagPaynovaContractText	deu	Vielen Dank für Ihre Bezahlung mit Paynova.	Date20060515	
+LangTagPaynovaContractText	eng	Specification of the purchase. Text will be shown in payment confirmation email to customer.	Date20060515	
+LangTagPaynovaContractText	ita	Grazie per il Vostro pagamento con Paynova.	Date20060515	
+LangTagTxDeliveryMode	deu	Versandart	Date20060515	
+LangTagTxDeliveryMode	eng	Delivery Mode	Date20060515	
+LangTagTxDeliveryMode	ita	Modalità di spedizione	Date20060515	
+LangTagTextFailed	deu	Fehler	date20060516	
+LangTagTextFailed	eng	Failure	date20060516	
+LangTagTextFailed	ita	Errore	date20060516	
+LangTagFNFieldAvail	deu	Verfügbarkeit	date20060526	
+LangTagFNFieldAvail	eng	Availability	date20060526	
+LangTagFNFieldAvail	ita	Disponibilità	date20060526	
+LangTagFNFieldVat	deu	MwSt	date20060526	
+LangTagFNFieldVat	eng	VAT	date20060526	
+LangTagFNFieldVat	ita	IVA	date20060526	
+LangTagOrderForm	deu	Bestellformular	date20060526	
+LangTagOrderForm	eng	Order Form	date20060526	
+LangTagOrderForm	ita	Modulo d´ordine	date20060526	
+
+//Begin Countries
+LangTagCountryAfganistan	deu	Afganistan	date20100514
+LangTagCountryAfganistan	eng	Afganistan	date20100514
+
+LangTagCountryEgypt	deu	Ägypten	date20100514
+LangTagCountryEgypt	eng	Egypt	date20100514
+
+LangTagCountryAlbania	deu	Albanien	date20100514
+LangTagCountryAlbania	eng	Albania	date20100514
+
+LangTagCountryAlgeria	deu	Algerien	date20100514
+LangTagCountryAlgeria	eng	Algeria	date20100514
+
+LangTagCountryAmericanSamoa	deu	Amerikanisch-Samoa	date20100514
+LangTagCountryAmericanSamoa	eng	Amrican Samoa	date20100514
+
+LangTagCountryAndorra	deu	Andorra	date20100514
+LangTagCountryAndorra	eng	Andorra	date20100514
+
+LangTagCountryAngola	deu	Angola	date20100514
+LangTagCountryAngola	eng	Angola	date20100514
+
+LangTagCountryAnguilla	deu	Anguilla	date20100514
+LangTagCountryAnguilla	eng	Anguilla	date20100514
+
+LangTagCountryAntarctica	deu	Antarktis	date20100514
+LangTagCountryAntarctica	eng	Antarctica	date20100514
+
+LangTagCountryAntiguaAndBarbuda	deu	Antigua und Barbuda	date20100514
+LangTagCountryAntiguaAndBarbuda	eng	Antigua and Barbuda	date20100514
+
+LangTagCountryEquatorialGuinea	deu	Äquatorialguinea	date20100514
+LangTagCountryEquatorialGuinea	eng	Equatorial Guinea	date20100514
+
+LangTagCountryArgentina	deu	Argentinien	date20100514
+LangTagCountryArgentina	eng	Argentina	date20100514
+
+LangTagCountryArmenia	deu	Armenien	date20100514
+LangTagCountryArmenia	eng	Armenia	date20100514
+
+LangTagCountryAruba	deu	Aruba	date20100514
+LangTagCountryAruba	eng	Aruba	date20100514
+
+LangTagCountryAzerbaijan	deu	Aserbaidschan	date20100514
+LangTagCountryAzerbaijan	eng	Azerbaijan	date20100514
+
+LangTagCountryEthiopia	deu	Äthiopien	date20100514
+LangTagCountryEthiopia	eng	Ethiopia	date20100514
+
+LangTagCountryAustralia	deu	Australien	date20100514
+LangTagCountryAustralia	eng	Australia	date20100514
+
+LangTagCountryBahamas	deu	Bahamas, die	date20100514
+LangTagCountryBahamas	Bahamas	date20100514
+
+LangTagCountryBahrain	deu	Bahrein	date20100514
+LangTagCountryBahrain	eng	Bahrain	date20100514
+
+LangTagCountryBangladesh	deu	Bangladesch	date20100514
+LangTagCountryBangladesh	eng	Bangladesh	date20100514
+
+LangTagCountryBarbados	deu	Barbados	date20100514
+LangTagCountryBarbados	eng	Barbados	date20100514
+
+LangTagCountryBelgium	deu	Belgien	date20100514
+LangTagCountryBelgium	eng	Belgium	date20100514
+
+LangTagCountryBelize	deu	Belize	date20100514
+LangTagCountryBelize	eng	Belize	date20100514
+
+LangTagCountryBenin	deu	Benin	date20100514
+LangTagCountryBenin	eng	Benin	date20100514
+
+LangTagCountryBermuda	deu	Bermuda	date20100514
+LangTagCountryBermuda	eng	Bermuda	date20100514
+
+LangTagCountryBhutan	deu	Bhutan	date20100514
+LangTagCountryBhutan	eng	Bhutan	date20100514
+
+LangTagCountryBolivia	deu	Bolivien	date20100514
+LangTagCountryBolivia	eng	Bolivia	date20100514
+
+LangTagCountryBosnienHerzegowina	deu	Bosnien-Herzegowina	date20100514
+LangTagCountryBosnienHerzegowina	eng	Bosnia and Herzegovina	date20100514
+
+LangTagCountryBotsuana	deu	Botswana	date20100514
+LangTagCountryBotsuana	eng	Botsuana	date20100514
+
+LangTagCountryBouvetIsland	deu	Bouvet-Insel	date20100514
+LangTagCountryBouvetIsland	eng	Bouvet Island	date20100514#
+
+LangTagCountryBrazil	deu	Brasilien	date20100514
+LangTagCountryBrazil	eng	Brazil	date20100514
+
+LangTagCountryVirginIslandsBritish	deu	Britische Jungferninseln	date20100514
+LangTagCountryVirginIslandsBritish	eng	Virgin Islands, British	date20100514
+
+LangTagCountryBritishIndianOceanTerritory	deu	Britisches Territorium im Indischen Ozean	date20100514
+LangTagCountryBritishIndianOceanTerritory	eng	British Indian Ocean Territory	date20100514
+
+LangTagCountryBruneiDarussalam	deu	Brunei Darussalam	date20100514
+LangTagCountryBruneiDarussalam	eng	Brunei Darussalam	date20100514
+
+LangTagCountryBulgaria	deu	Bulgarien	date20100514
+LangTagCountryBulgaria	eng	Bulgaria	date20100514
+
+LangTagCountryBurkinaFaso	deu	Burkina Faso	date20100514
+LangTagCountryBurkinaFaso	eng	Burkina Faso	date20100514
+
+LangTagCountryBurundi	deu	Burundi	date20100514
+LangTagCountryBurundi	eng	Burundi	date20100514
+
+LangTagCountryChile	deu	Chile	date20100514
+LangTagCountryChile	eng	Chile	date20100514
+
+LangTagCountryChina	deu	China	date20100514
+LangTagCountryChina	eng	China	date20100514
+
+LangTagCountryCocosIslands	deu	Cocosinseln	date20100514
+LangTagCountryCocosIslands	eng	Cocos (Keeling) Islands	date20100514
+
+LangTagCountryCookIslands	deu	Cook Inseln	date20100514
+LangTagCountryCookIslands	eng	Cook Islands	date20100514
+
+LangTagCountryCostaRica	deu	Costa Rica	date20100514
+LangTagCountryCostaRica	eng	Costa Rica	date20100514
+
+LangTagCountryCotedIvoire	deu	Cote dIvoire	date20100514
+LangTagCountryCotedIvoire	eng	Cote dIvoire	date20100514
+
+LangTagCountryDenmark	deu	Dänemark	date20100514
+LangTagCountryDenmark	eng	Denmark	date20100514
+
+LangTagCountryGermany	deu	Deutschland	date20100514
+LangTagCountryGermany	eng	Germany	date20100514
+
+LangTagCountryDominica	deu	Dominika	date20100514
+LangTagCountryDominica	eng	Dominica	date20100514
+
+LangTagCountryDominicanRepublic	deu	Dominikanische Republik	date20100514
+LangTagCountryDominicanRepublic	eng	Dominican Republic	date20100514
+
+LangTagCountryDjibouti	deu	Dschibuti	date20100514
+LangTagCountryDjibouti	eng	Djibouti	date20100514
+
+LangTagCountryEcuador	deu	Ekuador	date20100514
+LangTagCountryEcuador	eng	Ecuador	date20100514
+
+LangTagCountryElSalvador	deu	El Salvador	date20100514
+LangTagCountryElSalvador	eng	El Salvador	date20100514
+
+LangTagCountryEritrea	deu	Eritrea	date20100514
+LangTagCountryEritrea	eng	Eritrea	date20100514
+
+LangTagCountryEstonia	deu	Estland	date20100514
+LangTagCountryEstonia	eng	Estonia	date20100514
+
+LangTagCountryFalklandIslands	deu	Falklandinseln (Malvinen)	date20100514
+LangTagCountryFalklandIslands	eng	Falkland Islands (Malvinas)	date20100514
+
+LangTagCountryFaroeIslands	deu	Faröer	date20100514
+LangTagCountryFaroeIslands	eng	Faroe Islands	date20100514
+
+LangTagCountryFiji	deu	Fidschi	date20100514
+LangTagCountryFiji	eng	Fiji	date20100514
+
+LangTagCountryFinland	deu	Finnland	date20100514
+LangTagCountryFinland	eng	Finland	date20100514
+
+LangTagCountryFrance	deu	Frankreich	date20100514
+LangTagCountryFrance	eng	France	date20100514
+
+LangTagCountryFrenchSouthernTerritories	deu	Französische Südpolar-Territorien	date20100514
+LangTagCountryFrenchSouthernTerritories	eng	French Southern Territories	date20100514
+
+LangTagCountryFrenchGuiana	deu	Französisch-Guayana	date20100514
+LangTagCountryFrenchGuiana	eng	French Guiana	date20100514
+
+LangTagCountryFrenchPolynesia	deu	Französisch-Polinesien	date20100514
+LangTagCountryFrenchPolynesia	eng	French Polynesia	date20100514
+
+LangTagCountryGabon	deu	Gabun	date20100514
+LangTagCountryGabon	eng	Gabon	date20100514
+
+LangTagCountryGambia	deu	Gambia	date20100514
+LangTagCountryGambia	eng	Gambia	date20100514
+
+LangTagCountryGeorgia	deu	Georgien	date20100514
+LangTagCountryGeorgia	eng	Georgia	date20100514
+
+LangTagCountryGhana	deu	Ghana	date20100514
+LangTagCountryGhana	eng	Ghana	date20100514
+
+LangTagCountryGibraltar	deu	Gibraltar	date20100514
+LangTagCountryGibraltar	eng	Gibraltar	date20100514
+
+LangTagCountryGrenada	deu	Grenada	date20100514
+LangTagCountryGrenada	eng	Grenada	date20100514
+
+LangTagCountryGreece	deu	Griechenland	date20100514
+LangTagCountryGreece	eng	Greece	date20100514
+
+LangTagCountryGreenland	deu	Grönland	date20100514
+LangTagCountryGreenland	eng	Greenland	date20100514
+
+LangTagCountryGuadeloupe	deu	Guadeloupe	date20100514
+LangTagCountryGuadeloupe	eng	Guadeloupe	date20100514
+
+LangTagCountryGuam	deu	Guam	date20100514
+LangTagCountryGuam	eng	Guam	date20100514
+
+LangTagCountryGuatemala	deu	Guatemala	date20100514
+LangTagCountryGuatemala	eng	Guatemala	date20100514
+
+LangTagCountryGuinea	deu	Guinea	date20100514
+LangTagCountryGuinea	eng	Guinea	date20100514
+
+LangTagCountryGuineaBissau	deu	Guinea-Bissau	date20100514
+LangTagCountryGuineaBissau	eng	Guinea-Bissau	date20100514
+
+LangTagCountryGuyana	deu	Guyana	date20100514
+LangTagCountryGuyana	eng	Guyana	date20100514
+
+LangTagCountryHaiti	deu	Haiti	date20100514
+LangTagCountryHaiti	eng	Haiti	date20100514
+
+LangTagCountryHeardIslandAndMcDonaldIslands	deu	Heardinsel und McDonald-Inseln	date20100514
+LangTagCountryHeardIslandAndMcDonaldIslands	eng	Heard Island and McDonald Islands	date20100514
+
+LangTagCountryHolySeeVaticanCityState	deu	Heilige Stuhl, der (Vatikanstadt)	date20100514
+LangTagCountryHolySeeVaticanCityState	eng	Holy See (Vatican City State)	date20100514
+
+LangTagCountryHonduras	deu	Honduras	date20100514
+LangTagCountryHonduras	eng	Honduras	date20100514
+
+LangTagCountryHongkong	deu	Hong Kong	date20100514
+LangTagCountryHongkong	eng	Hongkong	date20100514
+
+LangTagCountryIndia	deu	Indien	date20100514
+LangTagCountryIndia	eng	India	date20100514
+
+LangTagCountryIndonesia	deu	Indonesien	date20100514
+LangTagCountryIndonesia	eng	Indonesia	date20100514
+
+LangTagCountryIraq	deu	Irak	date20100514
+LangTagCountryIraq	eng	Iraq	date20100514
+
+LangTagCountryIran	deu	Iran, Islamische Republik	date20100514
+LangTagCountryIran	eng	Iran, Islamic Republic of	date20100514
+
+LangTagCountryIreland	deu	Irland	date20100514
+LangTagCountryIreland	eng	Ireland	date20100514
+
+LangTagCountryIceland	deu	Island	date20100514
+LangTagCountryIceland	eng	Iceland	date20100514
+
+LangTagCountryIsrael	deu	Israel	date20100514
+LangTagCountryIsrael	eng	Israel	date20100514
+
+LangTagCountryItaly	deu	Italien	date20100514
+LangTagCountryItaly	eng	Italy	date20100514
+
+LangTagCountryJamaica	deu	Jamaika	date20100514
+LangTagCountryJamaica	eng	Jamaica	date20100514
+
+LangTagCountryJapan	deu	Japan	date20100514
+LangTagCountryJapan	eng	Japan	date20100514
+
+LangTagCountryYemen	deu	Jemen	date20100514
+LangTagCountryYemen	eng	Yemen	date20100514
+
+LangTagCountryJordan	deu	Jordan	date20100514
+LangTagCountryJordan	eng	Jordan	date20100514
+
+LangTagCountryCaymanIslands	deu	Kaimaninseln	date20100514
+LangTagCountryCaymanIslands	eng	Cayman Islands	date20100514
+
+LangTagCountryCambodia	deu	Kambodscha	date20100514
+LangTagCountryCambodia	eng	Cambodia	date20100514
+
+LangTagCountryCameroon	deu	Kamerun	date20100514
+LangTagCountryCameroon	eng	Cameroon	date20100514
+
+LangTagCountryCanada	deu	Kanada	date20100514
+LangTagCountryCanada	eng	Canada	date20100514
+
+LangTagCountryCapeVerde	deu	Kap Verde	date20100514
+LangTagCountryCapeVerde	eng	Cape Verde	date20100514
+
+LangTagCountryKazakhstan	deu	Kasachstan	date20100514
+LangTagCountryKazakhstan	eng	Kazakhstan	date20100514
+
+LangTagCountryQatar	deu	Katar	date20100514
+LangTagCountryQatar	eng	Qatar	date20100514
+
+LangTagCountryKenya	deu	Kenia	date20100514
+LangTagCountryKenya	eng	Kenya	date20100514
+
+LangTagCountryKyrgyzstan	deu	Kirgisien	date20100514
+LangTagCountryKyrgyzstan	eng	Kyrgyzstan	date20100514
+
+LangTagCountryKiribati	deu	Kiribati	date20100514
+LangTagCountryKiribati	ebg	Kiribati	date20100514
+
+LangTagCountryUnitedStatesMinorOutlyingIslands	deu	Kleine US-Außeninseln	date20100514
+LangTagCountryUnitedStatesMinorOutlyingIslands	eng	United States Minor Outlying Islands	date20100514
+
+LangTagCountryColombia	deu	Kolumbien	date20100514
+LangTagCountryColombia	eng	Colombia	date20100514
+
+LangTagCountryComoros	deu	Komoren	date20100514
+LangTagCountryComoros	eng	Comoros	date20100514
+
+LangTagCountryCongo	deu	Kongo	date20100514
+LangTagCountryCongo	eng	Congo	date20100514
+
+LangTagCountryCongoDemocraticRepublic	deu	Kongo, Demokratische Republik	date20100514
+LangTagCountryCongoDemocraticRepublic	eng	Congo, the Democratic Republic of the	date20100514
+
+LangTagCountryKoreaDemocraticPeoplesRepublic	deu	Korea, Demokratische Volksrepublik	date20100514
+LangTagCountryKoreaDemocraticPeoplesRepublic	eng	Korea, Democratic Peoples Republic of	date20100514
+
+LangTagCountryCroatia	deu	Kroatien	date20100514
+LangTagCountryCroatia	eng	Croatia	date20100514
+
+LangTagCountryCuba	deu	Kuba	date20100514
+LangTagCountryCuba	eng	Cuba	date20100514
+
+LangTagCountryKuwait	deu	Kuwait	date20100514
+LangTagCountryKuwait	eng	Kuwait	date20100514
+
+LangTagCountryLaoPeoplesDemocraticRepublic	deu	Laos, Demokratische Volksrepublik	date20100514
+LangTagCountryLaoPeoplesDemocraticRepublic	eng	Lao Peoples Democratic Republic	date20100514
+
+LangTagCountryLesotho	deu	Lesotho	date20100514
+LangTagCountryLesotho	eng	Lesotho	date20100514
+
+LangTagCountryLatvia	deu	Lettland	date20100514
+LangTagCountryLatvia	eng	Latvia	date20100514
+
+LangTagCountryLebanon	deu	Libanon	date20100514
+LangTagCountryLebanon	eng	Lebanon	date20100514
+
+LangTagCountryLiberia	deu	Liberia	date20100514
+LangTagCountryLiberia	eng	Liberia	date20100514
+
+LangTagCountryLibyanArabJamahiriya	deu	Libyen	date20100514
+LangTagCountryLibyanArabJamahiriya	eng	Libyan Arab Jamahiriya	date20100514
+
+LangTagCountryLiechtenstein	deu	Liechtenstein	date20100514
+LangTagCountryLiechtenstein	eng	Liechtenstein	date20100514
+
+LangTagCountryLithuania	deu	Litauen	date20100514
+LangTagCountryLithuania	eng	Lithuania	date20100514
+
+LangTagCountryLuxembourg	deu	Luxemburg	date20100514
+LangTagCountryLuxembourg	eng	Luxembourg	date20100514
+
+LangTagCountryMacao	deu	Macao	date20100514
+LangTagCountryMacao	eng	Macao	date20100514
+
+LangTagCountryMadagascar	deu	Madagaskar	date20100514
+LangTagCountryMadagascar	eng	Madagascar	date20100514
+
+LangTagCountryMalawi	deu	Malawi	date20100514
+LangTagCountryMalawi	eng	Malawi	date20100514
+
+LangTagCountryMalaysia	deu	Malaysia	date20100514
+LangTagCountryMalaysia	eng	Malaysia	date20100514
+
+LangTagCountryMaldives	deu	Maldiven	date20100514
+LangTagCountryMaldives	eng	Maldives	date20100514
+
+LangTagCountryMali	deu	Mali	date20100514
+LangTagCountryMali	eng	Mali	date20100514
+
+LangTagCountryMalta	deu	Malta	date20100514
+LangTagCountryMalta	eng	Malta	date20100514
+
+LangTagCountryMorocco	deu	Marocco	date20100514
+LangTagCountryMorocco	eng	Morocco	date20100514
+
+LangTagCountryMarshallIslands	deu	Marshallinseln	date20100514
+LangTagCountryMarshallIslands	eng	Marshall Islands	date20100514
+
+LangTagCountryMartinique	deu	Martinique	date20100514
+LangTagCountryMartinique	eng	Martinique	date20100514
+
+LangTagCountryMauritania	deu	Mauritanien	date20100514
+LangTagCountryMauritania	eng	Mauritania	date20100514
+
+LangTagCountryMauritius	deu	Mauritius	date20100514
+LangTagCountryMauritius	eng	Mauritius	date20100514
+
+LangTagCountryMayotte	deu	Mayotte	date20100514
+LangTagCountryMayotte	eng	Mayotte	date20100514
+
+LangTagCountryMacedoniaFormerYugoslavRepublic	deu	Mazedonien, die ehemalige Jugoslawische Republik	date20100514
+LangTagCountryMacedoniaFormerYugoslavRepublic	eng	Macedonia, the Former Yugoslav Republic	date20100514
+
+LangTagCountryMexico	deu	Mexiko	date20100514
+LangTagCountryMexico	eng	Mexico	date20100514
+
+LangTagCountryMicronesiaFederatedStates	deu	Mikronesien, Staatsföderation	date20100514
+LangTagCountryMicronesiaFederatedStates	eng	Micronesia, Federated States of	date20100514
+
+LangTagCountryMoldovaRepublic	deu	Moldawien, Republik	date20100514
+LangTagCountryMoldovaRepublic	eng	Moldova, Republic of	date20100514
+
+LangTagCountryMonaco	deu	Monako	date20100514
+LangTagCountryMonaco	eng	Monaco	date20100514
+
+LangTagCountryMongolia	deu	Mongolei	date20100514
+LangTagCountryMongolia	eng	Mongolia	date20100514
+
+LangTagCountryMontserrat	deu	Montserrat	date20100514
+LangTagCountryMontserrat	eng	Montserrat	date20100514
+
+LangTagCountryMozambique	deu	Mosambik	date20100514
+LangTagCountryMozambique	eng	Mozambique	date20100514
+
+LangTagCountryMyanmar	deu	Myanmar	date20100514
+LangTagCountryMyanmar	eng	Myanmar	date20100514
+
+LangTagCountryNamibia	deu	Namibia	date20100514
+LangTagCountryNamibia	eng	Namibia	date20100514
+
+LangTagCountryNauru	deu	Nauru	date20100517
+LangTagCountryNauru	eng	Nauru	date20100517
+
+LangTagCountryNepal	deu	Nepal	date20100517
+LangTagCountryNepal	eng	Nepal	date20100517
+
+LangTagCountryNewCaledonia	deu	Neukaledonien	date20100517
+LangTagCountryNewCaledonia	eng	New Caledonia	date20100517
+
+LangTagCountryNewZealand	deu	Neuseeland	date20100517
+LangTagCountryNewZealand	eng	New Zealand	date20100517
+
+LangTagCountryNetherlands	deu	Niederlande	date20100517
+LangTagCountryNetherlands	eng	Netherlands	date20100517
+
+LangTagCountryNetherlandsAntilles	deu	Niederlaendische Antillen	date20100517
+LangTagCountryNetherlandsAntilles	eng	Netherlands Antilles	date20100517
+
+LangTagCountryNiger	deu	Niger	date20100517
+LangTagCountryNiger	eng	Niger	date20100517
+
+LangTagCountryNigeria	deu	Nigeria	date20100517
+LangTagCountryNigeria	eng	Nigeria	date20100517
+
+LangTagCountryNicaragua	deu	Nikaragua	date20100517
+LangTagCountryNicaragua	eng	Nicaragua	date20100517
+
+LangTagCountryNiue	deu	Niue	date20100517
+LangTagCountryNiue	eng	Niue	date20100517
+
+LangTagCountryNorthernMarianaIslands	deu	Nordische Marianen-Inseln	date20100517
+LangTagCountryNorthernMarianaIslands	eng	Northern Mariana Islands	date20100517
+
+LangTagCountryNorfolkIsland	deu	Norfolkinseln	date20100517
+LangTagCountryNorfolkIsland	eng	Norfolk Island	date20100517
+
+LangTagCountryNorway	deu	Norwegen	date20100517
+LangTagCountryNorway	eng	Norway	date2010517
+
+LangTagCountryOman	deu	Oman	date20100517
+LangTagCountryOman	eng	Oman	date20100517
+
+LangTagCountryAustria	deu	Oesterreich	date20100517
+LangTagCountryAustria	eng	Austria	date20100517
+
+LangTagCountryTimorLeste	deu	Ost-Timur	date20100517
+LangTagCountryTimorLeste	eng	Timor-Leste	date20100517
+
+LangTagCountryPakistan	deu	Pakistan	date20100517
+LangTagCountryPakistan	eng	Pakistan	date20100517
+
+LangTagCountryPalestinianTerritory	deu	Palestinensische Territorium, das	date20100517
+LangTagCountryPalestinianTerritory	eng	Palestinian Territory	date20100517
+
+LangTagCountryPalau	deu	Palau	date20100517
+LangTagCountryPalau	eng	Palau	date20100517
+
+LangTagCountryPanama	deu	Panama	date20100517
+LangTagCountryPanama	eng	Panama	date20100517
+
+LangTagCountryPapuaNewGuinea	deu	Papua-Neuguinea	date20100517
+LangTagCountryPapuaNewGuinea	eng	Papua New Guinea	date20100517
+
+LangTagCountryParaguay	deu	Paraguay	date20100517
+LangTagCountryParaguay	eng	Paraguay	date20100517
+
+LangTagCountryPeru	deu	Peru	date20100517
+LangTagCountryPeru	eng	Peru	date20100517
+
+LangTagCountryPhilippines	deu	Philippinen	date20100517
+LangTagCountryPhilippines	eng	Philippines	date20100517
+
+LangTagCountryPitcairn	deu	Pitcairn	date20100517
+LangTagCountryPitcairn	eng	Pitcairn	date20100517
+
+LangTagCountryPoland	deu	Polen	date20100517
+LangTagCountryPoland	eng	Poland	date20100517
+
+LangTagCountryPortugal	deu	Portugal	date20100517
+LangTagCountryPortugal	eng	Portugal	date20100517
+
+LangTagCountryPuertoRico	deu	Puerto Rico	date20100517
+LangTagCountryPuertoRico	eng	Puerto Rico	date20100517
+
+LangTagCountryReunion	deu	Reunion	date20100517
+LangTagCountryReunion	eng	Reunion	date20100517
+
+LangTagCountryRwanda	deu	Ruanda	date20100517
+LangTagCountryRwanda	eng	Rwanda	date20100517
+
+LangTagCountryRomania	deu	Rumaenien	date20100517
+LangTagCountryRomania	eng	Romania	date20100517
+
+LangTagCountryRussianFederation	deu	Russland	date20100517
+LangTagCountryRussianFederation	eng	Russian Federation	date20100517
+
+LangTagCountrySolomonIslands	deu	Salomon-Inseln	date20100517
+LangTagCountrySolomonIslands	eng	Solomon Islands	date20100517
+
+LangTagCountryZambia	deu	Sambia	date20100517
+LangTagCountryZambia	eng	Zambia	date20100517
+
+LangTagCountrySamoa	deu	Samoa	date20100517
+LangTagCountrySamoa	eng	Samoa	date20100517
+
+LangTagCountrySanMarino	deu	San Marino	date20100517
+LangTagCountrySanMarino	eng	San Marino	date20100517
+
+LangTagCountrySaoTomeAndPrincipe	deu	Sao Tome und Principe	date20100517
+LangTagCountrySaoTomeAndPrincipe	eng	Sao Tome and Principe	date20100517
+
+LangTagCountrySaudiArabia	deu	Saudi-Arabien	date20100517
+LangTagCountrySaudiArabia	eng	Saudi Arabia	date20100517
+
+LangTagCountrySweden	deu	Schweden	date20100517
+LangTagCountrySweden	eng	Sweden	date20100517
+
+LangTagCountrySwitzerland	deu	Schweiz	date20100517
+LangTagCountrySwitzerland	eng	Switzerland	date20100517
+
+LangTagCountrySenegal	deu	Senegal	date20100517
+LangTagCountrySenegal	eng	Senegal	date20100517
+
+LangTagCountrySerbiaAndMontenegro	deu	Serbien-Montenegro	date20100517
+LangTagCountrySerbiaAndMontenegro	eng	Serbia and Montenegro	date20100517
+
+LangTagCountrySeychelles	deu	Seychelles	date20100517
+LangTagCountrySeychelles	eng	Seychelles	date20100517
+
+LangTagCountrySierraLeone	deu	Sierra Leone	date20100517
+LangTagCountrySierraLeone	eng	Sierra Leone	date20100517
+
+LangTagCountryZimbabwe	deu	Simbabwe	date20100517
+LangTagCountryZimbabwe	eng	Zimbabwe	date20100517
+
+LangTagCountrySingapore	deu	Singapur	date20100517
+LangTagCountrySingapore	eng	Singapore	date20100517
+
+LangTagCountrySlovakia	deu	Slovakei	date20100517
+LangTagCountrySlovakia	eng	Slovakia	date20100517
+
+LangTagCountrySlovenia	deu	Slovenien	date20100517
+LangTagCountrySlovenia	eng	Slovenia	date20100517
+
+LangTagCountrySomalia	deu	Somalia	date20100517
+LangTagCountrySomalia	eng	Somalia	date20100517
+
+LangTagCountrySpain	deu	Spanien	date20100517
+LangTagCountrySpain	eng	Spain	date20100517
+
+LangTagCountrySriLanka	deu	Sri Lanka	date20100517
+LangTagCountrySriLanka	eng	Sri Lanka	date20100517
+
+LangTagCountrySaintHelena	deu	St. Helena	date20100517
+LangTagCountrySaintHelena	eng	Saint Helena	date20100517
+
+LangTagCountrySaintKittsAndNevis	deu	St. Kitts und Nevis	date20100517
+LangTagCountrySaintKittsAndNevis	eng	Saint Kitts and Nevis	date20100517
+
+LangTagCountrySaintLucia	deu	St Lucia	date20100517
+LangTagCountrySaintLucia	eng	Saint Lucia	date20100517
+
+LangTagCountrySaintPierreAndMiquelon	deu	St. Peirre und Miquelon	date20100517
+LangTagCountrySaintPierreAndMiquelon	eng	Saint Pierre and Miquelon	date20100517
+
+LangTagCountrySaintVincentAndTheGrenadines	deu	St. Vincent und die Grenadinen	date20100517
+LangTagCountrySaintVincentAndTheGrenadines	eng	Saint Vincent and the Grenadines	date20100517
+
+LangTagCountrySouthAfrica	deu	Suedafrika	date20100517
+LangTagCountrySouthAfrica	eng	South Africa	date20100517
+
+LangTagCountrySudan	deu	Sudan	date20100517
+LangTagCountrySudan	eng	Sudan	date20100517
+
+LangTagCountrySouthGeorgiaAndTheSouthSandwichIslands	deu	Sudgeorgien und Sudsandwitsch-Inseln	date20100517
+LangTagCountrySouthGeorgiaAndTheSouthSandwichIslands	eng	South Georgia and the South Sandwich Islands	date20100517
+
+LangTagCountrySuriname	deu	Suriname	date20100517
+LangTagCountrySuriname	eng	Suriname	date20100517
+
+LangTagCountrySvalbardJanMayen	deu	Svalbard & Jan Mayen	date20100517
+LangTagCountrySvalbardJanMayen	eng	Svalbard & Jan Mayen	date20100517
+
+LangTagCountrySwaziland	deu	Swasiland	date20100517
+LangTagCountrySwaziland	eng	Swaziland	date20100517
+
+LangTagCountrySyrianArabRepublic	deu	Syrien, Arabische Republik	date20100517
+LangTagCountrySyrianArabRepublic	eng	Syrian Arab Republic	date20100517
+
+LangTagCountryTajikistan	deu	Tadschikistan	date20100517
+LangTagCountryTajikistan	eng	Tajikistan	date20100517
+
+LangTagCountryTaiwan	deu	Taiwan	date20100517
+LangTagCountryTaiwan	eng	Taiwan	date20100517
+
+LangTagCountryTanzaniaUnitedRepublic	deu	Tansania, Vereinigte Republik	date20100517
+LangTagCountryTanzaniaUnitedRepublic	eng	Tanzania, United Republic of	date20100517
+
+LangTagCountryThailand	deu	Thailand	date20100517
+LangTagCountryThailand	eng	Thailand	date20100517
+
+LangTagCountryTogo	deu	Togo	date20100517
+LangTagCountryTogo	eng	Togo	date20100517
+
+LangTagCountryTokelau	deu	Tokelau	date20100517
+LangTagCountryTokelau	eng	Tokelau	date20100517
+
+LangTagCountryTonga	deu	Tonga	date20100517
+LangTagCountryTonga	eng	Tonga	date20100517
+
+LangTagCountryTrinidadAndTobago	deu	Trinidad und Tobago	date20100517
+LangTagCountryTrinidadAndTobago	eng	Trinidad and Tobago	date20100517
+
+LangTagCountryChad	deu	Tschad	date20100517
+LangTagCountryChad	eng	Chad	date20100517
+
+LangTagCountryCzechRepublic	deu	Tschechische Republik	date20100517
+LangTagCountryCzechRepublic	eng	Czech Republic	date20100517
+
+LangTagCountryTunisia	deu	Tunesien	date20100517
+LangTagCountryTunisia	eng	Tunisia	date20100517
+
+LangTagCountryTurkey	deu	Tuerkei	date20100517
+LangTagCountryTurkey	eng	Turkey	date20100517
+
+LangTagCountryTurkmenistan	deu	Turkmenistan	date20100517
+LangTagCountryTurkmenistan	eng	Turkmenistan	date20100517
+
+LangTagCountryTurksAndCaicosIslands	deu	Turks- und Caicos-Inseln	date20100517
+LangTagCountryTurksAndCaicosIslands	eng	Turks and Caicos Islands	date20100517
+
+LangTagCountryTuvalu	deu	Tuvalu	date20100517
+LangTagCountryTuvalu	eng	Tuvalu	date20100517
+
+LangTagCountryUganda	deu	Uganda	date20100517
+LangTagCountryUganda	eng	Uganda	date20100517
+
+LangTagCountryUkraine	deu	Ukraine	date20100517
+LangTagCountryUkraine	eng	Ukraine	date20100517
+
+LangTagCountryHungary	deu	Ungarn	date20100517
+LangTagCountryHungary	eng	Hungary	date20100517
+
+LangTagCountryUruguay	deu	Uruguay	date20100517
+LangTagCountryUruguay	eng	Uruguay	date20100517
+
+LangTagCountryUzbekistan	deu	Uzbekistan	date20100517
+LangTagCountryUzbekistan	eng	Uzbekistan	date20100517
+
+LangTagCountryVirginIslandsUS	deu	US-Jungferninseln	date20100517
+LangTagCountryVirginIslandsUS	eng	Virgin Islands, U.S	date20100517
+
+LangTagCountryVanuatu	deu	Vanuatu	date20100517
+LangTagCountryVanuatu	eng	Vanuatu	date20100517
+
+LangTagCountryVenezuela	deu	Venezuela	date20100517
+LangTagCountryVenezuela	eng	Venezuela	date20100517
+
+LangTagCountryUnitedArabEmirates	deu	Vereinigte Arabische Emiraten	date20100517
+LangTagCountryUnitedArabEmirates	eng	United Arab Emirates	date20100517
+
+LangTagCountryUnitedKingdom	deu	Vereinigtes Koenigreich	date20100517
+LangTagCountryUnitedKingdom	eng	United Kingdom	date20100517
+
+LangTagCountryUnitedStates	deu	Vereinigte Staaten	date20100517
+LangTagCountryUnitedStates	eng	United States	date20100517
+
+LangTagCountryVietNam	deu	Vietnam	date20100517
+LangTagCountryVietNam	eng	Viet Nam	date20100517
+
+LangTagCountryWallisAndFutuna	deu	Wallis und Futuna	date20100517
+LangTagCountryWallisAndFutuna	eng	Wallis and Futuna	date20100517
+
+LangTagCountryChristmasIsland	deu	Weinachtsinseln	date20100517
+LangTagCountryChristmasIsland	eng	Christmas Island	date20100517
+
+LangTagCountryBelarus	deu	Weissrussland	date20100517
+LangTagCountryBelarus	eng	Belarus	date20100517
+
+LangTagCountryWesternSahara	deu	Westsahara	date20100517
+LangTagCountryWesternSahara	eng	Western Sahara	date20100517
+
+LangTagCountryCentralAfricanRepublic	deu	Zentranafrikanische Republik	date20100517
+LangTagCountryCentralAfricanRepublic	eng	Central African Republic	date20100517
+
+LangTagCountryCyprus	deu	Zypern	date20100517
+LangTagCountryCyprus	eng	Cyprus	date20100517
+//End Countries

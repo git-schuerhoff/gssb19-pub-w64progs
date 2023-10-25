@@ -1,0 +1,34 @@
+2023-09-19 12:00:57 -> DELETE FROM dsb19_itemdata WHERE itemLanguageId = 'deu' => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_downloadarticle WHERE 1 => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_itemdownloads WHERE languageId = 'deu' => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_item_to_variant WHERE 1 => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_upselling WHERE 1 => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_crossselling WHERE 1 => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_bundles WHERE languageId = 'deu' AND bundleLanguageId = 'deu' => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_itemcentraltext WHERE languageId = 'deu' AND countryId = 'deu' => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_action WHERE 1 => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_price WHERE prcCountryId = 'deu' => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_pricehistory WHERE prchlanguageId = 'deu' => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_productgrouplanguage WHERE 1 => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_productgroups WHERE 1 => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_specshipprices WHERE 1 => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_gallery WHERE 1 => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_items2group WHERE 1 => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_addressarea WHERE LanguageId = 'deu' AND CountryId = 'deu' => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_contentpool WHERE LanguageId = 'deu' => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_deliveryarea WHERE CountryId = 'deu' => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_deliverycountry WHERE CountryId = 'deu' => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_deliverylanguage WHERE LanguageId = 'deu' => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_languagename WHERE 1 => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_paymentcountry WHERE CountryId = 'deu' => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_paymentlanguage WHERE LanguageId = 'deu' => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_salestax WHERE CountryId = 'deu' => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_setting WHERE LanguageId = 'deu' AND CountryId = 'deu' => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_settingmemo WHERE LanguageId = 'deu' AND CountryId = 'deu' => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_shippingweightcost WHERE CountryId = 'deu' => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_attributes WHERE 1 => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_countriesareas WHERE 1 => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_paymentinternalnames WHERE 1 => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_generalinfo WHERE 1 => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_kattags WHERE LanguageId = 'deu' => OK
+2023-09-19 12:00:57 -> DELETE FROM dsb19_slideshow WHERE 1 => OK

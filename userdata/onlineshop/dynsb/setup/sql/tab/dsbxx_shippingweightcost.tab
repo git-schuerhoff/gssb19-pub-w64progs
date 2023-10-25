@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS `{dsbxx_}shippingweightcost` (
+  `ShippingCount` int(11) NOT NULL DEFAULT '0',
+  `CountryId` char(3) {gssb_charset} NOT NULL,
+  `TempKey` varchar(32) {gssb_charset} NOT NULL,
+  `ShippingToWeight` decimal(15,2) NOT NULL DEFAULT '0.00',
+  `ShippingCost` decimal(15,2) NOT NULL DEFAULT '0.00',
+  `ID` int(11) NOT NULL DEFAULT 0,
+  KEY `CountryId` (`CountryId`)
+) {gssb_charset};

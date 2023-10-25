@@ -1,0 +1,16 @@
+CREATE TABLE IF NOT EXISTS `{dsbxx_}paymentcountry` (
+  `SortId` int(11) NOT NULL DEFAULT '0',
+  `CountryId` char(3) {gssb_charset} NOT NULL,
+  `AddressArea` int(11) NOT NULL DEFAULT '0',
+  `Type` int(11) NOT NULL DEFAULT '0',
+  `Charge` decimal(15,2) NOT NULL DEFAULT '0.00',
+  `CashDiscountPercent` decimal(6,2) NOT NULL DEFAULT '0.00',
+  `UseCashDiscount` CHAR(1) NOT NULL DEFAULT 'N',
+  `UseThisPayment` CHAR(1) NOT NULL DEFAULT 'N',
+  `VatId` int(11) NOT NULL DEFAULT '0',
+  `ChargeNet` decimal(15,2) NOT NULL DEFAULT '0.00',
+  `ChargeGross` decimal(15,2) NOT NULL DEFAULT '0.00',
+  `ChargePercent` decimal(6,2) NOT NULL DEFAULT '0.00',
+  `CashDiscount` decimal(15,2) NOT NULL DEFAULT '0.00',
+  KEY `CountryId` (`CountryId`,`AddressArea`)
+) {gssb_charset};

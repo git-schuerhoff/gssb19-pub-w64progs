@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}item_to_variant (
+	varItemNumber varchar(32) {gssb_charset} NOT NULL default '',
+	varVariantGroup varchar(32) {gssb_charset} NOT NULL default '',
+	varVariantIdNo int(10) unsigned NOT NULL default '0',
+	varItemCount int(4) unsigned NOT NULL default '0',
+	varGroupCount int(4) unsigned NOT NULL default '0',
+	ShowAsDropDown char(1) NOT NULL default 'N',
+	variantOrder int(11) unsigned NOT NULL default 0,
+	KEY varItemCount (varItemCount),
+	KEY varGroupCount (varGroupCount)
+) {gssb_charset};

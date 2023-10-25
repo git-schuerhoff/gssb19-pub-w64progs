@@ -1,0 +1,54 @@
+<div class="gs-flying-box side-left">
+	{GSSE_FUNC_ITEMCOMPARE}
+</div>
+<div class="gs-flying-box side-right">
+	{GSSE_FUNC_LASTVIEWEDNEW}
+</div>
+<script>
+	var leftOut = 1;
+	var rightOut = 1;
+	var chevron;
+	var toggle_chevron = function() {
+		if(chevron.hasClass('glyphicon-chevron-left')) {
+			chevron.removeClass('glyphicon-chevron-left');
+			chevron.addClass('glyphicon-chevron-right');
+		} else {
+			chevron.removeClass('glyphicon-chevron-right');
+			chevron.addClass('glyphicon-chevron-left');
+		}
+	}
+	jQuery('.gs-flying-box').on('click', function() {
+		if(jQuery(window).width() > 768)
+		{
+			if(jQuery(this).hasClass('side-left')) {
+				if(leftOut == 1) {
+					jQuery(this).animate({left: '-180px'}, 400, function() {
+						chevron = jQuery(this).find('.glyphicon');
+						toggle_chevron();
+					});
+					leftOut = 0;
+				} else {
+					jQuery(this).animate({left: '0'}, 400, function() {
+						chevron = jQuery(this).find('.glyphicon');
+						toggle_chevron();
+					});
+					leftOut = 1;
+				}
+			} else {
+				if(rightOut == 1) {
+					jQuery(this).animate({right: '-180px'}, 400, function() {
+						chevron = jQuery(this).find('.glyphicon');
+						toggle_chevron();
+					});
+					rightOut = 0;
+				} else {
+					jQuery(this).animate({right: '0'}, 400, function() {
+						chevron = jQuery(this).find('.glyphicon');
+						toggle_chevron();
+					});
+					rightOut = 1;
+				}
+			}
+		}
+	});
+</script>

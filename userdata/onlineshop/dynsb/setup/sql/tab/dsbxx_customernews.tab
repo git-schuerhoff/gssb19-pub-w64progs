@@ -1,0 +1,18 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}customernews 
+ (
+	cnewsIdNo int(11) NOT NULL auto_increment,
+	cnewsTitle varchar(255) {gssb_charset} NOT NULL default '',
+	cnewsContent blob,
+	cnewsStartDate varchar(14) {gssb_charset} NOT NULL default '',
+	cnewsEndDate varchar(14) {gssb_charset} NOT NULL default '',
+	cnewsPicName varchar(128) {gssb_charset} default '(NULL)',
+	cnewsPicLink varchar(255) {gssb_charset} default '(NULL)',
+	cnewsPicXSize int(3) default '0',
+	cnewsPicYSize int(3) default '0',
+	cnewsChgTimestamp timestamp NOT NULL,
+	cnewsChgUserIdNo int(11) NOT NULL default '0',
+	cnewsChgApplicId varchar(255) {gssb_charset} NOT NULL default '',
+	cnewsChgHistoryFlg char(1) {gssb_charset} NOT NULL default 'N',
+	cnewsForAll char(1) {gssb_charset} NOT NULL default 'N',
+	PRIMARY KEY  (cnewsIdNo)
+ ) {gssb_charset};

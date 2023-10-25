@@ -1,0 +1,30 @@
+<div>
+	<ul class="form-list">
+		<li>
+			{GSSE_LANG_LangTagAvailInformMe}
+		</li>
+		<li>
+			<label for="email">E-Mail</label>
+			<div class="input-box">
+				<input class="input-text" type="text" name="email" id="email" />
+			</div>
+			<input type="hidden" id="msg1" VALUE="{GSSE_LANG_LangTagErrorFroms}" />
+			<input type="hidden" id="msg2" VALUE="{GSSE_LANG_LangTagErrorSendMail}" />
+			<input type="hidden" id="msg3" VALUE="{GSSE_LANG_LangTagThankSendMail}" />
+			<input type="hidden" id="dear" VALUE="{GSSE_LANG_LangTagGreetingInquiry}" />
+			<input type="hidden" id="thankyou" VALUE="{GSSE_LANG_LangTagTextThanks}" />
+			<input type="hidden" name="productlink" id="productlink" VALUE="{GSSE_INCL_ITEMLNK}" />
+			<input type="hidden" id="message" VALUE="{GSSE_LANG_LangTagItemIsAvailable}" />
+			<input type="hidden" id="item" VALUE="{GSSE_INCL_ITEM}" />
+			<input type="hidden" name="subject" id="subject" class="input" value="{GSSE_LANG_LangTagFNFieldAvail}" />
+			<input type="hidden" name="recipient" id="recipient" value="{GSSE_TXDB_setting|SettingValue|SettingName|edOrderEmail_Text}" />
+		</li>
+		<li> 
+			<div class="buttons-set">
+				<button type="button" class="button btn-continue" title="{GSSE_LANG_LangTagSubmit}" value="{GSSE_LANG_LangTagSubmit}" onclick="itemrequest();">
+					<span><span>{GSSE_LANG_LangTagSubmit}</span></span>
+				</button>
+			</div>
+		</li>
+	</ul>
+</div>

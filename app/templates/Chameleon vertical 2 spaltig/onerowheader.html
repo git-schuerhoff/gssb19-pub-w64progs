@@ -1,0 +1,31 @@
+<div class="grid_24">
+	<div class="grid_8 alpha">
+		{GSSE_FUNC_SHOPLOGO}
+		<ol class="gs-show-navigation"> 
+			<li class="sitenavigationtoggle">
+				<span class="glyphicon glyphicon-th-list" style="font-size: 18px;"></span>
+			</li>
+		</ol>
+		<script>
+			jQuery(".sitenavigationtoggle").on("click", function() {
+				if(jQuery(".links").hasClass("show-menu")) {
+					jQuery(".links").removeClass("show-menu");
+				} else {
+					jQuery(".links").addClass("show-menu");
+				}
+			});
+		</script>
+	</div>
+	<div class="grid_4">
+		<div class="gs-search-and-basket">
+			<ul>
+				<li>{GSSE_FUNC_FULLTEXTSEARCH}</li>
+				<li>{GSSE_FUNC_MINIBASKET}</li>
+			</ul>
+		</div>
+	</div>
+	<div class="grid_12 omega">
+		{GSSE_FUNC_SHOPMENU}
+	</div>
+</div>
+<div class="clear"></div>

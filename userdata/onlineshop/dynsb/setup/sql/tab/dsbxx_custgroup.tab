@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}custgroup (
+  cgId INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  cgName VARCHAR(45) {gssb_charset} NOT NULL,
+  PRIMARY KEY (cgId)
+ ) {gssb_charset};

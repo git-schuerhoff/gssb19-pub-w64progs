@@ -1,0 +1,18 @@
+Template Planets
+================
+
+Mit der Template-Reihe "Planets" haben wir unser Angebot an schicken
+Templates für den GS ShopBuilder wieder einmal um ein weiteres schönes
+Template erweitert.
+
+Das besondere Highlight ist sicher die einzeilige Header-Zeile, in die
+das Shop-Logo, die Volltextsuche, der Miniwarenkorb und das Hauptmenü
+integriert wurde.
+
+Die Volltextsuche und die Anmeldung (wenn verfügbar) fahren nach einem
+Klick auf das Symbol bzw. den Text sanft aus der Header-Zeile heraus.
+
+Des Weiteren sind die Boxen für den Artikelvergleich und die zuletzt
+angesehen Artikel (wenn verfügbar) nicht mehr statisch auf der Warengruppen-
+oder Detailseite zu sehen, sondern sie befinden sich am linken bzw. rechten
+Bildrand und können durch einen Klick ein- und ausgeklappt werden.

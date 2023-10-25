@@ -1,0 +1,61 @@
+<div class="stepfour" id="stepfour">
+<div id="headerProgressbar" class="row step-2">
+<div class="checkout-progressbar nopadlr grid_24">
+    <ul class="grid_16 push_4 checkout-progressbar-steps">
+        <li class="checkout-step-login">
+            <div class="stepname">
+            <span class="checkout-progressbar-stepName">
+            <i icon class="icon icon-check green"></i>
+            <span class="step-naming"><a href="JavaScript:processCheckout(1,4);">{GSSE_LANG_LangTagRegistration}</a></span>
+            </span>
+            </div><div class="arrow-wrapper-right"><div class="arrow"></div><div class="arrow-off"></div></div>
+        </li>
+        <li class="checkout-step-address">
+            <div class="stepname">
+            <span class="checkout-progressbar-stepName">
+            <span class="checkout-progressbar-stepNumber"><i icon class="icon icon-check green"></i><span class="nr">1</span></span>
+            <span class="step-naming"><a href="JavaScript:processCheckout(2,4,'False');">{GSSE_LANG_LangTagPersonalInformation}</a></span>
+            </span>
+            </div><div class="arrow-wrapper-right"><div class="arrow"></div><div class="arrow-off"></div></div>
+        </li>
+        <li class="checkout-step-shipping-payment ">
+            <div class="stepname">
+            <span class="checkout-progressbar-stepName">
+            <span class="checkout-progressbar-stepNumber"><i icon class="icon icon-check green"></i><span class="nr">2</span></span>
+            <span class="step-naming"><a href="JavaScript:processCheckout(3,4,'False');">{GSSE_LANG_LangTagPaymShipm}</a></span>
+            </span>
+            </div><div class="arrow-wrapper-right"><div class="arrow"></div><div class="arrow-off"></div></div>
+        </li>
+        <li class="checkout-step-review checkout-progressbar-current ">
+            <div class="stepname">
+            <span class="checkout-progressbar-stepName">
+            <span class="checkout-progressbar-stepNumber"><i icon class="icon icon-check green"></i><span class="nr">3</span></span>
+            <span class="step-naming">{GSSE_LANG_LangTagCheckout}</span>
+            </span>
+            </div>
+        </li>
+    </ul>
+</div>
+</div>
+<div class="clear"></div>
+{GSSE_FUNC_BUYCUSTOMERDATA}
+
+{GSSE_FUNC_SEPAMANDAT}
+{GSSE_FUNC_BUY2BASKET}
+<!--Payment-Services-Return Infos-->
+<!--PayPal-->
+<input type="hidden" name="pp_state" id="pp_state" value="{GSSE_INCL_PPSTATE}" />
+<input type="hidden" name="pp_token" id="pp_token" value="{GSSE_INCL_PPTOKEN}" />
+<input type="hidden" name="pp_paymentid" id="pp_paymentid" value="" />
+
+<!--Payment-Services-Return Infos-->
+<!--Saferpay-->
+<input type="hidden" name="sp_state" id="sp_state" value="" />
+
+<input type="hidden" name="paymentInternalName" id="paymentInternalName" value="{GSSE_INCL_PAYMINTNAME}" />
+<input type="hidden" name="rememberme" id="rememberme" value="{GSSE_INCL_REMEMBERME}" />
+<div class="buttons-set gs_aln_right">
+	<button type="button" class="button attention gs_bt_last" title="{GSSE_LANG_LangTagButtonSubmit}" name="SendButton" value="{GSSE_LANG_LangTagButtonSubmit}" onclick="checkorder();">
+		<span><span>{GSSE_LANG_LangTagButtonSubmit}</span></span>
+	</button>
+</div>

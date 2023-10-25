@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}monitorlog 
+ (
+	monIdNo int(11) unsigned NOT NULL auto_increment,
+	monItemNumber varchar(32) {gssb_charset} default NULL,
+	monActionIdNo int(11) unsigned NOT NULL default '0',
+	monValue varchar(255) {gssb_charset} NOT NULL default '',
+	monSLC char(3) {gssb_charset} default NULL,
+	monChgTimestamp timestamp NOT NULL,
+	monChgUserIdNo int(11) NOT NULL default '0',
+	monChgApplicId varchar(255) {gssb_charset} NOT NULL default '',
+	monChgHistoryFlg char(1) {gssb_charset} NOT NULL default 'N',
+	PRIMARY KEY  (monIdNo,monActionIdNo)
+ ) {gssb_charset};

@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS `{dsbxx_}contentpool` (
+  `ID` int(11) NOT NULL DEFAULT 0,
+  `LanguageId` char(3) {gssb_charset} NOT NULL,
+  `Name` varchar(64) {gssb_charset} NOT NULL,
+  `Text` text {gssb_charset} NOT NULL,
+  KEY ID (`ID`),
+  KEY `LanguageId` (`LanguageId`),
+  KEY `Name` (`Name`)
+) {gssb_charset};

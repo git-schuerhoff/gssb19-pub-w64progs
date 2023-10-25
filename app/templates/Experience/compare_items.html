@@ -1,0 +1,90 @@
+<body class="page-popup catalog-product-compare-index">
+<div>
+	<div class="page-title title-buttons">
+		<h1>{GSSE_LANG_LangTagArticleCompare}</h1>
+		<a href="#" onclick="window.print(); return false;" class="link-print">{GSSE_LANG_LangTagPrint}</a>
+	</div>
+	<script language="javascript">
+		/*Funktionen weiterleiten*/		
+		function insert_wl(itemno,cusid,cdate)
+		{
+			opener.insert_wl(itemno,cusid,cdate);
+			return;
+		}
+		
+		function insert_np(itemno,cusid,cdate)
+		{
+			opener.insert_np(itemno,cusid,cdate);
+			return;
+		}
+	</script>
+	<table class="data-table compare-table" id="product_comparison">
+		<col width="1" />
+		{GSSE_INCL_ICPREDEFCOLS}
+		<thead>
+			<tr>
+				<th>&nbsp;</th>
+				{GSSE_INCL_ICREMOVEITEM}
+		</tr>
+		</thead>
+		<tbody>
+			<tr class="product-shop-row">
+				<th>&nbsp;</th>
+				{GSSE_INCL_ICITEMBOXES}
+			</tr>
+		</tbody>
+		<tbody>
+			<tr>
+				<th><span class="nobr">{GSSE_LANG_LangTagDescription}</span></th>
+				{GSSE_INCL_ICITEMDESCR}
+			</tr>
+			<tr>
+				<th><span class="nobr">{GSSE_LANG_LangTagItemNumberLong}</span></th>
+				{GSSE_INCL_ICITEMNO}
+			</tr>
+			<tr>
+				<th><span class="nobr">{GSSE_LANG_LangTagManufacturer}</span></th>
+				{GSSE_INCL_ICITEMMANU}
+			</tr>
+			{GSSE_FUNC_FEATURES}
+		</tbody>
+	</table>
+	<div class="buttons-set">
+		<button type="button" title="{GSSE_LANG_LangTagButtonCloseWindow}" class="button" onclick="window.close();">
+			<span><span>{GSSE_LANG_LangTagButtonCloseWindow}</span></span>
+		</button>
+		<span class="please-wait" id="compare-list-please-wait" style="display:none;">
+			<img src="" alt="{GSSE_LANG_LangTagPleaseWait}" title="{GSSE_LANG_LangTagPleaseWait}" class="v-middle" />{GSSE_LANG_LangTagPleaseWait}
+		</span>
+	</div>
+	{GSSE_FUNC_COMPAREITEMSNEW}
+	<script type="text/javascript">
+		decorateTable('product_comparison');
+		responsive();
+		function remove_ic_item(idx,itemname)
+		{
+			mark_comparison2(idx,itemname);
+			window.location.reload();
+			return;
+		}
+	</script>
+</div>
+<div class="">
+	<div id="containerDiv" style="display: none;">
+		<div class="ajaxcart">
+			<img class="ajax_loading" id="ajax_loading" src="{GSSE_SURL_}template/images/loading.gif" alt="">
+			<div id="ajax_content" style="display:none">
+				<div class="ajaxcart_row1 row1">
+					<div id="ajax_image"></div>
+				</div>
+				<div class="row2">
+					<a href="javascript:void(0);" id="closeLink" class="back"><span>Not Now</span><span class="emajc_num"></span></a>
+					<a id="viewcart_button" href="javascript:void(0);" class="next" onclick="ajaxaddnext();"><span>Add to Cart</span></a>
+					<a id="ajc_btn_checkout" class="next" href="#"><span>View cart &amp; checkout</span></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

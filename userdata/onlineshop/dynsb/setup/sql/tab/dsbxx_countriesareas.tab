@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}countriesareas (
+	`countryid` varchar(255) {gssb_charset} default '',
+	`addressareaid`  int(11) default '0',
+	KEY `countryid` (`countryid`),
+	KEY `addressareaid` (`addressareaid`)
+) {gssb_charset};

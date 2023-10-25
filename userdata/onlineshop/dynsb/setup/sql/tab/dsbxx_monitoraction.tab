@@ -1,0 +1,10 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}monitoraction 
+ (
+	maIdNo int(11) unsigned NOT NULL auto_increment,
+	maName varchar(255) {gssb_charset} NOT NULL default '',
+	maChgTimestamp timestamp NOT NULL,
+	maChgUserIdNo int(11) NOT NULL default '0',
+	maChgApplicIdNo varchar(255) {gssb_charset} NOT NULL default '',
+	maChgHistoryFlg char(1) {gssb_charset} NOT NULL default 'N',
+	PRIMARY KEY  (maIdNo)
+ ) {gssb_charset};

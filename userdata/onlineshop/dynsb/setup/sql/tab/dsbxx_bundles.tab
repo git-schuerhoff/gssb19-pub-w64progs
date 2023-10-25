@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}bundles (
+	`itemNumber` varchar(32) {gssb_charset} NOT NULL default '',
+	`languageId` varchar(3) {gssb_charset} NOT NULL default 'deu',
+	`blockingIdNo` integer,
+	`bundleGroup` varchar(32) {gssb_charset} default '',
+	`bundleLanguageId` varchar(3) {gssb_charset} NOT NULL default 'deu',
+	`bundleBlockingIdNo` integer,
+	`amount` float
+) {gssb_charset};

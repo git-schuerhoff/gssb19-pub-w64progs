@@ -1,0 +1,10 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}shopcomments (
+  `itcoIdNo` int(10) unsigned NOT NULL auto_increment,
+  `itcoRating` tinyint(3) unsigned NOT NULL default '0',
+  `itcoSubject` varchar(250) {gssb_charset} NOT NULL default '',
+  `itcoBody` text {gssb_charset} NOT NULL,
+  `itcoDate` datetime NOT NULL default '0000-00-00 00:00:00',
+  `itcoCusId` varchar(32) {gssb_charset} default NULL,
+  `itcoVisible` CHAR(1) NOT NULL default 'N',
+  PRIMARY KEY  (`itcoIdNo`)
+) {gssb_charset};

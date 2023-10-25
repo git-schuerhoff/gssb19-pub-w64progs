@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}itemdownloads (
+	itemNumber varchar(32) {gssb_charset} NOT NULL default '',
+	languageId varchar(3) {gssb_charset} NOT NULL default 'deu',
+	title varchar(255) {gssb_charset} default '',
+	fileName varchar(255) {gssb_charset} default '',
+	ID int(11) unsigned NOT NULL,
+	PRIMARY KEY (ID)
+) {gssb_charset};

@@ -1,0 +1,106 @@
+<div name="stepthree" id="stepthree">
+<div id="headerProgressbar" class="row step-2">
+<div class="checkout-progressbar nopadlr grid_24">
+    <ul class="grid_16 push_4 checkout-progressbar-steps">
+        <li class="checkout-step-login">
+            <div class="stepname">
+            <span class="checkout-progressbar-stepName">
+            <i icon class="icon icon-check green"></i>
+            <span class="step-naming"><a href="JavaScript:processCheckout(1,3);">{GSSE_LANG_LangTagRegistration}</a></span>
+            </span>
+            </div><div class="arrow-wrapper-right"><div class="arrow"></div><div class="arrow-off"></div></div>
+        </li>
+        <li class="checkout-step-address">
+            <div class="stepname">
+            <span class="checkout-progressbar-stepName">
+            <span class="checkout-progressbar-stepNumber"><i icon class="icon icon-check green"></i><span class="nr">1</span></span>
+            <span class="step-naming"><a href="JavaScript:processCheckout(2,3,'False');">{GSSE_LANG_LangTagPersonalInformation}</a></span>
+            </span>
+            </div><div class="arrow-wrapper-right"><div class="arrow"></div><div class="arrow-off"></div></div>
+        </li>
+        <li class="checkout-step-shipping-payment checkout-progressbar-current ">
+            <div class="stepname">
+            <span class="checkout-progressbar-stepName">
+            <span class="checkout-progressbar-stepNumber"><i icon class="icon icon-check green"></i><span class="nr">2</span></span>
+            <span class="step-naming">{GSSE_LANG_LangTagPaymShipm}</span>
+            </span>
+            </div><div class="arrow-wrapper-right"><div class="arrow"></div><div class="arrow-off"></div></div>
+        </li>
+        <li class="checkout-step-review  ">
+            <div class="stepname">
+            <span class="checkout-progressbar-stepName">
+            <span class="checkout-progressbar-stepNumber"><i icon class="icon icon-check green"></i><span class="nr">3</span></span>
+            <span class="step-naming">{GSSE_LANG_LangTagCheckout}</span>
+            </span>
+            </div>
+        </li>
+    </ul>
+</div>
+</div>
+<div class="clear"></div>
+<div class="checkout-billingshipping-page">
+    <div class="grid_8 push_2 my-account step a-item">
+        <h2>{GSSE_LANG_LangTagPaymentInfo}</h2>
+        {GSSE_FUNC_PAYMENT}
+    </div>
+    <div class="grid_8 push_2 my-account step a-item">
+        <h2>{GSSE_LANG_LangTagShipment}</h2>
+        {GSSE_FUNC_SHIPMENT}
+    </div>
+    <div class="clear"></div>
+    <div class="grid_8 push_2 a-item">
+	    <div class="clearfix checkout-newsletter margb20 text-left">
+	    	<span class="sprite ms-checkbox " id="useshipp" onclick="show_shippaddress();" {GSSE_INCL_STYLE}>
+	    		<input type="checkbox" name="UseShippingAddress" id="UseShippingAddress"/>
+	    		<span class="h3">{GSSE_LANG_LangTagUseShippingAddress}</span>
+	    	</span>
+	    </div>
+		<div class="grid_8 my-account shippaddress" id="shippaddress" style="display:none">
+	        <h2>{GSSE_LANG_LangTagShippingAddress}</h2>
+	        {GSSE_FUNC_USESHIPPADDRESS}
+	    </div>
+    </div>
+	<div class="clear"></div>
+    <div class="grid_16 push_2 my-account step a-item" id="sepaform" style="display:none">
+        <h2>{GSSE_LANG_LangTagAccountData}</h2>
+        {GSSE_FUNC_DIRECTDEBIT}
+    </div>
+    <div class="grid_16 push_2 my-account step a-item" id="creditform" style="display:none">
+        <h2>{GSSE_LANG_LangTagAccountData}</h2>
+        {GSSE_FUNC_CREDITCARD}
+    </div>
+    <div class="grid_16 push_2 my-account step a-item" id="paypalplusform" style="display:none">
+        {GSSE_FUNC_PAYPAL}
+    </div>
+</div>
+<div class="clear"></div>
+<div class="grid_4 push_15">
+    <ul class="form-list">
+        <li class="fields"> 
+            <div class="buttons-set">
+                <button id="gs_order_cont_button" type="button" class="button attention" title="{GSSE_LANG_LangTagOrderContinue}" value="{GSSE_LANG_LangTagOrderContinue}" onclick="processCheckout(4,3,'True');">
+                    <span><span id="gs_order_cont_span">{GSSE_LANG_LangTagOrderContinue}</span></span>
+                </button>
+                <span id="billing-please-wait" class="please-wait" style="display:none;">
+                    <img class="v-middle" title="{GSSE_LANG_LangTagNextStep}" alt="{GSSE_LANG_LangTagNextStep}" src="template/images/opc-ajax-loader.gif"></img>
+                    {GSSE_LANG_LangTagNextStep}
+                </span>
+            </div>
+        </li>
+    </ul>
+</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+  $("#checkout-billingshipping-page input:radio").click(function() {
+
+    alert("clicked");
+
+   });
+
+  $("input:radio:first").prop("checked", true).trigger("click");
+
+});
+//]]>
+</script>

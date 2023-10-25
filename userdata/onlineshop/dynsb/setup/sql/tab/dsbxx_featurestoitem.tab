@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}featurestoitem
+(
+	`id` INT(11) NOT NULL AUTO_INCREMENT,
+	`langid` VARCHAR(3) {gssb_charset} NOT NULL DEFAULT 'deu',
+	`featureid` INT(11) NOT NULL,
+	`itemid` INT(11) NOT NULL,
+	`featurevalue` TEXT {gssb_charset} NULL,
+	PRIMARY KEY (`id`)
+);

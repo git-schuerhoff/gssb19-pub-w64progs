@@ -1,0 +1,50 @@
+.icon{ background:url(../images/icons_s6.png) 0 0 no-repeat}
+.brand-logo{ background:url(../images/logos_s6.png) no-repeat}
+.form-search button.button span span { background:url(../images/icons_s6.png) 10px -52px no-repeat;}
+.form-search button.button:hover span span{ background:url(../images/icons_s6.png) 10px -93px no-repeat}
+.toolbar-dropdown span.current { background-image: url("../images/btn-select2.png")}
+a.link-wishlist{ background:url(../images/icons_s6.png) -122px -208px no-repeat;}
+a.link-compare{ background:url(../images/icons_s6.png) -172px -208px no-repeat;}
+a.gs-link-notepad{ background:url(../images/icons_s6.png) -222px -208px no-repeat;}
+a.gs-link-rating{ background:url(../images/icons_s6.png) -272px -208px no-repeat;  }
+a.gs-rmwishlist{ background:url(../images/icons_s6.png) -322px -208px no-repeat;  }
+a.gs-rmnotepad{ background:url(../images/icons_s6.png) -372px -208px no-repeat;  }
+.block-wishlist .link-cart, button.button.btn-cart{ background: url(../images/icons_s6.png) -72px -208px no-repeat;}
+.add-to-links li a:hover{box-shadow:0 0 5px #737272 ;
+-moz-box-shadow:0 0 5px #737272;
+-webkit-box-shadow: 0 0 5px #737272}
+.slider_special .csslider a.prev{ background:url(../images/icons_s6.png) -409px -71px no-repeat; border:none}
+.slider_special .csslider a.prev:hover{ background-position:-448px -71px}
+
+.slider_special .csslider a.next{ background:url(../images/icons_s6.png) -409px -96px no-repeat;border:none}
+.slider_special .csslider a.next:hover{ background-position:-448px -96px}
+
+.ui-slider-tabs{ border-top:none}
+.ui-slider-tabs-list li{ }
+.home_category .title,
+.slider_container .slider_special .widget-title h2{ padding-right:20px; padding-left:20px}
+.em-box-custom .container_menu, .bkg_container_menu {
+border-top-width:3px;
+}
+/*.icon-menu{ background:url(../images/icons_menu_s6.png) 23px 0 no-repeat}
+.m_icon1 .icon-menu{ background-position:6px 12px;}
+.m_icon2 .icon-menu{ background-position:20px -63px;}
+.m_icon3 .icon-menu{ background-position:22px -151px;}
+.m_icon4 .icon-menu{ background-position:18px -253px;}
+.m_icon5 .icon-menu{ background-position:12px -346px;}
+.m_icon6 .icon-menu{ background-position:9px -459px;}
+.m_icon7 .icon-menu{ background-position:20px -571px;}
+.m_icon8 .icon-menu{ background-position:16px -680px;}
+.m_icon9 .icon-menu{ background-position:8px -779px;}
+.m_icon10 .icon-menu{ background-position:14px -884px;}
+*/
+.footer_followus ul li span.title{ color:#fff; background:#a9b600;}
+.footer_followus ul li:hover span.title:before{border-bottom-color: #a9b600;}
+
+
+.em_block-tag-cloud .block-content .actions a, .block .actions a, .my-account .view-all, .em_nav .menu-item-depth-1 a.cls_view, .cls_view{ font-size:100%; font-weight:600}
+.block-subscribe .title, .footer_links .title{ font-size:120%; text-transform: none}
+.home_category .content h5{ text-transform: none; font-size:140%}
+.cms-index-index .block.em_block-recent-post .block-content li.item a.post-title{ font-size:140%; text-transform: none}
+.form-search,
+.form-search .input_search{ box-shadow:none; -moz-box-shadow:none; -webkit-box-shadow:none}

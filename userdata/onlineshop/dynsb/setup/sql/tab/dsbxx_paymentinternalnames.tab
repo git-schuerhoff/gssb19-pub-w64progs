@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS `{dsbxx_}paymentinternalnames` (
+	`SortId` int(11) NOT NULL,
+	`InternalName` varchar(255) {gssb_charset} NOT NULL,
+	PRIMARY KEY (`SortId`)
+) {gssb_charset};

@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}specshipprices (
+	ItemNumber varchar(255) {gssb_charset} NOT NULL,
+	AreaId int(11) NOT NULL DEFAULT '0',
+	ShippingPrice decimal(15,2) NOT NULL DEFAULT '0.00',
+	LanguageID VARCHAR(3) {gssb_charset} NOT NULL DEFAULT 'deu',
+	KEY ItemNumber (ItemNumber)
+) {gssb_charset};

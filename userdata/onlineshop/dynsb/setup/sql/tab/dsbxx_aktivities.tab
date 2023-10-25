@@ -1,0 +1,10 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}aktivities (
+  aktId int(10) unsigned NOT NULL default 0,
+  custId int(10) NOT NULL,
+  mkKey varchar(10) {gssb_charset} NOT NULL,
+  aktText text {gssb_charset},
+  aktDate datetime NOT NULL,
+  ordIdNo int(10) NULL,
+  aktKey varchar(10) {gssb_charset} default NULL,
+  KEY aktId (aktId)
+) {gssb_charset};

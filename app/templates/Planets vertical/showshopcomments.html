@@ -1,0 +1,22 @@
+<li>
+	<div class="box">
+	{GSSE_SHOW_ID}.
+		<input type="checkbox" name="items[]" value="{GSSE_SHOW_ID}" />
+		&nbsp;
+		<a href="#"><img src="template/images/loupe.gif" alt="edit" onclick="setcomment({GSSE_SHOW_ID})"/></a>
+	
+	<b>{GSSE_SHOW_COMMENTSUBJECT}</b><br />
+		<img src="template/images/rating{GSSE_SHOW_RATING}0.gif" alt="{GSSE_SHOW_COMMENTSUBJECT} stars" />&nbsp;
+		{GSSE_SHOW_COMMENTDATE}&nbsp;&nbsp;&nbsp;
+	
+
+		<input hidden id="commentsubject{GSSE_SHOW_ID}" value="{GSSE_SHOW_COMMENTSUBJECT}">
+		<input hidden id="commenttext{GSSE_SHOW_ID}" value="{GSSE_SHOW_COMMENTTEXT}">
+		<input hidden id="rating{GSSE_SHOW_ID}" value="{GSSE_SHOW_RATING}">
+	
+	<p>{GSSE_SHOW_COMMENTTEXT}</p>
+	</div>
+</li>
+<li>
+	&nbsp;
+</li>

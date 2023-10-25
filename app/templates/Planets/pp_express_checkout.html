@@ -1,0 +1,16 @@
+<div>
+	<p class="paypal-logo">
+		<span class="paypal-or">-OR-</span>
+		<a data-action="checkout-form-submit" id="ec_shortcut_bb25bc3b4c3197c61435912eddc94d46" href="#"><img src="https://fpdbs.sandbox.paypal.com/dynamicimageweb?cmd=_dynamic-image&amp;buttontype=ecshortcut&amp;locale=de_DE" alt="Checkout with PayPal" title="Checkout with PayPal"></a>
+	</p>
+	<input id="pp_checkout_url" name="return_url" value="" type="hidden">
+	<script type="text/javascript">
+		//<![CDATA[
+		$$('#ec_shortcut_bb25bc3b4c3197c61435912eddc94d46','#ec_shortcut_bml_f5e1ca4ad5417fed45f6d8767af06031').invoke('observe', 'click', function(event) {
+			$('pp_checkout_url').value = this.href;
+			productAddToCartForm.submit(this);
+			event.stop();
+		});
+		//]]>
+	</script>
+</div>

@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}nl_addr2mg 
+ (
+	admgNladIdNo int(10) unsigned NOT NULL default '0',
+	admgNlmgIdNo int(10) unsigned NOT NULL default '0',
+	admgChgDate datetime default NULL,
+	PRIMARY KEY (admgNladIdNo,admgNlmgIdNo)
+ ) {gssb_charset};

@@ -1,0 +1,3936 @@
+//TagName	Language	Translation	creation date yyyymmdd	Comments
+//  GS ShopBuilder, Copyright (c) 2005 by GS Software AG, Dortmund (www.gs-shopbuilder.com) - Do not remove this copyright notice!			date20020101	
+// ©2003 GS ShopBuilder - Droits de traduction reserves pour tous les pays. 			date20020102	
+// ©2003 GS ShopBuilder - All Rights Reserved.		All translations rights reserved.	date20020103	
+// ©2003 GS ShopBuilder - Todos los Derechos quedan reservados. 	 	Todas los derechos de traduccion reservados.	date20020104	
+// ©2003 GS ShopBuilder - Alle Rechte vorbehalten.	 	Alle Ubersetzungsrechte vorbehalten.	date20020105	
+// ©2003 GS ShopBuilder - Alle Rechten Voorbehouden. 	 		date20020106	
+// ©2003 GS ShopBuilder - Med ensamratt.	 	 	date20020107	sv
+// ©2003 GS ShopBuilder - Tutti i Diritti Riservati. 	 	Tutti i diritti di traduzione riservati.	date20020108	
+// ©2003 GS ShopBuilder - Todos os Direitos Reservados.	 	Todas os direitos de traducao reservados.	date20020109	
+// ©2003 GS ShopBuilder - Med eneret.	 	 	date20020110	dk
+// BITTE NUR AM ENDE EINFUEGEN !!!			date20020111	
+//			date20020115	
+LangTagCharset	deu	iso-8859-1	date20020116
+LangTagCharset	rus	windows-1251	date20100614	
+LangTagCharset	eng	iso-8859-1	date20020116	
+				
+LangTagCharsetIso	deu	iso-8859-1	date20020116
+LangTagCharsetIso	rus	windows-1251	date20100614	
+LangTagCharsetIso	eng	iso-8859-1	date20020116	
+				
+LangTagCharsetWindows	deu	windows-1252	date20020116
+LangTagCharsetWindows	rus	windows-1251	date20100614	
+LangTagCharsetWindows	eng	windows-1252	date20020116	
+				
+LangTagContentLanguage	deu	DE	date20020116
+LangTagContentLanguage	rus	RU	date20100614	
+LangTagContentLanguage	eng	EN	date20020116	
+				
+//			Date20020117	
+LangTagISO2Lang	deu	de	date20030201	LinkMenu/Tabellenuberschrift
+LangTagISO2Lang	rus	ru	date20030201	LinkMenu/Tabellenuberschrift
+LangTagISO2Lang	eng	en	date20030201	
+
+LangTagISO3Lang	deu	DEU	date20030201	LinkMenu/Tabellenuberschrift
+LangTagISO3Lang	rus	RUS	date20100614	LinkMenu/Tabellenuberschrift
+LangTagISO3Lang	eng	ENG	date20030201	
+
+LangTagISO5Lang	deu	de-de	date20030201	LinkMenu/Tabellenuberschrift
+LangTagISO5Lang	rus	rus-rf	date20100614	LinkMenu/Tabellenuberschrift
+LangTagISO5Lang	eng	en-gb	date20030201	
+
+LangTagBasket	deu	Warenkorb	date20030201	LinkMenu/Tabellenuberschrift
+LangTagBasket	rus	Корзина	date20100614	LinkMenu/Tabellenuberschrift
+LangTagBasket	eng	Basket	date20030202	
+
+LangTagOrder	deu	Zur Kasse	date20030204	LinkMenu/Tabellenuberschrift
+LangTagOrder	rus	В кассу	date20100614	LinkMenu/Tabellenuberschrift
+LangTagOrder	eng	Order Form	date20030205	
+
+LangTagShipment	deu	Versand	date20030207	LinkMenu/Tabellenuberschrift
+LangTagShipment	rus	Пересылка	date20100614	LinkMenu/Tabellenuberschrift
+LangTagShipment	eng	Delivery	date20030208	
+
+LangTagInfo	deu	Info	date20030210	LinkMenu/Tabellenuberschrift
+LangTagInfo	rus	Инфо	date20100614	LinkMenu/Tabellenuberschrift
+LangTagInfo	eng	Info	date20030211	
+
+LangTagTermsAndCond	deu	AGB & Info	date20030213	LinkMenu/Tabellenuberschrift
+LangTagTermsAndCond	rus	Условия & Информация	date20100614	LinkMenu/Tabellenuberschrift
+LangTagTermsAndCond	eng	Conditions	date20030214	
+
+LangTagImprint	deu	Impressum	date20030216	LinkMenu/Tabellenuberschrift
+LangTagImprint	rus	Контактные адреса	date20100614	LinkMenu/Tabellenuberschrift
+LangTagImprint	eng	Imprint	date20030217	
+
+LangTagSitemap	deu	Sitemap	date20030219	LinkMenu/Tabellenuberschrift
+LangTagSitemap	rus	Карта сайта	date20100614	LinkMenu/Tabellenuberschrift
+LangTagSitemap	eng	Sitemap	date20030220	
+
+LangTagEmail	deu	Email	date20030222	LinkMenu
+LangTagEmail	rus	Email	date20100614	LinkMenu
+LangTagEmail	eng	Email	date20030223	
+
+LangTagHome	deu	Home	date20030225	LinkMenu/Tabellenuberschrift
+LangTagHome	rus	Главная страница	date20100614	LinkMenu/Tabellenuberschrift
+LangTagHome	eng	Home	date20030226	
+
+//LangTagTextQuantity	deu	Menge	date20030301
+//LangTagTextQuantity	rus	Количество	date20100614	
+//LangTagTextQuantity	eng	Quantity	date20030301	
+//
+//NEUE TAGS :			date20030301	
+LangTagAccountHolder	deu	Kontoinhaber	date20030301
+LangTagAccountHolder	rus	Владелец счета	date20100614	
+LangTagAccountHolder	eng	Account Holder	date20030301	
+
+LangTagAccountNumber	deu	Kontonummer	date20100614
+LangTagAccountNumber	rus	Номер счета	date20100614	
+LangTagAccountNumber	eng	Account Number	date20030301	
+
+LangTagBankCodeNumber	deu	BLZ	date20100614
+LangTagBankCodeNumber	rus	Код банка	date20100614	
+LangTagBankCodeNumber	eng	Bank Code	date20030301	
+
+LangTagButtonBack	deu	Zuruck	date20030301	Buttonbeschriftung buy2
+LangTagButtonBack	rus	Назад	date20100614	Buttonbeschriftung buy2
+LangTagButtonBack	eng	Back	date20030301	
+
+LangTagButtonBackToOrder	deu	Korrigieren	date20030301	Seite buy3
+LangTagButtonBackToOrder	rus	Исправить	date20100614	Seite buy3
+LangTagButtonBackToOrder	eng	Back to Order Form	date20030301	
+
+LangTagButtonCloseWindow	deu	Fenster schlie?en	date20100614	Buttonbeschriftung cond
+LangTagButtonCloseWindow	rus	Закрыть окно	date20030301	Buttonbeschriftung cond
+LangTagButtonCloseWindow	eng	Close Window	date20030301	
+
+LangTagButtonCond	deu	AGB	date20100614	Buttonbeschriftung buy2
+LangTagButtonCond	rus	Условия	date20030301	Buttonbeschriftung buy2
+LangTagButtonCond	eng	Conditions	date20030301	
+
+LangTagButtonOrderForm	deu	Weiter zum Bestellformular	date20100614	Buttonbeschriftung Seite basket, buy
+LangTagButtonOrderForm	rus	Перейти к бланку заказа	date201006141	Buttonbeschriftung Seite basket, buy
+LangTagButtonOrderForm	eng	Go forward to Order Form	date20030301	
+
+LangTagButtonPrintConditions	deu	AGB drucken	date20030301	Buttonbeschriftung cond
+LangTagButtonPrintConditions	rus	Распечатать условия	date20100614	Buttonbeschriftung cond
+LangTagButtonPrintConditions	eng	Print Conditions	date20030301	
+
+LangTagButtonPrintOrder	deu	Bestellung drucken	date20030301	Buttonbeschriftung buy3
+LangTagButtonPrintOrder	rus	Распечатать заказ	date20100614	Buttonbeschriftung buy3
+LangTagButtonPrintOrder	eng	Print Order	date20030301	
+
+LangTagButtonSearch	deu	Schnellsuche	date20030301	Buttonbeschriftung Suche
+LangTagButtonSearch	rus	Быстрый поиск	date20100614	Buttonbeschriftung Suche
+LangTagButtonSearch	eng	Search	date20030301	
+
+LangTagButtonSubmit	deu	kostenpflichtig bestellen	date20030301	Buttonbeschriftung buy2, buy3
+LangTagButtonSubmit	rus	Отправить заказ	date20100614	Buttonbeschriftung buy2, buy3
+LangTagButtonSubmit	eng	charge order	date20030301	
+
+LangTagCheckboxConditions	deu	AGB	date20030301	
+LangTagCheckboxConditions	rus	Условия	date20100614	
+LangTagCheckboxConditions	eng	Conditions	date20030301	
+
+LangTagCheckboxConditionsValue	deu	gelesen	date20030301
+LangTagCheckboxConditionsValue	rus	прочитано	date20100614	
+LangTagCheckboxConditionsValue	eng	checked	date20030301	
+
+LangTagCreditCard	deu	Kreditkarte	date20030301
+LangTagCreditCard	rus	Кредитная карта	date20100614	
+LangTagCreditCard	eng	Credit Card	date20030301	
+
+LangTagCreditCardHolder	deu	Kreditkarteninhaber	date20030301
+LangTagCreditCardHolder	rus	Владелец кредитной карты	date20100614	
+LangTagCreditCardHolder	eng	Credit Card Holder	date20030301	
+
+LangTagCreditCardNumber	deu	Kreditkartennummer	date20030301
+LangTagCreditCardNumber	rus	Номер кредитной карты	date20100614	
+LangTagCreditCardNumber	eng	Credit Card Number	date20030301	
+
+LangTagDetails	deu	Details	date20030301
+LangTagDetails	rus	Детали	date20100614	
+LangTagDetails	eng	Details	date20030301	
+
+LangTagExpirationDate	deu	Gultig bis	date20030301
+LangTagExpirationDate	rus	Действительна до	date20100614	
+LangTagExpirationDate	eng	Expiration Date	date20030301	
+
+LangTagFieldAddress	deu	Stra?e	date20100614
+LangTagFieldAddress	rus	Улица	date20100614	
+LangTagFieldAddress	eng	Address Line 1	date20030301	
+
+LangTagFieldAddress2	deu	Adressenzusatz	date20030301
+LangTagFieldAddress2	rus	Дополнительная информация по адресу	date20100614	
+LangTagFieldAddress2	eng	Address Line 2	date20030301	
+
+LangTagFieldCity	deu	Ort	date20030301
+LangTagFieldCity	rus	Населенный пункт	date20100614	
+LangTagFieldCity	eng	Town/City	date20030301	
+
+LangTagFieldCompany	deu	Firma	date20030301
+LangTagFieldCompany	rus	Фирма	date20100614	
+LangTagFieldCompany	eng	Company	date20030301	
+
+LangTagFieldEmail	deu	Email	date20030301
+LangTagFieldEmail	rus	Email	date20100614	
+LangTagFieldEmail	eng	Email	date20030301	
+
+LangTagFieldFax	deu	Fax	date20030301
+LangTagFieldFax	rus	Факс	date20100614	
+LangTagFieldFax	eng	Fax	date20030301	
+
+LangTagFieldFirstName	deu	Vorname	date20030301
+LangTagFieldFirstName	rus	Имя	date20100614	
+LangTagFieldFirstName	eng	First Name	date20030301	
+
+LangTagFieldFormToAddress	deu	Anrede	date20030301
+LangTagFieldFormToAddress	rus	Обращение	date20100614	
+LangTagFieldFormToAddress	eng	Title	date20030301	
+
+LangTagFieldLastName	deu	Nachname	date20100614
+LangTagFieldLastName	rus	Фамилия	date20030301	
+LangTagFieldLastName	eng	Last Name	date20030301	
+
+LangTagFieldPhone	deu	Telefon	date20030301
+LangTagFieldPhone	rus	Телефон	date20100614	
+LangTagFieldPhone	eng	Phone	date20030301	
+
+LangTagFieldShippingAddress	deu	Abweichende Lieferadresse	date20030301
+LangTagFieldShippingAddress	rus	Дополнительный адрес (куда можно доставить посылку, в случае Вашего отстутствия)	date20100614	
+LangTagFieldShippingAddress	eng	Delivery address	date20030301	
+
+LangTagFieldState	deu	Land	date20030301
+LangTagFieldState	rus	Страна	date20100614	
+LangTagFieldState	eng	Country/State	date20030301	
+
+LangTagFieldZipCode	deu	PLZ	date20030301
+LangTagFieldZipCode	rus	Почтовый индекс	date20100614	
+LangTagFieldZipCode	eng	Postcode/Zipcode	date20030301	
+
+//LangTagFinancialInstitution	deu	Geldinstitut	date20030301
+//LangTagFinancialInstitution	rus	Название финансового учереждения	date20100614	
+//LangTagFinancialInstitution	eng	Financial Institution	date20030301	
+//
+LangTagHeadOrderData	deu	Bestelldaten	date20030301
+LangTagHeadOrderData	rus	Данные заказа	date20100614	
+LangTagHeadOrderData	eng	Order data	date20030301	
+
+LangTagMonth	deu	Monat	date20030301
+LangTagMonth	rus	Месяц	date20100614	
+LangTagMonth	eng	Month	date20030301	
+
+LangTagMonthExpirationDate	deu	Monat der Gultigkeit Ihrer Kreditkarte	date20030301
+LangTagMonthExpirationDate	rus	Месяц истечения срока действия Вашей кредитной карты	date20100614	
+LangTagMonthExpirationDate	eng	Month of the Expiration Date	date20030301	
+
+LangTagNews	deu	News	date20030301	Tabellenuberschrift
+LangTagNews	rus	Новости	date20100614	Tabellenuberschrift
+LangTagNews	eng	News	date20030301	
+
+LangTagNextPageLinkName	deu	nachste Seite	date20030301
+LangTagNextPageLinkName	rus	следующая страница	date20100614	
+LangTagNextPageLinkName	eng	next page	date20030301	
+
+LangTagPrevPageLinkName	deu	vorherige Seite	date20030301
+LangTagPrevPageLinkName	rus	предыдущая страница date20100614	
+LangTagPrevPageLinkName	eng	previous page	date20030301	
+
+LangTagProductGroups	deu	Warengruppen	date20030301	Tabellenuberschrift
+LangTagProductGroups	rus	Группы товаров	date20100614	Tabellenuberschrift
+LangTagProductGroups	eng	Categories	date20030301	
+
+LangTagSearchItems	deu	Artikel	date20030301
+LangTagSearchItems	rus	Артикул	date20100614	
+LangTagSearchItems	eng	Items	date20030301	
+
+LangTagTextAddItem	deu	Hinweis:\nDer Artikel befindet sich bereits im Korb.\nSoll die Anzahl addiert werden?\nClicken Sie OK zum Addieren,\nKlicken Sie Abbrechen zum Ersetzen\n	date20030301
+LangTagTextAddItem	rus	Примечание:\nДанный артикул уже находится в корзине.\nДля увеличения количества данного товара щёлкните по кнопке "Ок",\nДля замены артикула щёлкните по кнопке "Отменить"\n	date20100614	
+LangTagTextAddItem	eng	Notice:\nThis item is already in the basket.\nDo you want to add the quantity?\nClick OK to add,\nclick Abort to replace.\n	date20030301	
+
+LangTagTextBasketEmpty	deu	Keine Artikel im Warenkorb	date20030301
+LangTagTextBasketEmpty	rus	Корзина пуста	date20100614	
+LangTagTextBasketEmpty	eng	The basket is empty.	date20030301	
+
+LangTagTextBasketItem	deu	 Artikel im Warenkorb	date20030301
+LangTagTextBasketItem	rus	 Артикул находится в корзине	date20100614	
+LangTagTextBasketItem	eng	 Item(s) in the basket.	date20030301	
+
+LangTagTextBeforeUnload	deu	Sie haben Artikel im Warenkorb. Wenn Sie diesen Shop verlassen, wird Ihr Warenkorb geleert.	date20030301
+LangTagTextBeforeUnload	rus	В вашей корзине имеются товары. Если Вы покинете магазин, корзина опустеет.	date20100614	
+LangTagTextBeforeUnload	eng	You have items in your basket. After leaving this shop all items will be removed from your basket.	date20030301	
+
+LangTagTextChooseAttribute	deu	Bitte 	date20030301
+LangTagTextChooseAttribute	rus	Пожалуйста	date20100614	
+LangTagTextChooseAttribute	eng	Please choose the 	date20030301	
+
+LangTagTextChooseAttribute2	deu	 wahlen!	date20030301
+LangTagTextChooseAttribute2	rus	выберите!	date20100614	
+LangTagTextChooseAttribute2	eng	 !	date20030301	
+
+LangTagTextChooseDeliveryPayment	deu	1. Bitte wahlen Sie die gewunschte Versand- und Zahlungsart aus: 	date20030301	Seite buy
+LangTagTextChooseDeliveryPayment	rus	1. Пожалуйста, выберите желаемый вид оплаты и пересылки: 	date20100614	Seite buy
+LangTagTextChooseDeliveryPayment	eng	1. Please choose your Delivery and Payment Conditions: 	date20030301	
+
+LangTagTextConfirmConditons	deu	Bitte bestatigen Sie unsere AGB	date20030301
+LangTagTextConfirmConditons	rus	Пожалуйста, подтвердите согласие с нашими условиями	date20100614	
+LangTagTextConfirmConditons	eng	Please confirm our Conditions	date20030301	
+
+LangTagTextDelivery	deu	Versandart	date20030301	Seite buy
+LangTagTextDelivery	rus	Способ пересылки	date20100614	Seite buy
+LangTagTextDelivery	eng	Delivery Mode	date20030301	
+
+LangTagTextEmailAddressIncorrect	deu	Fehler im Feld Email-Adresse	date20030301
+LangTagTextEmailAddressIncorrect	rus	Неверно задан адрес электронной почты	date20100614	
+LangTagTextEmailAddressIncorrect	eng	The Email address is not correct	date20030301	
+
+LangTagTextEncludedVAT	deu	Enthaltene	date20030301
+LangTagTextEncludedVAT	rus	Включено	date20100614	
+LangTagTextEncludedVAT	eng	Included	date20030301	
+
+LangTagTextIClear	deu	Sicher und bequem bezahlen mit iclear. Falls Sie per iclear bezahlen mochten, ist das Ausfullen des Bestellformulars nicht erforderlich. Bitte klicken Sie dann hier: 	date20100614
+LangTagTextIClear	rus	Платите удобно и безопасно с помощью iclear. В случае, если Вы хотите произвести оплату с помощью iclear, Вы можете не заполнять формуляр заказа.Пожалуйста, щелкните здесь.: 	date20030301	
+LangTagTextIClear	eng	Easy and secure payment by iclear. If you like to pay per iclear, it is not needed to enter the order form. In that case please click here: 	date20030301	
+
+LangTagTextIClearLink	deu	Bezahlen mit iclear	date20030301
+LangTagTextIClearLink	rus	Оплата с помощью iclear	date20100614	
+LangTagTextIClearLink	eng	Payment by iclear 	date20030301	
+
+LangTagTextInteger	deu	Bitte eine ganzzahlige positive Anzahl eingeben!	date20030301
+LangTagTextInteger	rus	Пожалуйста, задайте целое положительное число!	date20100614	
+LangTagTextInteger	eng	Please enter a positive integer!	date20030301	
+
+LangTagTextItem	deu	Artikel	date20030301
+LangTagTextItem	rus	Артикул	date20100614	
+LangTagTextItem	eng	Item	date20030301	
+
+LangTagTextItems	deu	Bitte wahlen Sie die gewunschte Warengruppe aus	date20030301
+LangTagTextItems	rus	Пожалуйста, выберите нужную группу товаров	date20100614	
+LangTagTextItems	eng	Please choose the relevant category	date20030301	
+
+LangTagTextMaxQuantity	deu	Die maximale Bestellmenge ist	date20030301
+LangTagTextMaxQuantity	rus	Максимальное количество, которое вы можете заказать	date20100614	
+LangTagTextMaxQuantity	eng	The maximum order quantity is	date20030301	
+
+LangTagTextMinOrderValue1	deu	Sie haben Artikel fur	date20030301
+LangTagTextMinOrderValue1	rus	У Вас в корзине товар на сумму...	date20100614	
+LangTagTextMinOrderValue1	eng	You have articles for	date20030301	
+
+LangTagTextMinOrderValue2	deu	in Ihrem Warenkorb.\nDer Mindestbestellwert von	date20030301
+LangTagTextMinOrderValue2	rus	\nМинимальная сумма заказа	date20100614	
+LangTagTextMinOrderValue2	eng	in your basket.\nThe least order value by	date20030301	
+
+LangTagTextMinOrderValue3	deu	ist noch nicht erreicht.	date20030301
+LangTagTextMinOrderValue3	rus	не достигнута.	date20100614	
+LangTagTextMinOrderValue3	eng	is not reached yet.	date20030301	
+
+
+LangTagTextNoPaymentsAvailable	deu	Keine Zahlungsart verfugbar	date20100309
+LangTagTextNoPaymentsAvailable	rus	Ни один из видов оплаты не доступен	date20100614	
+LangTagTextNoPaymentsAvailable	eng	No payment available	date20100309	
+
+LangTagTextNoDownloadPaymentsAvailable	deu	Ihr Warenkorb enthalt Downloadartikel.\nDie dafur benotigte Zahlungsart 'Kreditkarte' ist nicht verfugbar	date20100309
+LangTagTextNoDownloadPaymentsAvailable	rus	В вашей корзине находится товар для скачивания.\nОплаты с помощью кредитной карты недоступна	date20100614	
+LangTagTextNoDownloadPaymentsAvailable	eng	Your shopping cart contains Download articles.\nThe necessary payment 'Credit Card' is not available	date20100309	
+
+
+
+	
+LangTagTextNoItems	deu	In dieser Warengruppe gibt es zur Zeit keine Produkte und keine weiteren Unterwarengruppen. 	date20030301
+LangTagTextNoItems	rus	В данный момент в этой группе товаров нет. 	date20100614	
+LangTagTextNoItems	eng	No items are listed in this category.	date20030301	
+
+LangTagTextOrderForm	deu	2. Bitte fullen Sie das folgende Bestellformular aus (*Felder bitte unbedingt angeben) und drucken Sie den 'Bestellung fortsetzen' Knopf.	date20030301	Seite buy2
+LangTagTextOrderForm	rus	2. Пожалуйста, заполните следующий бланк заказов (*поля заполнять обязательно) и щёлкните по кнопке "Продолжить заказ".	date20100614	Seite buy2
+LangTagTextOrderForm	eng	2. Please enter the information below (*text fields are required). To complete your order click on 'Submit'.	date20030301	
+
+LangTagTextOrderTotal	deu	Summe	date20030301	
+LangTagTextOrderTotal	rus	Сумма	date20100614
+LangTagTextOrderTotal	eng	Order Total	date20030301	
+
+LangTagTextPaybox	deu	Paybox - Bezahlen per Handy. Falls Sie per Handy bezahlen mochten, wahlen Sie oben als Zahlungsart bitte Paybox aus.	date20030301
+LangTagTextPaybox	rus	Paybox - оплата с помощью мобильного телефона. В том случае, если Вы хотите оплатить товар при помощи мобильного телефона, выберите Paybox, как вид оплаты.	date20100614	
+LangTagTextPaybox	eng	Paybox - Pay by mobile. Please choose Paybox as Payment Conditions if you like to pay with your mobile.	date20030301	
+
+LangTagTextPayment	deu	Zahlungsart	date20030301	Seite buy
+LangTagTextPayment	rus	Вид оплаты	date20100614	Seite buy
+LangTagTextPayment	eng	Payment	date20030301	
+
+LangTagTextPleaseChoose	deu	Bitte wahlen	date20030301
+LangTagTextPleaseChoose	rus	Пожалуйста, выберите	date20100614	
+LangTagTextPleaseChoose	eng	Please choose	date20030301	
+
+LangTagTextPleaseEnter	deu	Bitte eingeben:	date20030301
+LangTagTextPleaseEnter	rus	Пожалуйста, задайте:	date20100614	
+LangTagTextPleaseEnter	eng	Please enter:	date20030301	
+
+LangTagTextPostage	deu	Versandkosten	date20030301
+LangTagTextPostage	rus	Стоимость пересылки	date20100614	
+LangTagTextPostage	eng	Delivery Charges	date20030301	
+
+LangTagTextQuantity	deu	Menge	date20030301	Uberschrift Seite thankyou
+LangTagTextQuantity	rus	Количество	date20100614	Uberschrift Seite thankyou
+LangTagTextQuantity	eng	Quantity	date20030301	
+
+LangTagTextRabat	deu	Rabatt (Warenwert)	date20030301
+LangTagTextRabat	rus	Скидку (Стоимость товара)	date20100614	
+LangTagTextRabat	eng	Discount (value of goods)	date20030301	
+
+LangTagTextRemoveConfirm	deu	Mochten Sie wirklich alle Artikel aus dem Einkaufswagen entfernen?	date20030301
+LangTagTextRemoveConfirm	rus	Вы действительно хотите удалить из корзины все товары?	date20100614	
+LangTagTextRemoveConfirm	eng	Do you really want to remove all items from the basket?	date20030301	
+
+LangTagTextRemoveItem	deu	Entfernen	date20030301
+LangTagTextRemoveItem	rus	Удалить	date20100614
+LangTagTextRemoveItem	eng	Remove	date20030301	
+
+//LangTagTextSaveData	deu	Eingegebene Formulardaten speichern.<br />(Die Daten werden als Cookie abgespeichert.)	date20030301	Tabellenuberschrift buy3.htm
+//LangTagTextSaveData	rus	Сохранить внесённые данные.<br />(Данные будут сохранены как Cookie.)	date20100614	Tabellenuberschrift buy3.htm
+//LangTagTextSaveData	eng	Save the formular data.(Data are saved in a cookie)	date20030301	
+//
+LangTagTextSearchEnter	deu	Bitte einen Suchbegriff eingeben!	date20030301
+LangTagTextSearchEnter	rus	Пожалуйста, задайте слова для поиска!	date20100614	
+LangTagTextSearchEnter	eng	Please enter a word to search for!	date20030301	
+
+LangTagTextSearchNoResult	deu	nicht gefunden!	date20030301
+LangTagTextSearchNoResult	rus	Не найдено!	date20100614	
+LangTagTextSearchNoResult	eng	not found!	date20030301	
+
+LangTagTextSearchResults	deu	Suchresultate	date20030301
+LangTagTextSearchResults	rus	Результаты поиска	date20100614	
+LangTagTextSearchResults	eng	Search Results	date20030301	
+
+LangTagTextSecondCurrency	deu	Dies entspricht einem Preis von	date20100614
+LangTagTextSecondCurrency	rus	Это соответствует цене в	date20030301	
+LangTagTextSecondCurrency	eng	This corresponds to a price of	date20030301	
+
+LangTagTextShortVAT	deu	MwSt.	date20030301
+LangTagTextShortVAT	rus	НДС.	date20100614	
+LangTagTextShortVAT	eng	VAT	date20030301	
+
+LangTagTextTextField	deu	Text	date20030301	Shoppage
+LangTagTextTextField	rus	Текст	date20100614	Shoppage
+LangTagTextTextField	eng	Text	date20030301	
+
+LangTagTextThanks	deu	Danke	date20030301
+LangTagTextThanks	rus	Спасибо	date20100614	
+LangTagTextThanks	eng	Thanks	date20030301	
+
+LangTagTextTotalPrice	deu	Gesamtpreis	date20030301
+LangTagTextTotalPrice	rus	Общая стоимость	date20100614	
+LangTagTextTotalPrice	eng	Total Price	date20030301	
+
+LangTagTextUnitPrice	deu	Einzelpreis	date20030301
+LangTagTextUnitPrice	rus	Цена за единицу товара	date20100614	
+LangTagTextUnitPrice	eng	Unit Price	date20030301	
+
+LangTagTextUpdateItem	deu	Aktualisieren	date20100614
+LangTagTextUpdateItem	rus	Актуализировать	date20100614	
+LangTagTextUpdateItem	eng	Update	date20030301	
+
+LangTagTextVAT	deu	MwSt.	date20030301
+LangTagTextVAT	rus	НДС	date20100614	
+LangTagTextVAT	eng	VAT	date20030301	
+
+LangTagTextViewBasket	deu	Warenkorb anzeigen	date20030301
+LangTagTextViewBasket	rus	Показать содержимое корзины	date20100614	
+LangTagTextViewBasket	eng	View Basket	date20030301	
+
+LangTagTotalAmount	deu	Rechnungsbetrag	date20030301
+LangTagTotalAmount	rus	Общий счет	date20100614	
+LangTagTotalAmount	eng	Invoice total	date20030301	
+
+LangTagYear	deu	Jahr	date20030301
+LangTagYear	rus	Год	date20100614	
+LangTagYear	eng	Year	date20030301	
+
+LangTagYearExpirationDate	deu	Jahr der Gultigkeit Ihrer Kreditkarte	date20030301
+LangTagYearExpirationDate	rus	Год истечения срока Вашей кредитной карты	date20100614	
+LangTagYearExpirationDate	eng	Year of the Expiration Date	date20030301	
+
+x			date20030301	
+			date20030301	
+				
+				
+				
+				
+LangTagIssueNumber	deu	Prufnummer	date20030315
+LangTagIssueNumber	rus	Номер 	date20100614	
+LangTagIssueNumber	eng	Issue Number<br />(Switch/Solo only)	date20030315	
+
+LangTagNoImage	deu	kein Bild!	date20030315
+LangTagNoImage	rus	нет изображения!	date20100614	
+LangTagNoImage	eng	no image!	date20030315	
+
+LangTagSecurityCode	deu	Prufnummer2	date20030315
+LangTagSecurityCode	rus	Номер2	date20100614	
+LangTagSecurityCode	eng	Security Code	date20030315	
+
+x			date20030315	
+x			date20030315	
+x			date20030315	
+x			date20030315	
+LangTagExpirationMonth	deu	GultigkeitMonat	date20030502
+LangTagExpirationMonth	rus	Месяц истечения срока действия	date20100614	
+LangTagExpirationMonth	eng	ExpirationMonth	date20030502	
+
+LangTagExpirationYear	deu	GultigkeitJahr	date20030502
+LangTagExpirationYear	rus	Год истечения срока действия	date20100614	
+LangTagExpirationYear	eng	ExpirationYear	date20030502	
+
+LangTagTermsAndCondChecked	deu	gelesen und bestatigt	date20030502
+LangTagTermsAndCondChecked	rus	прочитано и подтверждено	date20100614	
+LangTagTermsAndCondChecked	eng	checked	date20030502	
+
+x			date20030502	
+//wichtige Bemerkung !!!	deu	Zeilen, die mit LangTagFN... beginnen, duerfen keine Leerzeichen und keine Sonderzeichen enthalten, Nur a-z, A-Z, 0-9 und _ verwenden !!	date20030508
+//wichtige Bemerkung !!!	rus	Строчки, начинающиеся с LangTagFN... , не должны содержать пробелов и особых знаков, используются только a-z, A-Z, 0-9 !!	date20100614	
+//important notice !!!	eng	Lines begining with LangTagFN... MUST NOT contain blanks or special characters.Please use ONLY a-z, A_Z, 0-9 or _ (underscore).	date20020508	
+LangTagFNAccountHolder	deu	Kontoinhaber	date20030509
+LangTagFNAccountHolder	rus	Владелец счета	date20100614	
+LangTagFNAccountHolder	eng	AccountHolder	date20030509	
+
+LangTagFNAccountNumber	deu	Kontonummer	date20030509
+LangTagFNAccountNumber	rus	Номер счета	date20100614	
+LangTagFNAccountNumber	eng	AccountNumber	date20030509	
+
+LangTagFNBankCodeNumber	deu	BLZ	date20030509
+LangTagFNBankCodeNumber	rus	Код банка	date20100614	
+LangTagFNBankCodeNumber	eng	BankCode	date20030509	
+
+LangTagFNCreditCard	deu	Kreditinstitut	date20030509
+LangTagFNCreditCard	rus	Название банка	date20100614
+LangTagFNCreditCard	eng	CreditCardType	date20030509	
+
+LangTagFNCreditCardHolder	deu	Kreditkarteninhaber	date20030509
+LangTagFNCreditCardHolder	rus	Владелец кредитной карты	date20100614	
+LangTagFNCreditCardHolder	eng	CreditCardHolder	date20030509	
+
+LangTagFNCreditCardNumber	deu	Kreditkartennummer	date20030509
+LangTagFNCreditCardNumber	rus	Номер кредитной карты	date20100614	
+LangTagFNCreditCardNumber	eng	CreditCardNumber	date20030509	
+
+LangTagFNFieldAddress	deu	Strasse	date20030509
+LangTagFNFieldAddress	rus	Улица	date20100614	
+LangTagFNFieldAddress	eng	Address	date20030509	
+
+LangTagFNFieldAddress2	deu	Adressenzusatz	date20030509
+LangTagFNFieldAddress2	rus	Дополнительные сведения	date20100614	
+LangTagFNFieldAddress2	eng	Second_Line	date20030509	
+
+LangTagFNFieldCity	deu	Ort	date20030509
+LangTagFNFieldCity	rus	Населенный пункт	date20100614	
+LangTagFNFieldCity	eng	Town_City	date20030509	
+
+LangTagFNFieldCompany	deu	Firma	date20030509
+LangTagFNFieldCompany	rus	Фирма	date20100614	
+LangTagFNFieldCompany	eng	Company	date20030509	
+
+LangTagFNFieldEmail	deu	Email	date20030509
+LangTagFNFieldEmail	rus	Email	date20100614	
+LangTagFNFieldEmail	eng	Email	date20030509	
+
+LangTagFNFieldFax	deu	Fax	date20030509
+LangTagFNFieldFax	rus	Факс	date20100614	
+LangTagFNFieldFax	eng	Fax	date20030509	
+
+LangTagFNFieldFirstName	deu	Vorname	date20030509
+LangTagFNFieldFirstName	rus	Имя   date20100614	
+LangTagFNFieldFirstName	eng	FirstName	date20030509	
+
+LangTagFNFieldFormToAddress	deu	Anrede	date20030509
+LangTagFNFieldFormToAddress	rus	Обращение	date20100614	
+LangTagFNFieldFormToAddress	eng	Title	date20030509	
+
+LangTagFNFieldLastName	deu	Nachname	date20030509
+LangTagFNFieldLastName	rus	Фамилия	date20100614	
+LangTagFNFieldLastName	eng	LastName	date20030509	
+
+LangTagFNFieldPhone	deu	Telefon	date20030509
+LangTagFNFieldPhone	rus	Телефон	date20100614	
+LangTagFNFieldPhone	eng	Phone	date20030509	
+
+LangTagFNFieldShippingAddress	deu	Abweichende_Lieferadresse	date20030509
+LangTagFNFieldShippingAddress	rus	Дополнительный адрес (куда можно доставить посылку, в случае Вашего отсутствия)	date20100614	
+LangTagFNFieldShippingAddress	eng	DeliveryAddress	date20030509	
+
+LangTagFNFieldState	deu	Land	date20030509
+LangTagFNFieldState	rus	Страна	date20100614	
+LangTagFNFieldState	eng	Country_State	date20030509	
+
+LangTagFNFieldZipCode	deu	PLZ	date20030509
+LangTagFNFieldZipCode	rus	Почтовый индекс	date20100614
+LangTagFNFieldZipCode	eng	Postcode_Zipcode	date20030509	
+
+LangTagFNFinancialInstitution	deu	Geldinstitut	date20030509
+LangTagFNFinancialInstitution	rus	Название финансового учереждения	date20100614	
+LangTagFNFinancialInstitution	eng	FinancialInstitution	date20030509	
+
+LangTagFNIssueNumber	deu	Pruefnummer	date20030509
+LangTagFNIssueNumber	rus	Номер	date20100614
+LangTagFNIssueNumber	eng	IssueNumber_SwitchSolo	date20030509	
+
+LangTagFNIssueNumber	spa	Numero	date20030509	
+LangTagFNMonthExpirationDate	deu	GueltigkeitMonat	date20030509
+LangTagFNMonthExpirationDate	rus	Месяц истечения срока действия	date20100614	
+LangTagFNMonthExpirationDate	eng	ExpirationDateMonth	date20030509	
+
+LangTagFNSecurityCode	deu	ZweitePruefnummer	date20030509
+LangTagFNSecurityCode	rus	Второй номер	date20100614	
+LangTagFNSecurityCode	eng	SecurityCode	date20030509	
+
+//L//angTagFNSecurityCode	//	//	date20030509	
+LangTagFNYearExpirationDate	deu	GueltigkeitJahr	date20030509
+LangTagFNYearExpirationDate	rus	Год истечения срока действия	date20100614	
+LangTagFNYearExpirationDate	eng	ExpirationDateYear	date20030509	
+
+LangTagItemData	deu	Artikelbezogene Daten	date20030509
+LangTagItemData	rus	Данные, относящиеся к товару	date20100614	
+LangTagItemData	eng	Item Data	date20030509	
+
+LangTagOrderGSShopBuilder	deu	Bestellung GS ShopBuilder	date20030509
+LangTagOrderGSShopBuilder	rus	Заказ GS ShopBuilder	date20100614	
+LangTagOrderGSShopBuilder	eng	Order GS ShopBuilder	date20030509	Alle weiteren Sprachen: Order GS ShopBuilder
+
+
+LangTagAnnouncementOrderPaymorrow	deu	Bestellankuendigung GS ShopBuilder	date20100107
+LangTagAnnouncementOrderPaymorrow	rus	Объявление о заказе GS ShopBuilder	date20100614	
+LangTagAnnouncementOrderPaymorrow	eng	Announcement of order GS ShopBuilder	date20100107
+
+LangTagErrorOrderPaymorrow	deu	Fehlerhafte Bestellung	date20100107
+LangTagErrorOrderPaymorrow	rus	В прооцессе заказа возникла ошибка	date20100614	
+LangTagErrorOrderPaymorrow	eng	Incorrect order	date20100107
+
+LangTagLongTextDownload	deu	Um Ihren Downloadartikel herunter zu laden, melden Sie sich bitte mit Ihrem Benutzername und Passwort erneut in unserem Online-Shop an. Sie finden dann unter [Mein Konto] einen Button [Downloadartikel], mit dem Sie in Ihren Downloadbereich gelangen.	date20100215
+gTagLongTextDownload	rus	Для преобретения товара, преднозначенного для скачивания, необходимо зарегистрироваться в нашем Online-магазине. Под графой [мой счет] Вы найдете кнопку [Download],с помощью которой Вы можете скачать нужный Вам продукт.	date20100614		
+LangTagLongTextDownload	eng	For downloading of your download items, please log in again with your username and password in our Online-Shop. You will find under [My Account] a button [Download Article], which takes you to your download area.	date20100215
+
+
+
+LangTagPersonalData	deu	Personenbezogene Daten	date20030509
+LangTagPersonalData	rus	Личные данные	date20100614	
+LangTagPersonalData	eng	Personal Data	date20030509	
+
+x			date20030509	
+LangTagFNTermsAndCond	deu	AGB	date20030514
+LangTagFNTermsAndCond	rus	Условия	date20100614	
+LangTagFNTermsAndCond	eng	Conditions	date20030514	
+
+//LangTagGuestbook	esp	Libro de visitas	date20030922	
+//LangTagGuestbook	ita	Libro de visitantes	date20030922	
+//LangTagGuestbook	nld	Gastenboek	date20030922	
+//LangTagGuestbook	nor	Gjestebok	date20030922	
+//LangTagGuestbook	plk	Ksiegi pamiatkowej	date20030922	
+//LangTagGuestbook	ptg	Livro de visitas	date20030922	
+LangTagGuestbook	deu	G&#228;stebuch	date20030922
+LangTagGuestbook	rus	Книга посетителей	date20100614	
+LangTagGuestbook	eng	Guestbook	date20030922	
+
+				
+				
+//Shop related defaults:	xxx	Lines beginnig with L_ are used in GS-Shopbuilder, but not in Templates (Shop spezifische Vorbelegung von Feldern, wird nicht in Templates verwendet).	date20031201
+L_ProductGroupNewCategory	deu	Neue Warengruppe	date20031202
+L_ProductGroupNewCategory	rus	Новая группа товаров	date20100614	
+L_ProductGroupNewCategory	eng	New category	date20031202	
+
+				
+L_ProductGroupRecycleBin	deu	Recycle	date20031203	//Lager : die Gelbe Tonne enthaelt die Artikel die in der gerade geloeschten Warengruppe enthalten waren
+L_ProductGroupRecycleBin	rus	Вторичное сырье	date20100614	//Склад : желтый контейнер содержит товары, содержавшиеся в только что уничтоженной товарной группе
+L_ProductGroupRecycleBin	eng	Recycle bin	date20031203	//Recycle bin contains the items of the deleted category
+
+				
+L_Paperflier	deu	Papierflieger	date20031201
+L_Paperflier	rus	Бумажный самолетик	date201006141
+L_Paperflier	deu	Papierflieger	date20031201	
+L_Paperflier	eng	Paperflier	date20031201	
+
+				
+L_OrderButton	deu	bestellen	date20031201
+L_OrderButton	rus	заказать	date20100614	
+L_OrderButton	eng	order	date20031201	
+
+				
+L_OrderDialog	deu	: Mochten Sie diesen Artikel in den Warenkorb legen ?	date20031201
+L_OrderDialog	rus	: Добавить этот товар в корзину?	date20100614	
+L_OrderDialog	eng	: This item will be stored in the basket?	date20031201	
+
+				
+L_OnlineShopSlogan	deu	Welcome to our international Online Shop!	date20031201
+L_OnlineShopSlogan	rus	Добро пожаловать в наш международный Online-магазин!	date20100614	
+L_OnlineShopSlogan	eng	Welcome to our international Online Shop!	date20031201	
+
+				
+				
+L_PaperflierOnlineShop	deu	Paperflieger Shop	date20031201
+L_PaperflierOnlineShop	rus	Магазин по продаже бумажных самолетиков	date20100614	
+L_PaperflierOnlineShop	eng	Paperflier Online Shop	date20031201	
+
+				
+LangTagTellAFriend	deu	Artikel weiterempfehlen	date20040128
+LangTagTellAFriend	rus	Порекомендовать товар	date20100614	
+LangTagTellAFriend	eng	Tell a friend	date20040128	
+
+
+LangTagTitleInquiry	deu	Anfrage zum Artikel	date20100224
+LangTagTitleInquiry	rus	Запрос к товару	date20100614	
+LangTagTitleInquiry	eng	Inquiry to article	date20100224	
+
+
+LangTagInquiry	deu	Anfrage	date20100224
+LangTagInquiry	rus	Запрос  date20100614	
+LangTagInquiry	eng	Inquiry	date20100224	
+
+				
+LangTagFNFieldMessage	deu	Nachricht	date20040128
+LangTagFNFieldMessage	rus	Извещение	date20100614	
+LangTagFNFieldMessage	eng	Message	date20040128	
+
+				
+LangTagFieldMessage	deu	Weitere Nachricht?	date20040128
+LangTagFieldMessage	rus	Ваше сообщение	date20100614	
+LangTagFieldMessage	eng	Your message	date20040128	
+
+				
+LangTagFNFieldFirstNameSender	deu	AbsenderVorname	date20040128
+LangTagFNFieldFirstNameSender	rus	Имя отправителя	date20100614	
+LangTagFNFieldFirstNameSender	eng	FirstNameSender	date20040128	
+
+				
+LangTagFNFieldLastNameSender	deu	AbsenderNachname	date20040128
+LangTagFNFieldLastNameSender	rus	Фамилия отправителя	date20100614	
+LangTagFNFieldLastNameSender	eng	LastNameSender	date20040128	
+
+				
+LangTagSubmit	deu	Abschicken	date20040128
+LangTagSubmit	rus	Отправить	date20100614	
+LangTagSubmit	eng	Submit	date20040128	
+
+				
+LangTagYourFriend	deu	Artikel weiterempfehlen an	date20040128
+LangTagYourFriend	rus	Порекомендовать товар	date20100614	
+LangTagYourFriend	eng	Send product link to	date20040128	
+
+				
+LangTagYourName	deu	Ihr Name	date20040128
+LangTagYourName	rus	Ваше имя	date20100614	
+LangTagYourName	eng	Your name	date20040128	
+
+				
+LangTagHello	deu	Hallo	date20040128
+LangTagHello	rus	Здравствуйте	date20100614	
+LangTagHello	eng	Hello	date20040128	
+
+x			date20040129	
+LangTagFNTotalAmount	deu	Rechnungsbetrag	date20040129
+LangTagFNTotalAmount	rus	Сумма заказа	date20100614	
+LangTagFNTotalAmount	eng	Invoice_total	date20040129	
+
+x			date20040129	
+LangTagFNFieldTotalAmount	deu	Rechnungsbetrag	date20040129
+LangTagFNFieldTotalAmount	rus	Сумма заказа	date20100614	
+LangTagFNFieldTotalAmount	eng	Invoice_total	date20040129	
+
+				
+LangTagOrderContinue	deu	Bestellung fortsetzen	date20040129
+LangTagOrderContinue	rus	Продолжить заказ	date20100614	
+LangTagOrderContinue	eng	Continue Order	date20040129	
+
+				
+LangTagCashDiscount	deu	Rabatt (Zahlungsart)	date20040129
+LangTagCashDiscount	rus	Скидка (Вид оплаты)	date20100614	
+LangTagCashDiscount	eng	Discount (method of payment)	date20040129	
+
+				
+LangTagWorldPayPayment	deu	WorldPay Bezahlung OK?	date20040129
+LangTagWorldPayPayment	rus	Оплата WorldPay OK?	date20100614	
+LangTagWorldPayPayment	eng	WorldPay Payment OK?	date20040129	
+
+				
+LangTagPaymentSelection	deu	Zuruck zur Versand- und Zahlungsart	date20040129
+LangTagPaymentSelection	rus	Назад к способу оплаты и пересылки	date20100614	
+LangTagPaymentSelection	eng	Back to Payment Selection	date20040129	
+
+				
+LangTagFieldCustomerNR	deu	KundenNr	date20040129
+LangTagFieldCustomerNR	rus	Клиентский номер	date20100614	
+LangTagFieldCustomerNR	eng	CustomerNo	date20040129	
+
+			date20040130	
+LangTagFNFieldCustomerNR	deu	KundenNr	date20040130
+LangTagFNFieldCustomerNR	rus	Клиентский номер	date20100614	
+LangTagFNFieldCustomerNR	eng	CustomerNo	date20040130	
+
+			date20040131	
+LangTagTextSaveData	deu	Eingegebene Formulardaten speichern.<br />(Die Daten werden als Cookie abgespeichert.)	date20100614	Tabellenuberschrift buy3.htm
+LangTagTextSaveData	rus	Сохранить внесенные данные.<br />(Данные будут сохранены как Cookie.)	date20040131	Tabellenuberschrift buy3.htm
+LangTagTextSaveData	eng	Save the formular data.(Data are saved in a cookie)	date20040131	
+
+			date20040201	
+LangTagFrom	deu	ab	date20040201
+LangTagFrom	rus	мин.	date20100614	
+LangTagFrom	eng	min.	date20040201	
+
+				
+LangTextFieldCustomerNrLogin	deu	Kundennummer	date20040201
+LangTextFieldCustomerNrLogin	rus	Клиентский номер	date20100614	
+LangTextFieldCustomerNrLogin	eng	CustomerNumber	date20040201	
+LangTextFieldCustomerNrLogin	fra	Client n°	date20040201	
+				
+LangTextFNFieldCustomerNrLogin	deu	Kundennummer	date20040201
+LangTextFNFieldCustomerNrLogin	rus	Клиентский номер	date20100614	
+LangTextFNFieldCustomerNrLogin	eng	CustomerNumber	date20040201	
+
+			date20040201	
+LangTagCrossSellingText	deu	Zu diesem Artikel passen auch folgende Produkte	date20040201
+LangTagCrossSellingText	rus	К этому артикулу подходят также следующие продукты	date20100614	
+LangTagCrossSellingText	eng	The following products also fit to this article	date20040201	
+
+			date20040207	
+LangTagFieldLastNameSender	deu	Absender	date20040207
+LangTagFieldLastNameSender	rus	Отправитель	date20100614	
+LangTagFieldLastNameSender	eng	Sender	date20040207	
+
+x			date20040210	
+LangTagCashInclude	deu	inkl.	date20040211
+LangTagCashInclude	rus	вкл.	date20100614	
+LangTagCashInclude	eng	incl.	date20040211	
+
+x			date20040212	
+LangTagIncluded	deu	inkl.	date20040213
+LangTagIncluded	rus	вкл.	date20100614	
+LangTagIncluded	eng	incl.	date20040213	
+
+x			date20040214	
+x			date20040215	
+LangTagItemNumber	deu	ArtikelNr.	date20040302
+LangTagItemNumber	rus	Nr.артикула	date20100614	
+LangTagItemNumber	eng	ProductNo	date20040302	
+
+//Folgende Zeile bleibt englisch		//kann vom Anwender nach Bedarf angepasst werden	date20040303	
+LangTagPleaseActivateJavascript	deu	The onlineshop needs JavaScript for full functionality.<br />Please activate JavaScript in your browser settings.<br />	date20040304
+LangTagPleaseActivateJavascript	rus	Для работы Оnline-магазина необходимо активировать JavaScript в Вашем браузере.<br />	date20100614	
+LangTagPleaseActivateJavascript	eng	The onlineshop needs JavaScript for full functionality.<br />Please activate JavaScript in your browser settings.<br />	date20040304	
+
+LangTagFieldShippingTitle	deu	Abweichende Lieferadresse	date20040325
+LangTagFieldShippingTitle	rus	Дополнительный адрес (куда можно доставить посылку, в случае, если Вас не будет дома)	date20100614	
+LangTagFieldShippingTitle	eng	Delivery Address	date20040325	
+
+LangTagFieldShippingFirstName	deu	Vorname	date20040325
+LangTagFieldShippingFirstName	rus	Имя	date20100614	
+LangTagFieldShippingFirstName	eng	First Name	date20040325	
+
+LangTagFNFieldShippingFirstName	deu	LieferVorname	date20040325
+LangTagFNFieldShippingFirstName	rus	Имя	date20100614
+LangTagFNFieldShippingFirstName	eng	DeliveryFirstName	date20040325	
+
+LangTagFieldShippingLastName	deu	Nachname	date20040325
+LangTagFieldShippingLastName	rus	Наложенным платежем	date20100614	
+LangTagFieldShippingLastName	eng	Last Name	date20040325	
+
+LangTagFNFieldShippingLastName	deu	LieferNachname	date20040325
+LangTagFNFieldShippingLastName	rus	Фамилия	date20100614	
+LangTagFNFieldShippingLastName	eng	DeliveryLastName	date20040325	
+
+LangTagFieldShippingStreet	deu	Stra?e	date20040325
+LangTagFieldShippingStreet	rus	Улица	date20100614	
+LangTagFieldShippingStreet	eng	Address	date20040325	
+
+LangTagFNFieldShippingStreet	deu	LieferStrasse	date20040325
+LangTagFNFieldShippingStreet	rus	Улица	date20100614
+LangTagFNFieldShippingStreet	eng	DeliveryAddress	date20040325	
+
+LangTagFieldShippingCity	deu	Stadt	date20040325
+LangTagFieldShippingCity	rus	Населенный пункт	date20100614	
+LangTagFieldShippingCity	eng	Town/City	date20040325	
+
+LangTagFNFieldShippingCity	deu	LieferStadt	date20040325	
+LangTagFNFieldShippingCity	eng	DeliveryCity	date20040325	
+
+LangTagFieldShippingZipCode	deu	PLZ	date20040325
+LangTagFieldShippingZipCode	rus	Почтовый индекс	date20100614	
+LangTagFieldShippingZipCode	eng	Postcode/Zipcode	date20040325	
+
+LangTagFNFieldShippingZipCode	deu	LieferPLZ	date20040325
+LangTagFNFieldShippingZipCode	rus	Почтовый индекс		date20100614	
+LangTagFNFieldShippingZipCode	eng	DeliveryPostcode_Zipcode	date20040325	
+
+LangTagFNIclearDiscount	deu	Rabatt	date20040326
+LangTagFNIclearDiscount	rus	Скидка	date20100614	
+LangTagFNIclearDiscount	eng	Discount	date20040326	
+
+LangTagIclearDiscount	deu	Rabatt	date20040326
+LangTagIclearDiscount	rus	Скидка	date20100614	
+LangTagIclearDiscount	eng	Discount	date20040326	
+
+LangTagFNIclearPostage	deu	Versandkosten	date20040326
+LangTagFNIclearPostage	rus	Почтовые расходы	date20100614	
+LangTagFNIclearPostage	eng	DeliveryCharges	date20040326	
+
+LangTagIclearPostage	deu	Versandkosten	date20040326
+LangTagIclearPostage	rus	Почтовые расходы	date20100614	
+LangTagIclearPostage	eng	Delivery charges	date20040326	
+
+LangTagNoFrames	deu	Ihr Browser unterstuezt keine Frames (siehe http://www.gs-shopbuilder.com)	date20040926
+LangTagNoFrames	rus	Ваш браузер не поддерживает фреймы (см. http://www.gs-shopbuilder.com)	date20100614	
+LangTagNoFrames	eng	Your browser doesnt support frame setting (siehe http://www.gs-shopbuilder.com)	date20040926	
+
+ 	deu	 	date20041202	
+LangTagBillingAddress	deu	Rechnungsanschrift	date20041202
+LangTagBillingAddress	rus	Адрес для счета	date20100614	
+LangTagBillingAddress	eng	Billing address	date20041202	
+
+LangTagShippingAddress	deu	Lieferanschrift	date20041202
+LangTagShippingAddress	rus	Адрес доставки	date20100614	
+LangTagShippingAddress	eng	Shipping address	date20041202	
+
+LangTagFieldShippingCompany	deu	Lieferfirma	date20041202
+LangTagFieldShippingCompany	rus	Фирма, осуществляющая доставку	date20100614	
+LangTagFieldShippingCompany	eng	Shipping company	date20041202	
+
+LangTagFNFieldShippingCompany	deu	Lieferfirma	date20041202
+LangTagFNFieldShippingCompany	rus	Фирма, осуществляющая доставку	date20100614	
+LangTagFNFieldShippingCompany	eng	ShippingCompany	date20041202	
+
+LangTagShippingFieldState	deu	Lieferland	date20041202
+LangTagShippingFieldState	rus	Страна, из которой осуществляется доставка	date20100614	
+LangTagShippingFieldState	eng	Shipping country	date20041202	
+
+LangTagFNFieldShippingState	deu	Lieferland	date20041202
+LangTagFNFieldShippingState	rus	Страна, из которой осуществляется доставка	date20100614	
+LangTagFNFieldShippingState	eng	ShippingState	date20041202	
+
+LangTagShippingFieldEmail	deu	Lieferemail	date20041202
+LangTagShippingFieldEmail	rus	Еmail доставки	date20100614	
+LangTagShippingFieldEmail	eng	Shipping email	date20041202	
+
+LangTagFieldShippingEmail	deu	Lieferemail	date20041202
+LangTagFieldShippingEmail	rus	Еmail доставки	date20100614	
+LangTagFieldShippingEmail	eng	ShippingEmail	date20041202	
+
+LangTagShippingFieldPhone	deu	Telefon	date20041202
+LangTagShippingFieldPhone	rus	Телефон	date20100614	
+LangTagShippingFieldPhone	eng	Shipping phone	date20041202	
+
+LangTagFNFieldShippingTelefon	deu	LieferTelefon	date20041202
+LangTagFNFieldShippingTelefon	rus	Телефон		date20100614	
+LangTagFNFieldShippingTelefon	eng	ShippingTelefon	date20041202	
+
+LangTagShippingFieldFax	deu	Lieferfax	date20041202
+LangTagShippingFieldFax	rus	Факс	date20100614	
+LangTagShippingFieldFax	eng	Shipping fax	date20041202	
+
+LangTagFNFieldShippingFax	deu	Lieferfax	date20041202
+LangTagFNFieldShippingFax	rus	Факс	date20100614	
+LangTagFNFieldShippingFax	eng	ShippingFax	date20041202	
+
+LangTagFieldShippingAddress2	deu	Adressenzusatz	date20100614
+LangTagFieldShippingAddress2	rus	Второй адрес	date20041202	
+LangTagFieldShippingAddress2	eng	Address 2	date20041202	
+
+LangTagFNFieldShippingAddress2	deu	LieferAdressenZusatz	date20041202	
+LangTagFNFieldShippingAddress2	eng	ShippingAddress2_	date20041202	
+
+LangTagTextAddressArea	deu	Landerzone	date20041206
+LangTagTextAddressArea	rus	В какой зоне находится страна	date20100614	
+LangTagTextAddressArea	eng	Address area	date20041206	
+
+LangTagTextShippingAddressArea	deu	Versandgebiet	date20041206
+LangTagTextShippingAddressArea	rus	Куда следует почтовое отправление	date20100614	
+LangTagTextShippingAddressArea	eng	Shipping to	date20041206	
+
+LangTagTextPaymentAddressArea	deu	Landerzone (Rechnung)	date20041206
+LangTagTextPaymentAddressArea	rus	зона (Счет)	date20100614	
+LangTagTextPaymentAddressArea	eng	Billing to	date20041206	
+
+LangTagInfoPage	deu	Info	date20041207	LinkMenu/Tabellenuberschrift
+LangTagInfoPage	rus	Инфо	date20100614	LinkMenu/Tabellenuberschrift
+LangTagInfoPage	eng	Info	date20041207	
+
+LangTagInfoTitleNews	deu	News	date20041207	LinkMenu/Tabellenuberschrift
+LangTagInfoTitleNews	rus	Новости	date20100614	LinkMenu/Tabellenuberschrift
+LangTagInfoTitleNews	eng	News	date20041207	
+
+LangTagSearchAllWordsAnd	deu	Alle Worter (AND)	date20041207
+LangTagSearchAllWordsAnd	rus	Все слова (AND)	date20100614	
+LangTagSearchAllWordsAnd	eng	All words (AND)	date20041207	
+
+LangTagSearchOneWordOr	deu	Ein Wort (OR)	date20041207
+LangTagSearchOneWordOr	rus	Одно слово (OR)	date20100614	
+LangTagSearchOneWordOr	eng	One Word (OR)	date20041207	
+
+LangTagFieldTellMessage	deu	Weitere Nachricht?	date20041209
+LangTagFieldTellMessage	rus	Ваше сообщение	date20100614	
+LangTagFieldTellMessage	eng	Your message	date20041209	
+
+LangTagMessageFreeText	deu	Zusatzlicher Freitext	date20100224
+LangTagMessageFreeText	rus	Дополнительный текст	date20100614	
+LangTagMessageFreeText	eng	Additional free text	date20100224	
+
+LangTagOnlyFreeText	deu	Nur Freitext	date20100224
+LangTagOnlyFreeText	rus	Только свободный текст	date20100614	
+LangTagOnlyFreeText	eng	Only free text	date20100224	
+
+LangTagOtherArticle	deu	Anderer Artikel als im Shop	date20100224
+LangTagOtherArticle	rus	Товар, отличающийся от находящегося в магазине	date20100614	
+LangTagOtherArticle	eng	Other items than in the shop	date20100224	
+
+LangTagCBProductDescr	deu	Produktbeschreibung	date20100224
+LangTagCBProductDescr	rus	Описание товара	date20100614	
+LangTagCBProductDescr	eng	Item description	date20100224	
+
+LangTagCBDeliveryDate	deu	Lieferdatum	date20100224
+LangTagCBDeliveryDate	rus	Дата доставки	date20100614	
+LangTagCBDeliveryDate	eng	Delivery date	date20100224	
+
+LangTagCBPrice	deu	Preis	date20100224
+LangTagCBPrice	rus	Цена	date20100614	
+LangTagCBPrice	eng	Price	date20100224	
+
+LangTagCBQuantity	deu	Menge	date20100224
+LangTagCBQuantity	rus	Количество	date20100614	
+LangTagCBQuantity	eng	Quantity	date20100224	
+
+LangTagQuestRelatedTo	deu	Meine Anfrage betrifft	date20100224
+LangTagQuestRelatedTo	rus	Мой запрос касается	date20100614	
+LangTagQuestRelatedTo	eng	My question is related to	date20100224	
+
+LangTagInquiryFields	deu	Bitte nutzen Sie die nachfolgenden Felder fur Ihre Anfrage	date20100224	
+LangTagInquiryFields	rus	Пожалуйста, используйте нижеследующие поля для запроса	date20100614
+LangTagInquiryFields	eng	Please use the fields below for your inquiry	date20100224	
+
+LangTagQuestionsAbout	deu	Sie haben Fragen zu diesen Artikel	date20100224
+LangTagQuestionsAbout	rus	У Вас есть вопросы по этому товару	date20100614	
+LangTagQuestionsAbout	eng	You have questions about this item	date20100224	
+
+LangTagInquiryRecipient	deu	Ihre Anfrage wird weitergeleitet an	date20100224
+LangTagInquiryRecipient	rus	Ваш запрос отправлен	date20100614	
+LangTagInquiryRecipient	eng	Your request will be forwarded to	date20100224	
+
+
+LangTagInquiryMailAvail	deu	Ist der Artikel lieferbar	date20100224
+LangTagInquiryMailAvail	rus	Этот товар находится в продаже	date20100614	
+LangTagInquiryMailAvail	eng	Is this item available	date20100224	
+
+
+LangTagInquiryMailAvaAmount	deu	in einer Menge von	date20100224
+LangTagInquiryMailAvaAmount	rus	в количестве	date20100614	
+LangTagInquiryMailAvaAmount	eng	in an amount of	date20100224	
+
+
+LangTagInquiryMailAvaPrice	deu	zum Preis von	date20100224
+LangTagInquiryMailAvaPrice	rus	по цене	date20100614	
+LangTagInquiryMailAvaPrice	eng	at a price of	date20100224	
+
+
+LangTagInquiryMailAvaDate	deu	bis zum	date20100224
+LangTagInquiryMailAvaDate	deu	до	date20100614	
+LangTagInquiryMailAvaDate	eng	until	date20100224	
+
+
+LangTagInquiryMailInfo	deu	Bitte senden Sie mir fur diesen Artikel Angaben	date20100224
+LangTagInquiryMailInfo	rus	Пожалуйста, пришлите мне информацию по этому товару	date20100614	
+LangTagInquiryMailInfo	eng	Please send me information for this article	date20100224	
+
+
+LangTagInquiryMailInfoAmount	deu	zur verfugbaren Menge	date20100224
+LangTagInquiryMailInfoAmount	rus	по возможному количеству	date20100614	
+LangTagInquiryMailInfoAmount	eng	about the available quantity	date20100224	
+
+
+LangTagInquiryMailInfoPrice	deu	zum Preis	date20100224
+LangTagInquiryMailInfoPrice	rus	по цене	date20100614		
+LangTagInquiryMailInfoPrice	eng	about the price	date20100224	
+
+
+LangTagInquiryMailInfoDate	deu	zum Lieferdatum	date20100224
+LangTagInquiryMailInfoDate	rus	по срокам доставки	date20100614	
+LangTagInquiryMailInfoDate	eng	about the delivery date	date20100224	
+
+
+LangTagInquiryAskDesc	deu	Konnen Sie fur diesen Artikel eine Produktbeschreibung senden	date20100224
+LangTagInquiryAskDesc	rus	Вышлите мне, пожалуйста, описание товара для этого артикула	date20100614	
+LangTagInquiryAskDesc	eng	Can you send a product description for this item	date20100224	
+
+
+LangTagGreetingInquiry	deu	Sehr geehrter Shopbetreiber	date20100224
+LangTagGreetingInquiry	rus	Уважаемый владелец магазина	date20100614	
+LangTagGreetingInquiry	eng	Dear store owner	date20100224	
+
+
+
+LangTagInquiryThisItem	deu	Ich habe eine Anfrage zu diesem Artikel	date20100224
+LangTagInquiryThisItem	rus	У меня есть вопрос по этому товару	date20100614	
+LangTagInquiryThisItem	eng	I have an inquiry to this article	date20100224	
+
+
+LangTagInquiryOtherItem	deu	Ich habe eine Anfrage zu einem anderen Artikel, als bei Ihnen im Shop gesehen	date20100224
+LangTagInquiryOtherItem	rus	У меня есть вопрос по товару, отличающемуся от предложенного в Вашем магазине	date20100614	
+LangTagInquiryOtherItem	eng	I have an inquiry  about another article outside of your shop	date20100224	
+
+
+LangTagGreetingsInquiry	deu	Mit freundlichen Gru?en	date20100224
+LangTagGreetingsInquiry	rus	С уважением	date20100614	
+LangTagGreetingsInquiry	eng	Sincerely	date20100224	
+
+
+LangTagPaymorrowHaedline	deu	Bestellung mit Paymorrow	date20100303
+LangTagPaymorrowHaedline	rus	Заказ с Paymorrow	date20100614	
+LangTagPaymorrowHaedline	eng	Order with Paymorrow	date20100303	
+
+
+LangTagPaymorrowValidation	deu	Validierung	date20100303
+LangTagPaymorrowValidation	rus	Утверждение	ddate20100614	
+LangTagPaymorrowValidation	eng	validation	date20100303	
+
+
+LangTagPaymorrowValidationOK	deu	OK	date20100303
+LangTagPaymorrowValidationOK	rus	OK	date20100614	
+LangTagPaymorrowValidationOK	eng	ok	date20100303	
+
+
+LangTagPaymorrowValidationFile	deu	Die Datei	date20100303
+LangTagPaymorrowValidationFile	rus	Все файлы	date20100614	
+LangTagPaymorrowValidationFile	eng	The file	date20100303	
+
+
+LangTagPaymorrowFailed	deu	fehlgeschlagen	date20100303	
+LangTagPaymorrowFailed	rus	попытка не удалась	date20100614
+LangTagPaymorrowFailed	eng	failed	date20100303	
+
+
+LangTagPaymorrowNotFound	deu	ist nicht vorhanden	date20100303
+LangTagPaymorrowNotFound	rus	не имеется в наличии	date20100614	
+LangTagPaymorrowNotFound	eng	does not exist	date20100303	
+
+
+LangTagPaymorrowXmlTag	deu	Das XML-Tag	date20100303
+LangTagPaymorrowXmlTag	rus	XML-День	date20100614	
+LangTagPaymorrowXmlTag	eng	The XML-Tag	date20100303	
+
+
+LangTagFieldBuy2Message	deu	Weitere Nachricht	date20041209
+LangTagFieldBuy2Message	rus	Ваше сообщение	date20100614	
+LangTagFieldBuy2Message	eng	Your message	date20041209	
+
+LangTagFNFieldBuy2Message	deu	Nachricht	date20041209
+LangTagFNFieldBuy2Message	rus	Сообщение	date20100614	
+LangTagFNFieldBuy2Message	eng	Message	date20041209	
+
+LangTagFieldEmailFormat	deu	Gewunschtes Format der Bestatigungsemail	date20041209
+LangTagFieldEmailFormat	rus	Желаемый формат электронного письма, подтверждающего заказ	date20100614	
+LangTagFieldEmailFormat	eng	Email format	date20041209	
+
+LangTagFNFieldEmailFormat	deu	EmailFormat	date20041209
+LangTagFNFieldEmailFormat	rus	формат электронного письма	date20100614	
+LangTagFNFieldEmailFormat	eng	EmailFormat	date20041209	
+
+LangTagMr	deu	Herr	date20041209
+LangTagMr	rus	Господин	date20100614	
+LangTagMr	eng	Mr	date20041209	
+
+LangTagMrs	deu	Frau	date20041209
+LangTagMrs	rus	Госпожа	date20100614	
+LangTagMrs	eng	Mrs	date20041209	
+
+LangTagFNFieldShippingFormToAddress	deu	LieferAdresse	date20041209
+LangTagFNFieldShippingFormToAddress	rus	Адрес доставки date20100614	
+LangTagFNFieldShippingFormToAddress	eng	ShippingFormToAddress	date20041209	
+
+LangTagErrorMissingRootPathFile	deu	Web-Server-Fehler - missing root path file!	date20041210
+LangTagErrorMissingRootPathFile	rus	Web-server-error - missing root path file!!	date20100614
+LangTagErrorMissingRootPathFile	eng	Web-server-error - missing root path file!!	date20041210	
+
+LangTagFNFieldQuantity	deu	Menge	date20041213
+LangTagFNFieldQuantity	rus	Количество	date20100614
+LangTagFNFieldQuantity	eng	Quantity	date20041213	
+
+LangTagFNFieldTextItem	deu	Artikel	date20041213
+LangTagFNFieldTextItem	rus	Артикул	date20100614		
+LangTagFNFieldTextItem	eng	Items	date20041213	
+
+LangTagFNFieldDownloadTxt	deu	Downloadartikel	date20100212
+LangTagFNFieldDownloadTxt	rus	Download- товары	date20100614	
+LangTagFNFieldDownloadTxt	eng	Download item	date20100212	
+
+LangTagTextDownloadYes	deu	Ja	date20100212
+LangTagTextDownloadYes	rus	Да	date20100614	
+LangTagTextDownloadYes	eng	yes item	date20100212	
+
+LangTagTextDownloadNo	deu	Nein	date20100212
+LangTagTextDownloadNo	rus	Нет	date20100614	
+LangTagTextDownloadNo	eng	no item	date20100212	
+
+LangTagFNFieldTextUnitPrice	deu	Einzelpreis	date20041213
+LangTagFNFieldTextUnitPrice	rus	Цена за единицу товара	date20100614	
+LangTagFNFieldTextUnitPrice	eng	UnitPrice	date20041213	
+
+LangTagFNFieldShortVat	deu	MwSt	date20041213
+LangTagFNFieldShortVat	rus	НДС	date20100614	
+LangTagFNFieldShortVat	eng	VAT	date20041213	
+
+LangTagFNFieldTotalPrice	deu	Gesamtpreis	date20041213
+LangTagFNFieldTotalPrice	rus	Общая стоимость	date20100614	
+LangTagFNFieldTotalPrice	eng	TotalPrice	date20041213	
+
+LangTagFNFieldDownloadArticle	deu	Downloadartikel	date20100614
+LangTagFNFieldDownloadArticle	rus	Download-товары date20100204	
+LangTagFNFieldDownloadArticle	eng	DownloadArticle	date20100204	
+
+LangTagFNFieldLocTotal	deu	Summe	date20041213
+LangTagFNFieldLocTotal	rus	Сумма	date20100614	
+LangTagFNFieldLocTotal	eng	OrderTotal	date20041213	
+
+LangTagFNFieldLocDiscount	deu	Rabatt	date20041213
+LangTagFNFieldLocDiscount	rus	Скидка	date20100614	
+LangTagFNFieldLocDiscount	eng	Discount	date20041213	
+
+LangTagFNFieldDelivery	deu	Versandart	date20041213
+LangTagFNFieldDelivery	rus	Способ пересылки	date20100614	
+LangTagFNFieldDelivery	eng	DeliveryMode	date20041213	
+
+LangTagFNFieldPostage	deu	Versandkosten	date20041213
+LangTagFNFieldPostage	rus	Почтовые расходы	date20100614	
+LangTagFNFieldPostage	eng	DeliveryCharges	date20041213	
+
+LangTagFNFieldPayment	deu	Zahlungsart	date20041213
+LangTagFNFieldPayment	rus	Способ оплаты	date20100614	
+LangTagFNFieldPayment	eng	Payment	date20041213	
+
+LangTagFNFieldLongVat	deu	MwSt	date20041213
+LangTagFNFieldLongVat	rus	НДС	date20100614	
+LangTagFNFieldLongVat	eng	VAT	date20041213	
+
+LangTagFNFieldShippingAddressArea	deu	Versandgebiet	date20041213
+LangTagFNFieldShippingAddressArea	rus	Куда отправлять	date20100614	
+LangTagFNFieldShippingAddressArea	eng	ShippingTo	date20041213	
+
+LangTagFNFieldPaymentCharge	deu	Gebuhr	date20041213
+LangTagFNFieldPaymentCharge	rus	Сбор	date20100614	
+LangTagFNFieldPaymentCharge	eng	Charge	date20041213	
+
+LangTagFNFieldCashDiscountPercent	deu	Skonto	date20041213
+LangTagFNFieldCashDiscountPercent	rus	Скидка	date20100614	
+LangTagFNFieldCashDiscountPercent	eng	Discount	date20041213	
+
+LangTagFNFieldPID	deu	Auftragsnummer	date20041213
+LangTagFNFieldPID	rus	Номер заказа	date20100614	
+LangTagFNFieldPID	eng	Ordernumber	date20041213	
+
+LangTagFieldPID	deu	AuftragsNr	date20041213
+LangTagFieldPID	rus	Номер заказа	date20100614	
+LangTagFieldPID	eng	OderNo	date20041213	
+
+LangTagFNFieldSender	deu	Absender	date20041213	
+LangTagFNFieldSender	rus	Отправитель	date20100614
+LangTagFNFieldSender	eng	Sender	date20041213	
+
+LangTagName	deu	Name	date20100614
+LangTagName	rus	Имя	date20041215	
+LangTagName	eng	Name	date20041215	
+
+LangTagAddress	deu	Anschrift	date20041215
+LangTagAddress	rus	Адрес	date20100614	
+LangTagAddress	eng	Address	date20041215	
+
+LangTagEmailFormatText	deu	Text	date20041215
+LangTagEmailFormatText	rus	Текст	date20100614	
+LangTagEmailFormatText	eng	Text	date20041215	
+
+LangTagWeightUnit	deu	kg	date20041220
+LangTagWeightUnit	rus	кг	date20100614	
+LangTagWeightUnit	eng	kg	date20041220	
+
+LangTagFieldFirmVATId	deu	UstID	date20041221
+LangTagFieldFirmVATId	rus	Идентификационный номер налогоплательщика (ИНН)	date20100614	
+LangTagFieldFirmVATId	eng	Tax Number	date20041221	
+
+LangTagFNFieldFirmVATId	deu	UstID	date20041221
+LangTagFNFieldFirmVATId	rus	Идентификационный номер налогоплательщика (ИНН)	date20100614	
+LangTagFNFieldFirmVATId	eng	TaxNumber	date20041221	
+
+LangTagNoVariantDetail	deu	Zu dieser Variante ist keine Detailseite vorhanden.	date20050104
+LangTagNoVariantDetail	rus	Этот вариант не имеет списка деталей.		
+LangTagNoVariantDetail	eng	No detail page available for this variant.	date20050104	
+
+LangTagTextPreview	deu	Предварительный просмотр шаблонов	date20100614
+LangTagTextPreview	rus	Template-Vorschau	date20050104	
+LangTagTextPreview	eng	Template preview	date20050104	
+
+LangTagFNSubTotal	deu	Zwischensumme	date20050106
+LangTagFNSubTotal	rus	Промежуточная сумма	date20100614	
+LangTagFNSubTotal	eng	Subtotal	date20050106	
+
+LangTagFNFieldSubTotal	deu	Zwischensumme	date20050106
+LangTagFNFieldSubTotal	rus	Промежуточная сумма	date20100614	
+LangTagFNFieldSubTotal	eng	Subtotal	date20050106	
+
+LangTagTextGoodsValue	deu	Warenwert	date20050111
+LangTagTextGoodsValue	rus	Стоимость товара	date20100614	
+LangTagTextGoodsValue	eng	Value of goods 	date20050111	
+
+LangTagTextCustomerLogin	deu	Kundenlogin	date20050112
+LangTagTextCustomerLogin	rus	Вход для клиента	date20100614	
+LangTagTextCustomerLogin	eng	Customer login	date20050112	
+
+LangTagTextUser	deu	Benutzername	date20050112
+LangTagTextUser	rus	Имя пользователя	date20100614	
+LangTagTextUser	eng	User	date20050112	
+
+LangTagTextPassword	deu	Passwort	date20050112	
+LangTagTextPassword	rus	Пароль	date20100614
+LangTagTextPassword	eng	Password	date20050112	
+
+LangTagTextLogin	deu	Login	date20050112
+LangTagTextLogin	rus	Войти	date20100614	
+LangTagTextLogin	eng	Login	date20050112	
+
+LangTagTextLogout	deu	Logout	date20050112
+LangTagTextLogout	rus	Выйти	date20100614	
+LangTagTextLogout	eng	Logout	date20050112	
+
+LangTagChangeAddress	deu	Adressdaten andern	date20050112
+LangTagChangeAddress	rus	Изменить адресные данные	date20100614
+LangTagChangeAddress	eng	Change Address Data	date20050112	
+
+LangTagAdressData	deu	Adressdaten	date20050112
+LangTagAdressData	rus	Адресные данные	date20100614	
+LangTagAdressData	eng	Address Data	date20050112	
+
+LangTagTextAdressData	deu	Sie haben hier die Moglichkeit, Ihre bei uns gespeicherten Adressdaten zu andern. <br />Andern Sie Ihre Angaben und klicken Sie anschlie?end auf "Speichern". <br />Die mit * gekennzeichneten Felder sind zwingend auszufullen.	date20050112
+LangTagTextAdressData	rus	Здесь у Вас есть возможность изменить сохраненные данные. <br />Измените данные и щёлкниете по кнопке "Сохранить". <br />Поля, обозначенные * обязательны к заполнению.	date20100614
+LangTagTextAdressData	eng	You may change here your address data saved on our database server. <br />* fields must be filled	date20050112	
+
+LangTagSave	deu	Speichern	date20050112
+LangTagSave	rus	Сохранить	date20100614	
+LangTagSave	eng	Save	date20050112	
+
+LangTagTextLoginError	deu	Login fehlgeschlagen.	date20050113
+LangTagTextLoginError	rus	Имя пользователя или пароль не верны.	date20100614	
+LangTagTextLoginError	eng	Login failed	date20050113	
+
+LangTagTextLoginWelcome	deu	Willkommen	date20050113
+LangTagTextLoginWelcome	rus	Добро пожаловать	date20100614	
+LangTagTextLoginWelcome	eng	Welcome	date20050113	
+
+LangTagTextChangePassword	deu	Passwort andern	date20050114
+LangTagTextChangePassword	rus	Изменить пароль	date20100614	
+LangTagTextChangePassword	eng	Change Password	date20050114	
+
+LangTagTextPasswordOld	deu	Altes Passwort	date20050114
+LangTagTextPasswordOld	rus	Старый пароль	date20100614	
+LangTagTextPasswordOld	eng	Old Password	date20050114	
+
+LangTagTextPasswordNew	deu	Neues Password	date20050114
+LangTagTextPasswordNew	rus	Новый пароль	date20100614	
+LangTagTextPasswordNew	eng	New Password	date20050114	
+
+LangTagTextRepetition	deu	Wiederholung des Passworts	date20050114
+LangTagTextRepetition	rus	Повторите пароль	date20100614
+LangTagTextRepetition	eng	Repeat Password	date20050114	
+
+LangTagRequest	deu	Anfrage	date20050114
+LangTagRequest	rus	Запрос	date20100614
+LangTagRequest	eng	Request	date20050114	
+
+LangTagRequestFormular	deu	Anfrageformular	date20050114
+LangTagRequestFormular	deu	Формуляр запроса	date20100614	
+LangTagRequestFormular	eng	Request Formular	date20050114	
+
+LangTagRequestSubmit	deu	Anfrage abschicken	date20050114
+LangTagRequestSubmit	rus	Отправить запрос	date20100614	
+LangTagRequestSubmit	eng	Submit Request	date20050114	
+
+LangTagRequestText	deu	2. Bitte fullen Sie das folgende Anfrageformular aus (*Felder bitte unbedingt angeben) und drucken Sie den 'Anfrage abschicken' Knopf.	date20050114
+LangTagRequestText	rus	2. Пожалуйста, заполните следующий формуляр (поля,  обозначенные * заполнять обязательно) и щёлкните по кнопке "Отправить запрос".	date20100614	
+LangTagRequestText	eng	2. Please enter the information below (*text fields are required). To complete your request click on 'Submit Request'.	date20050114	
+
+LangTagDescription	deu	Beschreibung	date20050114
+LangTagDescription	rus	Описание	date20100614	
+LangTagDescription	eng	Description	date20050114	
+
+LangTagManufacturer	deu	Hersteller	date20050114
+LangTagManufacturer	rus	Производитель	date20100614	
+LangTagManufacturer	eng	Manufacturer	date20050114	
+				
+//LangTagCookie	deu	Fur unser Login sind Cookies erforderlich. Bitte aktivieren Sie Cookies in Ihren Browserseinstellungen	date20050869
+//LangTagCookie	rus	Пожалуйста, активируйте Cookies в настройках Вашего браузера.	date20100614		
+//LangTagCookie	eng	Please activate Cookies in your browser settings.	date20050869	
+				
+LangTagMsgChangePasswordSuccess	deu	Passwort ist geandert.	date20050116
+LangTagMsgChangePasswordSuccess	rus	Пароль изменен.	date20100614	
+LangTagMsgChangePasswordSuccess	eng	Password was changed.	date20050116	
+				
+LangTagMsgChangePasswordRepetitionError	deu	Falsches Passwort.	date20050116
+LangTagMsgChangePasswordRepetitionError	rus	Пароль задан неверно.	date20100614	
+LangTagMsgChangePasswordRepetitionError	eng	Wrong password.	date20050116	
+				
+LangTagMsgChangePasswordUpdateError	deu	Fehler beim Andern.	date20050116
+LangTagMsgChangePasswordUpdateError	rus	При изменении пароля произошла ошибка.	date20100614	
+LangTagMsgChangePasswordUpdateError	eng	Password update error.	date20050116	
+
+				
+LangTagMsgChangePasswordNotFoundError	deu	Passwort nicht gefunden.	date20050116
+LangTagMsgChangePasswordNotFoundError	rus	Пароль не найден.	date20100614	
+LangTagMsgChangePasswordNotFoundError	eng	Password not found.	date20050116	
+
+				
+LangTagMsgChangePasswordEmptyPasswordError	deu	Das Passwort sollte mindestens 6 Zeichen enthalten.	date20050116
+LangTagMsgChangePasswordEmptyPasswordError	rus	Пароль должен содержать минимум 6 знаков.	date20100614	
+LangTagMsgChangePasswordEmptyPasswordError	eng	Password too short (min. 6 characters).	date20050116	
+
+LangTagSearchProductGroups	deu	Warengruppe(n)	date20050126
+LangTagSearchProductGroups	rus	Группа(ы) товаров	date20100614	
+LangTagSearchProductGroups	eng	product group(s)	date20050126	
+
+LangTagOpenAll	deu	alle offnen	date20050126
+LangTagOpenAll	rus	открыть все	date20100614	
+LangTagOpenAll	eng	open all	date20050126	
+
+LangTagCloseAll	deu	alle schlie?en	date20050126
+LangTagCloseAll	rus	закрыть все	date20100614	
+LangTagCloseAll	eng	close all	date20050126	
+
+LangTagLastViewedItem	deu	Angesehene Artikel	date20050310
+LangTagLastViewedItem	rus	Просмотренные артикулы	date20100614	
+LangTagLastViewedItem	eng	Last viewed items	date20050310	
+
+LangTagLastItem	deu	Artikel	date20050310
+LangTagLastItem	rus	Артикул	date20100614	
+LangTagLastItem	eng	Item	date20050310	
+
+LangTagLastItemPrice	deu	Preis	date20050310
+LangTagLastItemPrice	rus	Цена	date20100614	
+LangTagLastItemPrice	eng	Price	date20050310	
+
+LangTagLastItem1	deu	Artikel	date20050310
+LangTagLastItem1	rus	Артикул	date20100614	
+LangTagLastItem1	eng	Item	date20050310	
+
+LangTagLogout	deu	Logout	date20050412
+LangTagLogout	rus	Выйти	date20100614	
+LangTagLogout	eng	Logout	date20050412	
+
+LangTagB2BLogout	deu	Logout	date20050412
+LangTagB2BLogout	rus	Выйти	date20100614	
+LangTagB2BLogout	eng	Logout	date20050412	
+
+LangTagStart	deu	Start	date20050414
+LangTagStart	rus	Старт	date20100614	
+LangTagStart	eng	Start	date20050414	
+
+				
+LangTagRequestGSShopBuilder	deu	Anfrage GS ShopBuilder	date20050414
+LangTagRequestGSShopBuilder	rus	Запрос GS ShopBuilder	date20100614	
+LangTagRequestGSShopBuilder	eng	Request GS ShopBuilder	date20050414	
+
+				
+LangTagWeightTotal	deu	Warengewicht 	date20050601
+LangTagWeightTotal	rus	Вес товара 	date20100614	
+LangTagWeightTotal	eng	Net weight 	date20050601	
+
+LangTagFromNew	deu	ab	date20050601
+LangTagFromNew	rus	от	date20100614	
+LangTagFromNew	eng	from 	date20050601	
+
+LangTagItemUnit	deu	Einh. 	date20050601
+LangTagItemUnit	rus	единиц 	date20100614	
+LangTagItemUnit	eng	Pck.	date20050601	
+
+LangTagVacations	deu	Urlaubszeiten 	date20050601
+LangTagVacations	rus	Время отпуска	date20100614	
+LangTagVacations	eng	Vacations 	date20050601	
+				
+LangTagLinks	deu	Links 	date20050601
+LangTagLinks	rus	Линки	date20100614	
+LangTagLinks	eng	Links 	date20050601	
+
+LangTagFAQ	deu	Fragen	date20050601
+LangTagFAQ	rus	Вопросы	date20100614	
+LangTagFAQ	eng	FAQ	date20050601	
+
+LangTagSpecials	deu	Sonderaktionen 	date20050601
+LangTagSpecials	rus	Специальные акции 	date20100614	
+LangTagSpecials	eng	Specials	date20050601	
+
+LangTagGallery	deu	Galerie 	date20050601
+LangTagGallery	rus	Галерея	date20100614	
+LangTagGallery	eng	Gallery	date20050601	
+
+				
+ 				
+LangTagInclusiveVatAndExcludingDelivery	deu	inkl. MwSt. zzgl. Versandkosten	date20051003
+LangTagInclusiveVatAndExcludingDelivery	rus	включая НДС, без стоимости пересылки	date20100614	
+LangTagInclusiveVatAndExcludingDelivery	eng	inc. VAT and excluding delivery	date20051003	
+
+				
+LangTagCookie	deu	Fur unser Login sind Cookies erforderlich. Bitte aktivieren Sie Cookies in Ihren Browserseinstellungen	date20051003	
+LangTagCookie	rus	Пожалуйста, активируйте Cookies в настройках Вашего браузера.	date20100614
+LangTagCookie	eng	Please activate Cookies in your browser settings.	date20051003	
+
+				
+LangTagBestseller	deu	Bestseller	date20051012
+LangTagBestseller	rus	Бестселлер	date20100614	
+LangTagBestseller	eng	Bestseller	date20051012	
+
+LangTagAccountData	deu	Kontodaten	date20051012
+LangTagAccountData	rus	Данные о счете	date20100614	
+LangTagAccountData	eng	Account data	date20051012	
+
+LangTagFieldDiscount	deu	Kundenrabatt	date20051012
+LangTagFieldDiscount	rus	Клиентская скидка	date20100614	
+LangTagFieldDiscount	eng	Customer allowance	date20051012	
+
+LangTagTextChgCData	deu	Kundendaten andern	date20051012
+LangTagTextChgCData	rus	Изменить данные клиента	date20100614	
+LangTagTextChgCData	eng	change customer data	date20051012	
+
+LangTagViewOrderData	deu	Bestellungen einsehen	date20051012
+LangTagViewOrderData	rus	Просмотреть заказы	date20100614	
+LangTagViewOrderData	eng	view order data	date20051012	
+
+LangTagOrderData	deu	Bestellungen	date20051012
+LangTagOrderData	rus	Заказы	date20100614	
+LangTagOrderData	eng	order data	date20051012	
+
+LangTagTextOrderData	deu	Sie haben hier die Moglichkeit, Ihre letzten Bestellungen einzusehen.	date20051012
+LangTagTextOrderData	rus	Здесь у Вас есть возможность просмотреть свои последние заказы.	date20100614	
+LangTagTextOrderData	eng	Here you are able to view your last orderdata.	date20051012	
+
+LangTagTextDownloadArea	deu	Hier konnen Sie Ihre bestellten Download-Artikel herunterladen.	date20100205
+LangTagTextDownloadArea	rus	Здесь Вы можете скачать приобретенные вами товары из раздела "Download" date20100614	
+LangTagTextDownloadArea	eng	Here you can download your ordered download articles.	date20100205	
+
+LangTagTextDownloadAreb	deu	Sie haben fur diesen Artikel keinen Download mehr frei.	date20100211
+LangTagTextDownloadAreb	rus	Вы больше не имеете доступа к скачиванию этого артикула.	date20100614	
+LangTagTextDownloadAreb	eng	You do not have any more free downloads this product.	date20100211	
+
+LangTagHonorCoupon	deu	Gutschein einlosen	date20051012
+LangTagHonorCoupon	rus	Погасить ваучер	date20100614	
+LangTagHonorCoupon	eng	honor coupon	date20051012	
+
+LangTagCouponText	deu	Sie haben hier die Moglichkeit Ihren Gutschein einzulosen. Tragen Sie den Gutscheincode ein und klicken Sie auf "ok".	date20051012	
+LangTagCouponText	rus	Здесь у Вас есть возможность погасить свой ваучер. Внесите код ваучера и нажмите "ok".	date20100614
+LangTagCouponText	eng	You are able to honor a coupon here. Enter your coupon&#039;s number and press "ok".	date20051012	
+
+LangTagFNFieldValue	deu	Wert	date20051012
+LangTagFNFieldValue	rus	Стоимость ваучера	date20100614	
+LangTagFNFieldValue	eng	value	date20051012	
+
+LangTagCouponCode	deu	Gutschein Code	date20051012
+LangTagCouponCode	rus	Код ваучера	date20100614	
+LangTagCouponCode	eng	coupon code	date20051012	
+
+LangTagOk	deu	OK	date20051012
+LangTagOk	rus	OK	date20100614	
+LangTagOk	eng	OK	date20051012	
+
+LangTagHonor	deu	einlosen	date20051012
+LangTagHonor	rus	погасить	date20100614	
+LangTagHonor	eng	honor	date20051012	
+
+LangTagCoupon	deu	Gutschein	date20051012
+LangTagCoupon	rus	Ваучер	date20100614	
+LangTagCoupon	eng	coupon	date20051012	
+
+LangTagOnlyOneCoupon	deu	Es kann nur ein Gutschein eingelost werden!	date20051012
+LangTagOnlyOneCoupon	rus	Вы можете погасить только один ваучер!	date20100614	
+LangTagOnlyOneCoupon	eng	You can only use one coupon!	date20051012	
+
+LangTagWrongCouponCode	deu	Der eingetragende Gutscheincode ist uns nicht bekannt!	date20051012
+LangTagWrongCouponCode	rus	Внесенный Вами код ваучера неизвестен!	date20100614	
+LangTagWrongCouponCode	eng	The entered coupon number is not valid! 	date20051012	
+
+LangTagAutoCrossSelling	deu	Kunden, die diesen Artikel bestellt haben, haben auch bestellt...	date20051012
+LangTagAutoCrossSelling	rus	Клиенты, заказавшие этот артикул, заказали также...	date20100614	
+LangTagAutoCrossSelling	eng	Customer, who order this article, order also...	date20051012	
+
+LangTagExtendedSearch	deu	Suche	date20051012
+LangTagExtendedSearch	rus	Поиск	date20100614	
+LangTagExtendedSearch	eng	Search	date20051012	
+
+LangTagExtendedSearchText	deu	Die erweiterte Suche bietet Ihnen die Moglichkeit, Ihre Suche feiner einzugrenzen.	date20051012
+LangTagExtendedSearchText	rus	Расширенный поиск дает вам возможность уточнить критерии поиска.	date20100614	
+LangTagExtendedSearchText	eng	The extended search allows you to precise your search criteria.	date20051012	
+
+LangTagItemDescriptionKeyword	deu	Artikelbeschreibung/Stichwort	date20051013
+LangTagItemDescriptionKeyword	rus	Описание товара/слово для поиска	date20100614	
+LangTagItemDescriptionKeyword	eng	Item Description/Keyword	date20051013	
+
+LangTagFromPrice	deu	von	date20051013
+LangTagFromPrice	rus	от	date20100614	
+LangTagFromPrice	eng	from	date20051013	
+
+LangTagTo	deu	bis	date20051013
+LangTagTo	rus	до	date20100614	
+LangTagTo	eng	to	date20051013	
+
+LangTagOnlySpecialItems	deu	nur Sonderposten	date20051013
+LangTagOnlySpecialItems	rus	только особые товары	date20100614	
+LangTagOnlySpecialItems	eng	only special items	date20051013	
+
+LangTagReset	deu	Eingaben loschen	date20051013
+LangTagReset	rus	Удалить внесенные данные	date20100614	
+LangTagReset	eng	Reset inputs	date20051013	
+
+LangTagStartSearch	deu	Suche starten	date20051013
+LangTagStartSearch	rus	Начать поиск	date20100614	
+LangTagStartSearch	eng	Start search	date20051013	
+
+LangTagManufacturerNo	deu	Herstellernummer	date20051020
+LangTagManufacturerNo	rus	Номер производителя	date20100614
+LangTagManufacturerNo	eng	Manufacturer No.	date20051020	
+
+LangTagResultsExtendedSearch	deu	Resultate der erweiterten Suche	date20051020
+LangTagResultsExtendedSearch	rus	Результат расширенного поиска	date20100614
+LangTagResultsExtendedSearch	eng	Results of the extended search	date20051020	
+
+LangTagSearchCriteria	deu	Suchkriterien	date20051020
+LangTagSearchCriteria	rus	Критерии для поиска	date20100614	
+LangTagSearchCriteria	eng	search criteria	date20051020	
+
+LangTagNoSearchResults	deu	Die Suche ergab keine Ergebnisse	date20051020
+LangTagNoSearchResults	rus	Поиск не дал результатов	date20100614	
+LangTagNoSearchResults	eng	There are no search results	date20051020	
+
+LangTagFieldName	deu	Name	date20051024
+LangTagFieldName	rus	Имя	date20100614
+LangTagFieldName	eng	Name	date20051024	
+
+LangTagFieldZipCodeCity	deu	PLZ/Ort	date20051024
+LangTagFieldZipCodeCity rus	Почтовый индекс/Населенный пункт	date20100614	
+LangTagFieldZipCodeCity	eng	Zip code/City	date20051024	
+
+LangTagFNFieldImage	deu	Bild	date20051025
+LangTagFNFieldImage	rus	Изображение	date20100614	
+LangTagFNFieldImage	eng	Image	date20051025	
+
+LangTagDear	deu	Sehr geehrte/r	date20051026
+LangTagDear	rus	Уважаемый/ая	date20100614	
+LangTagDear	eng	Dear	date20051026	
+
+LangTagYourOrderData	deu	Ihre Bestelldaten	date20051027
+LangTagYourOrderData	rus	Ваши заказы	date20100614	
+LangTagYourOrderData	eng	Your order data	date20051027	
+
+LangTagCouponCashed	deu	Gutschein eingelost!	date20051031
+LangTagCouponCashed	rus	Ваучер погашен!	date20100614
+LangTagCouponCashed	eng	Coupon cashed	date20051031	
+
+LangTagFinancialInstitution	deu	Geldinstitut	date20051102
+LangTagFinancialInstitution	rus	Название банка	date20100614
+LangTagFinancialInstitution	eng	Financial institution	date20051102	
+
+LangTagValue	deu	Wert	date20051102
+LangTagValue	rus	Стоимость	date20100614
+LangTagValue	eng	value	date20051102	
+
+LangTagFieldPaymentCharge	deu	Gebuhr	date20051103
+LangTagFieldPaymentCharge	rus	Сбор	date20100614
+LangTagFieldPaymentCharge	eng	Charge	date20051103	
+
+LangTagEmailFormat	deu	EmailFormat	date20051103
+LangTagEmailFormat	rus	Формат электронного письма	date20100614
+LangTagEmailFormat	eng	EmailFormat	date20051103	
+
+LangTagFieldPayment	deu	Zahlungsart	date20051103
+LangTagFieldPayment	rus	Способ платежа	date20100614
+LangTagFieldPayment	eng	Payment	date20051103	
+
+LangTagFieldPostage	deu	Versandkosten	date20051103
+LangTagFieldPostage	rus	Стоиость пересылки	date20100614	
+LangTagFieldPostage	eng	DeliveryCharges	date20051103	
+
+LangTagFieldDelivery	deu	Versandart	date20051103
+LangTagFieldDelivery	rus	Способ пересылки	date20100614
+LangTagFieldDelivery	eng	DeliveryMode	date20051103	
+
+LangTagFieldShippingAddressArea	deu	Versandgebiet	date20051103
+LangTagFieldShippingAddressArea	rus	Место назначения	date20100614	
+LangTagFieldShippingAddressArea	eng	ShippingTo	date20051103	
+
+LangTagFieldSender	deu	Absender	date20051103
+LangTagFieldSender	rus	Отправитель	date20100614
+LangTagFieldSender	eng	Sender	date20051103	
+
+LangTagFieldMessage2	deu	Nachricht	date20051103
+LangTagFieldMessage2	rus	Оповещение	date20100614	
+LangTagFieldMessage2	eng	Message	date20051103	
+
+LangTagFieldTextUnitPrice	deu	Einzelpreis	date20051103
+LangTagFieldTextUnitPrice	rus	Цена за единицу товара	date20100614	
+LangTagFieldTextUnitPrice	eng	UnitPrice	date20051103	
+
+LangTagFieldTotalPrice	deu	Gesamtpreis	date20051103
+LangTagFieldTotalPrice	rus	Общая стоимость	date20100614	
+LangTagFieldTotalPrice	eng	TotalPrice	date20051103	
+
+LangTagFieldShortVat	deu	MwSt	date20051103
+LangTagFieldShortVat	rus	НДС	date20100614	
+LangTagFieldShortVat	eng	VAT	date20051103	
+
+LangTagFieldLocTotal	deu	Summe	date20051103
+LangTagFieldLocTotal	rus	Сумма	date20100614	
+LangTagFieldLocTotal	eng	OrderTotal	date20051103	
+
+LangTagFieldLocDiscount	deu	Rabatt	date20051103
+LangTagFieldLocDiscount	rus	Скидка	date20100614	
+LangTagFieldLocDiscount	eng	Discount	date20051103	
+
+LangTagFieldTotalAmount	deu	Rechnungsbetrag	date20051103
+LangTagFieldTotalAmount	rus	Счет-фактура    date20100614	
+LangTagFieldTotalAmount	eng	Invoice_total	date20051103	
+
+LangTagFieldQuantity	deu	Menge	date20051104
+LangTagFieldQuantity	rus	Количество	date20100614	
+LangTagFieldQuantity	eng	Quantity	date20051104	
+
+LangTagTextPosition	deu	Position	date20051107
+LangTagTextPosition	rus	Позиция	date20100614	
+LangTagTextPosition	eng	position	date20051107	
+
+				
+LangTagPrint	deu	Seite drucken	date20051111
+LangTagPrint	rus	Распечатать страницу	date20100614	
+LangTagPrint	eng	Print page	date20051111	
+
+				
+LangTagToTheTop	deu	Zum Seitenanfang	date20051111
+LangTagToTheTop	rus	К началу страницы	date20100614
+LangTagToTheTop	eng	To the top	date20051111	
+
+				
+LangTagOldPrice	deu	Alter Preis	date20051230
+LangTagOldPrice	rus	Старая цена	date20100614	
+LangTagOldPrice	eng	Old Price	date20051230	
+
+				
+				
+LangIntQuantWarning	deu	Es sind nur ganzzahlige Mengenangaben erlaubt!	date20100407
+LangIntQuantWarning	rus	Возможно внесение только целых чисел!	date20100614	
+LangIntQuantWarning	eng	There are allowed only even quantities!	date20100407	
+
+				
+LangTagReferencePrice	deu	Grundpreis	date20051230
+LangTagReferencePrice	rus	Базисная цена	date20100614	
+LangTagReferencePrice	eng	Reference Price	date20051230	
+
+				
+LangTagBrand	deu	Marke	date20051230
+LangTagBrand	rus	Фирма	date20100614	
+LangTagBrand	eng	Brand	date20051230	
+
+				
+LangTagManufacturerProductCode	deu	Herstellernummer	date20051230	
+LangTagManufacturerProductCode	rus	Номер производителя	date20100614	
+LangTagManufacturerProductCode	eng	Manufacturer	date20051230	
+
+				
+LangTagEAN	deu	EAN	date20051230
+LangTagEAN	rus	EAN	date20100614			
+LangTagEAN	eng	EAN	date20051230	
+
+				
+LangTagISBN	deu	ISBN	date20051230
+LangTagISBN	rus	ISBN	date20100614		
+LangTagISBN	eng	ISBN	date20051230	
+
+LangTagEANISBN	deu	EAN/ISBN	date20051230
+LangTagEANISBN	rus	EAN/ISBN	date20100614		
+LangTagEANISBN	eng	EAN/ISBN	date20051230	
+
+				
+LangTagSelectArgentina	deu	Argentinien	date20051230
+LangTagSelectArgentina	rus	Аргентина	date20100614	
+LangTagSelectArgentina	eng	Argentina	date20051230	
+
+				
+LangTagSelectAustralia	deu	Australien	date20051230
+LangTagSelectAustralia	rus	Австралия	date20100614		
+LangTagSelectAustralia	eng	Australia	date20051230	
+
+				
+LangTagSelectAustria	deu	Osterreich	date20051230
+LangTagSelectAustria	rus	Австрия	date20100614	
+LangTagSelectAustria	eng	Austria	date20051230	
+
+				
+LangTagSelectBelgium	deu	Belgien	date20051230
+LangTagSelectBelgium	deu	Бельгия	date20100614	
+LangTagSelectBelgium	eng	Belgium	date20051230	
+
+				
+LangTagSelectCanada	deu	Kanada	date20051230
+LangTagSelectCanada	rus	Канада	date20100614	
+LangTagSelectCanada	eng	Canada	date20051230	
+
+				
+LangTagSelectCyprus	deu	Zypern	date20051230
+LangTagSelectCyprus	rus	Кипр	date20100614	
+LangTagSelectCyprus	eng	Cyprus	date20051230	
+
+				
+LangTagSelectCzechRep	deu	Tschechien	date20051230
+LangTagSelectCzechRep	rus	Чехия	date20100614	
+LangTagSelectCzechRep	eng	Czech Republic	date20051230	
+
+				
+LangTagSelectDenmark	deu	Danemark	date20051230
+LangTagSelectDenmark	rus	Дания	date20100614	
+LangTagSelectDenmark	eng	Denmark	date20051230	
+
+				
+LangTagSelectEstonia	deu	Estland	date20051230
+LangTagSelectEstonia	rus	Эстония date20100614	
+LangTagSelectEstonia	eng	Estonia	date20051230	
+
+				
+LangTagSelectFinland	deu	Finnland	date20051230
+LangTagSelectFinland	rus	Финлянидия	date20100614	
+LangTagSelectFinland	eng	Finland	date20051230	
+
+				
+LangTagSelectFrance	deu	Frankreich	date20051230	
+LangTagSelectFrance	rus	Франция	date20100614	
+LangTagSelectFrance	eng	France	date20051230	
+
+				
+LangTagSelectGreece	deu	Griechenland	date20051230
+LangTagSelectGreece	rus	Греция	date20100614	
+LangTagSelectGreece	eng	Greece	date20051230	
+
+				
+LangTagSelectHungary	deu	Ungarn	date20051230
+LangTagSelectHungary	rus	Венгрия	date20100614	
+LangTagSelectHungary	eng	Hungary	date20051230	
+
+				
+LangTagSelectIceland	deu	Island	date20051230
+LangTagSelectIceland	rus	Исландия	date20100614	
+LangTagSelectIceland	eng	Iceland	date20051230	
+
+				
+LangTagSelectIreland	deu	Irland	date20051230
+LangTagSelectIreland	rus	Ирландия	date20100614	
+LangTagSelectIreland	eng	Ireland	date20051230	
+
+				
+LangTagSelectIsrael	deu	Israel	date20051230
+LangTagSelectIsrael	rus	Израиль	date20100614	
+LangTagSelectIsrael	eng	Israel	date20051230	
+
+				
+LangTagSelectItaly	deu	Italien	date20051230
+LangTagSelectItaly	rus	Италия	date20051230	
+LangTagSelectItaly	eng	Italy	date20051230	
+
+				
+LangTagSelectLatvia	deu	Lettland	date20051230
+LangTagSelectLatvia	deu	Латвия	date20100614	
+LangTagSelectLatvia	eng	Latvia	date20051230	
+
+				
+LangTagSelectLithuania	deu	Litauen	date20051230
+LangTagSelectLithuania	rus	Литва	date20100614	
+LangTagSelectLithuania	eng	Lithuania	date20051230	
+
+				
+LangTagSelectLuxembourg	deu	Luxemburg	date20051230
+LangTagSelectLuxembourg	rus	Люксембург	date20100614	
+LangTagSelectLuxembourg	eng	Luxembourg	date20051230	
+
+				
+LangTagSelectMalta	deu	Malta	date20051230
+LangTagSelectMalta	rus	Мальта	date20100614	
+LangTagSelectMalta	eng	Malta	date20051230	
+
+				
+LangTagSelectNether	deu	Niederlande	date20051230
+LangTagSelectNether	rus	Нидерланды	date20100614	
+LangTagSelectNether	eng	Netherlands	date20051230	
+
+				
+LangTagSelectNewZealand	deu	Neuseeland	date20051230
+LangTagSelectNewZealand	rus	Новая Зеландия	date20100614	
+LangTagSelectNewZealand	eng	NewZealand	date20051230	
+
+				
+LangTagSelectNorway	deu	Norwegen	date20051230
+LangTagSelectNorway	rus	Новегия	date20100614	
+LangTagSelectNorway	eng	Norway	date20051230	
+
+				
+LangTagSelectPoland	deu	Polen	date20051230
+LangTagSelectPoland	rus	Польша	date20100614	
+LangTagSelectPoland	eng	Poland	date20051230	
+
+				
+LangTagSelectPortugal	deu	Portugal	date20051230
+LangTagSelectPortugal	rus	Португалия	date20100614	
+LangTagSelectPortugal	eng	Portugal	date20051230	
+
+				
+LangTagSelectSingapore	deu	Singapur	date20051230
+LangTagSelectSingapore	rus	Сингапур	date20100614	
+LangTagSelectSingapore	eng	Singapore	date20051230	
+
+				
+LangTagSelectSlovakia	deu	Slowakei	date20051230
+LangTagSelectSlovakia	rus	Словакия	date20100614	
+LangTagSelectSlovakia	eng	Slovakia	date20051230	
+
+				
+LangTagSelectSouthAfri	deu	Sudafrika	date20051230
+LangTagSelectSouthAfri	rus	Южная Африка	date20100614	
+LangTagSelectSouthAfri	eng	South Africa	date20051230	
+
+				
+LangTagSelectSpain	deu	Spanien	date20051230
+LangTagSelectSpain	rus	Испания	date20100614	
+LangTagSelectSpain	eng	Spain	date20051230	
+
+				
+LangTagSelectSweden	deu	Schweden	date20051230
+LangTagSelectSweden	rus	Швеция	date20100614	
+LangTagSelectSweden	eng	Sweden	date20051230	
+
+				
+LangTagSelectSwitzerl	deu	Schweiz	date20051230
+LangTagSelectSwitzerl	rus	Швейцария	date20100614	
+LangTagSelectSwitzerl	eng	Switzerland	date20051230	
+
+				
+LangTagSelectTurkey	deu	Turkei	date20051230
+LangTagSelectTurkey	rus	Турция	date20100614	
+LangTagSelectTurkey	eng	Turkey	date20051230	
+
+				
+LangTagSelectUK	deu	UK	date20051230
+LangTagSelectUK	rus	Великобритания	date20100614	
+LangTagSelectUK	eng	UK	date20051230	
+
+				
+LangTagSelectUS	deu	USA	date20051230
+LangTagSelectUS	rus	США	date20100614	
+LangTagSelectUS	eng	US	date20051230	
+
+				
+LangTagSelectGermany	deu	Deutschland	date20060104
+LangTagSelectGermany	rus	Германия	date20100614	
+LangTagSelectGermany	eng	Germany	date20060104	
+
+				
+LangTagSubTotal	deu	Zwischensumme	date20060104
+LangTagSubTotal	rus	Промежуточная сумма	date20100614	
+LangTagSubTotal	eng	Subtotal	date20060104	
+
+				
+LangTagCreateCustomer	deu	Noch kein Kunde?	date20060104
+LangTagCreateCustomer	rus	Вы еще не наш клиент?	date20100614	
+LangTagCreateCustomer	eng	No customer?	date20060104	
+
+LangTagCreateCustomerText	deu	Hier konnen Sie sich als Kunde registrieren lassen. Nach erfolgreicher Registrierung erhalten Sie von uns eine Email mit Ihren Login-Daten.	date20060104
+LangTagCreateCustomerText	rus	Здесь Вы можете зарегистрироваться, как клиент. После успешной регистрации Вам будет отправлено сообщение с данными для входа в Ваш аккаунт.	date20100614	
+LangTagCreateCustomerText	eng	You are able to register yourself as one of our customers here. After your successfull registration we will send you an email with your login data.	date20060104	
+
+LangTagUserdata	deu	Benutzerdaten	date20060104
+LangTagUserdata	rus	Данные пользователя	date20100614	
+LangTagUserdata	eng	User data	date20060104	
+
+LangTagCustomerCreated	deu	Sie wurden als Kunde registriert!	date20060104
+LangTagCustomerCreated	rus	Вы зарегистрированы, как клиент!	date20100614	
+LangTagCustomerCreated	eng	You were successfully registred as our customer!	date20060104	
+
+LangTagNewsletter	deu	Newsletter	date20060104
+LangTagNewsletter	rus	Серийная рассылка	date20100614	
+LangTagNewsletter	eng	Newsletter	date20060104	
+
+LangTagNewsletterText	deu	Mochten Sie uber Neuerungen, Angebote und Aktionen rund um unsere Produkte informiert sein, konnen Sie sich gern in unserem Newsletter-Dienst mit Ihrer Email-Adresse eintragen	date20060104
+LangTagNewsletterText	rus	Хотите ли Вы получать информацию о новшествах, предложениях, скидках и акциях? Оставте адрес Вашего почтового ящика в нашей службе серийной рассылки.	date20100614	
+LangTagNewsletterText	eng	Do you like to subscribe yourself in our email newsletter if you'd like to be steadily informed about our improvements, offers and promotions.	date20060104	
+
+LangTagEmailAlreadyExist	deu	Ihre Email-Adresse ist bereits vorhanden!	date20060104
+LangTagEmailAlreadyExist	rus	У нас уже есть адрес Вашего электронного почтового ящика!	date20100614	
+LangTagEmailAlreadyExist	eng	Your email address already exists!	date20060104	
+
+LangTagEmailWrong	deu	Ihre Email-Adresse ist falsch!	date20060104
+LangTagEmailWrong	rus	Адрес Вашего электронного почтового ящика задан неверно!	date20100614	
+LangTagEmailWrong	eng	Your email address is not correct!	date20060104	
+
+LangTagEmailSaved	deu	Ihre Email-Adresse wurde gespeichert!	date20060104
+LangTagEmailSaved	rus	Адрес Вашего почтового ящика сохранен!	date20100614	
+LangTagEmailSaved	eng	Your email address was saved!	date20060104	
+
+LangTagEnter	deu	Eintragen	date20060104
+LangTagEnter	rus	Внести	date20100614	
+LangTagEnter	eng	Enter	date20060104	
+
+LangTagEnterEmail	deu	Sie mussen Ihre Email-Adresse eingeben!	date20060104
+LangTagEnterEmail	rus	Вы должны задать Ваш электронный адрес! date20100614	
+LangTagEnterEmail	eng	You have to enter your email address!	date20060104	
+
+LangTagNoData	deu	Keine Daten	date20060104
+LangTagNoData	rus	Нет данных	date20100614	
+LangTagNoData	eng	No data	date20060104	
+
+LangTagFieldFilled	deu	Sie mussen das folgendes Feld ausfullen	date20060104
+LangTagFieldFilled	rus	Вы должны заполнить следующее поле	date20100614	
+LangTagFieldFilled	eng	Your have to fill in	date20060104	
+
+LangTagNewsletterInfoText	deu	Die mit einem * gekennzeichneten Felder mussen ausgefullt werden!<br /><br />Die Weitergabe Ihrer eMail-Adresse und der von uns ermittelten Daten<br />dienen ausschlie?lich internen Zwecken und werden an unberechtigte Dritte<br />grundsatzlich nicht weitergegeben.	date20060104
+LangTagNewsletterInfoText	rus	Поля, помеченные * обязательны для заполнения!<br /><br />Адрес Вашего почтового ящика и полученные нами данные<br />служат только для внутреннего пользования и не передаются<br />третьим лицам.	date20100614	
+LangTagNewsletterInfoText	eng	The fields with * have to be filled in!<br /><br />You can find more information about how we process<br />personal information in our terms and conditions.	date20060104	
+
+LangTagSignOut	deu	Austragen	date20060105
+LangTagSignOut	rus	Исключить	date20100614	
+LangTagSignOut	eng	unsubscribe	date20060105	
+
+LangTagFieldPIDLong	deu	Auftragsnummer	date20060105
+LangTagFieldPIDLong	rus	Номер заказа	date20100614	
+LangTagFieldPIDLong	eng	Ordernumber	date20060105	
+
+LangTagEmailDeleted	deu	Ihre Email-Adresse wurde geloscht!	date20060106
+LangTagEmailDeleted	rus	Ваш Email-адрес уничтожен!	date20100614	
+LangTagEmailDeleted	eng	Your email address is deleted!	date20060106	
+
+LangTagEmailNotExisting	deu	Ihre Email-Adresse ist nicht vorhanden!	date20060106
+LangTagEmailNotExisting	rus	Такой Email-адрес не существует!	date20100614	
+LangTagEmailNotExisting	eng	Your email address is not existing!	date20060106	
+
+LangTagProductCode	deu	Produktcode	date20060106
+LangTagProductCode	rus	Код продукта	date20100614	
+LangTagProductCode	eng	Product code	date20060106	
+
+LangTagEmailNotDeletable	deu	Ihre Email-Adresse konnte nicht geloscht werden!	date20060106
+LangTagEmailNotDeletable	rus	Ваш Email-адрес не может быть удалён!	date20100614	
+LangTagEmailNotDeletable	eng	Your email address is temporay not deletable!	date20060106	
+
+LangTagEanISBN	deu	EAN/ISBN	date20060106
+LangTagEanISBN	rus	EAN/ISBN	date20100614	
+LangTagEanISBN	eng	EAN/ISBN	date20060106	
+
+LangTagTrustedShopsClick	deu	Trusted Shops Gutesiegel - Bitte hier Gultigkeit prufen!	date20060106	
+LangTagTrustedShopsClick	rus	Сертифицированный Trusted Shop- магазин! Интернет-магазин с системой гарантированного возврата денег покупателю. Проверить действительность. date20100614
+LangTagTrustedShopsClick	eng	Certified online shop with free money-back guarantee by Trusted Shops. Click to verify!	date20060106	
+
+LangTagTrustedShopsSiegel	deu	Geprufter Online-Shop mit kostenloser Geld-zuruck- Garantie von Trusted Shops. Klicken Sie auf das Gutesiegel, um die Gultigkeit zu prufen.	date20100614
+LangTagTrustedShopsSiegel	rus	Сертифицированный Trusted Shop- магазин! Интернет-магазин с системой гарантированного возврата денег покупателю.  Щелкните на значок, чтобы проверить действительность.	date20100614	
+LangTagTrustedShopsSiegel	eng	Certified online shop with free money-back guarantee by Trusted Shops. Click to verify! 	date20060106	
+
+LangTagTrustedShopsText	deu	Als Trusted Shops Mitglied bieten wir Ihnen als zusatzlichen Service die Geld-zuruck-Garantie der Atradius Versicherungsgruppe an. Wir ubernehmen alle Kosten dieser Garantie, Sie mussen sich lediglich anmelden.	date20060106
+LangTagTrustedShopsText	rus	Как член системы Trusted Shops мы предлагаем своим покупателям гарантию возврата денег, подтвержденную группой страховых компаний Atradius.Мы берем на себя все издержки по обеспечению этой гарантии, Вы должны только зарегистрироваться.	date20100614		
+LangTagTrustedShopsText	eng	As a certified Trusted Shops member, we offer the additional service of the money-back guarantee backed by the Atradius Insurance Group. We cover all costs for the guarantee. You only have to register.	date20060106	
+
+LangTagTrustedShopsSignIn	deu	Anmeldung zur Geld-zuruck-Garantie	date20060106
+LangTagTrustedShopsSignIn	rus	Регистрация к гарантии возврата денег	date20100614	
+LangTagTrustedShopsSignIn	eng	Register for money-back guarantee...	date20060106	
+
+				
+LangTagPrivacy	deu	Datenschutz	date20060107
+LangTagPrivacy	rus	Защита данных	date20100614	
+LangTagPrivacy	eng	Privacy	date20060107	
+
+				
+LangTagUnits	deu	Stk.	date20060109
+LangTagUnits	rus	Штук	date20100614	
+LangTagUnits	eng	units	date20060109	
+
+LangTagFieldValue	deu	Wert	date20060111
+LangTagFieldValue	rus	Стоимость	date20100614	
+LangTagFieldValue	eng	Value	date20060111	
+
+LangTagOrderDate	deu	Bestelldatum	date20060111
+LangTagOrderDate	rus	Дата заказа	date20100614	
+LangTagOrderDate	eng	Order Date	date20060111	
+
+LangTagNoOrder	deu	Es sind keine Bestellungen vorhanden!	date20060111
+LangTagNoOrder	rus	Данные по заказам отсутствуют!	date20100614
+LangTagNoOrder	eng	No order data available.	date20060111	
+
+// BITTE NUR AM ENDE EINFUEGEN !!!				
+LangTagSubscribeNewsletter	deu	Eintragen	date20060111
+LangTagSubscribeNewsletter	rus	Внести	date20100614	
+LangTagSubscribeNewsletter	eng	Subscribe	date20060111	
+
+				
+LangTagUnsubscribeNewsletter	deu	Austragen	date20060111
+LangTagUnsubscribeNewsletter	rus	Исключить	date20100614	
+LangTagUnsubscribeNewsletter	eng	Unsubcribe	date20060111	
+
+				
+LangTagSpecialItemText	deu	Jetzt gunstiger!	date20060112
+LangTagSpecialItemText	rus	Сейчас дешевле!	date20100614	
+LangTagSpecialItemText	eng	Special Offer!	date20060112	
+
+				
+LangTagGSearch	deu	Suchen	date20060116
+LangTagGSearch	rus	Поиск	date20100614
+LangTagGSearch	eng	Search	date20060116	
+
+				
+LangTagTextCustomerDiscount	deu	Kundenrabatt	date20060117
+LangTagTextCustomerDiscount	rus	Клиентская скидка	date20100614
+LangTagTextCustomerDiscount	eng	Customer discount	date20060117	
+
+				
+LangTag__AccountHolder	deu	Kontoinhaber	date20060119
+LangTag__AccountHolder	rus	Владелец счета	date20100614	
+LangTag__AccountHolder	eng	AccountHolder	date20060119	
+
+LangTag__AccountNumber	deu	Kontonummer	date20060119
+LangTag__AccountNumber	rus	Номер счета	date20100614	
+LangTag__AccountNumber	eng	AccountNumber	date20060119	
+
+LangTag__BankCodeNumber	deu	BLZ	date20060119
+LangTag__BankCodeNumber	rus	Код банка	date20100614
+LangTag__BankCodeNumber	eng	BankCode	date20060119	
+
+LangTag__CreditCard	deu	Kreditinstitut	date20060119
+LangTag__CreditCard	rus	Финансовый институт	date20100614	
+LangTag__CreditCard	eng	CreditCardType	date20060119	
+
+LangTag__CreditCardHolder	deu	Kreditkarteninhaber	date20060119
+LangTag__CreditCardHolder	rus	Владелец кредитной карты	date20100614	
+LangTag__CreditCardHolder	eng	CreditCardHolder	date20060119	
+
+LangTag__CreditCardNumber	deu	Kreditkartennummer	date20060119
+LangTag__CreditCardNumber	rus	Номер кредитной карты	date20100614	
+LangTag__CreditCardNumber	eng	CreditCardNumber	date20060119	
+
+LangTag__FieldAddress	deu	Strasse	date20060119	
+LangTag__FieldAddress	rus	Улица	date20100614
+LangTag__FieldAddress	eng	Address	date20060119	
+
+LangTag__FieldAddress2	deu	Adressenzusatz	date20060119
+LangTag__FieldAddress2	rus	Дополнительные сведения	date20100614	
+LangTag__FieldAddress2	eng	Second_Line	date20060119	
+
+LangTag__FieldBuy2Message	deu	Nachricht	date20060119
+LangTag__FieldBuy2Message	rus	Извещение	date20100614	
+LangTag__FieldBuy2Message	eng	Message	date20060119	
+
+LangTag__FieldCashDiscountPercent	deu	Skonto	date20060119
+LangTag__FieldCashDiscountPercent	rus	Скидка	date20100614	
+LangTag__FieldCashDiscountPercent	eng	Discount	date20060119	
+
+LangTag__FieldCity	deu	Ort	date20060119
+LangTag__FieldCity	rus	Населенный пункт	date20100614	
+LangTag__FieldCity	eng	Town_City	date20060119	
+
+LangTag__FieldCompany	deu	Firma	date20060119
+LangTag__FieldCompany	rus	Фирма	date20100614	
+LangTag__FieldCompany	eng	Company	date20060119	
+
+LangTag__FieldCustomerNR	deu	KundenNr	date20060119
+LangTag__FieldCustomerNR	rus	Клиентский Nr	date20100614	
+LangTag__FieldCustomerNR	eng	CustomerNo	date20060119	
+
+LangTag__FieldDelivery	deu	Versandart	date20060119
+LangTag__FieldDelivery	rus	Способ пересылки	date20100614	
+LangTag__FieldDelivery	eng	DeliveryMode	date20060119	
+
+LangTag__FieldEmail	deu	Email	date20060119
+LangTag__FieldEmail	rus	Email	date20100614	
+LangTag__FieldEmail	eng	Email	date20060119	
+
+LangTag__FieldEmailFormat	deu	EmailFormat	date20060119
+LangTag__FieldEmailFormat	rus	Формат электронного письма	date20100614	
+LangTag__FieldEmailFormat	eng	EmailFormat	date20060119	
+
+LangTag__FieldFax	deu	Fax	date20060119
+LangTag__FieldFax	rus	Факс	date20100614	
+LangTag__FieldFax	eng	Fax	date20060119	
+
+LangTag__FieldFirmVATId	deu	UstID	date20060119
+LangTag__FieldFirmVATId	rus	Идентификационный номер налогоплательщика (ИНН)	date20100614	
+LangTag__FieldFirmVATId	eng	TaxNumber	date20060119	
+
+LangTag__FieldFirstName	deu	Vorname	date20060119
+LangTag__FieldFirstName	rus	Имя	date20100614	
+LangTag__FieldFirstName	eng	FirstName	date20060119	
+
+LangTag__FieldFirstNameSender	deu	AbsenderVorname	date20060119
+LangTag__FieldFirstNameSender	rus	Имя отправителя date20100614	
+LangTag__FieldFirstNameSender	eng	FirstNameSender	date20060119	
+
+LangTag__FieldFormToAddress	deu	Anrede	date20060119
+LangTag__FieldFormToAddress	rus	Обращение	date20100614	
+LangTag__FieldFormToAddress	eng	Title	date20060119	
+
+LangTag__FieldImage	deu	Bild	date20060119
+LangTag__FieldImage	rus	Изображение	date20100614	
+LangTag__FieldImage	eng	Image	date20060119	
+
+LangTag__FieldLastName	deu	Nachname	date20060119
+LangTag__FieldLastName	rus	Фамилия	date20100614	
+LangTag__FieldLastName	eng	LastName	date20060119	
+
+LangTag__FieldLastNameSender	deu	AbsenderNachname	date20060119
+LangTag__FieldLastNameSender	rus	Фамилия отправителя	date20100614	
+LangTag__FieldLastNameSender	eng	LastNameSender	date20060119	
+
+LangTag__FieldLocDiscount	deu	Rabatt	date20060119
+LangTag__FieldLocDiscount	rus	Скидка	date20100614	
+LangTag__FieldLocDiscount	eng	Discount	date20060119	
+
+LangTag__FieldLocTotal	deu	Summe	date20060119
+LangTag__FieldLocTotal	rus	Сумма	date20100614	
+LangTag__FieldLocTotal	eng	OrderTotal	date20060119	
+
+LangTag__FieldLongVat	deu	MwSt	date20060119	
+LangTag__FieldLongVat	rus	НДС	date20100614
+LangTag__FieldLongVat	eng	VAT	date20060119	
+
+LangTag__FieldMessage	deu	Nachricht	date20060119
+LangTag__FieldMessage	rus	Сообщение	date20100614	
+LangTag__FieldMessage	eng	Message	date20060119	
+
+LangTag__FieldPayment	deu	Zahlungsart	date20060119
+LangTag__FieldPayment	rus	Способ платежа	date20100614	
+LangTag__FieldPayment	eng	Payment	date20060119	
+
+LangTag__FieldPaymentCharge	deu	Gebuhr	date20060119
+LangTag__FieldPaymentCharge	rus	Сбор	date20100614	
+LangTag__FieldPaymentCharge	eng	Charge	date20060119	
+
+LangTag__FieldPhone	deu	Telefon	date20060119
+LangTag__FieldPhone	rus	Телефон	date20100614	
+LangTag__FieldPhone	eng	Phone	date20060119	
+
+LangTag__FieldPID	deu	Auftragsnummer	date20060119
+LangTag__FieldPID	rus	Номер заказа	date20100614	
+LangTag__FieldPID	eng	Ordernumber	date20060119	
+
+LangTag__FieldPostage	deu	Versandkosten	date20060119
+LangTag__FieldPostage	rus	Стоимость пересылки	date20100614	
+LangTag__FieldPostage	eng	DeliveryCharges	date20060119	
+
+LangTag__FieldQuantity	deu	Menge	date20060119
+LangTag__FieldQuantity	rus	Количество	date20100614	
+LangTag__FieldQuantity	eng	Quantity	date20060119	
+
+LangTag__FieldSender	deu	Absender	date20060119
+LangTag__FieldSender	rus	Отправитель	date20100614	
+LangTag__FieldSender	eng	Sender	date20060119	
+
+LangTag__FieldShippingAddress	deu	Abweichende_Lieferadresse	date20060119
+LangTag__FieldShippingAddress	rus	Дополнительный адрес (куда можно доставить посылку, в случае, если Вас не будет дома)	date20100614
+LangTag__FieldShippingAddress	eng	DeliveryAddress	date20060119	
+
+LangTag__FieldShippingAddress2	deu	ShippingAddress2_	date20060119
+LangTag__FieldShippingAddress2	rus	Второй адрес	date20100614
+LangTag__FieldShippingAddress2	eng	ShippingAddress2_	date20060119
+LangTag__FieldShippingAddress2	eng	ShippingAddress2_	date20060119	
+LangTag__FieldShippingAddress2	eng	ShippingAddress2_	date20060119	
+
+LangTag__FieldShippingAddressArea	deu	Versandgebiet	date20060119
+LangTag__FieldShippingAddressArea	rus	Место назначения	date20100614	
+LangTag__FieldShippingAddressArea	eng	ShippingTo	date20060119	
+
+LangTag__FieldShippingCity	deu	LieferStadt	date20060119
+LangTag__FieldShippingCity	rus	Населенный пункт	date20100614	
+LangTag__FieldShippingCity	eng	DeliveryCity	date20060119	
+
+LangTag__FieldShippingCompany	deu	Lieferfirma	date20060119
+LangTag__FieldShippingCompany	rus	Фирма, осуществляющая доставку	date20100614	
+LangTag__FieldShippingCompany	eng	ShippingCompany	date20060119	
+
+LangTag__FieldShippingFax	deu	Lieferfax	date20060119
+LangTag__FieldShippingFax	rus	Факс	date20100614	
+LangTag__FieldShippingFax	eng	ShippingFax	date20060119	
+
+LangTag__FieldShippingFirstName	deu	LieferVorname	date20060119
+LangTag__FieldShippingFirstName	rus	Имя отправителя	date20100614	
+LangTag__FieldShippingFirstName	eng	DeliveryFirstName	date20060119	
+
+LangTag__FieldShippingFormToAddress	deu	LieferAnrede	date20060119
+LangTag__FieldShippingFormToAddress	rus	Обращение	date20100614	
+LangTag__FieldShippingFormToAddress	eng	ShippingFormToAddress	date20060119	
+
+LangTag__FieldShippingLastName	deu	LieferNachname	date20060119
+LangTag__FieldShippingLastName	rus	Фамилия отправителя	date20100614	
+LangTag__FieldShippingLastName	eng	DeliveryLastName	date20060119	
+
+LangTag__FieldShippingState	deu	Lieferland	date20060119
+LangTag__FieldShippingState	rus	Страна	date20100614	
+LangTag__FieldShippingState	eng	ShippingState	date20060119	
+
+LangTag__FieldShippingStreet	deu	LieferStrasse	date20060119
+LangTag__FieldShippingStreet	rus	Улица	date20100614	
+LangTag__FieldShippingStreet	eng	DeliveryAddress	date20060119	
+
+LangTag__FieldShippingTelefon	deu	LieferTelefon	date20060119
+LangTag__FieldShippingTelefon	rus	Телефон	date20100614	
+LangTag__FieldShippingTelefon	eng	ShippingTelefon	date20060119	
+
+LangTag__FieldShippingZipCode	deu	LieferPLZ	date20060119
+LangTag__FieldShippingZipCode	rus	Почтовый индекс	date20100614	
+LangTag__FieldShippingZipCode	eng	DeliveryPostcode_Zipcode	date20060119	
+
+
+LangTag__FieldBirthday	deu	Geburtsdatum	date20100107
+LangTag__FieldBirthday	rus	Дата рождения	date20100614	
+LangTag__FieldBirthday	eng	Birthdate	date20100107	
+
+
+				
+LangTag__FieldShortVat	deu	MwSt	date20060119
+LangTag__FieldShortVat	rus	НДС	date20100614	
+LangTag__FieldShortVat	eng	VAT	date20060119	
+
+LangTag__FieldState	deu	Land	date20060119
+LangTag__FieldState	rus	Страна	date20100614	
+LangTag__FieldState	eng	Country_State	date20060119	
+
+LangTag__FieldSubTotal	deu	Zwischensumme	date20060119
+LangTag__FieldSubTotal	rus	Промежуточная сумма	date20100614	
+LangTag__FieldSubTotal	eng	Subtotal	date20060119	
+
+LangTag__FieldTextItem	deu	Artikel	date20060119
+LangTag__FieldTextItem	rus	Артикул	date20100614	
+LangTag__FieldTextItem	eng	Items	date20060119	
+
+LangTag__DownloadTxt	deu	Downloadartikel	date20100212
+LangTag__DownloadTxt	rus	Артикул для скачивания	date20100614	
+LangTag__DownloadTxt	eng	Download item	date20100212	
+
+LangTag__FieldTextUnitPrice	deu	Einzelpreis	date20060119
+LangTag__FieldTextUnitPrice	rus	Цена за единицу товара	date20100614	
+LangTag__FieldTextUnitPrice	eng	UnitPrice	date20060119	
+
+LangTag__FieldTotalAmount	deu	Rechnungsbetrag	date20060119
+LangTag__FieldTotalAmount	rus	Счет-фактура 	date20100614	
+LangTag__FieldTotalAmount	eng	Invoice_total	date20060119	
+
+LangTag__FieldTotalPrice	deu	Gesamtpreis	date20060119
+LangTag__FieldTotalPrice	rus	Общая стоимость	date20100614	
+LangTag__FieldTotalPrice	eng	TotalPrice	date20060119	
+
+LangTag__FieldValue	deu	Wert	date20060119
+LangTag__FieldValue	rus	Ценность date20100614	
+LangTag__FieldValue	eng	value	date20060119	
+
+LangTag__FieldZipCode	deu	PLZ	date20060119
+LangTag__FieldZipCode	rus	Почтовый индекс	date20100614	
+LangTag__FieldZipCode	eng	Postcode_Zipcode	date20060119	
+
+LangTag__FinancialInstitution	deu	Geldinstitut	date20060119
+LangTag__FinancialInstitution	rus     Название финансового учереждения		date20100614
+LangTag__FinancialInstitution	eng	FinancialInstitution	date20060119	
+
+LangTag__IclearDiscount	deu	Rabatt	date20060119
+LangTag__IclearDiscount	rus	Скидка	date20100614	
+LangTag__IclearDiscount	eng	Discount	date20060119	
+
+LangTag__IclearPostage	deu	Versandkosten	date20060119
+LangTag__IclearPostage	rus	Стоимость пересылки	date20100614	
+LangTag__IclearPostage	eng	DeliveryCharges	date20060119	
+
+LangTag__IssueNumber	deu	Pruefnummer	date20060119
+LangTag__IssueNumber	rus	CVV2 (Card Verification Value 2) — трёхзначный или четырёхзначный код проверки подлинности карты платёжной системы Visa.	date20100614	
+LangTag__IssueNumber	eng	IssueNumber_SwitchSolo	date20060119	
+
+LangTag__IssueNumber	spa	Numero	date20060119	
+LangTag__MonthExpirationDate	deu	GueltigkeitMonat	date20060119
+LangTag__MonthExpirationDate	rus	Месяц истечения срока действия	date20100614	
+LangTag__MonthExpirationDate	eng	ExpirationDateMonth	date20060119	
+
+LangTag__SecurityCode	deu	ZweitePruefnummer	date20060119
+LangTag__SecurityCode	rus	CVV2 (Card Verification Value 2)— трёхзначный или четырёхзначный код проверки подлинности карты платёжной системы Visa.	date20100614	
+LangTag__SecurityCode	eng	SecurityCode	date20060119	
+
+LangTag__SubTotal	deu	Zwischensumme	date20060119
+LangTag__SubTotal	rus	Промежуточная сумма	date20100614	
+LangTag__SubTotal	eng	Subtotal	date20060119	
+
+LangTag__TermsAndCond	deu	AGB	date20060119
+LangTag__TermsAndCond	rus	Условия	date20100614	
+LangTag__TermsAndCond	eng	Conditions	date20060119	
+
+LangTag__TotalAmount	deu	Rechnungsbetrag	date20060119
+LangTag__TotalAmount	rus	Счет-фактура	date20100614 	
+LangTag__TotalAmount	eng	Invoice_total	date20060119	
+
+LangTag__YearExpirationDate	deu	GueltigkeitJahr	date20060119
+LangTag__YearExpirationDate	rus	Год окончания срока действия кредитной карты	date20100614
+LangTag__YearExpirationDate	eng	ExpirationDateYear	date20060119	
+
+				
+				
+LangTagAvailability	deu	Verfugbarkeit	date20060125
+LangTagAvailability	rus	Доступность	date20100614	
+LangTagAvailability	eng	Availability	date20060125	
+
+				
+LangTagFNFieldShopURL	deu	Onlineshop	date20060126
+LangTagFNFieldShopURL	rus	Online-магазин	date20100614	
+LangTagFNFieldShopURL	eng	Onlineshop	date20060126	
+
+				
+LangTag__FieldShopURL	deu	Onlineshop	date20060126
+LangTag__FieldShopURL	rus	Online-магазин	date20100614	
+LangTag__FieldShopURL	eng	Online shop	date20060126	
+
+				
+LangTagStartOnlineShop	deu	Zum Shop	date20060215
+LangTagStartOnlineShop	rus	В магазин!	date20100614	
+LangTagStartOnlineShop	eng	online shop	date20060215	
+
+				
+DefaultAnswerCustomerInfos	deu	Wichtige Kundeninformationen:<br /><br />-----------------------<br />1. Geltungsbereich<br />-----------------------<br /><br />Fur alle Lieferungen von DemoShop e.K. (nachfolgend: DemoShop) an Verbraucher (§ 13 BGB) gelten diese Allgemeinen Geschaftsbedingungen (AGB).<br />... <br />2.<br />3.	date20060302
+DefaultAnswerCustomerInfos	rus	Важная информация для клиента:<br /><br />-----------------------<br />1. Применимое право и юрисдикция<br />-----------------------<br /><br />Для всех поставок Демонстрационной версии для конечного потребителя действуют следующие правовые условия.<br />... <br />2.<br />3.	date20060302	
+DefaultAnswerCustomerInfos	eng	Important informations:<br /><br />-----------------------<br />1. Governing law and jurisdiction<br />-----------------------<br /><br />....<br />.... <br />2.<br />3.	date20060302	
+
+DefaultAnswerGreetingText	deu	Herzlichen Dank fur Ihre Bestellung beim Papierflieger Shop und vielen Dank fur Ihr Interesse an der GS ShopBuilder Produktfamilie. Mit dieser Email ist der Kaufvertrag zustande gekommen.<p>Bitte kontrollieren Sie nochmals, ob alle Angaben korrekt sind und teilen uns gegebenenfalls Anderungswunsche mit.<p>Bitte beachten Sie ebenfalls unsere Allgemeinen Geschaftsbedingungen mit der Widerrufsbelehrung.	date20060302
+DefaultAnswerGreetingText	rus	Большое спасобо за заказ в магазине "Бумажный самолетик" и за инетерес, проявленный к продуктам семейства GS ShopBuilder. Этот Email подтверждает поступление заказа.<p>Пожалуйста, проконтролируйте еще раз внесённые Вами данные, в противном случае, сообщите о необходимых изменениях.<p>Обратите также внимание на юридические условия заключения и аннулирования договора.	date20100614		
+DefaultAnswerGreetingText	eng	Herzlichen Dank fur Ihre Bestellung beim Papierflieger Shop und vielen Dank fur Ihr Interesse an der GS ShopBuilder Produktfamilie. Mit dieser Email ist der Kaufvertrag zustande gekommen.<p>Bitte kontrollieren Sie nochmals, ob alle Angaben korrekt sind und teilen uns gegebenenfalls Anderungswunsche mit.<p>Bitte beachten Sie ebenfalls unsere Allgemeinen Geschaftsbedingungen mit der Widerrufsbelehrung.	date20060302	
+
+				
+DefaultAnswerProvider	deu	-----------<br />Anbieter:<br />-----------<br /><br />Firma: ...<br />Inhaber: ...<br />Strasse: ...<br />Ort: ....<br />Telefon: +49-123-123456<br />Email: ...<br /><br />Bitte geben Sie hier auch Ihre Bankverbindung an.<br /><br />	date20060302
+DefaultAnswerProvider	rus	-----------<br />Продавец:<br />-----------<br /><br />Фирма: ...<br />Владелец: ...<br />Улица: ...<br />Населенный пункт: ....<br />Телефон: +49-123-123456<br />Email: ...<br /><br />Пожалуйста, внесите Ваши банковские данные.<br /><br />	date20100614		
+DefaultAnswerProvider	eng	-----------<br />Shop provider:<br />-----------<br /><br />Company: ...<br />CEO: ...<br />Street: ...<br />City: ....<br />Phone: +49-123-123456<br />Email: ...<br /><br />Please do not forget... .<br /><br />	date20060302	
+
+			date20060302	
+			date20060302	
+DefaultLoginDataEmailText1	deu	Es freut uns Sie als Kunden in unserem Shop begru?en zu durfen. Mit dieser Email erhalten Sie ihre Logindaten fur unseren Kundenbereich.	date20060302
+DefaultLoginDataEmailText1	rus	Мы рады приветствовать Вас в качестве клиента нашего магазина. В этом электронном письме вы найдете данные для входа (login) в Ваш аккаунт.	date20100614		
+DefaultLoginDataEmailText1	eng	We are pleased to welcome you as a customer in our store. With this email you will receive your login data for our client area.	date20060302	
+
+			date20060302	
+DefaultLoginDataEmailText2	deu	Im Kundenbereich konnen Sie sich Ihre Bestellungen ansehen oder Ihre Benutzerdaten einsehen und andern. Mit freundlichen Grussen	date20060302
+DefaultLoginDataEmailText2	rus	В клиентском разделе Вы можете ознакомиться с состоянием Вашего заказа, просмотреть и внести изменения в свои данные	date20100614	
+DefaultLoginDataEmailText2	eng	You may view your order in the customer database or modify your contact data. <br /> Best regards, <br /> http://www.shopcity24.de	date20060302	
+
+				
+DefaultTextAfterRequest	deu	Vielen Dank fur Ihre Anfrage...	date20060302
+DefaultTextAfterRequest	rus	Большое спасибо за ваш запрос...	date20060302	
+DefaultTextAfterRequest	eng	Thank you for your request	date20060302	
+
+				
+DefaultTextBeforeOrderData	deu	Bitte uberprufen Sie Ihre Eingaben. Sie konnen diese durch Klicken uber den entsprechenden Button korrigieren. Wenn alle Eingaben richtig sind, klicken Sie auf "Bestellung abschicken".	date20060302
+DefaultTextBeforeOrderData	rus	Пожалуйста, проверьте внесенные Вами данные. Вы можете внести изменения с помощью щелчка по соответствующей кнопке. Если все данные внесены правильно, щелкните по кнопке "Отправить заказ".	date20100614	
+DefaultTextBeforeOrderData	eng	Please check your data. After you have completed the order please click the button to send it...	date20060302	
+				
+DefaultTextOrderFormular	deu	<b>2. Bitte fullen Sie das folgende Bestellformular aus (*Felder bitte unbedingt angeben) und klicken Sie den ''Bestellung fortsetzen' Knopf. </b><br /><br /><br />Vor dem Absenden der Bestellung sehen Sie noch einmal die von Ihnen eingegebenen Daten und haben die Moglichkeit, diese durch Anklicken des entsprechenden Buttons zu korrigieren. Den Bestellvorgang konnen Sie jederzeit durch Schlie?en des Browser-Fensters abbrechen oder durch Anklicken des Buttons 'Bestellung abschicken' abschlie?en.	date20060302
+DefaultTextOrderFormular	rus	<b>2. Пожалуйста, заполните формуляр заказа (Поля, обозначенные * к заполнению обязательны) и щелкните по кнопке "Продолжить заказ". </b><br /><br /><br />Перед тем, как отправить заказ, ещё раз убедитесь в правильности внесённых данных. Вы можете в любой момент прервать заказ закрыв окно или продолжить его, щелкнув по кнопке "Отправить заказ".	date20100614	
+DefaultTextOrderFormular	eng	Please fill out the Order form below (* fields indicate required) and click "continue the Order"button. </ B> <br /> <br /> Before submitting the order you?ll see again the data you enter again  and have the opportunity to correct this by clicking the appropriate button. You can cancel the ordering process  at any time by closing the browser window or by clicking the button 'send complete order'.	date20060302	
+	date20060302	
+				
+				
+DefaultAnswerSubject	deu	Ihre Bestellung im Demoshop	date20060302
+DefaultAnswerSubject	rus	Ваш заказ в демо-магазине	date20100614	
+DefaultAnswerSubject	eng	Your order in demoshop	date20060302	
+
+				
+DefaultAnswerSubjectTellAFriend	deu	Artikelempfehlung	date20060302
+DefaultAnswerSubjectTellAFriend	rus	Расскажи другу	date20100614	
+DefaultAnswerSubjectTellAFriend	eng	Tell a friend subject	date20060302	
+
+				
+LangTagDefaultAnswerSubjectRequiry	deu	Bitte informieren Sie mich uber den Artikel	date20100224
+LangTagDefaultAnswerSubjectRequiry	rus	Пожалуйста, вышлите мне информацию об этом товаре	date20100614	
+LangTagDefaultAnswerSubjectRequiry	eng	Please inform me about this article	date20100224	
+
+				
+				
+DefaultAnswerTextEnd	deu	Mit freundlichem Gruss,	date20060302
+DefaultAnswerTextEnd	rus	С уважением,	date20100614	
+DefaultAnswerTextEnd	eng	Best regards,	date20060302	
+
+				
+DefaultAnswerTextTellAFriend	deu	Sie haben eine Artikelempfehlung erhalten.	date20060302
+DefaultAnswerTextTellAFriend	rus	Вы получили совет, посмотреть этот продукт.	date20100614	
+DefaultAnswerTextTellAFriend	eng	You have received a Recommendation.	date20060302	
+
+				
+DefaultBasket	deu	Die folgenden Artikel haben Sie fur Ihre Bestellung ausgewahlt. Sie konnen die Stuckzahlen uberschreiben und durch Anklicken des grunen Hakchens den Warenkorb aktualisieren, oder Sie konnen den Artikel aus der Liste entfernen. 	date20060302	
+DefaultBasket	rus	Вы выбрали для заказа следующие товары. Вы можете изменить количество и щелкнув на зеленую птичку, актуализировать содержимое Вашей корзины, Вы также можете удалить этот артикул. 	date20100614
+DefaultBasket	eng	You have selected the following articles  for your order. You can change the amount and update you basket by clicking the green tick, or  you can remove items from the list.	date20060302	
+
+				
+DefaultBuyText	deu	<b>Versand / Lieferung</b><br /><br />Die Lieferung erfolgt nur innerhalb Deutschlands.<br /><br />Die Lieferzeit betragt im Regelfall 3 Werktage. Auf evtl. abweichende Lieferzeiten weisen wir auf der jeweiligen Produktseite hin..<br /><br /><hr>.<br /><br /><b>Zahlungsarten</b>.<br /><br />....	date20060302
+DefaultBuyText	rus	<b>Пересылка / Доставка</b><br /><br />Доставка возможна только внутри России.<br /><br />Время доставки составляет примерно ... рабочих дней. В случае возможных сложностей с доставкой, мы указываем на это на странице с описанием продукта..<br /><br /><hr>.<br /><br /><b>Способы платежа</b>.<br /><br />....	date20100614		
+DefauDefaultBuyText eng <b> Shipping / Delivery </ b> <br /> Delivery is only within Germany. <br /> Delivery time is normally three working days. On any different delivery times, we point to the product page.. <br /> <hr>. <br /> <b> Payment </ b>. <br /> .... date20060302	
+
+				
+DefaultTermsAndCond	deu	<i class=red>Beispielhafte AGB mit wichtigen Kundeninformationen. Please adjust the terms of your own needs.</i>	date20060302
+DefaultTermsAndCond	rus	<i class=red>Примерные юридические условия сделки, содержащие важную для клиента информацию. Пожалуйста, внесите необходимые Вам условия.</i>	date20100614	
+DefaultTermsAndCond	eng	<i class=red>Examples of terms with important customer information. Please adapt the terms to your own needs.	date20060302	
+
+				
+DefaultTermsAndCondAccept	deu	Ich habe die AGB gelesen und akzeptiert.	date20060302
+DefaultTermsAndCondAccept	rus	С условиями договора ознакомлен и согласен.	date20100614	
+DefaultTermsAndCondAccept	eng	I aggree with the terms and conditions.	date20060302	
+
+				
+DefaultSwallow	deu	Die Silberschwalbe ist der ganze Stolz unserer Modellreihe A 2000 und imitiert tauschend echt das Flugverhalten einer richtigen Schwalbe.	date20060302
+DefaultSwallow	rus	Серебрянная ласточка - гордость серии A 2000, удивительно точно имитирует поведение в полете настоящей ласточки.	date20100614
+DefaultSwallow	eng	The silver swallow is the pride of our Series A 2000 and imitate deceptively flight behavior of a real swallow.	date20060302		
+
+DefaultMississipi	deu	Diese handgefertigte detailgetreue Abbildung eines original Mississippi-Raddampfers sollte der Stolz jeder Papiermodelsammlung sein.	date20060302
+DefaultMississipi	rus	Это доработанное вручную  детальное изображение парохода с реки Миссиссиппи будет являтся гордостью любой коллекции.	date20100614
+DefaultMississipi	eng	This hand-ьфву detailed picture of a original  Mississippi paddle steamer should be the pride of every paper model collection.	date20060302	
+
+				
+DefaultHelicopter	deu	Filigrane Feinstarbeit zeichnet die Bauweise des XR-2i aus und verleiht ihm ein Flugverhalten von unglaublicher Stabilitat.	date20060302
+DefaultHelicopter	rus	Филигранная работа выделяет голубой вертолет XR-2i и придает ему удивительну стабильность при полете.	date20100614	
+DefaultHelicopter	eng	Very fine work distinguishes the design of the XR-2i and gives him a flight behavior of incredible stability. date20060302	date20060302	
+
+				
+LangTagSort	deu	Sortierung	date20060315
+LangTagSort	rus	Сортировать	date20100614		
+LangTagSort	eng	Sort	date20060315	
+
+				
+LangTagCreditCardData	deu	Kreditkartendaten	date20060412
+LangTagCreditCardData	rus	Данные кредитной карты	date20100614	
+LangTagCreditCardData	eng	Credit card data	date20060412	
+
+				
+LangTagFieldPaymentCost	deu	Zahlungskosten	date20060418
+LangTagFieldPaymentCost	rus	Стоимоть оплаты	date20100614	
+LangTagFieldPaymentCost	eng	Costs of payment	date20060418	
+
+				
+LangTagFinalAmount	deu	Endbetrag	date20060418
+LangTagFinalAmount	rus	Конечная сумма	date20100614	
+LangTagFinalAmount	eng	Final amount	date20060418	
+
+				
+LangTagPos	deu	Pos.	date20060418
+LangTagPos	rus	Поз.	date20100614		
+LangTagPos	eng	Pos.	date20060418	
+
+				
+LangTagTotal	deu	Gesamt	date20060418
+LangTagTotal	rus	Всего	date20060302		
+LangTagTotal	eng	Total	date20060418	
+
+				
+LangTagTxShipmentConditions	deu	Lieferbedingungen	Date20060514
+LangTagTxShipmentConditions	rus	Условия доставки	date20100614	
+LangTagTxShipmentConditions	eng	Conditions of delivery	Date20060514	
+
+				
+LangTagTxDeliveryMode	deu	Versandart	Date20060515
+LangTagTxDeliveryMode	rus	Вид доставки	date20100614	
+LangTagTxDeliveryMode	eng	Delivery Mode	Date20060515	
+
+				
+				
+DefaultPaynovaContractText	deu	Vielen Dank fur Ihre Bezahlung mit Kreditkarte	Date20060515
+DefaultPaynovaContractText	rus	Благодарим за оплату	date20100614	
+DefaultPaynovaContractText	eng	Specification of the purchase. Text will be shown in payment confirmation email to customer.	Date20060515	
+
+				
+LangTagPaynovaContractText	deu	Vielen Dank fur Ihre Bezahlung mit Kreditkarte	Date20060515
+LangTagPaynovaContractText	rus	Благодарим за оплату	date20100614	
+LangTagPaynovaContractText	eng	Specification of the purchase. Text will be shown in payment confirmation email to customer.	Date20060515	
+
+				
+LangTagTextFailed	deu	Fehler	date20060516
+LangTagTextFailed	rus	Ошибка	date20100614	
+LangTagTextFailed	eng	Failure	date20060516	
+
+				
+LangTagFNFieldAvail	deu	Vеrfugbarkeit	date20060526
+LangTagFNFieldAvail	rus	Доступность	date20100614
+LangTagFNFieldAvail	eng	Availability	date20060526	
+
+				
+LangTagFNFieldVat	deu	MwSt	date20060526
+LangTagFNFieldVat	rus	НДС	date20100614	
+LangTagFNFieldVat	eng	VAT	date20060526	
+
+				
+LangTagOrderForm	deu	Bestellformular	date20060526
+LangTagOrderForm	rus	Формуляр заказа	date20100614	
+LangTagOrderForm	eng	Order Form	date20060526	
+
+				
+LangTagTextFailedPaynova	deu	Bei der Bezahlung uber Kreditkarte ist ein Fehler aufgetreten.<br />Wahlen Sie bitte eine andere Zahlungsart.	date20060531	
+LangTagTextFailedPaynova	rus	Ошибка при оплате с помощью кредитной карты.<br />Выберите, пожалуйста, другой вид оплаты.	date20100614
+LangTagTextFailedPaynova	eng	Payment with credit card failed	date20060531	
+
+				
+x		{PaynovaFailedText}
+Wir bedauern, es konnte keine Verbindung zum Server unseres Zahlungsanbieters zur Abwicklung der gesicherten Kreditkartenzahlung aufgebaut werden. Ihre Bestellung haben wir erfolgreich erhalten. Wir werden uns bezuglich der Zahlungsmoglichkeiten Ihrer Bestellung mit Ihnen in Verbindung setzen.		
+DefaultPaynovaFailedText	deu	Wir bedauern, es konnte keine Verbindung zum Server unseres Zahlungsanbieters zur Abwicklung der gesicherten Kreditkartenzahlung aufgebaut werden. Bitte wahlen Sie eine alternative Zahlungsvariante aus.	Date20060601	
+DefaultPaynovaFailedText	rus	К сожалению, из-за отсутствия соединения с сервером поставщика финансовых услуг, оплата по данной карте не возможна. Пожалуйста, выберите альтернативный вид оплаты.	date20100614	
+DefaultPaynovaFailedText	eng	Credit card paiement is not available for  now. Please contact us to process your order.	Date20060601	
+
+				
+LangTagBackToCash	deu	Zuruck zur Auswahl der Zahlungsvariante	date20060606
+LangTagBackToCash	rus	Возврат к выбору вариантов оплаты	date20100614	
+LangTagBackToCash	eng	back to cash 	date20060606	
+
+				
+HelpParameter	deu	Die Daten konnten nicht angezeigt werden,<br />mogliche Ursachen hierfur sind:<br />1. Sie haben den Shop noch nicht veroffentlicht.<br />2. Die dynamischen Erweiterungen sind nicht eingeschaltet.<br />3. Die Software zum Shop im Internet hat eine falsche Versionsnummer.<br />4. Die URL zum Shop ist falsch.<br />(http://www.shopcity24.de/)<br />5. Die Datenbank zum Shop im Internet ist fehlerhaft.<br />...	date20060606
+HelpParameter	rus	Данные недоступны,<br />возможные причины:<br />1. Ваш магазин еще не опубликован.<br />2. Не включены динамические расширения.<br />3.Программный продукт к магазину в Интенете имеет неправильный версионный номер.<br />4.Неправильный URL магазина.<br />(http://www.shopcity24.de/)<br />5. Ошибочная база данных в интернете.<br />...	date20100614		
+HelpParameter	eng	Database is not available,<br />possible reasons are:<br />1. Your shop is not online.<br />2. Dynamic extensions are off (settings)<br />3. Shop online and software have different versions<br />4. URL of the shop is wrong (http://www.shopcity24.de)<br />5. The database is corrupt.<br />...	date20060606	
+
+				
+HelpDeeplinksBrowser	deu	Um die Deeplink-Funktionalitat nutzen zu konnen, mussen Sie zunachst Ihren Onlineshop erzeugen. Hierzu ist auch das lokale Erzeugen des Onlineshops auf Ihrer Festplatte ausreichend. Wenn Sie nach dem letzten Erzeugen des Onlineshops weitere Anderungen an Ihrem Datenbestand vorgenommen haben, so mussen Sie diesen Vorgang wiederholen, um aktuelle Deeplink-Dateien zu generieren.	date20060606
+HelpDeeplinksBrowser	rus	Для того, чтобы использовать  функцию Deeplink Вы должны сначала создать свой интернет-магазин. Для этого достаточно создать магазин на Вашем компьютере. Если после создания магазина были внесены какие-либо изменения в базу данных, Вы должны повторить эту операцию, чтобы генерировать актуальные  Deeplink-файлы.	date20100614	
+HelpDeeplinksBrowser	eng	Please publish your shop before you use deeplinks. If you modify your items, please generate the shop once more before you use the deeplinks again.	date20060606	
+
+				
+LangTagTextSSLFailedPaynova	deu	Ihre Bestellung wurde erfolgreich ausgefuhrt. Bei der Bezahlung uber Kreditkarte ist jedoch ein Fehler aufgetreten. Der Shopbetreiber wird sich mit Ihnen in Verbindung setzen.	date20060817
+LangTagTextSSLFailedPaynova	rus	Ваш заказ успешно выполнен. Однако при оплате с помощью кредитной карты произошла ошибка. Владелец магазина свяжется с Вами.	date20100614		
+LangTagTextSSLFailedPaynova	eng	Please contact the merchant (onlineshop). Creditcard payment is missing.	date20060817	
+				
+LangTagDirectOrder	deu	Direkt-Bestellung	date20060905
+LangTagDirectOrder	rus	Прямой заказ	date20100614
+LangTagDirectOrder	eng	Direct order	date20060905
+
+LangTagDirektOrderText	deu	Hier konnen Sie Ihre Wunschartikel direkt uber die Artikelnummer in den Warenkorb legen.	date20060905 
+LangTagDirektOrderText	rus	Здесь Вы можете положить товар в корзину в соответствии с номером артикула.	date20100614
+LangTagDirektOrderText	eng	Here you can put your desired items directly on the article in the basket. 	date20060905
+
+LangTagItemNumberLong	deu	Artikelnummer	date20060905
+LangTagItemNumberLong	rus	Номер артикула	date20100614
+LangTagItemNumberLong	eng	Item number	date20060905
+
+LangTagQtyMissing	deu	Menge fehlt	date20060906
+LangTagQtyMissing	rus	Количество не достаточно	date20100614
+LangTagQtyMissing	eng	Quantity missing	date20060906
+
+LangTagArticleNotFound	deu	Folgende Artikel wurden nicht gefunden	date20060907
+LangTagArticleNotFound	rus	Следующие артикулы не найдены	date20100614
+LangTagArticleNotFound	eng	Article not found	date20060907
+
+LangTagNotepad	deu	Merkzettel	date20060918
+LangTagNotepad	rus	Заметки	date20100614
+LangTagNotepad	eng	Notepad	date20060918
+
+LangTagNotepadText	deu	<b>Hinweis:</b> Nicht mehr gefuhrte Artikel werden automatisch von ihrem Merkzettel entfernt.	date20060918
+LangTagNotepadText	rus	<b>Примечание:</b> Ненайденные артикулы будут автоматически удалены из корзины.	date20100614
+LangTagNotepadText	eng	<b>Hinweis:</b> Nicht mehr gefuhrte Artikel werden automatisch von ihrem Merkzettel entfernt.	date20060918
+
+LangTagDelete	deu	Loschen	date20060918
+LangTagDelete	rus	Удалить	date20100614
+LangTagDelete	eng	Delete	date20060918
+
+LangTagQuestionNotepadDelete	deu	Mochten Sie die Artikel wirklich loschen?	date20060919
+LangTagQuestionNotepadDelete	rus	Вы действительно хотите убрать этот артикул?	date20100614
+LangTagQuestionNotepadDelete	eng	Do You really want to delete the articles?	date20060919
+
+LangTagNoArticlesOnNotepad	deu	Es sind keine Artikel auf Ihrem Merkzettel!	date20060919
+LangTagNoArticlesOnNotepad	rus	В Вашей записке для памяти нет ни одного артикула!	date20100614	
+LangTagNoArticlesOnNotepad	eng	There no articles on your notepad!	date20060919
+
+LangTagNote	deu	Merken	date20060919
+LangTagNote	rus	На заметку	date20100614
+LangTagNote	eng	Note	date20060919
+
+LangTagOwnWishList	deu	eigene Wunschliste	date20100614
+LangTagOwnWishList	rus	Пожелания	date20100614
+LangTagOwnWishList	eng	own wish list	date20060921
+
+LangTagSearchWishList	deu	Wunschzettel suchen	date20060921
+LangTagSearchWishList	rus	Найти листок пожеланий	date20100614
+LangTagSearchWishList	eng	Search wish list	date20060921
+
+LangTagNameOrEmail	deu	Name oder E-Mail-Adresse	date20060921
+LangTagNameOrEmail	rus	Имя или E-Mail	date20100614
+LangTagNameOrEmail	eng	Name or E-Mail-Address	date20060921
+
+LangTagWishList	deu	Wunschliste	date20060921
+LangTagWishList	rus	Пожелания	date20100614
+LangTagWishList	eng	wish list	date20060921
+
+LangTagWishListText	deu	<b>Hinweis:</b> Nicht mehr gefuhrte Artikel werden automatisch aus der Wunschliste entfernt.	date20060921
+LangTagWishListText	rus	<b>Примечание:</b> Не найденные артикулы будут автоматически удалены из корзины.date20100614
+LangTagWishListText	eng	<b>Hinweis:</b> Nicht mehr gefuhrte Artikel werden automatisch aus der Wunschliste entfernt.	date20060921
+
+LangTagNoArticlesInWishList	deu	Es sind keine Artikel in der Wunschliste!	date20060921
+LangTagNoArticlesInWishList	rus	Нет ни одного артикула	date20100614
+LangTagNoArticlesInWishList	eng	There no articles on the wish list!	date20060921
+
+LangTagMoveToWishList	deu	auf meine Wunschliste	date20060921
+LangTagMoveToWishList	rus	Мои пожелания	date20100614
+LangTagMoveToWishList	eng	to my wish list	date20060921
+
+LangTagCustomer	deu	Kunde	date20060921
+LangTagCustomer	rus	Клиент	date20100614
+LangTagCustomer	eng	Customer	date20060921
+
+LangTagSearchResultFor	deu	Suchergebnisse fur	date20060926
+LangTagSearchResultFor	rus	Результаты поисков для	date20100614
+LangTagSearchResultFor	eng	Search result for	date20060926
+
+LangTagMatches	deu	Treffer	date20060926
+LangTagMatches	rus	найдено	date20100614
+LangTagMatches	eng	matches	date20060926
+
+LangTagToWishList	deu	Zur Wunschliste	date20060926
+LangTagToWishList	rus	К моим пожеланиям	date20100614
+LangTagToWishList	eng	to wish list	date20060926
+
+LangTagFAQs	deu	FAQ's	date20060927
+LangTagFAQs	rus	FAQ's	date20100614
+LangTagFAQs	eng	FAQ's	date20060927
+
+LangTagFaqText	deu	Haufig gestellte Fragen	date20060926
+LangTagFaqText	rus	Наиболее часто встречающиеся вопросы	date20100614
+LangTagFaqText	eng	Frequently Asked Questions	date20060926
+
+LangTagFunktionDisabled	deu	Diese Funktion ist deaktiviert	date20061110
+LangTagFunktionDisabled	rus	Эта функция деактивирована	date20100614
+LangTagFunktionDisabled	eng	This funktion is disabled	date20061110
+
+LangTagFieldDhlTrackingNumber	deu	DHL	Tracking-Nummer	date20061116
+LangTagFieldDhlTrackingNumber	rus	DHL	Tracking- номер	date20100614
+LangTagFieldDhlTrackingNumber	eng	DHL	tracking-number	date20061116
+
+LangTagFieldTrackOrder	deu	Sendung verfolgen	date20061116
+LangTagFieldTrackOrder	rus	Проследить почтовое отправление	date20100614
+LangTagFieldTrackOrder	eng	track order	date20061116
+
+LangTagWeightFrom	deu	Gewicht ab	date20061122
+LangTagWeightFrom	rus	Вес от	date20100614
+LangTagWeightFrom	eng	Weight from	date20061122
+
+LangTagFromAmount	deu	ab Warenwert	date20061122
+LangTagFromAmount	rus	от стоимости товара	date20100614
+LangTagFromAmount	eng	from amount	date20061122
+
+LangTagFindCheaper	deu	Billiger gesehen	date20061123
+LangTagFindCheaper	rus	Видел дешевле	date20100614
+LangTagFindCheaper	eng	Find cheaper	date20061123
+
+LangTagShop	deu	Shop	date20061124
+LangTagShop	rus	Магазин	date20100614
+LangTagShop	eng	Shop	date20061124
+
+LangTagTrustedShopsTitle	deu	Sicher Einkaufen mit Trusted Shops	date20070110
+LangTagTrustedShopsTitle	rus	Покупать безопасно в системе магазинов Trusted Shops	date20100614
+LangTagTrustedShopsTitle	eng	Secure shopping with Trusted Shops	date20070110
+
+LangTagTextChooseMailgroup	deu	Bitte w&auml;hlen Sie eine Mailgruppe aus	date20080118
+LangTagTextChooseMailgroup	rus	Пожалуйста, выберите группу электронных писем	date20100614
+LangTagTextChooseMailgroup	eng	Please choose a Mailgroup	date20080118
+LangTagTextAddressConfirmed	deu	Die Email-Adresse wurde best&auml;tigt	date20080118
+LangTagTextAddressConfirmed	rus	Электронный адрес подтвержден	date20100614
+LangTagTextAddressConfirmed	deu	Die Email-Adresse wurde best&auml;tigt	date20080118
+LangTagTextAddressConfirmed	eng	The email address has been confirmed	date20080118
+LangTagTextSignedIn	deu	Adresse wurde erfolgreich eingetragen	date20080118
+LangTagTextSignedIn	rus	Электронный адрес успешно зарегистрирован	date20100614
+LangTagTextSignedIn	eng	Address has been registered successfully	date20080118
+LangTagTextSignOut	deu	Adresse wurde erfolgreich ausgetragen	date20080118
+LangTagTextSignOut	rus	Электронный адрес успешно удален	date20100614
+LangTagTextSignOut	eng	Address has been deleted successfully	date20080118
+LangTagTextSignOutFailed	deu	Fehler Adresse konnte nicht gefunden werden	date20080813
+LangTagTextSignOutFailed	rus	Ошибка. Адрес не найден	date20100614
+LangTagTextSignOutFailed	eng	Failure Address not found	date20080813
+LangTagActivate	deu	Aktivieren	date20080118
+LangTagActivate	rus	Активировать	date20100614
+LangTagActivate	eng	Activate	date20080118
+LangTagFormat	deu	Format	date20080118
+LangTagFormat	rus	Формат	date20100614
+LangTagFormat	eng	Format	date20080118
+LangTagActivationCode	deu	Aktivierungscode	date20080118
+LangTagActivationCode	rus	Код для активирования	date20100614
+LangTagActivationCode	eng	Activation code	date20080118
+LangTagTextAddressActivated	deu	Ihre Emailadresse wurde erfolgreich fur unseren Newsletter aktiviert!	date20080118
+LangTagTextAddressActivated	rus	Ваш электронный адрес успешно активирован для серийной рассылки!	date20100614
+LangTagTextAddressActivated	eng	Your email address has been successfully activated for our newsletter!	date20080118
+LangTagMailingGroup	deu	Gruppe	date20080813
+LangTagMailingGroup	rus	Группа	date20100614
+LangTagMailingGroup	eng	Group	date20080813
+
+LangTagTextUserComments	deu	Bewertungen und Kommentare	date20090112
+LangTagTextUserComments	rus	Оценки и комментарии	date20100614
+LangTagTextUserComments	eng	Ratings and comments	date20090112
+LangTagTextUserCommentsAdd	deu	Bewertung hinzuf&uuml;gen	date20090112
+LangTagTextUserCommentsAdd	rus	Добавить оценки	date20100614
+LangTagTextUserCommentsAdd	eng	Add rating	date20090112
+LangTagTextUserCommentsRating	deu	Bewertung	date20090112
+LangTagTextUserCommentsRating	rus	Оценка	date20100614
+LangTagTextUserCommentsRating	eng	Rating	date20090112
+LangTagTextUserCommentsSubject	deu	&Uuml;berschrift	date20090112
+LangTagTextUserCommentsSubject	rus	Заголовок	date20100614
+LangTagTextUserCommentsSubject	eng	Subject	date20090112
+LangTagTextUserCommentsText	deu	Text	date20090112
+LangTagTextUserCommentsText	rus	Текст	date20100614
+LangTagTextUserCommentsText	eng	Text	date20090112
+LangTagTextMyComments	deu	eigene Bewertungen	date20090112
+LangTagTextMyComments	rus	моя оценка	date20100614
+LangTagTextMyComments	eng	My Ratings	date20090112
+LangTagTextRateShop	deu	Shop bewerten	date20090112
+LangTagTextRateShop	rus	Оценить работу магазина	date20100614
+LangTagTextRateShop	eng	Rate shop	date20090112
+LangTagTextMyShopComments	deu	eig. Shopbewertungen	date20090112
+LangTagTextMyShopComments	rus	Моя оценка работы магазина	date20100614
+LangTagTextMyShopComments	eng	My Ratings	date20090112
+LangTagTextUserCommentsAvg	deu	Durchschnittliche Kundenbewertung	date20090112
+LangTagTextUserCommentsAvg	rus	Среднеарифметическая оценка магазина клиентами	date20090112
+LangTagTextUserCommentsAvg	eng	Average customer rating	date20090112
+
+LangTagTextUserCommentsErr	deu	Bitte f&uuml;llen Sie s&auml;mtliche Felder aus.	date20090112
+LangTagTextUserCommentsErr	rus	Пожалуйста, внесите дату в каждое поле.	date20100614
+LangTagTextUserCommentsErr	eng	Please enter data in all fields.	date20090112
+
+LangTagTextUserCommentsNoticeNotVisible	deu	Bitte beachten Sie: Ihre Bewertung wird erst angezeigt, wenn sie vom Shopbetreiber freigeschaltet wurde.	date20090112
+LangTagTextUserCommentsNoticeNotVisible	rus	Ваша оценка будет показана после того, как ее увидит владелец магазина.	date20100614
+LangTagTextUserCommentsNoticeNotVisible	eng	Please notice: Your rating has to be approved by the shop owner.	date20090112
+
+LangTagUserCommentsQuestionDelete	deu	Mochten Sie die gewahlten Bewertung(en) wirklich loschen?	date20090113
+LangTagUserCommentsQuestionDelete	rus	Вы хотите удалить эти оценки?	date20100614
+LangTagUserCommentsQuestionDelete	eng	Are you sure you want to delete the selected ratings?	date20090113
+
+LangTagBestsellerPg	deu	Bestseller in dieser Warengruppe	date20090114
+LangTagBestsellerPg	rus	Бестселлер в этой группе	date20100614
+LangTagBestsellerPg	eng	Bestseller in this product group	date20090114
+
+LangTagUpSellingText	deu	Darf\'s ein bisschen mehr sein?	date20090131
+LangTagUpSellingText	rus	Немножко больше?	date201006141
+LangTagUpSellingText	eng	More features needed?	date20090131
+				
+Default...	deu	German	date20060817
+Default...	rus	Русский	date20100614	
+Default...	eng	English	date20060817	
+				
+LangTagReturningticket	deu	R&uuml;cksende-<br />begleitschein	date20090101
+LangTagReturningticket	rus	Формуляр возврата	date20100614
+LangTagReturningticket	eng	Returning-<br />ticket	date20090101
+
+LangTagReturningticket_txt1	deu	A) Rucksendeaufkleber. Bitte an den Trennlinien schneiden und auf das Rucksendungspaket kleben.	date20090101
+LangTagReturningticket_txt1	rus	A) Наклейка для возврата товара. Пожалуйста, вырежите по линиям и наклейте на почтовый пакет.	date20100614
+LangTagReturningticket_txt1	eng	A) Back transmission sticker. Please cut at the dividing lines and stick on the return package.	date20090101
+
+LangTagReturningticket_txt2	deu	R&uuml;cksendung - Retoure	date20090101
+LangTagReturningticket_txt2	rus	Возврат - Retoure	date20100614
+LangTagReturningticket_txt2	eng	Back transmission - Retoure	date20090101
+
+LangTagReturningticket_receiver	deu	Empf&auml;nger:	date20090101
+LangTagReturningticket_receiver	rus	Получатель:	date20100614
+LangTagReturningticket_receiver	eng	Receiver:	date20090101
+
+LangTagReturningticket_txt4	deu	B) R&uuml;cksendebegleitschein. Bitte oben in das Paket legen.	date20090101
+LangTagReturningticket_txt4	rus	B) Сопроводительный формуляр. Пожалуйста, положите в пакет сверху.	date20100614
+LangTagReturningticket_txt4	eng	B) Back transmission release note. Please put above into the package.	date20090101
+
+LangTagReturningticket_txt5	deu	R&uuml;cksendung - Begleitschein	date20090101
+LangTagReturningticket_txt5	rus	Сопроводительный формуляр для возврата товара	date20100614
+LangTagReturningticket_txt5	eng	Back transmission - release note	date20090101
+
+LangTagReturningticket_customerhead	deu	Kundendaten :	date20090101
+LangTagReturningticket_customerhead	rus	Данные о клиене :	date20100614
+LangTagReturningticket_customerhead	eng	Customerdata :	date20090101
+
+LangTagReturningticket_customernumber	deu	Kundennummer	date20090101
+LangTagReturningticket_customernumber	rus	Клиентский номер	date20100614
+LangTagReturningticket_customernumber	eng	Customerno	date20090101
+
+LangTagReturningticket_customername	deu	Name	date20090101
+LangTagReturningticket_customername	rus	Имя	date20100614
+LangTagReturningticket_customername	eng	Name	date20090101
+
+LangTagReturningticket_customercompany	deu	Firma	date20090101
+LangTagReturningticket_customercompany	rus	Фирма	date20100614
+LangTagReturningticket_customercompany	eng	Company	date20090101
+
+LangTagReturningticket_customerstreet	deu	Stra&szlig;e	date20090101
+LangTagReturningticket_customerstreet	rus	Улица	date20100614
+LangTagReturningticket_customerstreet	eng	Street	date20090101
+
+LangTagReturningticket_customerzipcode	deu	PLZ	date20090101
+LangTagReturningticket_customerzipcode	rus	Почтовый индекс	date20100614
+LangTagReturningticket_customerzipcode	eng	Zipcode	date20090101
+
+LangTagReturningticket_customercity	deu	Ort	date20090101
+LangTagReturningticket_customercity	rus	Населенный пункт	date20100614
+LangTagReturningticket_customercity	eng	City	date20090101
+
+LangTagReturningticket_customertelephone	deu	Telefon	date20090101
+LangTagReturningticket_customertelephone	rus	Телефон	date20100614
+LangTagReturningticket_customertelephone	eng	Telephone	date20090101
+
+LangTagReturningticket_customeremail	deu	Email	date20090101
+LangTagReturningticket_customeremail	rus	Email	date20100614
+LangTagReturningticket_customeremail	eng	Email	date20090101
+
+LangTagReturningticket_orderhead	deu	Artikeldaten :	date20090101
+LangTagReturningticket_orderhead	rus	Данные о товаре :	date20100614
+LangTagReturningticket_orderhead	eng	Articledata :	date20090101
+
+LangTagReturningticket_ordernumber	deu	Auftragsnummer	date20090101
+LangTagReturningticket_ordernumber	rus    Номер заказа	date20100614
+LangTagReturningticket_ordernumber	eng	Orderno	date20090101
+
+LangTagReturningticket_orderdate	deu	Auftragsdatum	date20090101
+LangTagReturningticket_orderdate	rus	Дата заказа	date20100614
+LangTagReturningticket_orderdate	eng	Orderdate	date20090101
+
+LangTagReturningticket_orderpos	deu	Auftragspos.	date20090101
+LangTagReturningticket_orderpos	rus	Поз. заказа.	date20100614
+LangTagReturningticket_orderpos	eng	Orderpos.	date20090101
+
+LangTagReturningticket_orderarticlenr	deu	Artikelnummer	date20090101
+LangTagReturningticket_orderarticlenr	rus	Номер артикула	date20100614
+LangTagReturningticket_orderarticlenr	eng	Articlenumber	date20090101
+
+LangTagReturningticket_orderdesignation	deu	Bezeichnung	date20090101
+LangTagReturningticket_orderdesignation	rus	Обозначение	date20100614
+LangTagReturningticket_orderdesignation	eng	Orderdesignation	date20090101
+
+LangTagReturningticket_orderamount	deu	Menge	date20090101
+LangTagReturningticket_orderamount	rus	Количество	date20100614
+LangTagReturningticket_orderamoun	eng	Amount	date20090101
+
+LangTagReturningticket_orderpriceperunit	deu	Einzelpreis	date20090101
+LangTagReturningticket_orderpriceperunit	rus	Цена за единицу товара	date20100614
+LangTagReturningticket_orderpriceperunit	eng	Price per Unit	date20090101
+
+LangTagReturningticket_ordercurrency	deu	W&auml;hrung	date20090101
+LangTagReturningticket_ordercurrency	rus	Валюта	date20100614
+LangTagReturningticket_ordercurrency	eng	Currency	date20090101
+
+LangTagReturningticket_returningreason	deu	Grund / Bemerkung <br /><i>(Bitte Feldr&auml;nder beachten.)	date20090101
+LangTagReturningticket_returningreason	rus	Причина / Замечание <br /><i>(Пожалуйста, оставайтесь в рамках поля.)	date20100614
+LangTagReturningticket_returningreason	eng	Reason/remark (Please consider textfieldedges.)	date20090101
+
+LangTagReturningticket_datesignature	deu	Datum, Unterschrift	date20090101
+LangTagReturningticket_datesignature	rus	Дата, подпись	date20100614
+LangTagReturningticket_datesignature	eng	Date, signature	date20090101
+
+LangTagReturningticket_footinfo	deu	Achten Sie bitte auf korrekte und vollst&auml;ndige Formularangaben und legen es der R&uuml;cksendung bei.	date20090101
+LangTagReturningticket_footinfo	rus	Пожалуйста, обратите внимание на правильное и полное заполнение формуляра и приложите его к почтовому отправлению.	date20100614
+LangTagReturningticket_footinfo	eng	Please pay attention to correct and complete form data and attach it to the back transmission.	date20090101
+
+LangTagTextBestsellerAttribute	deu	Bitte wahlen sie erst die fehlenden Artikelmerkmale auf der Detailseite aus!	date20091009
+LangTagTextBestsellerAttribute	rus	Пожалуйста, выберите недостающие детали из списка деталей!	date20100614	
+LangTagTextBestsellerAttribute	eng	Please select the item specifics on the detailpage!	date20091009
+
+LangTagBonusPoints	deu	Bonuspunkte	date20100204
+LangTagBonusPoints	rus	Бонусные очки	date20100614
+LangTagBonusPoints	eng	bonus points	date20100204
+
+LangTagBonuses	deu	Bonuspunkte einlosen	date20100208
+LangTagBonuses	rus	внести Бонусные очки 	date20100614
+LangTagBonuses	eng	Bonuspunkte einlosen	date20100208	
+
+LangTagArticleCompare	deu	Artikel vergleichen	date20100107
+LangTagArticleCompare	rus	Сравнить товар	date20100614
+LangTagArticleCompare	eng	Compare	articles date20100107
+
+LangTagArticleCompInit	deu	Vergleich initialisieren	date20100312
+LangTagArticleCompInit	rus	Начать сравнение	date20100614
+LangTagArticleCompInit	eng	Comparison initialize date20100312
+
+LangTagMarkArticleCompare	deu	F&uuml;r Vergleich markieren	date20100107
+LangTagMarkArticleCompare	rus	Отметки для сравнения	date20100614
+LangTagMarkArticleCompare	eng	Mark for comparison date20100107
+
+LangTagTitleArticleComparison	deu	Artikelvergleich	date20100107
+LangTagTitleArticleComparison	rus	Сравнение артикулов	date20100614
+LangTagTitleArticleComparison	eng	Article Comparison date20100107
+
+LangTagNoBonusArticles	deu	Derzeit sind keine Bonusartikel vorhanden	date20100208
+LangTagNoBonusArticles	rus	В данный момент бонусные артикулы в продаже отсутствуют	date20100614
+LangTagNoBonusArticles	eng	no bonus articles defined	date20100208
+
+LangTagAvailInformMe	deu	Der Artikel ist momentan nicht verfugbar. Sie konnen hier ihre E-Mailaddresse eintragen und werden benachrichtigt sobald der Artikel wieder verfugbar ist	date20100208
+LangTagAvailInformMe	rus	Товар в продаже отсутствует. Оставьте свой электронный адрес и мы известим Вас, как только товар появится в наличии	date20100614
+LangTagAvailInformMe	eng	The article is currently unavailable. You can enter your e-mail address and be notified when the item is available again	date20100208
+
+LangTagShopComments	deu	Shopbewertung	date20100208
+LangTagShopComments	rus	Оценка работы магазина	date20100614
+LangTagShopComments	eng	Shop appraisal	date20100208
+
+LangTagNoShopComments	deu	Keine Shopbewertungen vorhanden	date20100208
+LangTagNoShopComments	rus	Ни одной оценки не найдено	date20100614
+LangTagNoShopComments	eng	no shop comments	date20100208
+
+LangTagShowShopCommentsCaption	deu	Shopbewertungen	date20100208
+LangTagShowShopCommentsCaption	rus	Оценка работы магазина		date20100614
+LangTagShowShopCommentsCaption	eng	shop comments	date20100208
+
+LangTagShowShopComments	deu	Einsehen	date20100208
+LangTagShowShopComments	rus	Посмотреть	date20100614
+LangTagShowShopComments	eng	look	date20100208
+
+LangTagTextItemWeight	deu	Artikelgewicht	date20100323
+LangTagTextItemWeight	rus	Вес	date20100614
+LangTagTextItemWeight	eng	Item weight	date20100323	
+
+LangTagArticleDirectCatalog	deu	Folgende Artikel sind Katalogartikel und konnen nicht bestellt werden	date20100329
+LangTagArticleDirectCatalog	rus	Эти товары из каталога. Их нельзя заказать	date20100614
+LangTagArticleDirectCatalog	eng	The following items are catalog items and can not be ordered	date20100329
+
+LangTagArticleDirectDownload	deu	Die Bestellung eines Downloadartikels erfordert die vorherige Anmeldung als Shopbenutzer	date20100329
+LangTagArticleDirectDownload	rus	Заказ товаров для скачивания, только после предварительной регистрации в качестве пользователя магазина	date20100614
+LangTagArticleDirectDownload	eng	The order of a download article requires prior registration as a shop user	date20100329
+
+LangTagArticleDirectNoPrice	deu	Folgende Artikel haben keinen Preis und konnen nicht bestellt werden	date20100330
+LangTagArticleDirectNoPrice	rus	Для этих товаров не указана цена. Их нельзя заказать.	date20100614
+LangTagArticleDirectNoPrice	eng	The following items have no price and can not be ordered	date20100330
+
+
+LangTagTextItemWeight	deu	Artikelgewicht	date20100503
+LangTagTextItemWeight	rus	Вес	date20100614
+LangTagTextItemWeight	eng	Products Weight	date20100503
+
+//SS20110705
+LangTagFieldCaptcha	deu	Bitte geben Sie den Bildcode aus der Grafik ein	date20101230	
+LangTagFieldCaptcha	rus	Пожалуйста введите код изображения	date20101230	
+LangTagFieldCaptcha	eng	What code is in the image?	date20101230	
+
+LangTagItemToBask	deu	Der Artikel wurde erfolgreich zum Warenkorb hinzugefьgt.	date20110128
+LangTagItemToBask	rus	Товар был успешно  добавлен в корзину.	date20110128
+LangTagItemToBask	eng	The product was successfully added to your basket.	date20110128
+
+LangTagTextItemsInBasket	deu	im Warenkorb	date20110128
+LangTagTextItemsInBasket	rus	в корзине	date20110128
+LangTagTextItemsInBasket	eng	in basket	date20110128
+
+LangTagMessageHasBeenSent	deu	Ihre Nachricht wurde versendet.	date20040128
+LangTagMessageHasBeenSent	rus	Ваше сообщение было отправлено.	date20040128
+LangTagMessageHasBeenSent	eng	Your Message has been sent.	date20040128
+
+LangTagTextChgCData1	deu	Kundendaten	date20110107
+LangTagTextChgCData1	rus	Данные о клиенте	date20110107
+LangTagTextChgCData1	eng	Customer data	date20110107
+
+LangTagTermsAndCondAccept	deu	Ich habe die AGB gelesen und akzeptiert.	date20060302
+LangTagTermsAndCondAccept	rus	Я прочитал и принимаю Условия.	date20060302
+LangTagTermsAndCondAccept	eng	I aggree with the terms and conditions.	date20060302
+
+LangTagOwnWishList1	deu	Wunschliste	date20110107
+LangTagOwnWishList1	rus	Список пожеланий	date20110107
+LangTagOwnWishList1	eng	Wishlist	date20110107
+
+LangTagTextUserShopCommentsAdd	deu	Shop-Bewertung hinzuf&uuml;gen	date20090112
+LangTagTextUserShopCommentsAdd	rus	Добавить оценку магазина	date20090112
+LangTagTextUserShopCommentsAdd	eng	Add shop rating	date20090112
+
+LangTagTextMyComments1	deu	Bewertungen	date20090112
+LangTagTextMyComments1	rus	Оценки	date20090112
+LangTagTextMyComments1	eng	Ratings	date20090112
+
+LangTagBonuses	deu	Bonuspunkte einlцsen	date20100208
+LangTagBonuses	rus	Обналичить бонусные очки	date20100208
+LangTagBonuses	eng	Bonus points	date20100208
+
+LangTagBonuses1	deu	Bonuspunkte	date20100208
+LangTagBonuses1	rus	Бонусные очки	date20100208
+LangTagBonuses1	eng	Bonus points	date20100208
+
+LangTagErrorFroms	deu	Bitte fьllen Sie die rot markierten Felder aus.	date20101230
+LangTagErrorFroms	rus	Пожалуйста, заполните поля, отмеченные красным.	date20101230
+LangTagErrorFroms	eng	The red fields must be filled out.	date20101230	
+
+LangTagThankSendMail	deu	Danke, Ihre eMail wurde gesendet.	date20101230	
+LangTagThankSendMail	rus	Спасибо. Ваше сообщение отправлено.	date20101230	
+LangTagThankSendMail	eng	Thank you, your email has been sent.	date20101230	
+
+LangTagErrorSendMail	deu	Fehler beim Senden von e-Mail.	date20101230	
+LangTagErrorSendMail	rus	Ошибка при отправке e-mail.	date20101230	
+LangTagErrorSendMail	eng	Error in sendmail.	date20101230	
+
+LangTagTextReqCredCardCheckNum	deu	Sie mьssen Ihre dreistellige Prьfnummer eingeben.	date20101125	
+LangTagTextReqCredCardCheckNum	rus	Вы должны ввести трехзначный код безопасности.	date20101125	
+LangTagTextReqCredCardCheckNum	eng	You need to enter your three digit security code.	date20101125	
+
+LangTagTextSpecialPostage	deu	Spezialversand	date20101228	
+LangTagTextSpecialPostage	rus	особенная доставка	date20101228	
+LangTagTextSpecialPostage	eng	Special Shipping	date20101228	
+
+LangTagMsgChangedData	deu	Die Daten wurden geдndert	date20110113
+LangTagMsgChangedData	rus	Данные были изменены	date20110113
+LangTagMsgChangedData	eng	The data was changed	date20110113	
+
+LangTagResendPasswMailText1	deu	Sie haben Ihr Passwort vergessen?<br />Mit dieser Email senden wir Ihnen erneut ihre Logindaten fьr unseren Kundenbereich.	date20110124	
+LangTagResendPasswMailText1	rus	Вы забыли свой пароль? <br /> С этм сообщением мы высылаем вам ваши данные для входа в ваш аккаунт.	date20110124	
+LangTagResendPasswMailText1	eng	Forgot your password? <br /> With this email we send you your login credentials again for our customer area.	date20110124	
+
+LangTagResendPasswMailText2	deu	<br /> Mit freundlichen Grьssen	date20110124	
+LangTagResendPasswMailText2	rus	<br /> С уважением	date20110124	
+LangTagResendPasswMailText2	eng	<br /> Best regards, <br /> http://www.shopcity24.de	date20110124	
+
+LangTagResendPasswdCustomer	deu	Passwort vergessen?	date20110124
+LangTagResendPasswdCustomer	rus	Забыли пароль?	date20110124
+LangTagResendPasswdCustomer	eng	Forgot your password?	date20110124	
+		
+LangTagUnknownUser	deu	Benutzername (Emailadresse) unbekannt.	date20110124	
+LangTagUnknownUser	rus	Имя пользователя (e-mail) неизвестено.	date20110124	
+LangTagUnknownUser	eng	User name (email address) is unknown.	date20110124	
+
+LangTagResentCustPasswd	deu	Passwort erneut versendet.	date20110124	
+LangTagResentCustPasswd	rus	Пароль отправлен.	date20110124	
+LangTagResentCustPasswd	eng	Password sent again.	date20110124	
+
+LangTagResentCPasswd	deu	Passwort erneut anfordern.	date20110128
+LangTagResentCPasswd	rus	Запросить пароль снова.	date20110128
+LangTagResentCPasswd	eng	Request your password again.	date20110128
+
+LangTagQuestToProduct	deu	Frage zum Produkt	date20110208
+LangTagQuestToProduct	rus	Вопрос по продукту	date20110208
+LangTagQuestToProduct	eng	Question on Product	date20110208
+
+DefaultTermsAndCondAcceptWithdrawal1	deu	Hiermit bestдtige ich, dass ich ьber das zweiwцchige Widerrufsrecht informiert wurde und dieses akzeptiere.	date20110127	
+DefaultTermsAndCondAcceptWithdrawal1	rus	Этим я подтверждаю что я был проинформирован о двухнедельном  праве на возврат и соглашаюсь с этим.	date20110127	
+DefaultTermsAndCondAcceptWithdrawal1	eng	I hereby certify that I have been informed about the two-week right of withdrawal and accept this.	date20110127	
+
+DefaultTermsAndCondAcceptWithdrawal2	deu	Hier finden Sie Einzelheiten zu Ihrem Widerrufsrecht.	date20110127	
+DefaultTermsAndCondAcceptWithdrawal2	rus	Здесь вы найдете подробную информацию о вашем праве возврата.	date20110127	
+DefaultTermsAndCondAcceptWithdrawal2	eng	Here you find details about your withdrawal.	date20110127	
+
+DefaultTermsAndCondAcceptNewsletter	deu	Ja, ich mцchte den kostenlosen Newsletter erhalten und ьber Aktionen, Neuheiten und Preissenkungen per E-Mail informiert werden. Ich kann mich jederzeit ganz einfach wieder abmelden.	date20110131	
+DefaultTermsAndCondAcceptNewsletter	rus	Да, я хотел бы получать бесплатный информационный бюллетень и получать информацию о новых акциях, продуктах и  снижению цен по электронной почте.  Я могу отказаться в любой момент.	date20110131	
+DefaultTermsAndCondAcceptNewsletter	eng	Yes, I would like to receive the free newsletter and be informed of promotions, products and price cuts by e-mail. I can easily unsubscribe at any time.	date20110131	
+
+LangTagTermsAndCondWithdrawalChecked	deu	gelesen und bestдtigt	date20110127	
+LangTagTermsAndCondWithdrawalChecked	eng	checked	date20110127	
+LangTagTermsAndCondWithdrawalChecked	rus	прочитано и подтверждено	date20110127	
+
+LangTagTermsAndCondNewsletterChecked	deu	erwьnscht	date20110131	
+LangTagTermsAndCondNewsletterChecked	eng	desired	date20110131	
+LangTagTermsAndCondNewsletterChecked	rus	желательный	date20110131	
+
+LangTagTermsAndCondNewsletterNotChecked	deu	nicht angefordert	date20110131	
+LangTagTermsAndCondNewsletterNotChecked	eng	not required	date20110131	
+LangTagTermsAndCondNewsletterNotChecked	rus	незатребованный	date20110131	
+
+LangTagFNTermsAndCondWithdrawal	deu	Widerrufsrecht	date20110127	
+LangTagFNTermsAndCondWithdrawal	eng	Withdrawal	date20110127	
+LangTagFNTermsAndCondWithdrawal	rus	Право отказа	date20110127	
+
+LangTagFNTermsAndCondNewsletter	deu	MoechteNewsletter	date20110131	
+LangTagFNTermsAndCondNewsletter	rus	WantNewsletter	date20110131	
+LangTagFNTermsAndCondNewsletter	eng	WantNewsletter	date20110131	
+
+LangTagTermsAndCondWithdrawal	deu	Widerrufsrecht	date20110127	LinkMenь/Tabellenьberschrift
+LangTagTermsAndCondWithdrawal	rus	право отказа	date20110127
+LangTagTermsAndCondWithdrawal	eng	Withdrawal	date20110127	
+
+LangTagTermsAndCondNewsletter	deu	Newsletter	date20110131	LinkMenь/Tabellenьberschrift
+LangTagTermsAndCondNewsletter	rus	информационный бюллетень	date20110131	
+LangTagTermsAndCondNewsletter	eng	Newsletter	date20110131	
+
+LangTagTextConfirmWithdrawal	deu	Bitte bestдtigen Sie, dass Sie ьber das Widerspruchsrecht informiert wurden	date20110127	
+LangTagTextConfirmWithdrawal	rus	Пожалуйста подтвердите, что вы были проинформированы о праве на отказ	date20110127	
+LangTagTextConfirmWithdrawal	eng	Please confirm that you have been informed of the right to withdrawal	date20110127	
+
+LangTag__TermsAndCondWithdrawal	deu	Widerrufsrecht	date20110128	
+LangTag__TermsAndCondWithdrawal	eng	Withdrawal	date20110128	
+LangTag__TermsAndCondWithdrawal	rus	Право на отказ	date20110128	
+
+LangTag__TermsAndCondNewsletter	deu	Newsletter	date20110131	
+LangTag__TermsAndCondNewsletter	eng	Newsletter	date20110131	
+LangTag__TermsAndCondNewsletter	rus	информационный бюллетень	date20110131	
+
+LangTagContact	deu	Kontakt	date20110128                                            
+LangTagContact	eng	Contact	date20110128
+LangTagContact	rus	Контакт	date20110128
+
+LangTagProductGroupNew	deu	Neuheiten	date20110314
+LangTagProductGroupNew	end	New items	date20110314
+LangTagProductGroupNew	rus	Новые продукты	date20110314
+
+LangTagBuy2ContactInputLabel	deu	Ansprechpartner	date20110207	
+LangTagBuy2ContactInputLabel	eng	Contact	date20110207	
+LangTagBuy2ContactInputLabel	rus	Контакт	date20110207	
+
+LangTagBuy2InputLabelPrivat	deu	privat	date20110207	
+LangTagBuy2InputLabelPrivat	eng	private	date20110207	
+LangTagBuy2InputLabelPrivat	rus	Частное лицо	date20110207	
+
+LangTagBuy2InputLabelBusiness	deu	Firma	date20110207	
+LangTagBuy2InputLabelBusiness	eng	business	date20110207	
+LangTagBuy2InputLabelBusiness	rus	Фирма	date20110207	
+
+LangTagFNFieldMobil	deu	Mobil	date20110207	
+LangTagFNFieldMobil	eng	Mobil	date20110207	
+LangTagFNFieldMobil	rus	Мобильный	date20110207	
+
+LangTagFieldMobil	deu	Mobil	date20110207	
+LangTagFieldMobil	eng	Mobil	date20110207	
+LangTagFieldMobil	rus	Мобильный	date20110207	
+
+LangTag__FieldMobil	deu	Mobil	date20110208	
+LangTag__FieldMobil	eng	Mobil	date20110208	
+LangTag__FieldMobil	rus	Мобильный	date20110208	
+
+LangTagFNFieldGeburtsdatum	deu	Geburtsdatum	date20110207	
+LangTagFNFieldGeburtsdatum	eng	Birthdate	date20110207	
+LangTagFNFieldGeburtsdatum	rus	Дата рождения	date20110207	
+
+LangTag__FieldGeburtsdatum	deu	Geburtsdatum	date20110208	
+LangTag__FieldGeburtsdatum	eng	Birthdate	date20110208	
+LangTag__FieldGeburtsdatum	rus	Дата рождения	date20110208	
+
+LangTagFieldBirthdate	deu	Geburtsdatum	date20110207	
+LangTagFieldBirthdate	eng	birth date	date20110207	
+LangTagFieldBirthdate	rus	Дата рождения	date20110207	
+
+LangTagTextPleaseEnterBirthdayFormat	deu	Sie mьssen Ihr Geburtsdatum im Format "DD.MM.YYYY" eingeben	date20110207	
+LangTagTextPleaseEnterBirthdayFormat	eng	You must enter your birth date in the format "dd.mm.yyyy"	date20110207	
+LangTagTextPleaseEnterBirthdayFormat	rus	Вы должны ввести дату своего рождения в формате "дд.мм.гггг"	date20110207	
+
+LangTagTextMyAccount	deu	Mein Konto	date20110208	
+LangTagTextMyAccount	eng	My Account	date20110208	
+LangTagTextMyAccount	RUS	Мой аккаунт	date20110208	
+
+LangTagErrorInsertCustomer	deu	Web-Server-Fehler: - ret<0 in setCustomerData!<br />	date20100111	
+LangTagErrorInsertCustomer	eng	Web server error: - ret<0 in setCustomerData! <br />	date20100111	
+LangTagErrorInsertCustomer	rus	Web server error: - ret<0 in setCustomerData! <br />	date20100111	
+
+LangTagTextYourRating	deu	Ihre Meinung ist uns wichtig	date20110217	
+LangTagTextYourRating	eng	Your opinion is important to us	date20110217	
+LangTagTextYourRating	rus	Ваше мнение нам очень важно	date20110217	
+
+LangTagTextYourRatingShop	deu	Unseren Shop bewerten	date20110217	
+LangTagTextYourRatingShop	eng	Rate our store to us	date20110217	
+LangTagTextYourRatingShop	rus	Оцените наш магазин	date20110217	
+
+LangTagTextYourRatingArticle	deu	Artikel bewerten	date20110217	
+LangTagTextYourRatingArticle	eng	rating article	date20110217	
+LangTagTextYourRatingArticle	rus	Оценить товары	date20110217	
+
+LangTagTextVariantsTitle	deu	Erhдltliche Varianten	date20110518	
+LangTagTextVariantsTitle	eng	Available variant	date20110518	
+LangTagTextVariantsTitle	rus	Доступные варианты	date20110518
+
+LangTagTextArticleDownloads	deu	Downloads zum Artikel	date20110314
+LangTagTextArticleDownloads	rus	Файлы к товару	date20110314
+LangTagTextArticleDownloads	eng	item downloads	date20110314
+
+LangTagMinimumAge	deu	Mindestalter	date20130226
+LangTagMinimumAge	rus	minimum age	date20130226
+LangTagMinimumAge	eng	minimum age	date20130226
+
+LangTagYears	deu	Jahre	date20130226
+LangTagYears	rus	years	date20130226
+LangTagYears	eng	years	date20130226
+
+LangTagMinimumAgeOrder	deu	Mindestalter fьr diese Bestellung	date20130227
+LangTagMinimumAgeOrder	rus	minimum age to proceed with order	date20130227
+LangTagMinimumAgeOrder	eng	minimum age to proceed with order	date20130227
+
+//Begin Countries
+LangTagCountryAfganistan	deu	Afganistan	date20100514
+LangTagCountryAfganistan	eng	Afganistan	date20100514
+
+LangTagCountryEgypt	deu	Дgypten	date20100514
+LangTagCountryEgypt	eng	Egypt	date20100514
+
+LangTagCountryAlbania	deu	Albanien	date20100514
+LangTagCountryAlbania	eng	Albania	date20100514
+
+LangTagCountryAlgeria	deu	Algerien	date20100514
+LangTagCountryAlgeria	eng	Algeria	date20100514
+
+LangTagCountryAmericanSamoa	deu	Amerikanisch-Samoa	date20100514
+LangTagCountryAmericanSamoa	eng	Amrican Samoa	date20100514
+
+LangTagCountryAndorra	deu	Andorra	date20100514
+LangTagCountryAndorra	eng	Andorra	date20100514
+
+LangTagCountryAngola	deu	Angola	date20100514
+LangTagCountryAngola	eng	Angola	date20100514
+
+LangTagCountryAnguilla	deu	Anguilla	date20100514
+LangTagCountryAnguilla	eng	Anguilla	date20100514
+
+LangTagCountryAntarctica	deu	Antarktis	date20100514
+LangTagCountryAntarctica	eng	Antarctica	date20100514
+
+LangTagCountryAntiguaAndBarbuda	deu	Antigua und Barbuda	date20100514
+LangTagCountryAntiguaAndBarbuda	eng	Antigua and Barbuda	date20100514
+
+LangTagCountryEquatorialGuinea	deu	Дquatorialguinea	date20100514
+LangTagCountryEquatorialGuinea	eng	Equatorial Guinea	date20100514
+
+LangTagCountryArgentina	deu	Argentinien	date20100514
+LangTagCountryArgentina	eng	Argentina	date20100514
+
+LangTagCountryArmenia	deu	Armenien	date20100514
+LangTagCountryArmenia	eng	Armenia	date20100514
+
+LangTagCountryAruba	deu	Aruba	date20100514
+LangTagCountryAruba	eng	Aruba	date20100514
+
+LangTagCountryAzerbaijan	deu	Aserbaidschan	date20100514
+LangTagCountryAzerbaijan	eng	Azerbaijan	date20100514
+
+LangTagCountryEthiopia	deu	Дthiopien	date20100514
+LangTagCountryEthiopia	eng	Ethiopia	date20100514
+
+LangTagCountryAustralia	deu	Australien	date20100514
+LangTagCountryAustralia	eng	Australia	date20100514
+
+LangTagCountryBahamas	deu	Bahamas, die	date20100514
+LangTagCountryBahamas	Bahamas	date20100514
+
+LangTagCountryBahrain	deu	Bahrein	date20100514
+LangTagCountryBahrain	eng	Bahrain	date20100514
+
+LangTagCountryBangladesh	deu	Bangladesch	date20100514
+LangTagCountryBangladesh	eng	Bangladesh	date20100514
+
+LangTagCountryBarbados	deu	Barbados	date20100514
+LangTagCountryBarbados	eng	Barbados	date20100514
+
+LangTagCountryBelgium	deu	Belgien	date20100514
+LangTagCountryBelgium	eng	Belgium	date20100514
+
+LangTagCountryBelize	deu	Belize	date20100514
+LangTagCountryBelize	eng	Belize	date20100514
+
+LangTagCountryBenin	deu	Benin	date20100514
+LangTagCountryBenin	eng	Benin	date20100514
+
+LangTagCountryBermuda	deu	Bermuda	date20100514
+LangTagCountryBermuda	eng	Bermuda	date20100514
+
+LangTagCountryBhutan	deu	Bhutan	date20100514
+LangTagCountryBhutan	eng	Bhutan	date20100514
+
+LangTagCountryBolivia	deu	Bolivien	date20100514
+LangTagCountryBolivia	eng	Bolivia	date20100514
+
+LangTagCountryBosnienHerzegowina	deu	Bosnien-Herzegowina	date20100514
+LangTagCountryBosnienHerzegowina	eng	Bosnia and Herzegovina	date20100514
+
+LangTagCountryBotsuana	deu	Botswana	date20100514
+LangTagCountryBotsuana	eng	Botsuana	date20100514
+
+LangTagCountryBouvetIsland	deu	Bouvet-Insel	date20100514
+LangTagCountryBouvetIsland	eng	Bouvet Island	date20100514#
+
+LangTagCountryBrazil	deu	Brasilien	date20100514
+LangTagCountryBrazil	eng	Brazil	date20100514
+
+LangTagCountryVirginIslandsBritish	deu	Britische Jungferninseln	date20100514
+LangTagCountryVirginIslandsBritish	eng	Virgin Islands, British	date20100514
+
+LangTagCountryBritishIndianOceanTerritory	deu	Britisches Territorium im Indischen Ozean	date20100514
+LangTagCountryBritishIndianOceanTerritory	eng	British Indian Ocean Territory	date20100514
+
+LangTagCountryBruneiDarussalam	deu	Brunei Darussalam	date20100514
+LangTagCountryBruneiDarussalam	eng	Brunei Darussalam	date20100514
+
+LangTagCountryBulgaria	deu	Bulgarien	date20100514
+LangTagCountryBulgaria	eng	Bulgaria	date20100514
+
+LangTagCountryBurkinaFaso	deu	Burkina Faso	date20100514
+LangTagCountryBurkinaFaso	eng	Burkina Faso	date20100514
+
+LangTagCountryBurundi	deu	Burundi	date20100514
+LangTagCountryBurundi	eng	Burundi	date20100514
+
+LangTagCountryChile	deu	Chile	date20100514
+LangTagCountryChile	eng	Chile	date20100514
+
+LangTagCountryChina	deu	China	date20100514
+LangTagCountryChina	eng	China	date20100514
+
+LangTagCountryCocosIslands	deu	Cocosinseln	date20100514
+LangTagCountryCocosIslands	eng	Cocos (Keeling) Islands	date20100514
+
+LangTagCountryCookIslands	deu	Cook Inseln	date20100514
+LangTagCountryCookIslands	eng	Cook Islands	date20100514
+
+LangTagCountryCostaRica	deu	Costa Rica	date20100514
+LangTagCountryCostaRica	eng	Costa Rica	date20100514
+
+LangTagCountryCotedIvoire	deu	Cote dIvoire	date20100514
+LangTagCountryCotedIvoire	eng	Cote dIvoire	date20100514
+
+LangTagCountryDenmark	deu	Dдnemark	date20100514
+LangTagCountryDenmark	eng	Denmark	date20100514
+
+LangTagCountryGermany	deu	Deutschland	date20100514
+LangTagCountryGermany	eng	Germany	date20100514
+
+LangTagCountryDominica	deu	Dominika	date20100514
+LangTagCountryDominica	eng	Dominica	date20100514
+
+LangTagCountryDominicanRepublic	deu	Dominikanische Republik	date20100514
+LangTagCountryDominicanRepublic	eng	Dominican Republic	date20100514
+
+LangTagCountryDjibouti	deu	Dschibuti	date20100514
+LangTagCountryDjibouti	eng	Djibouti	date20100514
+
+LangTagCountryEcuador	deu	Ekuador	date20100514
+LangTagCountryEcuador	eng	Ecuador	date20100514
+
+LangTagCountryElSalvador	deu	El Salvador	date20100514
+LangTagCountryElSalvador	eng	El Salvador	date20100514
+
+LangTagCountryEritrea	deu	Eritrea	date20100514
+LangTagCountryEritrea	eng	Eritrea	date20100514
+
+LangTagCountryEstonia	deu	Estland	date20100514
+LangTagCountryEstonia	eng	Estonia	date20100514
+
+LangTagCountryFalklandIslands	deu	Falklandinseln (Malvinen)	date20100514
+LangTagCountryFalklandIslands	eng	Falkland Islands (Malvinas)	date20100514
+
+LangTagCountryFaroeIslands	deu	Farцer	date20100514
+LangTagCountryFaroeIslands	eng	Faroe Islands	date20100514
+
+LangTagCountryFiji	deu	Fidschi	date20100514
+LangTagCountryFiji	eng	Fiji	date20100514
+
+LangTagCountryFinland	deu	Finnland	date20100514
+LangTagCountryFinland	eng	Finland	date20100514
+
+LangTagCountryFrance	deu	Frankreich	date20100514
+LangTagCountryFrance	eng	France	date20100514
+
+LangTagCountryFrenchSouthernTerritories	deu	Franzцsische Sьdpolar-Territorien	date20100514
+LangTagCountryFrenchSouthernTerritories	eng	French Southern Territories	date20100514
+
+LangTagCountryFrenchGuiana	deu	Franzцsisch-Guayana	date20100514
+LangTagCountryFrenchGuiana	eng	French Guiana	date20100514
+
+LangTagCountryFrenchPolynesia	deu	Franzцsisch-Polinesien	date20100514
+LangTagCountryFrenchPolynesia	eng	French Polynesia	date20100514
+
+LangTagCountryGabon	deu	Gabun	date20100514
+LangTagCountryGabon	eng	Gabon	date20100514
+
+LangTagCountryGambia	deu	Gambia	date20100514
+LangTagCountryGambia	eng	Gambia	date20100514
+
+LangTagCountryGeorgia	deu	Georgien	date20100514
+LangTagCountryGeorgia	eng	Georgia	date20100514
+
+LangTagCountryGhana	deu	Ghana	date20100514
+LangTagCountryGhana	eng	Ghana	date20100514
+
+LangTagCountryGibraltar	deu	Gibraltar	date20100514
+LangTagCountryGibraltar	eng	Gibraltar	date20100514
+
+LangTagCountryGrenada	deu	Grenada	date20100514
+LangTagCountryGrenada	eng	Grenada	date20100514
+
+LangTagCountryGreece	deu	Griechenland	date20100514
+LangTagCountryGreece	eng	Greece	date20100514
+
+LangTagCountryGreenland	deu	Grцnland	date20100514
+LangTagCountryGreenland	eng	Greenland	date20100514
+
+LangTagCountryGuadeloupe	deu	Guadeloupe	date20100514
+LangTagCountryGuadeloupe	eng	Guadeloupe	date20100514
+
+LangTagCountryGuam	deu	Guam	date20100514
+LangTagCountryGuam	eng	Guam	date20100514
+
+LangTagCountryGuatemala	deu	Guatemala	date20100514
+LangTagCountryGuatemala	eng	Guatemala	date20100514
+
+LangTagCountryGuinea	deu	Guinea	date20100514
+LangTagCountryGuinea	eng	Guinea	date20100514
+
+LangTagCountryGuineaBissau	deu	Guinea-Bissau	date20100514
+LangTagCountryGuineaBissau	eng	Guinea-Bissau	date20100514
+
+LangTagCountryGuyana	deu	Guyana	date20100514
+LangTagCountryGuyana	eng	Guyana	date20100514
+
+LangTagCountryHaiti	deu	Haiti	date20100514
+LangTagCountryHaiti	eng	Haiti	date20100514
+
+LangTagCountryHeardIslandAndMcDonaldIslands	deu	Heardinsel und McDonald-Inseln	date20100514
+LangTagCountryHeardIslandAndMcDonaldIslands	eng	Heard Island and McDonald Islands	date20100514
+
+LangTagCountryHolySeeVaticanCityState	deu	Heilige Stuhl, der (Vatikanstadt)	date20100514
+LangTagCountryHolySeeVaticanCityState	eng	Holy See (Vatican City State)	date20100514
+
+LangTagCountryHonduras	deu	Honduras	date20100514
+LangTagCountryHonduras	eng	Honduras	date20100514
+
+LangTagCountryHongkong	deu	Hong Kong	date20100514
+LangTagCountryHongkong	eng	Hongkong	date20100514
+
+LangTagCountryIndia	deu	Indien	date20100514
+LangTagCountryIndia	eng	India	date20100514
+
+LangTagCountryIndonesia	deu	Indonesien	date20100514
+LangTagCountryIndonesia	eng	Indonesia	date20100514
+
+LangTagCountryIraq	deu	Irak	date20100514
+LangTagCountryIraq	eng	Iraq	date20100514
+
+LangTagCountryIran	deu	Iran, Islamische Republik	date20100514
+LangTagCountryIran	eng	Iran, Islamic Republic of	date20100514
+
+LangTagCountryIreland	deu	Irland	date20100514
+LangTagCountryIreland	eng	Ireland	date20100514
+
+LangTagCountryIceland	deu	Island	date20100514
+LangTagCountryIceland	eng	Iceland	date20100514
+
+LangTagCountryIsrael	deu	Israel	date20100514
+LangTagCountryIsrael	eng	Israel	date20100514
+
+LangTagCountryItaly	deu	Italien	date20100514
+LangTagCountryItaly	eng	Italy	date20100514
+
+LangTagCountryJamaica	deu	Jamaika	date20100514
+LangTagCountryJamaica	eng	Jamaica	date20100514
+
+LangTagCountryJapan	deu	Japan	date20100514
+LangTagCountryJapan	eng	Japan	date20100514
+
+LangTagCountryYemen	deu	Jemen	date20100514
+LangTagCountryYemen	eng	Yemen	date20100514
+
+LangTagCountryJordan	deu	Jordan	date20100514
+LangTagCountryJordan	eng	Jordan	date20100514
+
+LangTagCountryCaymanIslands	deu	Kaimaninseln	date20100514
+LangTagCountryCaymanIslands	eng	Cayman Islands	date20100514
+
+LangTagCountryCambodia	deu	Kambodscha	date20100514
+LangTagCountryCambodia	eng	Cambodia	date20100514
+
+LangTagCountryCameroon	deu	Kamerun	date20100514
+LangTagCountryCameroon	eng	Cameroon	date20100514
+
+LangTagCountryCanada	deu	Kanada	date20100514
+LangTagCountryCanada	eng	Canada	date20100514
+
+LangTagCountryCapeVerde	deu	Kap Verde	date20100514
+LangTagCountryCapeVerde	eng	Cape Verde	date20100514
+
+LangTagCountryKazakhstan	deu	Kasachstan	date20100514
+LangTagCountryKazakhstan	eng	Kazakhstan	date20100514
+
+LangTagCountryQatar	deu	Katar	date20100514
+LangTagCountryQatar	eng	Qatar	date20100514
+
+LangTagCountryKenya	deu	Kenia	date20100514
+LangTagCountryKenya	eng	Kenya	date20100514
+
+LangTagCountryKyrgyzstan	deu	Kirgisien	date20100514
+LangTagCountryKyrgyzstan	eng	Kyrgyzstan	date20100514
+
+LangTagCountryKiribati	deu	Kiribati	date20100514
+LangTagCountryKiribati	ebg	Kiribati	date20100514
+
+LangTagCountryUnitedStatesMinorOutlyingIslands	deu	Kleine US-AuЯeninseln	date20100514
+LangTagCountryUnitedStatesMinorOutlyingIslands	eng	United States Minor Outlying Islands	date20100514
+
+LangTagCountryColombia	deu	Kolumbien	date20100514
+LangTagCountryColombia	eng	Colombia	date20100514
+
+LangTagCountryComoros	deu	Komoren	date20100514
+LangTagCountryComoros	eng	Comoros	date20100514
+
+LangTagCountryCongo	deu	Kongo	date20100514
+LangTagCountryCongo	eng	Congo	date20100514
+
+LangTagCountryCongoDemocraticRepublic	deu	Kongo, Demokratische Republik	date20100514
+LangTagCountryCongoDemocraticRepublic	eng	Congo, the Democratic Republic of the	date20100514
+
+LangTagCountryKoreaDemocraticPeoplesRepublic	deu	Korea, Demokratische Volksrepublik	date20100514
+LangTagCountryKoreaDemocraticPeoplesRepublic	eng	Korea, Democratic Peoples Republic of	date20100514
+
+LangTagCountryCroatia	deu	Kroatien	date20100514
+LangTagCountryCroatia	eng	Croatia	date20100514
+
+LangTagCountryCuba	deu	Kuba	date20100514
+LangTagCountryCuba	eng	Cuba	date20100514
+
+LangTagCountryKuwait	deu	Kuwait	date20100514
+LangTagCountryKuwait	eng	Kuwait	date20100514
+
+LangTagCountryLaoPeoplesDemocraticRepublic	deu	Laos, Demokratische Volksrepublik	date20100514
+LangTagCountryLaoPeoplesDemocraticRepublic	eng	Lao Peoples Democratic Republic	date20100514
+
+LangTagCountryLesotho	deu	Lesotho	date20100514
+LangTagCountryLesotho	eng	Lesotho	date20100514
+
+LangTagCountryLatvia	deu	Lettland	date20100514
+LangTagCountryLatvia	eng	Latvia	date20100514
+
+LangTagCountryLebanon	deu	Libanon	date20100514
+LangTagCountryLebanon	eng	Lebanon	date20100514
+
+LangTagCountryLiberia	deu	Liberia	date20100514
+LangTagCountryLiberia	eng	Liberia	date20100514
+
+LangTagCountryLibyanArabJamahiriya	deu	Libyen	date20100514
+LangTagCountryLibyanArabJamahiriya	eng	Libyan Arab Jamahiriya	date20100514
+
+LangTagCountryLiechtenstein	deu	Liechtenstein	date20100514
+LangTagCountryLiechtenstein	eng	Liechtenstein	date20100514
+
+LangTagCountryLithuania	deu	Litauen	date20100514
+LangTagCountryLithuania	eng	Lithuania	date20100514
+
+LangTagCountryLuxembourg	deu	Luxemburg	date20100514
+LangTagCountryLuxembourg	eng	Luxembourg	date20100514
+
+LangTagCountryMacao	deu	Macao	date20100514
+LangTagCountryMacao	eng	Macao	date20100514
+
+LangTagCountryMadagascar	deu	Madagaskar	date20100514
+LangTagCountryMadagascar	eng	Madagascar	date20100514
+
+LangTagCountryMalawi	deu	Malawi	date20100514
+LangTagCountryMalawi	eng	Malawi	date20100514
+
+LangTagCountryMalaysia	deu	Malaysia	date20100514
+LangTagCountryMalaysia	eng	Malaysia	date20100514
+
+LangTagCountryMaldives	deu	Maldiven	date20100514
+LangTagCountryMaldives	eng	Maldives	date20100514
+
+LangTagCountryMali	deu	Mali	date20100514
+LangTagCountryMali	eng	Mali	date20100514
+
+LangTagCountryMalta	deu	Malta	date20100514
+LangTagCountryMalta	eng	Malta	date20100514
+
+LangTagCountryMorocco	deu	Marocco	date20100514
+LangTagCountryMorocco	eng	Morocco	date20100514
+
+LangTagCountryMarshallIslands	deu	Marshallinseln	date20100514
+LangTagCountryMarshallIslands	eng	Marshall Islands	date20100514
+
+LangTagCountryMartinique	deu	Martinique	date20100514
+LangTagCountryMartinique	eng	Martinique	date20100514
+
+LangTagCountryMauritania	deu	Mauritanien	date20100514
+LangTagCountryMauritania	eng	Mauritania	date20100514
+
+LangTagCountryMauritius	deu	Mauritius	date20100514
+LangTagCountryMauritius	eng	Mauritius	date20100514
+
+LangTagCountryMayotte	deu	Mayotte	date20100514
+LangTagCountryMayotte	eng	Mayotte	date20100514
+
+LangTagCountryMacedoniaFormerYugoslavRepublic	deu	Mazedonien, die ehemalige Jugoslawische Republik	date20100514
+LangTagCountryMacedoniaFormerYugoslavRepublic	eng	Macedonia, the Former Yugoslav Republic	date20100514
+
+LangTagCountryMexico	deu	Mexiko	date20100514
+LangTagCountryMexico	eng	Mexico	date20100514
+
+LangTagCountryMicronesiaFederatedStates	deu	Mikronesien, Staatsfцderation	date20100514
+LangTagCountryMicronesiaFederatedStates	eng	Micronesia, Federated States of	date20100514
+
+LangTagCountryMoldovaRepublic	deu	Moldawien, Republik	date20100514
+LangTagCountryMoldovaRepublic	eng	Moldova, Republic of	date20100514
+
+LangTagCountryMonaco	deu	Monako	date20100514
+LangTagCountryMonaco	eng	Monaco	date20100514
+
+LangTagCountryMongolia	deu	Mongolei	date20100514
+LangTagCountryMongolia	eng	Mongolia	date20100514
+
+LangTagCountryMontserrat	deu	Montserrat	date20100514
+LangTagCountryMontserrat	eng	Montserrat	date20100514
+
+LangTagCountryMozambique	deu	Mosambik	date20100514
+LangTagCountryMozambique	eng	Mozambique	date20100514
+
+LangTagCountryMyanmar	deu	Myanmar	date20100514
+LangTagCountryMyanmar	eng	Myanmar	date20100514
+
+LangTagCountryNamibia	deu	Namibia	date20100514
+LangTagCountryNamibia	eng	Namibia	date20100514
+
+LangTagCountryNauru	deu	Nauru	date20100517
+LangTagCountryNauru	eng	Nauru	date20100517
+
+LangTagCountryNepal	deu	Nepal	date20100517
+LangTagCountryNepal	eng	Nepal	date20100517
+
+LangTagCountryNewCaledonia	deu	Neukaledonien	date20100517
+LangTagCountryNewCaledonia	eng	New Caledonia	date20100517
+
+LangTagCountryNewZealand	deu	Neuseeland	date20100517
+LangTagCountryNewZealand	eng	New Zealand	date20100517
+
+LangTagCountryNetherlands	deu	Niederlande	date20100517
+LangTagCountryNetherlands	eng	Netherlands	date20100517
+
+LangTagCountryNetherlandsAntilles	deu	Niederlaendische Antillen	date20100517
+LangTagCountryNetherlandsAntilles	eng	Netherlands Antilles	date20100517
+
+LangTagCountryNiger	deu	Niger	date20100517
+LangTagCountryNiger	eng	Niger	date20100517
+
+LangTagCountryNigeria	deu	Nigeria	date20100517
+LangTagCountryNigeria	eng	Nigeria	date20100517
+
+LangTagCountryNicaragua	deu	Nikaragua	date20100517
+LangTagCountryNicaragua	eng	Nicaragua	date20100517
+
+LangTagCountryNiue	deu	Niue	date20100517
+LangTagCountryNiue	eng	Niue	date20100517
+
+LangTagCountryNorthernMarianaIslands	deu	Nordische Marianen-Inseln	date20100517
+LangTagCountryNorthernMarianaIslands	eng	Northern Mariana Islands	date20100517
+
+LangTagCountryNorfolkIsland	deu	Norfolkinseln	date20100517
+LangTagCountryNorfolkIsland	eng	Norfolk Island	date20100517
+
+LangTagCountryNorway	deu	Norwegen	date20100517
+LangTagCountryNorway	eng	Norway	date2010517
+
+LangTagCountryOman	deu	Oman	date20100517
+LangTagCountryOman	eng	Oman	date20100517
+
+LangTagCountryAustria	deu	Oesterreich	date20100517
+LangTagCountryAustria	eng	Austria	date20100517
+
+LangTagCountryTimorLeste	deu	Ost-Timur	date20100517
+LangTagCountryTimorLeste	eng	Timor-Leste	date20100517
+
+LangTagCountryPakistan	deu	Pakistan	date20100517
+LangTagCountryPakistan	eng	Pakistan	date20100517
+
+LangTagCountryPalestinianTerritory	deu	Palestinensische Territorium, das	date20100517
+LangTagCountryPalestinianTerritory	eng	Palestinian Territory	date20100517
+
+LangTagCountryPalau	deu	Palau	date20100517
+LangTagCountryPalau	eng	Palau	date20100517
+
+LangTagCountryPanama	deu	Panama	date20100517
+LangTagCountryPanama	eng	Panama	date20100517
+
+LangTagCountryPapuaNewGuinea	deu	Papua-Neuguinea	date20100517
+LangTagCountryPapuaNewGuinea	eng	Papua New Guinea	date20100517
+
+LangTagCountryParaguay	deu	Paraguay	date20100517
+LangTagCountryParaguay	eng	Paraguay	date20100517
+
+LangTagCountryPeru	deu	Peru	date20100517
+LangTagCountryPeru	eng	Peru	date20100517
+
+LangTagCountryPhilippines	deu	Philippinen	date20100517
+LangTagCountryPhilippines	eng	Philippines	date20100517
+
+LangTagCountryPitcairn	deu	Pitcairn	date20100517
+LangTagCountryPitcairn	eng	Pitcairn	date20100517
+
+LangTagCountryPoland	deu	Polen	date20100517
+LangTagCountryPoland	eng	Poland	date20100517
+
+LangTagCountryPortugal	deu	Portugal	date20100517
+LangTagCountryPortugal	eng	Portugal	date20100517
+
+LangTagCountryPuertoRico	deu	Puerto Rico	date20100517
+LangTagCountryPuertoRico	eng	Puerto Rico	date20100517
+
+LangTagCountryReunion	deu	Reunion	date20100517
+LangTagCountryReunion	eng	Reunion	date20100517
+
+LangTagCountryRwanda	deu	Ruanda	date20100517
+LangTagCountryRwanda	eng	Rwanda	date20100517
+
+LangTagCountryRomania	deu	Rumaenien	date20100517
+LangTagCountryRomania	eng	Romania	date20100517
+
+LangTagCountryRussianFederation	deu	Russland	date20100517
+LangTagCountryRussianFederation	eng	Russian Federation	date20100517
+
+LangTagCountrySolomonIslands	deu	Salomon-Inseln	date20100517
+LangTagCountrySolomonIslands	eng	Solomon Islands	date20100517
+
+LangTagCountryZambia	deu	Sambia	date20100517
+LangTagCountryZambia	eng	Zambia	date20100517
+
+LangTagCountrySamoa	deu	Samoa	date20100517
+LangTagCountrySamoa	eng	Samoa	date20100517
+
+LangTagCountrySanMarino	deu	San Marino	date20100517
+LangTagCountrySanMarino	eng	San Marino	date20100517
+
+LangTagCountrySaoTomeAndPrincipe	deu	Sao Tome und Principe	date20100517
+LangTagCountrySaoTomeAndPrincipe	eng	Sao Tome and Principe	date20100517
+
+LangTagCountrySaudiArabia	deu	Saudi-Arabien	date20100517
+LangTagCountrySaudiArabia	eng	Saudi Arabia	date20100517
+
+LangTagCountrySweden	deu	Schweden	date20100517
+LangTagCountrySweden	eng	Sweden	date20100517
+
+LangTagCountrySwitzerland	deu	Schweiz	date20100517
+LangTagCountrySwitzerland	eng	Switzerland	date20100517
+
+LangTagCountrySenegal	deu	Senegal	date20100517
+LangTagCountrySenegal	eng	Senegal	date20100517
+
+LangTagCountrySerbiaAndMontenegro	deu	Serbien-Montenegro	date20100517
+LangTagCountrySerbiaAndMontenegro	eng	Serbia and Montenegro	date20100517
+
+LangTagCountrySeychelles	deu	Seychelles	date20100517
+LangTagCountrySeychelles	eng	Seychelles	date20100517
+
+LangTagCountrySierraLeone	deu	Sierra Leone	date20100517
+LangTagCountrySierraLeone	eng	Sierra Leone	date20100517
+
+LangTagCountryZimbabwe	deu	Simbabwe	date20100517
+LangTagCountryZimbabwe	eng	Zimbabwe	date20100517
+
+LangTagCountrySingapore	deu	Singapur	date20100517
+LangTagCountrySingapore	eng	Singapore	date20100517
+
+LangTagCountrySlovakia	deu	Slovakei	date20100517
+LangTagCountrySlovakia	eng	Slovakia	date20100517
+
+LangTagCountrySlovenia	deu	Slovenien	date20100517
+LangTagCountrySlovenia	eng	Slovenia	date20100517
+
+LangTagCountrySomalia	deu	Somalia	date20100517
+LangTagCountrySomalia	eng	Somalia	date20100517
+
+LangTagCountrySpain	deu	Spanien	date20100517
+LangTagCountrySpain	eng	Spain	date20100517
+
+LangTagCountrySriLanka	deu	Sri Lanka	date20100517
+LangTagCountrySriLanka	eng	Sri Lanka	date20100517
+
+LangTagCountrySaintHelena	deu	St. Helena	date20100517
+LangTagCountrySaintHelena	eng	Saint Helena	date20100517
+
+LangTagCountrySaintKittsAndNevis	deu	St. Kitts und Nevis	date20100517
+LangTagCountrySaintKittsAndNevis	eng	Saint Kitts and Nevis	date20100517
+
+LangTagCountrySaintLucia	deu	St Lucia	date20100517
+LangTagCountrySaintLucia	eng	Saint Lucia	date20100517
+
+LangTagCountrySaintPierreAndMiquelon	deu	St. Peirre und Miquelon	date20100517
+LangTagCountrySaintPierreAndMiquelon	eng	Saint Pierre and Miquelon	date20100517
+
+LangTagCountrySaintVincentAndTheGrenadines	deu	St. Vincent und die Grenadinen	date20100517
+LangTagCountrySaintVincentAndTheGrenadines	eng	Saint Vincent and the Grenadines	date20100517
+
+LangTagCountrySouthAfrica	deu	Suedafrika	date20100517
+LangTagCountrySouthAfrica	eng	South Africa	date20100517
+
+LangTagCountrySudan	deu	Sudan	date20100517
+LangTagCountrySudan	eng	Sudan	date20100517
+
+LangTagCountrySouthGeorgiaAndTheSouthSandwichIslands	deu	Sudgeorgien und Sudsandwitsch-Inseln	date20100517
+LangTagCountrySouthGeorgiaAndTheSouthSandwichIslands	eng	South Georgia and the South Sandwich Islands	date20100517
+
+LangTagCountrySuriname	deu	Suriname	date20100517
+LangTagCountrySuriname	eng	Suriname	date20100517
+
+LangTagCountrySvalbardJanMayen	deu	Svalbard & Jan Mayen	date20100517
+LangTagCountrySvalbardJanMayen	eng	Svalbard & Jan Mayen	date20100517
+
+LangTagCountrySwaziland	deu	Swasiland	date20100517
+LangTagCountrySwaziland	eng	Swaziland	date20100517
+
+LangTagCountrySyrianArabRepublic	deu	Syrien, Arabische Republik	date20100517
+LangTagCountrySyrianArabRepublic	eng	Syrian Arab Republic	date20100517
+
+LangTagCountryTajikistan	deu	Tadschikistan	date20100517
+LangTagCountryTajikistan	eng	Tajikistan	date20100517
+
+LangTagCountryTaiwan	deu	Taiwan	date20100517
+LangTagCountryTaiwan	eng	Taiwan	date20100517
+
+LangTagCountryTanzaniaUnitedRepublic	deu	Tansania, Vereinigte Republik	date20100517
+LangTagCountryTanzaniaUnitedRepublic	eng	Tanzania, United Republic of	date20100517
+
+LangTagCountryThailand	deu	Thailand	date20100517
+LangTagCountryThailand	eng	Thailand	date20100517
+
+LangTagCountryTogo	deu	Togo	date20100517
+LangTagCountryTogo	eng	Togo	date20100517
+
+LangTagCountryTokelau	deu	Tokelau	date20100517
+LangTagCountryTokelau	eng	Tokelau	date20100517
+
+LangTagCountryTonga	deu	Tonga	date20100517
+LangTagCountryTonga	eng	Tonga	date20100517
+
+LangTagCountryTrinidadAndTobago	deu	Trinidad und Tobago	date20100517
+LangTagCountryTrinidadAndTobago	eng	Trinidad and Tobago	date20100517
+
+LangTagCountryChad	deu	Tschad	date20100517
+LangTagCountryChad	eng	Chad	date20100517
+
+LangTagCountryCzechRepublic	deu	Tschechische Republik	date20100517
+LangTagCountryCzechRepublic	eng	Czech Republic	date20100517
+
+LangTagCountryTunisia	deu	Tunesien	date20100517
+LangTagCountryTunisia	eng	Tunisia	date20100517
+
+LangTagCountryTurkey	deu	Tuerkei	date20100517
+LangTagCountryTurkey	eng	Turkey	date20100517
+
+LangTagCountryTurkmenistan	deu	Turkmenistan	date20100517
+LangTagCountryTurkmenistan	eng	Turkmenistan	date20100517
+
+LangTagCountryTurksAndCaicosIslands	deu	Turks- und Caicos-Inseln	date20100517
+LangTagCountryTurksAndCaicosIslands	eng	Turks and Caicos Islands	date20100517
+
+LangTagCountryTuvalu	deu	Tuvalu	date20100517
+LangTagCountryTuvalu	eng	Tuvalu	date20100517
+
+LangTagCountryUganda	deu	Uganda	date20100517
+LangTagCountryUganda	eng	Uganda	date20100517
+
+LangTagCountryUkraine	deu	Ukraine	date20100517
+LangTagCountryUkraine	eng	Ukraine	date20100517
+
+LangTagCountryHungary	deu	Ungarn	date20100517
+LangTagCountryHungary	eng	Hungary	date20100517
+
+LangTagCountryUruguay	deu	Uruguay	date20100517
+LangTagCountryUruguay	eng	Uruguay	date20100517
+
+LangTagCountryUzbekistan	deu	Uzbekistan	date20100517
+LangTagCountryUzbekistan	eng	Uzbekistan	date20100517
+
+LangTagCountryVirginIslandsUS	deu	US-Jungferninseln	date20100517
+LangTagCountryVirginIslandsUS	eng	Virgin Islands, U.S	date20100517
+
+LangTagCountryVanuatu	deu	Vanuatu	date20100517
+LangTagCountryVanuatu	eng	Vanuatu	date20100517
+
+LangTagCountryVenezuela	deu	Venezuela	date20100517
+LangTagCountryVenezuela	eng	Venezuela	date20100517
+
+LangTagCountryUnitedArabEmirates	deu	Vereinigte Arabische Emiraten	date20100517
+LangTagCountryUnitedArabEmirates	eng	United Arab Emirates	date20100517
+
+LangTagCountryUnitedKingdom	deu	Vereinigtes Koenigreich	date20100517
+LangTagCountryUnitedKingdom	eng	United Kingdom	date20100517
+
+LangTagCountryUnitedStates	deu	Vereinigte Staaten	date20100517
+LangTagCountryUnitedStates	eng	United States	date20100517
+
+LangTagCountryVietNam	deu	Vietnam	date20100517
+LangTagCountryVietNam	eng	Viet Nam	date20100517
+
+LangTagCountryWallisAndFutuna	deu	Wallis und Futuna	date20100517
+LangTagCountryWallisAndFutuna	eng	Wallis and Futuna	date20100517
+
+LangTagCountryChristmasIsland	deu	Weinachtsinseln	date20100517
+LangTagCountryChristmasIsland	eng	Christmas Island	date20100517
+
+LangTagCountryBelarus	deu	Weissrussland	date20100517
+LangTagCountryBelarus	eng	Belarus	date20100517
+
+LangTagCountryWesternSahara	deu	Westsahara	date20100517
+LangTagCountryWesternSahara	eng	Western Sahara	date20100517
+
+LangTagCountryCentralAfricanRepublic	deu	Zentranafrikanische Republik	date20100517
+LangTagCountryCentralAfricanRepublic	eng	Central African Republic	date20100517
+
+LangTagCountryCyprus	deu	Zypern	date20100517
+LangTagCountryCyprus	eng	Cyprus	date20100517
+//End Countries
+
+...	deu	anmelden.	date2006mmtt
+...	rus	зарегистрироваться.	date2006mmtt	
+...	eng	Example	date2005mmtt	
+..
+				
+//  GS ShopBuilder, Copyright (c) 2006 by GS Software AG, Dortmund (www.gs-shopbuilder.com) - Do not remove this copyright notice!				
+x				
+x				
+x				

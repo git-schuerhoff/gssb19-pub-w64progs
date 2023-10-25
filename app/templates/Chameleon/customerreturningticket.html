@@ -1,0 +1,147 @@
+<html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>
+Returningticket
+</title>
+<style type="text/css" media="screen">
+body, td, textarea {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12px;
+}
+.feld
+{
+border: 1px solid lightgrey;
+width: 360;
+}
+
+.adressfeld
+{
+border: 1px solid lightgrey;
+width: 260px;
+}
+
+textarea
+{
+overflow:auto;
+font-family: arial, helvetica, sans-serif;
+font-weight: bold;
+font-size: 90%;
+/* rows="8"*/
+width: 200px;
+height: 120px;
+}
+
+.trennlinie
+{
+width: 100%;
+border: 1px darkgray dashed;
+}
+</style>
+<style type="text/css" media="print">
+body, td, textarea {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12px;
+}
+.feld
+{
+border: 1px solid white;
+width: 360;
+}
+
+.adressfeld
+{
+border: 1px solid white;
+width: 200px;
+height: 16px;
+font-sizefont-family: arial, helvetica, sans-serif;
+font-size: 10px;
+}
+
+
+textarea
+{
+overflow:auto;
+font-family: arial, helvetica, sans-serif;
+font-weight: bold;
+font-size: 90%;
+/* rows="8"*/
+width: 200px;
+height: 120px;
+}
+
+.trennlinie
+{
+width: 100%;
+border: 1px darkgray dashed;
+}
+</style>
+</head>
+
+
+<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" onload="javascript:document.getElementById('adress_name').focus();">
+<div align="center"><i>{GSSE_LANG_LangTagReturningticket_txt1}</i></div>
+<hr class="trennlinie">
+<table width="600" border="0" cellspacing="2" cellpadding="2" align="center" style="border:1px solid black;">
+<tr><td colspan="2" align="center"><h2><u>{GSSE_LANG_LangTagReturningticket_txt2}</u></h2></td></tr>
+<tr><td>{GSSE_LANG_LangTagFieldLastNameSender}:</td><td>{GSSE_LANG_LangTagReturningticket_receiver}</td></tr>
+<tr>
+<td width="28%" valign="top">
+<input type="text" value="{GSSE_INCL_FULLNAME}" class="adressfeld" id="adress_name" name="adress_name" /><br />
+<input type="text" value="{GSSE_INCL_COMPANY}" class="adressfeld" /><br />
+<input type="text" value="{GSSE_INCL_STREET}" class="adressfeld" /><br />
+<input type="text" value="{GSSE_INCL_ZIP}" class="adressfeld" style="width: 60px;" /><input type="text" value="{GSSE_INCL_CITY}" class="adressfeld" style="width: 140px;" /><br />
+</td>
+<td width="50%" colspan="2" align="left" class="producttitledetails" style="font-weight:bold;" valign="top">
+	{GSSE_INCL_RETURNADDR}
+</td>
+</tr>
+</table>
+<hr class="trennlinie">
+<div align="center"><i>{GSSE_LANG_LangTagReturningticket_txt4}</i></div>
+<table width="600" border="0" cellspacing="2" cellpadding="2" align="center" style="border:1px solid black;">
+<tr><td colspan="2" align="center"><h2><u>{GSSE_LANG_LangTagReturningticket_txt5}</u></h2></td></tr>
+<tr><td><h4><u>{GSSE_LANG_LangTagReturningticket_customerhead}</u></h4></td></tr>
+<tr><td>{GSSE_LANG_LangTagReturningticket_customernumber}</td><td><input class="feld" type="text" value="{GSSE_INCL_CUSNO}" /></td></tr>
+<tr><td>{GSSE_LANG_LangTagReturningticket_customername}</td><td><input class="feld" type="text" value="{GSSE_INCL_FULLNAME}" /> </td></tr>
+<tr><td>{GSSE_LANG_LangTagReturningticket_customercompany}</td><td><input class="feld" type="text" value="{GSSE_INCL_COMPANY}" /></td></tr>
+<tr><td>{GSSE_LANG_LangTagReturningticket_customerstreet}</td><td><input class="feld" type="text" value="{GSSE_INCL_STREET}" /></td></tr>
+<tr><td>{GSSE_LANG_LangTagReturningticket_customerzipcode}</td><td><input class="feld" type="text" value="{GSSE_INCL_ZIP}" /></td></tr>
+<tr><td>{GSSE_LANG_LangTagReturningticket_customercity}</td><td><input class="feld" type="text" value="{GSSE_INCL_CITY}" /></td></tr>
+<tr><td>{GSSE_LANG_LangTagReturningticket_customertelephone}</td><td><input class="feld" type="text" value="{GSSE_INCL_PHONE}" /></td></tr>
+<tr><td>{GSSE_LANG_LangTagReturningticket_customeremail}</td><td><input class="feld" type="text" value="{GSSE_INCL_EMAIL}" /></td></tr>
+
+<tr><td><h4><u>{GSSE_LANG_LangTagReturningticket_orderhead}</u></h4></td></tr>
+
+<tr><td>{GSSE_LANG_LangTagReturningticket_ordernumber}</td><td><input class="feld" type="text" value="{GSSE_INCL_ORDERID}" /></td></tr>
+<tr><td>{GSSE_LANG_LangTagReturningticket_orderdate}</td><td><input class="feld" type="text" value="{GSSE_INCL_ORDERDATE}" /></td></tr>
+<tr><td>{GSSE_LANG_LangTagReturningticket_orderpos}</td><td><input class="feld" type="text" value="{GSSE_INCL_ORDERPOS}" /></td></tr>
+<tr><td>{GSSE_LANG_LangTagReturningticket_orderarticlenr}</td><td><input class="feld" type="text" value="{GSSE_INCL_ORDERITEMNO}" /></td></tr>
+<tr><td>{GSSE_LANG_LangTagReturningticket_orderdesignation}</td><td><input class="feld" type="text" value="{GSSE_INCL_ORDERITEMNAME}" /></td></tr>
+<tr><td><b>{GSSE_LANG_LangTagReturningticket_orderamount}</b></td><td><input class="feld" type="text" value="{GSSE_INCL_ORDERQTY}" style="font-weight:bold;" /></td></tr>
+<tr><td>{GSSE_LANG_LangTagReturningticket_orderpriceperunit}</td><td><input class="feld" type="text" value="{GSSE_INCL_ORDERPRC}" /></td></tr>
+<tr><td>{GSSE_LANG_LangTagReturningticket_ordercurrency}</td><td><input class="feld" type="text" value="{GSSE_INCL_INCL_ORDERCURRENCY}" /></td></tr>
+
+<tr><td valign="top">{GSSE_LANG_LangTagReturningticket_returningreason}</i></td> <td> <textarea class="feld" wrap="physical"></textarea></td></tr>
+
+<tr>
+<td cslspan="2">
+__________________________<br />
+{GSSE_LANG_LangTagReturningticket_datesignature}
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<i>{GSSE_LANG_LangTagReturningticket_footinfo}</i>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<a href="#" onClick="javascript:window.print();"><img src="../template/images/print.gif" alt="print" /></a>
+</td>
+</tr>
+</table>
+<hr class="trennlinie">
+</body>
+</html>

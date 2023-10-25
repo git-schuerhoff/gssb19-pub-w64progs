@@ -1,0 +1,46 @@
+<div class="menu-title" id="displayMenu_6_4711">
+	<a href="#">{GSSE_LANG_LangTagShopInfoTitle}</a><span class="option">nav</span>
+</div>
+<div class="em_nav" id="toogle_menu_6_4711">
+	<ul class="vnav megamenu">
+		<li class="menutitle">
+			<span>
+				{GSSE_LANG_LangTagShopInfoTitle}
+			</span>
+		</li>
+		{GSSE_INCL_SHOPINFOITEMS}
+	</ul>
+</div>
+<script type="text/javascript">
+	function toogle_menu_6_4711()
+	{
+		var $=jQuery;
+		var container = $("#toogle_menu_6_4711");
+		var textClick = $("#displayMenu_6_4711");
+		if($("body").hasClass("adapt-0")==true || isMobile == true)
+		{
+			textClick.show();
+			container.hide();
+			textClick.unbind('click');
+			textClick.bind('click',function()
+			{
+				container.slideToggle();
+			});
+		}
+		else
+		{
+			textClick.hide();
+			container.show();
+		}
+	};
+			
+	jQuery(document).ready(function()
+	{
+		toogle_menu_6_4711();
+	});
+			
+	jQuery(window).bind('emadaptchange orientationchange', function()
+	{
+		toogle_menu_6_4711();
+	});
+</script>

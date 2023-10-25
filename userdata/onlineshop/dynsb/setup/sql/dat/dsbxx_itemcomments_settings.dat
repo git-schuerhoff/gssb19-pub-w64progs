@@ -1,0 +1,1 @@
+INSERT INTO {dsbxx_}itemcomments_settings (itseIdNo, itseVisDef) VALUES (NULL, 0), (NULL, 0);

@@ -1,0 +1,30 @@
+<div class="box">
+	<ul class="form-list">
+		<li>
+			{GSSE_LANG_LangTagPleaseLogin}
+		</li>
+		<li>
+			<label>{GSSE_LANG_LangTagTextUser}:</label>
+			<div class="input-box">
+				<input type="text" name="userid" id="userid" size="20" class="input-text" />
+			</div>
+		</li>
+		<li>
+			<label>{GSSE_LANG_LangTagTextPassword}:</label>
+			<div class="input-box">
+				<input type="password" name="password" id="password" size="20" class="input-text" onkeyup="simulateClickByKey(event,13,'b2bbutton');" />
+			</div>
+		</li>
+		<li>
+			<div class="buttons-set">
+				<button type="button" class="button" name="b2bbutton" id="b2bbutton" title="{GSSE_LANG_LangTagSubmit}" onclick="chkcustomerlogin(document.getElementById('userid').value, document.getElementById('password').value,1);" />
+					<span><span>{GSSE_LANG_LangTagTextLogin}</span></span>
+				</button>
+			</div>
+		</li>
+	</ul>
+</div>
+<!--TS 29.10.2015: Fokus auf "userid" setzen-->
+<script language="javascript">
+	document.getElementById('userid').focus();
+</script>

@@ -1,0 +1,43 @@
+<div class="add-to-cart">
+	<div class="{GSSE_INCL_ADDQUANTITY}">
+		<label for="qty">{GSSE_LANG_LangTagTextQuantity}</label>
+		<div class="qty-ctl">
+			<button title="{GSSE_LANG_LangTagDecrease}" onclick="changeQty(0); return false;" class="decrease">decrease</button>
+		</div>
+		<input name="qty" id="qty" maxlength="5" onchange="document.getElementById('errbox').className='no-display';" value="1" title="{GSSE_LANG_LangTagTextQuantity}" class="input-text qty" type="text">
+		<div class="qty-ctl">
+			<button title="{GSSE_LANG_LangTagIncrease}" onclick="changeQty(1); return false;" class="increase">increase</button>
+		</div>
+	</div>
+	{GSSE_INCL_PPEXPRESSCHECKOUT}
+	<div class="{GSSE_INCL_BILLINGFREQUENCYCLASS}">
+		{GSSE_LANG_LangTagBillingFrequencyWish}
+		<ul class="form-list">
+			<li class="fields">
+				<div class="input-box">
+					<select name="billingfrequency" id="billingfrequency" class="required-entry">
+						{GSSE_INCL_BILLINGFREQUENCYOPTIONS}
+					</select>
+				</div>
+			</li>
+		</ul>
+	</div>
+	<button type="button" title="{GSSE_LANG_LangTagAddToBasket}" class="button btn-cart" onclick="new_add_to_basket({GSSE_INCL_ITEMID});">
+		<span><span>{GSSE_LANG_LangTagAddToBasket}</span></span>
+	</button>
+</div>
+<div class="clear"></div>
+<p id="errbox" class="no-display"></p>
+<script type="text/javascript">
+	function changeQty(increase) {
+		var qty = parseInt($('qty').value);
+		if ( !isNaN(qty) ) {
+			qty = increase ? qty+1 : (qty>1 ? qty-1 : 1);
+			$('qty').value = qty;
+		}
+		else{
+			$('qty').value = 1;
+		}
+		document.getElementById('errbox').className='no-display';
+	}
+</script>

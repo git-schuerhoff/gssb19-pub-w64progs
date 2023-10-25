@@ -1,0 +1,145 @@
+<!-- Don't remove these lines!!!-->
+<!-- Diese Zeilen nicht entfernen!!!-->
+<!-- Diese Zeilen nicht entfernen!!!-->
+{GSSE_JSCR_itemgroup.js}
+{GSSE_JSCR_customerfuncs.js}
+<!-- End -->
+<body>
+<div class="wrapper ">
+	<noscript>
+		<div class="global-site-notice noscript">
+			<div class="notice-inner">
+				<p>
+					<strong>{GSSE_LANG_LangTagPleaseActivateJavascript}</strong>
+				</p>
+			</div>
+		</div>
+	</noscript>
+	<div class="page one-column">
+		<div class="bkg_header_top">
+			<div class="container_24 container_header_top">
+				<div class="grid_24">
+					<div class="header_top">
+						<div class="grid_24 omega">
+							{GSSE_FUNC_SHOPINFO}
+							{GSSE_FUNC_SHOPMENU}
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="bkg_header_top cust_menu">
+			<div class="container_24 container_header_top cust_menu">
+				<div class="grid_24">
+					<div class="header_top">
+						{GSSE_FUNC_CUSMENU}
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="bkg_header_bottom">
+			<div class="container_24 container_header">
+				<div class="grid_24">
+					<div class="header-container">
+						{GSSE_FUNC_CONTHEADER}
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="main-container">
+			<div class="container_24 ">
+				<div class="grid_24">
+					{GSSE_FUNC_BREADCRUMBNAVINEW}
+				</div>
+				<div class="clear"></div>
+				<div class="grid_4 col-left sidebar">
+					{GSSE_FUNC_MAINMENUNEW}
+					{GSSE_FUNC_BANNER|2}
+					{GSSE_FUNC_ITEMCOMPARE}
+					{GSSE_FUNC_LASTVIEWEDNEW}
+					{GSSE_FUNC_CONTENTPOOL|Standard-Content5}
+					{GSSE_FUNC_CONTENTPOOL|Standard-Content8}
+					{GSSE_FUNC_BANNER|3}
+					{GSSE_FUNC_CONTENTPOOL|Standard-Content6}
+				</div>
+				<!--End Breadcrumbnavi-->
+				<div class="grid_20 col-main">
+					{GSSE_FUNC_CONTENTPOOL|Standard-Content3}
+					<div class="page-title category-title">
+						<h1>{GSSE_LANG_LangTagNotepad}</h1>
+						<p>{GSSE_LANG_LangTagNotepadText}</p>
+					</div>
+					<div class="category-products">
+						{GSSE_FUNC_TOOLBAR|1}
+						<!--Begin Products-->
+						<div id="items_container"></div>
+						{GSSE_FUNC_NOTEPADNEW}
+						<!--End Products-->
+						{GSSE_FUNC_TOOLBAR|2}
+					</div>
+					{GSSE_FUNC_CONTENTPOOL|Standard-Content4}
+				</div>
+				<!--End PG-Titlebars-->
+				<div class="clear"></div>
+				<div class="clear"></div>
+				<div class="clear"></div>
+				<div class="grid_24">
+					{GSSE_FUNC_SOCIALNETWORKS}
+					<!--End Social-->
+				</div>
+				<div class="clear"></div>
+				<!--Begin Footer inline Block-->
+				{GSSE_FUNC_FOOTER}
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="bkg_footer_bottom">
+			<div class="container_24 container_footer">
+				<div class="grid_14">
+					<div class="footer-container">
+						<div class="footer">
+							<address>
+								<span>{GSSE_TXDB_contentpool|Text|Name|ShopFootNote}&nbsp;{GSSE_TXDB_contentpool|Text|Name|FootNote}</span>
+							</address>
+						</div>
+					</div>
+					<p style="display: none;" id="back-top">
+						<a title="Back To Top" href="#top">Back to Top</a>
+					</p>
+				</div>
+				<div class="grid_10">
+					{GSSE_FUNC_SHIPMPAYM}
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="">
+			<div id="containerDiv" style="display: none;">
+				<div class="ajaxcart">
+					<img class="ajax_loading" id="ajax_loading" src="{GSSE_SURL_}template/images/loading.gif" alt="">
+					<div id="ajax_content" style="display:none">
+						<div class="ajaxcart_row1 row1">
+							<div id="ajax_image"></div>
+						</div>
+						<div class="row2">
+							<a href="javascript:void(0);" id="closeLink" class="back"><span>Not Now</span><span class="emajc_num"></span></a>
+							<a id="viewcart_button" href="javascript:void(0);" class="next" onclick="ajaxaddnext();"><span>Add to Cart</span></a>
+							<a id="ajc_btn_checkout" class="next" href="#"><span>View cart &amp; checkout</span></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--Begin Most Popular Keywords-->
+	<!--End Most Popular Keywords-->
+</div>
+<div id="bg_fade"></div>
+{GSSE_FUNC_ITEMGROUP}
+</body>
+</html>

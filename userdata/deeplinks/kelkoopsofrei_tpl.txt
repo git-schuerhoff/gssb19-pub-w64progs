@@ -1,0 +1,1 @@
+product-url	title	description	price	offer-id	image-url	merchant-category	availability	delivery-cost	delivery-time	ean	brand	unit-price	mpn	currency

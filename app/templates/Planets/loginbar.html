@@ -1,0 +1,106 @@
+<div id="login-form-row" class="bkg_header_bottom gs-login no-display">
+	<div class="container_24 container_header">
+		<div class="grid_24">
+			<div class="grid_17 alpha">
+				&nbsp;
+			</div>
+			<div class="grid_7 omega">
+				<form id="login_mini_form" action="" method="post">
+					<div class="form-login-button" id="gs-form-login-button" onclick="return do_login();">
+						<button>
+							<span class="glyphicon glyphicon-log-in"></span>
+							<span>{GSSE_LANG_LangTagTextLogin}</span>
+						</button>
+					</div>
+					<div id="divUserId" class="form-login">
+						<label for="search">{GSSE_LANG_LangTagTextUser}:</label>
+						<div class="input_login">
+							<input autocomplete="off" id="userid" name="userid" value="" placeholder="{GSSE_LANG_LangTagTextUser}" class="input-text" maxlength="255" type="text">
+						</div>
+					</div>
+					<div id="divPart2" class="form-login">
+						<label for="password">{GSSE_LANG_LangTagTextPassword}:</label>
+						<div class="input_login">
+							<input autocomplete="off" id="part2" name="part2" value="" placeholder="{GSSE_LANG_LangTagTextPassword}" class="input-text" maxlength="255" type="password">
+						</div>
+					</div>
+					<div class="clearfix"></div>
+					<div class="gs-forgot-pwd"><a name="resendpwd" href="index.php?page=resendpwd" title="{GSSE_LANG_LangTagResendPasswdCustomer}">{GSSE_LANG_LangTagResendPasswdCustomer}</a></div>
+					<div class="gs-forgot-pwd"><a name="signin" href="index.php?page=createcustomer" title="{GSSE_LANG_LangTagSignIn}">{GSSE_LANG_LangTagSignIn}</a></div>
+				</form>
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<script>
+	var show_hide_loginbar = function() {
+		if(jQuery('#login-form-row').hasClass('no-display')) {
+			jQuery('#login-form-row').removeClass('no-display');
+			jQuery('#login-form-row').animate({top: '50px'}, 400);
+		} else {
+			jQuery('#login-form-row').animate({top: '-50px'},400, function() {
+				jQuery('#login-form-row').addClass('no-display');
+			});
+		}
+		return false;
+	}
+	
+	jQuery('.gs-login-link').unbind('click').bind('click', function(e) {
+		//debugger;
+		return show_hide_loginbar();
+	});
+	
+	var toggle_border = function(oObj, cClass) {
+		if(oObj.hasClass('red-border')) { oObj.removeClass('red-border'); }
+		if(oObj.hasClass('green-border')) { oObj.removeClass('green-border'); }
+		oObj.addClass(cClass);
+		return;
+	}
+	
+	var do_login = function() {
+		var oUsrId = jQuery('#userid');
+		var oPassWd = jQuery('#part2');
+		var oDivUsr = jQuery('#divUserId');
+		var oDivPwd = jQuery('#divPart2');
+		var cUsrId = oUsrId.val();
+		var cPassWd = oPassWd.val();
+		
+		if(cUsrId == '') {
+			toggle_border(oDivUsr,'red-border');
+			jQuery('#gs-form-login-button').effect('shake');
+			oUsrId.focus();
+			return false;
+		} else {
+			toggle_border(oDivUsr,'green-border');
+		}
+		
+		if(cPassWd == '') {
+			toggle_border(oDivPwd,'red-border');
+			jQuery('#gs-form-login-button').effect('shake');
+			oPassWd.focus();
+			return false;
+		} else {
+			toggle_border(oDivPwd,'green-border');
+		}
+		
+		if(!chkcustomerlogin(cUsrId, cPassWd)) {
+			toggle_border(oDivUsr,'red-border');
+			toggle_border(oDivPwd,'red-border');
+			oUsrId.val('');
+			oPassWd.val('');
+			oUsrId.focus();
+			jQuery('#gs-form-login-button').effect('shake');
+		}
+		
+		return true;
+	}
+	
+	jQuery('#part2').keyup(function(event) {
+		if ( event.which == 13 ) {
+			event.preventDefault();
+			do_login();
+		}
+	});
+	
+</script>

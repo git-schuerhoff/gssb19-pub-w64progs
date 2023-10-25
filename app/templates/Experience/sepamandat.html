@@ -1,0 +1,61 @@
+<div id="sepamandat" style="">
+<div class="my-account">
+	<div class="box-account box-info">
+    <div id="SepaDirectDebit">
+		<div class="box-head">
+			<h1>{GSSE_LANG_LangTagSepaMandat}</h1>
+		</div>
+		<div class="box">
+			<div class="box-title">
+				<h3>{GSSE_LANG_LangTagSepaMandatNumber}</h3>
+			</div>
+			<div class="box-content">
+				{GSSE_LANG_LangTagMandatNumberMessage}
+			</div>
+		</div>
+		<div class="box">
+			<div class="box-title">
+				<h3>{GSSE_LANG_LangTagPaymentRecipients}</h3>
+			</div>
+			<div class="box-content">
+				{GSSE_LANG_LangTagCreditor}: {GSSE_INCL_CREDITOR}<br/>
+				{GSSE_LANG_LangTagCreditorNumber}: {GSSE_INCL_CREDITORNUMBER}<br/><br/>
+                {GSSE_INCL_LangTagCreditorAccept}
+			</div>
+		</div>
+        <div class="box">
+            <div class="box-title">
+                <h3>{GSSE_LANG_LangTagPayable}</h3>
+            </div>
+            <div class="box-content">
+            <table>
+                <tr><td><span>{GSSE_LANG_LangTag__AccountHolder}:&nbsp;&nbsp;</span></td><td><span>{GSSE_INCL_ACCOUNTHOLDER}</span></td></tr>
+                <tr><td><span>{GSSE_LANG_LangTag__FieldAddress}:&nbsp;&nbsp;</span></td><td><span>{GSSE_INCL_STREET}</span></td></tr>
+                <tr><td><span>{GSSE_LANG_LangTag__FieldZipCode}:&nbsp;&nbsp;</span></td><td><span>{GSSE_INCL_ZIP}</span></td></tr>
+                <tr><td><span>{GSSE_LANG_LangTag__FieldCity}:&nbsp;&nbsp;</span></td><td><span>{GSSE_INCL_CITY}</span></td></tr>
+                <tr><td><span>{GSSE_LANG_LangTag__FieldState}:&nbsp;&nbsp;</span></td><td><span>{GSSE_INCL_STATE}</span></td></tr>
+                <tr><td><span>{GSSE_LANG_LangTagFinancialInstitution}:&nbsp;&nbsp;</span></td><td><span>{GSSE_INCL_FinancialInstitution}</span></td></tr>
+				<tr><td><span>{GSSE_LANG_LangTagAccountNumber}:&nbsp;&nbsp;</span></td><td><span>{GSSE_INCL_ACCOUNTNUMBER}</span></td></tr>
+            </table>
+            </div>
+        </div>
+        <div class="box">
+            <span>{GSSE_INCL_CITYDATEFIRM}</span><br/><br/>
+            <span>{GSSE_LANG_LangTagLetterAutomatic}</span><br/><br/>
+            <hr>
+            <span>{GSSE_LANG_LangTagSepaDeadline}</span>
+        </div>
+    </div>
+        <div class="box" id="SepaEinverstanden">
+            <ul class="form-list">
+                <li class="fields">
+                	<span id="sepacheck" class="sprite ms-checkbox " onclick="checkToggle('sepacheck','SepaEinverstandenCheck');">
+                    <input id="SepaEinverstandenCheck" class="checkbox required-entry" name="SepaAccept" value="{GSSE_INCL_SEPAACCEPT}" type="checkbox">
+                    <span class="h3">{GSSE_LANG_LangTagSepaMandatIssue}</span>
+                    </span>
+                </li>
+            </ul>
+        </div>
+	</div>
+</div>
+</div>

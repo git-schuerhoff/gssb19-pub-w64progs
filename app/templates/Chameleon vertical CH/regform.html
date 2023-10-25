@@ -1,0 +1,29 @@
+<h2>{GSSE_LANG_LangTagRegistrationData}</h2>
+<div id="regform">
+<ul class="form-list">
+    <li class="fields">     
+        <div class="input-box">
+            <label class="checkout required" for="cust_email">{GSSE_LANG_LangTagEmail}*</label>
+            <input type="email" id="cust_email" name="cust_email" class="input-text required-entry validate-email" value="" onchange="chk_CustomerEmail(document.getElementById('cust_email').value);"/>
+        </div>
+    </li>
+    <li class="fields">
+        <div class="input-box">
+            <label class="checkout required" for="cust_email_valid">{GSSE_LANG_LangTagConfirmEmail}*</label>
+            <input type="email" id="cust_email_valid" name="cust_email_valid" class="input-text required-entry validate-email" value="" />
+        </div>
+    </li>
+    <li class="fields">
+        <div class="input-box">
+            <label class="checkout required" for="cust_pass">{GSSE_LANG_LangTagTextPassword}*</label>
+            <input autocomplete="off" type="password" id="cust_pass" name="cust_pass"  class="input-text required-entry" title="{GSSE_LANG_LangTagTextPassword}"/>
+        </div>
+    </li>
+    <li class="fields">
+        <div class="input-box">
+            <label class="checkout required" for="cust_pass_valid">{GSSE_LANG_LangTagConfirmPassword}*</label>
+            <input autocomplete="off" type="password" id="cust_pass_valid" name="cust_pass_valid"  class="input-text required-entry" title="{GSSE_LANG_LangTagTextPassword} bestätigen"/>
+        </div>
+    </li>
+</ul>
+</div>

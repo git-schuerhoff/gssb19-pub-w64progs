@@ -1,0 +1,1 @@
+product_url	name	description	image_url	category	price	offer_id

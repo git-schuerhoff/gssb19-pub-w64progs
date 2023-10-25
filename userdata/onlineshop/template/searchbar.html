@@ -1,0 +1,40 @@
+<div id="search-form-row" class="bkg_header_bottom gs-search no-display">
+	<div class="container_24 container_header">
+		<div class="grid_24">
+			<div class="grid_5 alpha">
+				&nbsp;
+			</div>
+			<div class="grid_7">
+				<form id="search_mini_form" action="index.php?page=shopsearch" method="post">
+					<div class="form-search" id="form-search-form">
+						<label for="search">{GSSE_LANG_LangTagExtendedSearch}:</label>
+						<div class="input_search">
+							<input autocomplete="off" id="search" name="search" value="" placeholder="{GSSE_LANG_LangTagSearchHint}" class="input-text" maxlength="128" type="text">
+							<div style="display: none;" id="search_autocomplete" class="search-autocomplete"></div>
+						</div>
+						<button type="submit" title="{GSSE_LANG_LangTagDoSearch}" class="button">
+							<span>
+								<span>{GSSE_LANG_LangTagExtendedSearch}</span>
+							</span>
+						</button>
+					</div>
+				</form>
+				<!--<span id="close-search" class="glyphicon glyphicon-remove search-close"></span>-->
+				<script>
+					/*jQuery("#close-search").on("click", function(event) {
+						//debugger;
+						if(!jQuery("#search-form-row").hasClass("no-display")) {
+							jQuery("#search-form-row").animate({top: "0"},400, function() {
+								jQuery("#search-form-row").addClass("no-display");
+							});
+						}
+					});*/
+				</script>
+			</div>
+			<div class="grid_11 omega">
+				&nbsp;
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>

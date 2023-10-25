@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}monitorsessions 
+ (
+	monSessionId int(10) unsigned NOT NULL auto_increment,
+	monSessionShop varchar(155) {gssb_charset} NOT NULL default '',
+	monSessionTimestamp timestamp NOT NULL default CURRENT_TIMESTAMP on update CURRENT_TIMESTAMP,
+	PRIMARY KEY  (monSessionId)
+ ) {gssb_charset};

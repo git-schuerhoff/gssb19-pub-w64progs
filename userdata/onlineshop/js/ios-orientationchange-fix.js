@@ -1,0 +1,5 @@
+/*! A fix for the iOS orientationchange zoom bug.
+ Script by @scottjehl, rebound by @wilto.
+ MIT / GPLv2 License.
+*/
+(function(n){function c(){t.setAttribute("content",a);i=!0}function v(){t.setAttribute("content",l);i=!1}function y(t){r=t.accelerationIncludingGravity;f=Math.abs(r.x);e=Math.abs(r.y);o=Math.abs(r.z);(!n.orientation||n.orientation===180)&&(f>7||(o>6&&e<8||o<8&&e>6)&&f>5)?i&&v():i||c()}var s=navigator.userAgent,u;if(/iPhone|iPad|iPod/.test(navigator.platform)&&/OS [1-5]_[0-9_]* like Mac OS X/i.test(s)&&s.indexOf("AppleWebKit")>-1&&(u=n.document,u.querySelector)){var t=u.querySelector("meta[name=viewport]"),h=t&&t.getAttribute("content"),l=h+",maximum-scale=1",a=h+",maximum-scale=10",i=!0,f,e,o,r;t&&(n.addEventListener("orientationchange",c,!1),n.addEventListener("devicemotion",y,!1))}})(this)

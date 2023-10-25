@@ -1,0 +1,12 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}action (
+	`itemId` int(11) NOT NULL default 0,
+	`action_begindate` varchar(10) {gssb_charset} default '',
+	`action_begintime` varchar(8) {gssb_charset} default '',
+	`action_enddate` varchar(10) {gssb_charset} default '',
+	`action_endtime` varchar(8) {gssb_charset} default '',
+	`action_price` varchar(20) {gssb_charset} default '0',
+	`action_pricenormal` varchar(20) {gssb_charset} default '0',
+	`action_showperiod` char(1) {gssb_charset} NOT NULL default 'N',
+	`action_shownormalprice` char(1) {gssb_charset} NOT NULL default 'N',
+	KEY `itemId` (`itemId`)
+) CHARACTER SET utf8 COLLATE utf8_general_ci;

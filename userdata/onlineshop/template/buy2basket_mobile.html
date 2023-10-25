@@ -1,0 +1,42 @@
+
+	<table id="shopping-cart-table" class="data-table cart-table">
+		<colgroup>
+				<col width="1">
+				<col width="1">
+		</colgroup>
+		<thead>
+			<tr class="first last">
+				<th class="a-center"><span class="nobr">{GSSE_LANG_LangTagTextItem}</span></th>
+				<th class="a-center"><span class="nobr">{GSSE_LANG_LangTagTextTotalPrice}</span></th>
+			</tr>
+		</thead>
+		<tbody>
+			{GSSE_FUNC_BASKET2}
+			<tr>
+				<td class="gs_summary"><b>{GSSE_LANG_LangTagTextOrderTotal}:</b></td>
+				<td class="gs_summary"><span id="baskettotal">{GSSE_INCL_BASKETTOTAL}</span></td>
+			</tr>
+			<!--<tr>
+				<td class="gs_summary"><b>{GSSE_LANG_LangTagTextRabat}</b>{GSSE_INCL_RABATPERCENT}:</td>
+				<td class="gs_summary"><span id="basketrabat">{GSSE_INCL_BASKETRABAT}</span></td>
+			</tr>
+			<tr>
+				<td class="gs_summary"><b>{GSSE_LANG_LangTagFieldDiscount}</b>{GSSE_INCL_CUSTRABATPERCENT}:</td>
+				<td class="gs_summary"><span id="cusbasketrabat">{GSSE_INCL_CUSTBASKETRABAT}</span></td>
+			</tr>-->
+			<tr>
+				<td class="gs_summary"><b>{GSSE_LANG_LangTagTextPayment}</b> (<span id="paymenttext">{GSSE_INCL_PAYMENT}</span>):</td>
+				<td class="gs_summary"><span id="paymentcost">{GSSE_INCL_PAYMENTCOST}</span></td>
+			</tr>
+			<tr>
+				<td class="gs_summary"><b>{GSSE_LANG_LangTagFieldPostage}</b> (<span id="shipmenttext">{GSSE_INCL_SHIPMENT}</span>):</td>
+				<td class="gs_summary"><span id="shipmentcost">{GSSE_INCL_SHIPMENTCOST}</span></td>
+			</tr>
+			{GSSE_INCL_BASKETSUBTOTAL}
+			{GSSE_INCL_BASKETVAT}
+			<tr>
+				<td class="gs_summary"><h1>{GSSE_LANG_LangTagTotalAmount}:</h1></td>
+				<td class="gs_summary_total"><span id="summetotal">{GSSE_INCL_SUMTOTAL}</span></td>
+			</tr>
+		</tbody>
+	</table>

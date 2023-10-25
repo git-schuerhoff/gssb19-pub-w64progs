@@ -1,0 +1,1 @@
+function doRefresh(){self.location.href="index.php?page=customerdownloadarea"}function timedCount(){timer_is_on>0&&(timer_is_on--,t=setTimeout("timedCount()",1500),doRefresh(gcid))}function doDownloadFile(n,t,i,r,u,f){timer_is_on=2;gcid=n;timedCount();t<1?alert(r):self.location.href="./dynsb/download.php?cid="+n+"&file="+i+"&ordertime="+u+"&itemnumber="+f}var timer_is_on=0,gcid=0

@@ -1,0 +1,111 @@
+<!-- Don't remove these lines!!!-->
+<!-- Diese Zeilen nicht entfernen!!!-->
+{GSSE_JSCR_customerfuncs.js}
+<!-- End -->
+<body>
+<div class="wrapper ">
+	<noscript>
+		<div class="global-site-notice noscript">
+			<div class="notice-inner">
+				<p>
+					<strong>{GSSE_LANG_LangTagPleaseActivateJavascript}</strong>
+				</p>
+			</div>
+		</div>
+	</noscript>
+	<div class="page one-column">
+		<div class="main-container seamless">
+			<div class="container_24 ">
+				<div class="clear"></div>
+				<div class="grid_24 col-main">
+					<div class="gsspacer"><div>&nbsp;&nbsp;</div></div>
+					<!--Begin Top Selling Brands-->
+					<!--End Top Selling Brands-->
+					<div class="widget widget-static-block ">
+						<h1><h1>{GSSE_LANG_LangTagTextUserCommentsAdd}</h1></h1>
+						<div class="box">
+							<p>
+								<img src="images/small/{GSSE_INCL_COMMIMG}" alt="{GSSE_INCL_COMMNAME}" />
+								<b>{GSSE_INCL_COMMNAME}</b><br />
+							</p>
+							{GSSE_LANG_LangTagTextUserCommentsNoticeNotVisible}
+							<input type="hidden" name="img" id="img" value="{GSSE_INCL_COMMIMG}" />
+							<input type="hidden" name="ddate" id="ddate" value="{GSSE_INCL_COMMDATE}" />
+							<input type="hidden" name="showcomm" id="showcomm" value="{GSSE_INCL_COMMSHOW}" />
+							<input type="hidden" name="shortn" id="shortn" value="{GSSE_INCL_COMMNAME}" />
+							<input type="hidden" name="commitemnumber" id="commitemnumber" value="{GSSE_INCL_COMMNO}" />
+							<input type="hidden" name="commreturn" id="commreturn" value="{GSSE_INCL_COMMRET}" />
+							<input type="hidden" name="cid" id="cid" value="{GSSE_INCL_CID}" />
+							<ul class="form-list">
+								<li>
+								<label>{GSSE_LANG_LangTagTextUserCommentsRating}</label>
+									<div class="input-box">
+										<select id="commrating" name="commrating" onchange="dispRating(this.value)" onkeyup="dispRating(this.value)">
+											<option value="">--</option>
+											<option value="0" >0 {GSSE_LANG_LangTagStars}</option>
+											<option value="1" >1 {GSSE_LANG_LangTagStars}</option>
+											<option value="2" >2 {GSSE_LANG_LangTagStars}</option>
+											<option value="3" >3 {GSSE_LANG_LangTagStars}</option>
+											<option value="4" >4 {GSSE_LANG_LangTagStars}</option>
+											<option value="5" >5 {GSSE_LANG_LangTagStars}</option>
+										</select>
+										<img src="template/images/rating00.gif" alt="rating" id="commratingpic" />
+									</div>
+								</li>
+								<li>
+								<label>{GSSE_LANG_LangTagTextUserCommentsSubject}</label>
+									<div class="input-box">
+										<input type="text" class="input-text" id="commsubject" name="commsubject" />
+									</div>
+								</li>
+
+								<li>
+								<label>{GSSE_LANG_LangTagTextUserCommentsText}</label>
+									<div class="input-box">
+										<textarea id="commbody" name="commbody" rows="10"></textarea>
+									</div>
+								</li>
+								<li>
+									<div class="buttons-set">
+										<button type="submit" class="button" id="commbutton" name="commsubmit" title="{GSSE_LANG_LangTagSubmit}" onclick="new_add_item_comment();" />
+											<span><span>{GSSE_LANG_LangTagSubmit}</span></span>
+										</button>
+									</div>
+								</li>
+								<li>
+									<p id="gs_usercommerr" class="no-display"></p>
+								</li>
+							</ul>
+						{GSSE_FUNC_ADDCOMMENT}
+						</div>
+					</div>
+					<!--Begin ProductSlider-->
+					<!--Begin ProductSliderHeader-->
+				</div>
+				<div class="clear"></div>
+				<div class="">
+					<div id="containerDiv" style="display: none;">
+						<div class="ajaxcart">
+							<img class="ajax_loading" id="ajax_loading" src="{GSSE_SURL_}template/images/loading.gif" alt="Loading..." />
+							<div id="ajax_content" style="display:none">
+								<div class="ajaxcart_row1 row1">
+									<div id="ajax_image"></div>
+								</div>
+								<div class="row2">
+									<a href="javascript:void(0);" id="closeLink" class="back"><span>Not Now</span><span class="emajc_num"></span></a>
+									<a id="viewcart_button" href="javascript:void(0);" class="next" onclick="ajaxaddnext();"><span>Add to Cart</span></a>
+									<a id="ajc_btn_checkout" class="next" href="#"><span>View cart &amp; checkout</span></a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--Begin Most Popular Keywords-->
+	<!--End Most Popular Keywords-->
+</div>
+<div id="bg_fade"></div>
+</body>
+</html>

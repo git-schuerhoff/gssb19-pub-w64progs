@@ -1,0 +1,7 @@
+INSERT INTO `{dsbxx_}nl_settings` 
+  (nlsePause, nlseLimit, nlseSenderAddress, nlseDoubleOptIn,
+   nlseMultipleMg, nlseActMailSubj, nlseActMailBody
+  ) values
+  ('10','10','GS ShopBuilder 19 Newsletter',
+   '1','1','GS ShopBuilder 19 Newsletter - Aktivierungsmail',''
+  );

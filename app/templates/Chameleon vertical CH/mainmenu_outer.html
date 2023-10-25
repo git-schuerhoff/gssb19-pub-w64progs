@@ -1,0 +1,34 @@
+<div class="menu-title" id="displayMenu_6_8885"><a href="#">{GSSE_LANG_LangTagProductGroups}</a><span class="option">nav</span></div><div class="em_nav" id="toogle_menu_6_8885"><ul class="hnav megamenu">{GSSE_INCL_MMITEMS}</ul></div>
+<script type="text/javascript">
+	function toogleMenuPro_6_8885()
+	{
+		var $=jQuery;
+		var container = $("#toogle_menu_6_8885");
+		var textClick = $("#displayMenu_6_8885");
+		if($("body").hasClass("adapt-0")==true || isPhone == true)
+		{
+			textClick.show();
+			container.hide();
+			textClick.unbind('click');
+			textClick.bind('click',function()
+			{
+				container.slideToggle();
+			});
+		}
+		else
+		{
+			textClick.hide();
+			container.show();
+		}
+	};
+			
+	jQuery(document).ready(function()
+	{
+		toogleMenuPro_6_8885();
+	});
+			
+	jQuery(window).bind('emadaptchange orientationchange', function()
+	{
+		toogleMenuPro_6_8885();
+	});
+</script>

@@ -1,0 +1,31 @@
+<div class="widget widget-static-block ">
+	<div class="block block-subscribe">
+		<div class="title">{GSSE_LANG_LangTagNewsletter}</div>
+		<p>{GSSE_TXDB_contentpool|Text|Name|NewsletterText}</p>
+		<form action="index.php?page=emailform" name="newsletter2inc_form" method="post" id="newsletter-validate-detail">
+			<div class="block-content">
+				<div class="input-box">
+					{GSSE_LANG_LangTagEmail}: <input name="emailaddress" id="newsletter" title="{GSSE_LANG_LangTagEmail}" class="input-text required-entry validate-email" type="text">
+				</div>
+				<div class="actions">
+					<button name="btnnl2in" type="submit" title="{GSSE_LANG_LangTagSubscribeNewsletter}" class="button">
+						<span><span>{GSSE_LANG_LangTagSubscribeNewsletter}</span></span>
+					</button>
+					<button name="btnnl2out" type="submit" title="{GSSE_LANG_LangTagUnsubscribeNewsletter}" class="button">
+						<span><span>{GSSE_LANG_LangTagUnsubscribeNewsletter}</span></span>
+					</button>
+					<!--
+					<button name="btnnl2act" type="submit" title="{GSSE_LANG_LangTagActivate}" class="button">
+						<span><span>{GSSE_LANG_LangTagActivate}</span></span>
+					</button>
+					-->
+				</div>
+			</div>
+		</form>
+		<script type="text/javascript">
+		//<![CDATA[
+			var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+		//]]>
+		</script>
+	</div>
+</div>

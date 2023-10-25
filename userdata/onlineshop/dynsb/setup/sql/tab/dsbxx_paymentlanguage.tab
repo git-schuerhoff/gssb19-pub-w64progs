@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS `{dsbxx_}paymentlanguage` (
+  `SortId` int(11) NOT NULL DEFAULT '0',
+  `LanguageId` char(3) {gssb_charset} NOT NULL,
+  `Text1` varchar(255) {gssb_charset} NOT NULL,
+  `Text2` varchar(255) {gssb_charset} NOT NULL,
+  `paymentInfo` VARCHAR(500) NOT NULL DEFAULT '' COLLATE 'utf8_unicode_ci',
+  `paymentTerm` VARCHAR(500) NOT NULL DEFAULT '' COLLATE 'utf8_unicode_ci',
+  KEY `LanguageId` (`LanguageId`)
+) {gssb_charset};

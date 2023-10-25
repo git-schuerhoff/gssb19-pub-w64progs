@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}countries (
+	`ID` int(11) NOT NULL AUTO_INCREMENT,
+	`cntLangTag` varchar(255) {gssb_charset} NOT NULL,
+	`cntCountryCode` char(2) {gssb_charset} NOT NULL,
+	PRIMARY KEY (`ID`),
+	UNIQUE KEY `cntLangTag` (`cntLangTag`,`cntCountryCode`)
+) {gssb_charset};

@@ -1,0 +1,14 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}gallery (
+	ID int(11) NOT NULL AUTO_INCREMENT,
+	ItemId int(11) NOT NULL DEFAULT '0',
+	ImageName varchar(255) {gssb_charset} NOT NULL,
+	ImageLink varchar(255) {gssb_charset} NOT NULL,
+	IsStandard char(1) NOT NULL DEFAULT 'N',
+	ImageOrder int(11) NOT NULL DEFAULT '0',
+	ImageDescr varchar(255) {gssb_charset} NOT NULL,
+	PRIMARY KEY (ID),
+	KEY ItemId (ItemId),
+	KEY ImageOrder (ImageOrder),
+	KEY ImageName (ImageName),
+	KEY ImageOrderName (ImageOrder,ImageName)
+) AUTO_INCREMENT=1 {gssb_charset};

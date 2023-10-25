@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}wishlist 
+(
+	wlId int(32) NOT NULL auto_increment,
+	cusIdNo int(11) default NULL,
+	itemNumber varchar(32) {gssb_charset} default NULL,
+	date varchar(8) {gssb_charset} default NULL,
+	PRIMARY KEY (wlId)
+) {gssb_charset};

@@ -1,0 +1,18 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}productgrouplanguage (
+	PgCount int(11) NOT NULL DEFAULT '0',
+	LanguageId char(3) {gssb_charset} NOT NULL,
+	ProductGroup varchar(255) {gssb_charset} NOT NULL,
+	TemplateFile varchar(255) {gssb_charset} NOT NULL,
+	ImageFile varchar(255) {gssb_charset} NOT NULL,
+	BusinessManagerId varchar(8) {gssb_charset} NOT NULL,
+	BusinessManagerName varchar(32) {gssb_charset} NOT NULL,
+	MetaDescription text {gssb_charset} NOT NULL,
+	MetaKeywords text {gssb_charset} NOT NULL,
+	XmlExtra text {gssb_charset} NOT NULL,
+	GroupHint varchar(255) {gssb_charset} NOT NULL,
+	Permalink varchar(255) {gssb_charset} NOT NULL,
+	Published int(11) unsigned NOT NULL default '0',
+	PageMetaTitle varchar(255) {gssb_charset} default '',
+	KEY PgCount (PgCount),
+	KEY LanguageId (LanguageId)
+) {gssb_charset};

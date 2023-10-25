@@ -1,0 +1,200 @@
+<!-- Don't remove these lines!!!-->
+<!-- Diese Zeilen nicht entfernen!!!-->
+
+{GSSE_JSCR_customerfuncs.js}
+<!-- End -->
+<body>
+<div class="wrapper ">
+	<noscript>
+		<div class="global-site-notice noscript">
+			<div class="notice-inner">
+				<p>
+					<strong>{GSSE_LANG_LangTagPleaseActivateJavascript}</strong>
+				</p>
+			</div>
+		</div>
+	</noscript>
+	<div class="page one-column">
+		<div class="bkg_header_top">
+			<div class="container_24 container_header_top">
+				<div class="grid_24">
+					<div class="header_top">
+						{GSSE_FUNC_ONEROWHEADER}
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="bkg_header_top cust_menu">
+			<div class="container_24 container_header_top">
+				<div class="grid_24">
+					<div class="header_top">
+						{GSSE_FUNC_CUSMENU}
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		{GSSE_FUNC_SEARCHBAR}
+		{GSSE_FUNC_LOGINBAR}
+		<div class="bkg_header_bottom" id="div-fulltextsearch">
+			<div class="container_24 container_header">
+				<div class="grid_24">
+					<div class="header-container">
+						{GSSE_FUNC_CONTHEADER}
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>
+		{GSSE_FUNC_MAINMENUNEW}
+		<div class="main-container">
+			<div class="container_24 ">
+				<div class="clear"></div>
+				<div class="grid_24 col-main">
+					<div class="gsspacer"><div>&nbsp;&nbsp;</div></div>
+					<!--Begin Top Selling Brands-->
+					<!--End Top Selling Brands-->
+					<div class="widget widget-static-block ">
+						<h1>{GSSE_LANG_LangTagContact}</h1>
+						<p>{GSSE_TXDB_contentpool|Text|Name|TextContact}</p>
+						<div class="box">
+						<div id="fd_msg" class="displaynone"></div>
+						<form class="form-list" id="newsletter-validate-detail" method="post" action="index.php?page=contact">
+							<input type="hidden" id="msg1" value="{GSSE_LANG_LangTagErrorFroms}" />
+							<input type="hidden" id="msg2" value="{GSSE_LANG_LangTagErrorSendMail}" />
+							<input type="hidden" id="msg3" value="{GSSE_LANG_LangTagThankSendMail}" />
+							<input type="hidden" id="subject" value="{GSSE_LANG_LangTagContact}" />
+							<input type="hidden" name="recipient" id="recipient" class="input" value="{GSSE_INCL_RECEMAIL}" />
+							<table class="tell">
+							<tr>
+								<th colspan="2" id="def">&nbsp; </th>
+							</tr>
+							<tr>
+								<td align="right" id="fd_cusTitle">{GSSE_LANG_LangTagFieldFormToAddress}:*</td>
+								<td>
+									<select name="cusTitle" id="cusTitle">
+										<option selected="selected" value="">{GSSE_LANG_LangTagTextPleaseChoose}!</option>
+										<option value="{GSSE_LANG_LangTagMr}">{GSSE_LANG_LangTagMr}</option>
+										<option value="{GSSE_LANG_LangTagMrs}">{GSSE_LANG_LangTagMrs}</option>
+										</select>
+								</td>
+							</tr>
+							<tr>
+								<td align="right" width="40%">{GSSE_LANG_LangTagFieldFirstName}:</td>
+								<td width="60%">
+									<div class="input-box">
+									<input type="text" name="sender1" id="sender1" size="26" class="input-text" />
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td id="fd_sender2" align="right"> {GSSE_LANG_LangTagFieldLastName}:*</td>
+								<td>
+								<div class="input-box">
+									<input type="text" name="sender2" id="sender2" size="26" class="input-text" />
+								</div>
+								</td>
+							</tr>
+							<tr>
+								<td id="fd_email" align="right"> {GSSE_LANG_LangTagFieldEmail}:*</td>
+								<td>
+								<div class="input-box">
+									<input type="text" name="email" id="email" size="26" class="input-text" />
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<td align="right" id="fd_message">{GSSE_LANG_LangTagFieldMessage}:*</td>
+								<td><textarea name="message" id="message" cols="50" rows="8" class="textarea"></textarea></td>
+							</tr>
+							<tr>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+							<div class="buttons-set">
+								<td>
+									<button class="button" value="{GSSE_LANG_LangTagButtonBack}" onclick="history.go(-1);return false;" type="submit" />
+										<span><span>{GSSE_LANG_LangTagButtonBack}</span></span>
+									</button>
+								</td>
+								<td>
+									<button value="{GSSE_LANG_LangTagSubmit}" class="button" type="submit" onclick="contact_send();" />
+										<span><span>{GSSE_LANG_LangTagSubmit}</span></span>
+									</button>
+								</td>
+							</div>
+							</tr>
+						</table>
+						</form>
+						{GSSE_FUNC_CONTACT}
+						</div>
+					</div>
+					<!--Begin ProductSlider-->
+					<!--Begin ProductSliderHeader-->
+				</div>
+				<div class="clear"></div>
+				<!--Begin Homeads2-->
+				<!--End Homeads2-->
+				<!--Begin MoreWayToShopping-->
+				<!--End MoreWayToShopping-->
+				<!--Begin Specials-->
+				<!--End Specials--> 
+				<!--Begin Homeads3-->
+				<!--End Homeads3-->
+				<!--Begin Social-->
+				<!--End Footer inline Block-->
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="bkg_footer_bottom">
+			{GSSE_FUNC_SOCIALNETWORKS}
+			<div class="container_24 container_footer">
+				{GSSE_FUNC_FOOTER}
+			</div>
+			<div class="container_24 container_footer">
+				<div class="grid_14">
+					<div class="footer-container">
+						<div class="footer">
+							<address>
+								<span>{GSSE_TXDB_contentpool|Text|Name|ShopFootNote}&nbsp;{GSSE_TXDB_contentpool|Text|Name|FootNote}</span>
+							</address>
+						</div>
+					</div>
+					<p style="display: none;" id="back-top">
+						<a title="Back To Top" href="#top">Back to Top</a>
+					</p>
+				</div>
+				<div class="grid_10">
+					{GSSE_FUNC_SHIPMPAYM}
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div class="">
+			<div id="containerDiv" style="display: none;">
+				<div class="ajaxcart">
+					<img class="ajax_loading" id="ajax_loading" src="{GSSE_SURL_}template/images/loading.gif" alt="Loading..." />
+					<div id="ajax_content" style="display:none">
+						<div class="ajaxcart_row1 row1">
+							<div id="ajax_image"></div>
+						</div>
+						<div class="row2">
+							<a href="javascript:void(0);" id="closeLink" class="back"><span>Not Now</span><span class="emajc_num"></span></a>
+							<a id="viewcart_button" href="javascript:void(0);" class="next" onclick="ajaxaddnext();"><span>Add to Cart</span></a>
+							<a id="ajc_btn_checkout" class="next" href="#"><span>View cart &amp; checkout</span></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--Begin Most Popular Keywords-->
+	<!--End Most Popular Keywords-->
+</div>
+<div id="bg_fade"></div>
+</body>
+</html>

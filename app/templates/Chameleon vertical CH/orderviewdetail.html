@@ -1,0 +1,147 @@
+<div class="my-account">
+	<div class="page-title title-buttons">
+		<h1>{GSSE_LANG_LangTagCusOrder}&nbsp;&nbsp;{GSSE_INCL_ORDERID}</h1>
+	</div>
+	<p class="order-date">{GSSE_LANG_LangTagOrderDate}:&nbsp;&nbsp;{GSSE_INCL_ODERDATE}</p>
+	<div class="col2-set order-info-box">
+		<div class="col-1">
+			<div class="box">
+				<div class="box-title">
+					<h2>{GSSE_LANG_LangTagBillingAddress}</h2>
+				</div>
+				<div class="box-content">
+					<address>
+						{GSSE_INCL_NAME}
+						<br />
+						{GSSE_INCL_STREET}
+						<br />
+						{GSSE_INCL_ZIPCITY}
+					</address>
+				</div>
+			</div>
+		</div>
+		<div class="col-2">
+			<div class="box">
+				<div class="box-title">
+					<h2>{GSSE_LANG_LangTagFNFieldDelivery}</h2>
+				</div>
+				<div class="box-content">
+					{GSSE_INCL_SHIPPING}
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col2-set order-info-box">
+		<div class="col-1">
+			<div class="box">
+				<div class="box-title">
+					<h2>{GSSE_LANG_LangTagShippingAddress}</h2>
+				</div>
+				<div class="box-content">
+					<address>
+						{GSSE_INCL_DELNAME}
+						<br />
+						{GSSE_INCL_DELSTREET}
+						<br />
+						{GSSE_INCL_DELZIPCITY}
+					</address>
+				</div>
+			</div>
+		</div>
+		<div class="col-2">
+			<div class="box">
+				<div class="box-title">
+					<h2>{GSSE_LANG_LangTagFNFieldPayment}</h2>
+				</div>
+				<div class="box-content">
+					{GSSE_INCL_PAYMENT}
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="order-items order-details">
+		<h2 class="table-caption">{GSSE_LANG_LangTag__FieldTextItem}</h2>
+		<table id="my-orders-table" class="data-table" summary="Items Ordered">
+			<colgroup>
+				<col width="1"></col>
+				<col width="1"></col>
+				<col width="400"></col>
+				<col width="1"></col>
+				<col width="1"></col>
+				<col width="1"></col>
+				<col width="1"></col>
+				<col width="1"></col>
+			</colgroup>
+			<thead>
+				<th>{GSSE_LANG_LangTagPos}</th>
+				<th>{GSSE_LANG_LangTagItemNumber}</th>
+				<th>{GSSE_LANG_LangTagDescription}</th>
+				<th class="a-center">{GSSE_LANG_LangTagFieldQuantity}</th>
+				<th class="a-right">{GSSE_LANG_LangTagTextUnitPrice}</th>
+				<th>{GSSE_LANG_LangTag__FieldLongVat}</th>
+				<th class="a-right">{GSSE_LANG_LangTagTextTotalPrice}</th>
+				<th class="a-right">{GSSE_LANG_LangTagReturningticket}</th>
+			</thead>
+			<tfoot>
+				<tr class="subtotal first">
+					<td class="a-right" colspan="6">
+						{GSSE_LANG_LangTag__FieldSubTotal}
+					</td>
+					<td class="last a-right" colspan="2">
+						<span class="price">
+							{GSSE_INCL_SUBTOTAL}
+						</span>
+					</td>
+				</tr>
+				<tr class="shipping">
+					<td class="a-right" colspan="6">
+						{GSSE_LANG_LangTagFNFieldPayment} - {GSSE_LANG_LangTagFNFieldPaymentCharge}
+					</td>
+					<td class="last a-right" colspan="2">
+						<span class="price">
+							{GSSE_INCL_PAYMENTCOST}
+						</span>
+					</td>
+				</tr>
+				<tr class="shipping">
+					<td class="a-right" colspan="6">
+						{GSSE_LANG_LangTag__IclearPostage}
+					</td>
+					<td class="last a-right" colspan="2">
+						<span class="price">
+							{GSSE_INCL_SHIPMENTCOST}
+						</span>
+					</td>
+				</tr>
+				<tr class="subtotal">
+					<td class="a-right" colspan="6">
+						{GSSE_LANG_LangTag__FieldLongVat}
+					</td>
+					<td class="last a-right" colspan="2">
+						<span class="price">
+							{GSSE_INCL_VAT}
+						</span>
+					</td>
+				</tr>
+				<tr class="grand_total last">
+					<td class="a-right" colspan="6">
+						<strong>{GSSE_LANG_LangTag__FieldTotalAmount}</strong>
+					</td>
+					<td class="last a-right" colspan="2">
+						<strong><span class="price">
+							{GSSE_INCL_TOTAL}
+						</span></strong>
+					</td>
+				</tr>
+			</tfoot>
+			<tbody class="odd">
+				{GSSE_INCL_LASTORTDERITEMS}
+			</tbody>
+		</table>
+	</div>
+	<div class="buttons-set">
+		<p class="back-link">
+			<a href="index.php?page=customerlastorder">{GSSE_LANG_LangTagButtonBack}</a>
+		</p>
+	</div>
+</div>

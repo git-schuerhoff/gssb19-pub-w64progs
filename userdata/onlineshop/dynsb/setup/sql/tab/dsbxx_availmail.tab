@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}availmail (
+  availmail varchar(50) {gssb_charset} NOT NULL,
+  availitem varchar(50) {gssb_charset} NOT NULL,
+  PRIMARY KEY(availmail, availitem)
+) {gssb_charset};

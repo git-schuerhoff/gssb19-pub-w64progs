@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}itemcentraltext (
+	`languageId` varchar(3) {gssb_charset} NOT NULL default 'deu',
+	`countryId`  varchar(3) {gssb_charset} NOT NULL default 'deu',
+	`SettingName` varchar(50) {gssb_charset} default NULL,
+	`memoArticleText` text {gssb_charset}
+) {gssb_charset};

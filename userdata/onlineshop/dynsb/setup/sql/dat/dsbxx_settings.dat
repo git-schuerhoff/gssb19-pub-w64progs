@@ -1,0 +1,16 @@
+INSERT INTO {dsbxx_}settings 
+  (setIdNo, setRowCount, setDefaultLanguageIdNo, setBestsellerCount,
+   setLastOrderCount, setAutoCrossSellingCount, useOrdOptMain,
+   useOrdOptAutoCross, useOrdOptBestseller, useOrdOptLastViewed,
+   couponText1,couponText2, couponImage, couponImageXsize, couponImageYsize,
+   ordEmailBground, ordEmailText, ordEmailTitle, ordEmailTabheadBg,
+   ordEmailTabheadText, ordEmailTabbodyBg, ordEmailTabbodyText,
+   ordEmailTabBorder, ordEmailImage, ordEmailImageXsize,
+   ordEmailImageYsize, lpFirmname, lpSalutation, lpFirstname, lpLastname,
+   lpStreet, lpAddress, lpZipCode, lpCity, lpCountry, lpPhone, customerreturningticket_adress, staticpagesgroupboxlabel, setBestsellerPgCount, useOrdOptBestsellerPg)   
+   VALUES
+	(1,10,'deu',5,2,10,1,1,1,1,
+   'Sehr geehrter Kunde,\r\n\r\nals Dankeschön für ihren zahlreichen Bestellungen in unserem Shop erhalten Sie diesen Gutschein.',
+   'Wir wünschen Ihrnen weiterhin viel Spaß in unserem Webshop.\r\n\r\n\r\nMit freundlichen Grüßen\r\n\r\nIhr Papierflieger Shop Team',
+   'logo.gif',180,25,'#FFFFFF','#000000','#000000','#F1F1F1','#000000','#F1F1F1','#000000','#005263',
+   'logo_small.png',0,0,'','','','','','','','','','','','',5,1);

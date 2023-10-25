@@ -1,0 +1,134 @@
+<div class="my-account">
+	<div class="box-account box-info">
+		<div class="box-head">
+			<button class="button btn-continue" onclick="changedisplay('personal')">{GSSE_LANG_LangTagPersonalData}</button>     
+		</div>
+		<div id="personal" style="display:none;">
+		<div class="col2-set">
+			<div class="col-1">
+				<div class="box">
+					<div class="box-title">
+						<h2>{GSSE_LANG_LangTagContact}:</h2>
+						{GSSE_INCL_KONTAKTLINK}
+					</div>
+					<div class="box-content">
+						<p>
+							<span id="custNumber">{GSSE_INCL_CUSTNUMBER}</span>
+							<span id="Mrormrs">{GSSE_INCL_MRORMRS}</span>&nbsp;<span id="custFirstName">{GSSE_INCL_FIRSTNAME}</span>&nbsp;<span id="custLastName">{GSSE_INCL_LASTNAME}</span><br />
+							<span id="custEmail">{GSSE_INCL_CUSTEMAIL}</span><br />
+							<span id="custBirthday">{GSSE_INCL_CUSTBIRTHDAY}</span>
+							<span id="custTel">{GSSE_INCL_CUSTPHONE}</span>
+							<span id="custTelMobil">{GSSE_INCL_CUSTMOBIL}</span>
+							<span id="custFax">{GSSE_INCL_CUSTFAX}</span>
+							{GSSE_INCL_PASSLINK}
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-2">
+				<div class="box">
+					<div class="box-title">
+						<h2>{GSSE_LANG_LangTagNewsletter}:</h2>
+						{GSSE_INCL_NEWSLETTERLINK}
+					</div>
+					<div class="box-content">
+						<p>
+							{GSSE_INCL_NEWSLETTER}
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col2-set">
+			<div class="box box-address">
+				<div class="box-title">
+					<h1>{GSSE_LANG_LangTagAddress}</h1>
+				</div>
+				<div class="box-content">
+					<div class="col-1">
+						<h2>{GSSE_LANG_LangTagBillingAddress}:</h2>
+						{GSSE_INCL_BILLADDRLINK}
+						<address>
+							<span id="billingFirm">{GSSE_INCL_CUSTFIRM}</span><span id="billingUstID"></span>
+							<span id="billingMrormrs">{GSSE_INCL_MRORMRS}</span>&nbsp;<span id="billingFirstName">{GSSE_INCL_FIRSTNAME}</span>&nbsp;<span id="billingLastName">{GSSE_INCL_LASTNAME}</span><br />
+							<span id="billingStreet">{GSSE_INCL_CUSTSTREET}</span>&nbsp;<span id="billingStreet2">{GSSE_INCL_CUSTSTREET2}</span><br />
+							<span id="billingZip">{GSSE_INCL_CUSTZIP}</span>&nbsp;<span id="billingCity">{GSSE_INCL_CUSTCITY}</span><br />
+							<span id="billingState">{GSSE_INCL_CUSTSTATE}</span><br />
+							<span id="billingFon">{GSSE_INCL_CUSTPHONE}</span><br />
+							<span id="billingFax">{GSSE_INCL_CUSTFAX}</span><br />
+						</address>
+					</div>
+					<div class="col-2">
+						<h2>{GSSE_LANG_LangTagShippingAddress}:</h2>
+						{GSSE_INCL_SHIPADDRLINK}
+						<address>
+							<span id="shippingMrormrs">{GSSE_INCL_DELIVMRORMRS}</span>&nbsp;<span id="shippingFirstName">{GSSE_INCL_DELIVFIRSTNAME}</span>&nbsp;<span id="shippingLastName">{GSSE_INCL_DELIVLASTNAME}</span><br />
+							<span id="shippingStreet">{GSSE_INCL_DELIVSTREET}</span>&nbsp;<span id="shippingStreet2">{GSSE_INCL_DELIVSTREET2}</span><br />
+							<span id="shippingZip">{GSSE_INCL_DELIVZIP}</span>&nbsp;<span id="shippingCity">{GSSE_INCL_DELIVCITY}</span><br />
+							<span id="shippingState">{GSSE_INCL_DELIVSTATE}</span><br />
+						</address>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col2-set">
+			<div class="col-1">
+				<h5>{GSSE_LANG_LangTagTermsAndCond}</h5>
+				{GSSE_LANG_LangTagTermsAndCondChecked}
+				<br />
+				<strong><a href="JavaScript:displayTermsAndCond();" class="msg">{GSSE_LANG_LangTagViewTermsAndCond}</a></strong>
+			</div>
+			<div class="col-2">
+				<h5>{GSSE_LANG_LangTagTermsAndCondWithdrawal}</h5>
+				{GSSE_LANG_LangTagTermsAndCondChecked}
+				<br />
+				<strong><a href="JavaScript:displayROR();" class="msg">{GSSE_TXDB_contentpool|Text|Name|TermsAndCondAcceptWithdrawal2}</a></strong>
+			</div>
+		</div><br /><br />
+		<div class="col2-set">
+			<div class="col-1">
+				<h5>{GSSE_LANG_LangTagTextDelivery}</h5>
+				&nbsp;
+				<span id="custShipment">{GSSE_INCL_DELIVNAME}</span>
+			</div>
+			<div class="col-2">
+				<h5>{GSSE_LANG_LangTagTextPayment}</h5>
+				&nbsp;
+				<span id="custPayment">{GSSE_INCL_PAYMNAME}</span>
+			</div>
+		</div><br /><br />
+		<div class="col2-set">
+			<div class="col-1">
+				<h5>{GSSE_LANG_LangTagFieldBuy2Message}</h5>
+				&nbsp;
+				<span id="custMessage">{GSSE_INCL_CUSTMESSAGE}</span>
+			</div>
+			<div class="col-2">
+				<h5>{GSSE_LANG_LangTagFieldAktKey}</h5>
+				&nbsp;
+				<span id="custAktKey">{GSSE_INCL_AKTKEY}</span>
+			</div>
+		</div><br /><br />
+		<div class="col2-set">
+			<div class="col-1">
+				<h5>{GSSE_LANG_LangTagFieldEmailFormat}</h5>
+				&nbsp;
+				<span id="custEmailFormat">{GSSE_INCL_EMAILFORMAT}</span>
+			</div>
+			<div class="col-2">
+				<h5>{GSSE_LANG_LangTagAddInfo}</h5>
+				<span id="custAddField1"></span><br />
+				<span id="custAddField2"></span><br />
+				<span id="custAddField3"></span><br />
+				<span id="custAddField4"></span><br />
+				<span id="custAddField5"></span><br />
+				<span id="cusBirthday"></span><br />
+				<span id="cusPhone"></span><br />
+				<span id="cusFax"></span><br />
+				<span id="cusMobil"></span>
+				
+			</div>
+		</div>
+		</div>
+	</div>
+</div>

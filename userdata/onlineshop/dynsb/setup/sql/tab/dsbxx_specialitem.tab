@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}specialitem 
+ (
+	spitemIdNo int(3) NOT NULL auto_increment,
+	spitemStartDate varchar(14) {gssb_charset} NOT NULL default '',
+	spitemEndDate varchar(14) {gssb_charset} NOT NULL default '',
+	spitemItemNumber varchar(32) {gssb_charset} NOT NULL default '',
+	PRIMARY KEY  (spitemIdNo)
+ ) {gssb_charset};

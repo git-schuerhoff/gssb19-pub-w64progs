@@ -1,0 +1,63 @@
+<div class="cart">
+	<fieldset>
+		<table id="shopping-cart-table" class="data-table cart-table">
+			<colgroup>
+				<col>
+				<col width="1">
+			</colgroup>
+			<thead>
+				<tr class="first last">
+					<th rowspan="1">
+						<span class="nobr">{GSSE_LANG_LangTagTextItem}</span>
+					</th>
+					<th class="a-center" colspan="1">
+						<span class="nobr">{GSSE_LANG_LangTagTextTotalPrice}</span>
+					</th>
+				</tr>
+			</thead>
+			
+			<tbody>
+				{GSSE_INCL_BASKETITEMS}
+			</tbody>
+		</table>
+		<script type="text/javascript">
+			decorateTable('shopping-cart-table')
+		</script>
+		<script type="text/javascript">
+			function changeQty(id,increase,basket_idx) {
+				var qty = parseInt($(id).value);
+				var old_qty = qty;
+				if ( !isNaN(qty) ) {
+					qty = increase ? qty+1 : (qty>1 ? qty-1 : 1);
+					if(qty != old_qty) {
+						if(new_upd_basket(basket_idx,qty)) {
+							$(id).value = qty;
+						}
+					}
+				}
+			}
+			function changeQtyEnter(obj,basket_idx)
+			{
+				var qty = obj.value;
+				if(new_upd_basket(basket_idx,qty)) {
+					return true;
+				}
+				else
+				{
+					return false;
+				}
+			}
+		</script>
+	</fieldset>
+	<div class="cart-collaterals">
+		<div class="col2-set">
+			<div class="col-1">
+				{GSSE_INCL_COUPON}
+			</div>
+			<div class="col-2">
+			</div>
+		</div>
+		{GSSE_INCL_BASKETTOTALS}
+		<div class="clear"></div>
+	</div>
+</div>

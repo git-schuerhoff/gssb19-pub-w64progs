@@ -1,0 +1,179 @@
+<script src="https://www.paypalobjects.com/webstatic/ppplus/ppplus.min.js" type="text/javascript"></script>
+<ol id="checkoutSteps" class="opc">
+	<!-- Versandart und Zahlungsart -->
+	<li id="opc-billing" class="section allow active">
+		<div class="step-title">
+			<span class="number">
+				1.
+			</span>
+			<h2>{GSSE_LANG_LangTagTextDelivery}&nbsp;/&nbsp;{GSSE_LANG_LangTagTextPayment}</h2>
+		</div>
+		<div id="billingform" class="step a-item" style="">
+			<p>{GSSE_LANG_LangTagTextChooseDeliveryPayment}</p>
+			<div class="box">
+				<fieldset class="">
+					<ul class="form-list">
+						<li>
+							<label>{GSSE_LANG_LangTagTextShippingAddressArea}</label>
+							<div class="input-box">
+								<select name="addressArea" id="addressArea" size="1" onchange="chg_paymshipm();">
+									{GSSE_INCL_BUYADDRESSAREAITEMS}
+								</select>
+							</div>
+						</li>
+						<li>
+							<label>{GSSE_LANG_LangTagTextDelivery}</label>
+							<div class="input-box">
+								<select name="shipment" id="shipment" size="1" >
+								</select>
+							</div>
+						</li>
+						<li>
+							<label>{GSSE_LANG_LangTagTextPayment}</label>
+							<div class="input-box">
+								<select name="payment" size="1" id="payment" onchange="go_buy2_new();">
+								</select>
+							</div>
+						</li>
+						<li>
+							{GSSE_INCL_BUYCASHSICOUNTTEXT}
+						</li>
+						<li>
+							<div id="billing-buttons-container" class="buttons-set">
+								<button type="button" class="button btn-continue" title="{GSSE_LANG_LangTagButtonOrderForm}" onclick="go_buy2_new(); checkout.setCheckoutMethod();">
+									<span><span>{GSSE_LANG_LangTagButtonOrderForm}</span></span>
+								</button>
+								<span id="billing-please-wait" class="please-wait" style="display:none;">
+									<img class="v-middle" title="{GSSE_LANG_LangTagNextStep}" alt="{GSSE_LANG_LangTagNextStep}" src="template/images/opc-ajax-loader.gif"></img>
+									{GSSE_LANG_LangTagNextStep}
+								</span>
+							</div>
+						</li>
+					</ul>
+				</fieldset>
+				<script language="javascript">
+					chg_paymshipm();
+				</script>
+			</div>
+		</div>
+	</li>
+	<!-- Zur Kasse -->
+	<li id="opc-checkout" class="section">
+		<div class="step-title">
+			<span class="number">
+				2.
+			</span>
+			<h2>{GSSE_LANG_LangTagAdressData}</h2>
+		</div>
+		<div id="checkoutform" class="step a-item" style="display:none;">
+			<form id="co-checkout-form" action="">
+				<fieldset>
+					<div class="addressdata">
+						<div class="cusreg">
+							{GSSE_FUNC_BUY2}
+						</div>
+					</div>
+				</fieldset>
+			</form>
+		</div>
+	</li>
+	<!--PayPal plus-->
+	<li id="opc-paypalplus" class="section no-display">
+		<div class="step-title">
+			<span class="number">
+				2a.
+			</span>
+			<h2>PayPal plus</h2>
+		</div>
+		<div id="checkoutform" class="step a-item" style="display:none;">
+			<div class="addressdata">
+				<div class="cusreg">
+					{GSSE_INCL_BUYPAYMENTPAYPALPLUS}
+				</div>
+			</div>
+		</div>
+	</li>
+	<!-- E-Mail-Validierung-->
+	<li id="opc-emailvalidate" class="section" {GSSE_INCL_SHOWVALIDATION}>
+		<div class="step-title">
+			<span class="number">
+				2a.
+			</span>
+			<h2>{GSSE_LANG_LangTagValidate}</h2>
+		</div>
+		<div id="checkoutform" class="step a-item" style="display:none;">
+			<div class="addressdata">
+				<div class="cusreg">
+					{GSSE_FUNC_EMAILVALIDATE}
+				</div>
+			</div>
+		</div>
+	</li>
+	<!-- Zusammenfassung -->
+	<li id="opc-summary" class="section">
+		<div class="step-title">
+			<span class="number">
+				3.
+			</span>
+			<h2>{GSSE_LANG_LangTagSummary}</h2>
+		</div>
+		<div id="summaryform" class="step a-item" style="display:none;">
+		<form name="orderform" method="post" action="{GSSE_INCL_MAILSYSTEM}">
+			{GSSE_FUNC_BUY3HIDDENFIELDS}
+			{GSSE_FUNC_BUY3USERDATA}
+			<br /><br />
+			<div class="box">
+				<p class='msg'>{GSSE_TXDB_contentpool|Text|Name|TextBeforeOrder}</p>
+				<p class='msg'>{GSSE_TXDB_contentpool|Text|Name|VInfo}</p>
+				<p class='msg'>{GSSE_TXDB_contentpool|Text|Name|PaymentText}</p>
+				<p class='msg'>{GSSE_TXDB_contentpool|Text|Name|BuyText}</p>
+			</div>
+            <div class="box">
+                {GSSE_FUNC_SEPAMANDAT}
+            </div>
+			<h2>{GSSE_LANG_LangTagOrderData}</h2>
+			<div class="{GSSE_INCL_BASKETHASRENTALITEMS}">
+				<strong>{GSSE_LANG_LangTagBasketHasRentalItems}</strong><br />
+				<strong>{GSSE_LANG_LangTagBasketIsFirstInvoice}</strong><br />
+				<strong>{GSSE_LANG_LangTagBasketFollowingInv}</strong><br />
+			</div>
+			{GSSE_FUNC_BUY2BASKET}
+			<ul class="form-list gs_aln_right">
+				<li>
+					<div class="buttons-set gs_aln_right">
+						<button type="button" class="button attention gs_bt_last" title="{GSSE_LANG_LangTagButtonSubmit}" name="SendButton" value="{GSSE_LANG_LangTagButtonSubmit}" onclick="checkbuy3();">
+							<span><span>{GSSE_LANG_LangTagButtonSubmit}</span></span>
+						</button>
+					</div>
+				</li>
+				<li>
+					<div class="buttons-set gs_aln_right">
+						<button type="button" class="button" title="{GSSE_LANG_LangTagButtonBackToOrder}" value="{GSSE_LANG_LangTagButtonBackToOrder}" onclick="checkout.setCheckoutMethod();">
+							<span><span>{GSSE_LANG_LangTagButtonBackToOrder}</span></span>
+						</button>
+						<button type="button" class="button" title="{GSSE_LANG_LangTagPaymentSelection}" value="{GSSE_LANG_LangTagPaymentSelection}" onclick="checkout.setBillingMethod();">
+							<span><span>{GSSE_LANG_LangTagPaymentSelection}</span></span>
+						</button>
+						<button type="button" class="button gs_bt_last" title="{GSSE_LANG_LangTagButtonPrintOrder}" value="{GSSE_LANG_LangTagButtonPrintOrder}" onclick="window.print();">
+							<span><span>{GSSE_LANG_LangTagButtonPrintOrder}</span></span>
+						</button>
+					</div>
+				</li>
+			</ul>
+		</form>
+		</div>
+	</li>
+</ol>
+
+<script type="text/javascript">
+//<![CDATA[
+    var accordion = new Accordion('checkoutSteps', '.step-title', true);
+        accordion.openSection('opc-billing');
+        var checkout = new Checkout(accordion,{
+        progress: '',
+        review: '',
+        saveMethod: '',
+        failure: ''}
+    );
+//]]>
+</script>

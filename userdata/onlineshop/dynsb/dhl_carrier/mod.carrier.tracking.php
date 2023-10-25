@@ -1,0 +1,477 @@
+<?php
+/******************************************************************************/
+/* File: mod.carrier.tracking.php                                                */
+/******************************************************************************/
+
+require("../include/login.check.inc.php");
+require_once("../include/functions.inc.php");
+require("../../conf/db.const.inc.php");
+
+//***************** Sprachdatei ************************************************/
+if (!isset($_REQUEST['lang']) || strlen(trim($_REQUEST['lang'])) == 0)
+{
+    $lang = "deu";
+}
+else
+{
+	$lang = $_REQUEST['lang'];
+	if(!file_exists("../lang/lang_".$lang.".php"))
+  {
+    $lang = "deu";
+  }
+}
+
+include("../lang/lang_".$lang.".php");
+//******************************************************************************/
+
+/***************** Datenbankverbindung*****************************************/
+$link = @mysqli_connect($dbServer, $dbUser, $dbPass, $dbDatabase)
+  or die("<br />aborted: can´t connect to '$dbServer' <br />");
+$link->query("SET NAMES 'utf8'");
+if(isset($_REQUEST['backstart']))
+{ $backstart = $_REQUEST['backstart']; }
+
+$chgApplicId = addslashes(substr(strrchr($_SERVER["PHP_SELF"],"/"),1)); // script name
+if (!isset($_POST['del_stat']) || strlen(trim($_POST['del_stat'])) == 0)
+{ $ds = 0; }
+else
+{ $ds = $_POST['del_stat']; }
+
+if($ds == "1")
+{
+  // possible multiple delete ==> parameter is an array
+  if(!isset($_POST['pk']) || strlen(trim($_POST['pk'])) == 0)
+  {
+    //die ("<br />delete error: missing pk[] parameter for this action!<br />");
+		$errInput++;
+	}
+  else
+  {
+		$pkDataListAry = $_POST['pk'];
+		$pkDataListLenAry = sizeof($pkDataListAry);
+		if($pkDataListLenAry >= 1)
+    {
+			for ($x=0; $x < $pkDataListLenAry; $x++)
+      {
+				$pkDataListAry[$x] = addslashes(strip_tags($pkDataListAry[$x]));
+			}
+			$pkDataListStr = implode(",", $pkDataListAry);
+		}
+    else if ($pkDataListLenAry == 1)
+    {
+			$pkDataListStr = addslashes(strip_tags($_POST['pk']));
+		}
+		unset ($_POST['pk']);
+	}
+  // deactivate data
+  $pka = explode(",", $pkDataListStr);
+  foreach($pka as $value)
+  {
+    $SQLo = "DELETE FROM ".DBToken."order WHERE ordIdNo = '".$value."'";
+    $SQLp = "DELETE FROM ".DBToken."orderpos WHERE ordpOrdIdNo = '".$value."'";
+    @mysqli_query($link,$SQLo);
+    @mysqli_query($link,$SQLp);
+  }
+}
+
+if (!isset($_SESSION['SESS_userIdNo']) || strlen(trim($_SESSION['SESS_userIdNo'])) == 0)
+{ die ("<br />error: missing session parameter!<br />"); }
+else
+{ $SESS_userIdNo = $_SESSION['SESS_userIdNo']; }
+
+if (!isset($_SESSION['SESS_userLogin']) || strlen(trim($_SESSION['SESS_userLogin'])) == 0)
+{
+  die ("<br />error: missing session parameter!<br />"); }
+else
+{ $SESS_userId = $_SESSION['SESS_userId']; }
+
+if (!isset($_SESSION['SESS_languageIdNo']) || strlen(trim($_SESSION['SESS_languageIdNo'])) == 0)
+{ die ("<br />error: missing session parameter!<br />"); }
+else
+{ $SESS_languageIdNo = $_SESSION['SESS_languageIdNo']; }
+
+//----------------------------------------------------------------------------------
+// optional
+$strSQLSortedBy = "";
+$sortNo = 0;
+if (isset($_GET['sort']) && strlen(trim($_GET['sort'])) > 0)
+{
+  $sortNo = abs((int) $_GET['sort']);
+	unset ($_GET['sort']);
+}
+$strSQLSortedBy = "ORDER BY ".$md_inputFields[$sortNo];
+
+//-------------------------------------------------------------------Date---------------
+$SQLDate = "";
+if (!isset($_POST['s_Date']) || strlen(trim($_POST['s_Date'])) == 0)
+{ $SQLDate = ""; }
+else
+{
+  $tmpDateGer = addslashes(strip_tags($_POST['s_Date']));
+  $tmpDate = explode(".",$tmpDateGer);
+  $tmpDate = $tmpDate[2].$tmpDate[1].$tmpDate[0]."000000";
+  $SQLDate = " AND ordDate >= '".$tmpDate."'";
+}
+
+//-------------------------------------------------------------------Firm---------------
+$SQLFirm = "";
+if (!isset($_POST['s_Firm']) || strlen(trim($_POST['s_Firm'])) == 0)
+{ $SQLFirm = ""; }
+else
+{
+  $tmpFirm = addslashes(strip_tags($_POST['s_Firm']));
+  $SQLFirm = " AND ordFirmname LIKE  '".$tmpFirm."%'";
+}
+
+//-------------------------------------------------------------------PLZ---------------
+$SQLPLZ= "";
+if (!isset($_POST['s_PLZ']) || strlen(trim($_POST['s_PLZ'])) == 0)
+{ $SQLPLZ = ""; }
+else
+{
+  $tmpPLZ = addslashes(strip_tags($_POST['s_PLZ']));
+  $SQLPLZ = " AND ordZipCode LIKE '".$tmpPLZ."%'";
+}
+
+//-------------------------------------------------------------------EMail---------------
+$SQLEMail = "";
+if (!isset($_POST['s_EMail']) || strlen(trim($_POST['s_EMail'])) == 0)
+{ $SQLEMail = ""; }
+else
+{
+  $tmpEMail = addslashes(strip_tags($_POST['s_EMail']));
+  $SQLEMail = " AND ordEMail          LIKE '".$tmpEMail."%'";
+}
+
+//-------------------------------------------------------------------Street--------------
+$SQLStreet = "";
+if (!isset($_POST['s_Street']) || strlen(trim($_POST['s_Street'])) == 0)
+{ $SQLStreet = ""; }
+else
+{
+  $tmpStreet = addslashes(strip_tags($_POST['s_Street']));
+  $SQLStreet = " AND ordStreet          LIKE '".$tmpStreet."%'";
+}
+
+//-------------------------------------------------------------------LastName---------------
+$SQLLastName = "";
+if (!isset($_POST['s_LastName']) || strlen(trim($_POST['s_LastName'])) == 0)
+{ $SQLLastName = ""; }
+else
+{
+  $tmpLastName = addslashes(strip_tags($_POST['s_LastName']));
+  $SQLLastName = " AND ordLastName     LIKE '".$tmpLastName."%'";
+}
+
+//------------------------------------------------------- End getting parameters -------------------
+//------------------------------------------------------------------------------
+// count number of total records
+
+$resultID = @mysqli_query($link,"SELECT COUNT(ordIdNo) AS anzahl FROM ".DBToken."order
+                          WHERE 1 = 1 ".$SQLDate."
+                                      ".$SQLFirm."
+                                      ".$SQLPLZ."
+                                      ".$SQLEMail."
+                                      ".$SQLStreet."
+                                      ".$SQLLastName."
+                          AND ordChgHistoryFlg <> '0'");
+//A TS 14.11.2014: mysql_result ist deprecated und in MySQLi nicht enthalten,
+//verwende alternativen Code stattdessen
+//$total    = @mysq_l_result($resultID,0);
+$rs = mysqli_fetch_assoc($resultID);
+$total = $rs['anzahl'];
+//E TS 14.11.2014
+if($total == '')
+{ $total = 0; }
+
+$start = (isset($_REQUEST['start'])) ? abs((int)$_REQUEST['start']) : 0;
+$limit = getentity(DBToken."settings","setRowCount","setIdNo = '1'");     // number of records per page
+
+// check parameter $start (maybe corrupt parameter in url)
+if(abs($total) == 0)
+{ $start = 0; }
+else
+{ $start    = ($start >= $total) ? $total - $limit : $start; }
+
+if($start < 0)
+{ $start = 0; }
+
+$strcal = "de";
+if($SESS_languageIdNo == 2)
+{ $strcal = "en"; }
+
+?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+  <title><?php echo L_dynsb_Carrier;?></title>
+  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+  <meta content="de" http-equiv="Language">
+  <meta name="author" content="GS Software Solutions GmbH">
+  <link rel="stylesheet" type="text/css" href="../css/link.css">
+  <link rel="stylesheet" type="text/css" media="all" href="../css/calendar.css" title="dynsb" >
+  <link rel="copyright" href="http://www.gs-software.de" title="(c) 2016 GS Software AG">
+  <script type="text/javascript" src="../js/gslib.php?lang=<?php echo $SESS_languageIdNo;?>"></script>
+	<script type="text/javascript" src="../js/calendar.js"></script>
+	<script type="text/javascript" src="../js/calendar-<?php echo $strcal;?>.js"></script>
+	<script type="text/javascript" src="../js/calendar-setup.js"></script>
+	<script language="JavaScript" type="text/javascript">
+
+
+  //----------------------------------------------------------------------------
+  function MM_reloadPage(init)  //reloads the window if Nav4 resized
+  {
+    if (init==true) with (navigator)
+    {
+      if ((appName=="Netscape")&&(parseInt(appVersion)==4))
+      {
+        document.MM_pgW=innerWidth;
+        document.MM_pgH=innerHeight;
+        onresize=MM_reloadPage;
+      }
+    }
+    else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH)
+    {
+      location.reload();
+    }
+  }
+  //----------------------------------------------------------------------------
+  MM_reloadPage(true);
+  //----------------------------------------------------------------------------
+  function navigation(val)
+  {
+    document.frmDHL.start.value = val;
+    document.frmDHL.submit();
+  }
+  //----------------------------------------------------------------------------
+  function preReset()
+  {
+    document.frmDHL.start.value = 0;
+    resetSearch('frmDHL', 's_', true);
+  }
+  //----------------------------------------------------------------------------
+
+<?php
+//nur wenn remote zugriff m�ch ist, inkludiere logo
+if (ini_get("allow_url_fopen") == "1") 
+  @include $dhlLabelURL."dhl_javascript.php"; 
+
+?>
+</script>
+
+</head>
+<body>
+<form name="frmDHL" action="mod.carrier.tracking.php" method="post">
+<?php
+require_once("../include/page.header.php");
+?>
+<div id="PGcarriertracking">
+	<input type="hidden" name="lang" value="<?php echo $lang; ?>">
+	<input type="hidden" name="start" value="<?php echo $start; ?>">
+	<input type="hidden" name="backstart" value="<?php echo $backstart; ?>">
+	<input type="hidden" name="next" value="">
+	<input type="hidden" name="nav" value="">
+	<input type="hidden" name="del_stat" value="0">
+
+<?php
+//nur wenn remote zugriff m�ch ist, inkludiere logo
+if (ini_get("allow_url_fopen") == "1") {
+	@include $dhlLabelURL."dhl_logo8.php?url=".$dhlLabelURL;
+	@include $dhlLabelURL."dhl_links8.php?url=".$dhlLabelURL;
+}
+?>
+
+<h1>&#187;&nbsp;<?php echo L_dynsb_ShopOrder;?>&nbsp;&#171;</h1>
+
+
+<h2><?php echo L_dynsb_Filter;?></h2>
+
+<div style="height:1%;"> <!-- height-> hack for ie6: peekaboo bug-->
+	<div class="filter">
+
+	  <?php echo L_dynsb_Date.">=";?><br />
+	  <input type="text"maxlength="16" value="<?php echo $tmpDateGer; ?>" name="s_Date" id="s_Date" readonly>
+	  <img src="../image/calendar.gif" id="s_DateTrigger" style="cursor: pointer" alt="<?php echo L_dynsb_Calendar;?>" title="<?php echo L_dynsb_Calendar;?>">
+	  <script language="JavaScript" type="text/javascript">
+
+	    Calendar.setup({
+	            inputField	: "s_Date",
+	            ifFormat    : "%d.%m.%Y",
+	            button      : "s_DateTrigger",
+	            showsTime	  : false,
+	            singleClick	: true,
+	            align       : "Bl"  });
+	  </script>
+	</div>
+
+	<div class="filter">
+    <?php echo L_dynsb_Firm;?><br />
+    <input type="text" maxlength="32" value="<?php echo $tmpFirm; ?>" name="s_Firm">
+	</div>
+
+	<div class="filter">
+	  <?php echo L_dynsb_Lastname;?><br />
+	  <input type="text" maxlength="20" value="<?php echo $tmpLastName; ?>" name="s_LastName">
+	</div>
+
+	<div class="filter">
+    <?php echo L_dynsb_Email;?><br />
+    <input type="text" maxlength="16" value="<?php echo $tmpEMail; ?>" name="s_EMail">
+	</div>
+
+	<div class="filter">
+    <?php echo L_dynsb_Street;?><br />
+    <input type="text" maxlength="16" value="<?php echo $tmpStreet; ?>" name="s_Street">
+	</div>
+
+  <div class="filter">
+    <?php echo L_dynsb_Zipcode;?><br />
+    <input type="text" maxlength="10" value="<?php echo $tmpPLZ; ?>" name="s_PLZ" >
+	</div>
+</div>
+
+<p class="clear">
+	<input type="button" class="button" onclick="javascript:navigation(<?php echo $start;?>);" name="btn_startSearch" value="<?php echo L_dynsb_StartSearch;?>">
+	<input type="button" class="button" onclick="javascript:preReset();" name="btn_resetSearch" value="<?php echo L_dynsb_Reset;?>">
+</p>
+
+<h2><?php echo L_dynsb_Searchresult;?></h2>
+
+<?php
+  // start database query
+  $qrySQL = "SELECT * FROM ".DBToken."order
+             WHERE 1 = 1 ".$SQLDate."
+                         ".$SQLFirm."
+                         ".$SQLPLZ."
+                         ".$SQLEMail."
+                         ".$SQLStreet."
+                         ".$SQLLastName."
+             AND ordChgHistoryFlg <> '0'
+             ORDER BY ordDate DESC, ordFirmname ASC, ordLastName ASC LIMIT ".$start.",".$limit;
+  $qry = @mysqli_query($link,$qrySQL);
+  ?>
+
+<table class="searchresult">
+<tr>
+	<th>&nbsp;</th>
+	<th><?php echo L_dynsb_DHLtrackingNumber;?></th>
+	<th><?php echo L_dynsb_Date;?></th>
+	<th><?php echo L_dynsb_Firm;?></th>
+	<th><?php echo L_dynsb_Lastname;?></th>
+	<th><?php echo L_dynsb_Email;?></th>
+	<th><?php echo L_dynsb_Street;?></th>
+	<th><?php echo L_dynsb_Zipcode;?></th>
+</tr>
+<?php
+$x = 0;
+while ($obj = @mysqli_fetch_object($qry))
+{
+	$x++;
+
+  if(trim($obj->ordFirmname) == "")
+    $cusFirmname = "&nbsp;";
+  else
+    $cusFirmname = trim($obj->ordFirmname);
+
+	if ($x % 2 != 0)
+		$rowStyle = " odd ";
+	else
+		$rowStyle = " even ";
+?>
+
+<tr id="d<?php echo $obj->ordIdNo;?>" class="<?php echo $rowStyle;?>">
+	<!-- DHL Tracking -->
+	<td>
+	  <a href='./dhltracking.php?pk=<?echo $obj->ordIdNo;?>&lang=<?echo $lang;?>'>
+	    <img src="../image/packet.gif" height="13" alt="<?php echo L_dynsb_DHLtrackingNumber;?>">
+	  </a>
+	 <!-- To keep the highlighting function working-->
+	 <input type="hidden" id="chk<?php echo $obj->ordIdNo;?>" >
+	</td>
+
+ <!-- DHL Tracking testen -->
+	<td>
+<?php
+  if (trim($obj->ordSendCode) != "")
+		{
+	 		$dhlLink=	"http://nolp.dhl.de/nextt-online-public/set_identcodes.do?" .
+				"lang=de&amp;zip=$obj->ordZipCode" .
+				"&amp;idc=$obj->ordSendCode";
+
+			echo "<a href='javascript:popUpWindow(\"$dhlLink\",\"dhlPopUp\",505,400);'>";
+			echo "$obj->ordSendCode";
+	 		echo "</a>";
+		}
+	?>&nbsp;
+	</td>
+
+  <td><?php echo timestamp_mysql2german($obj->ordDate);?>&nbsp;</td>
+  <td><?php echo $cusFirmname;?>&nbsp;</td>
+  <td><?php echo $obj->ordLastName;?>&nbsp;</td>
+  <td><?php echo $obj->ordEMail;?>&nbsp;</td>
+  <td><?php echo $obj->ordStreet; ?>&nbsp;</td>
+  <td><?php echo $obj->ordZipCode;?>&nbsp;</td>
+  <!--DHL Tracking -->
+ 	<!-- <td><?php// echo $obj->ordSendCode;?></td> -->
+</tr>
+<?php
+	} // end of while
+?>
+</table>
+
+<h2>&nbsp;</h2>
+<?php
+$strDatasets = L_dynsb_Rows;
+$strOf = L_dynsb_Of;
+
+// display records intervall
+$strTmp = $strDatasets." "; // Datens&auml;tze
+if ($total < 1) $strTmp = $strTmp.strval(0);
+ else $strTmp = $strTmp.strval($start + 1);
+$strTmp = $strTmp."-";
+if ($start + $limit > $total)
+  $strTmp = $strTmp.strval($total);
+else
+ $strTmp = $strTmp.strval($start + $limit);
+$strTmp = $strTmp." ".$strOf." ".strval($total); // .. von ...
+
+?>
+
+<!-- navigation // -->
+	<p>
+<?php
+	echo "$strTmp&nbsp;";
+
+	if ($start > 0) {
+		$newStartPrev = ($start - $limit < 0) ? 0 : ($start-$limit);
+		$bStatus = "";
+	}
+	else {
+		$bStatus = " disabled ";
+	}
+?>
+	<input type="button" class="button small <?php echo $bStatus;?>" onclick="javascript:navigation('0');" name="btn_next" value="|<--"<?php echo $bStatus;?>>
+	<input type="button" class="button small <?php echo $bStatus;?>" onclick="javascript:navigation(<?php echo $newStartPrev;?>);" name="btn_end" value="<--"<?php echo $bStatus;?>>
+<?php
+	if ($start + $limit < $total) {
+		$newStartNext = $start + $limit;
+		$newStartLast = (truncate($total/$limit) * $limit);
+		$bStatus = "";
+	}
+	else {
+		$bStatus = " disabled ";
+	}
+?>
+	<input type="button" class="button small<?php echo $bStatus;?>" onclick="javascript:navigation(<?php echo $newStartNext;?>);" name="btn_next" value="-->"<?php echo $bStatus;?>>
+	<input type="button" class="button small<?php echo $bStatus;?>" onclick="javascript:navigation(<?php echo $newStartLast;?>);" name="btn_end" value="-->|"<?php echo $bStatus;?>>
+</p>&nbsp;
+
+
+</div>
+<?php
+require_once("../include/page.footer.php");
+?>
+
+</form>
+</body>
+</html>

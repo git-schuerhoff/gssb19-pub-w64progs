@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}downloadarticle
+ (
+	downloadItemNumber varchar(32) {gssb_charset} NOT NULL default '',
+	downloadLanguageId char(3) {gssb_charset} NOT NULL default '',
+	downloadFilename varchar(255) {gssb_charset} default NULL,
+	downloadAllowedDownloads int(5) default NULL,
+	downloadWatermarktext varchar(30) {gssb_charset} default NULL,
+	downloadWatermarkPosition int(3) default NULL,
+	downloadWatermarkIntensity int(3) default NULL,
+	downloadCreateTime varchar(14) {gssb_charset} default NULL,
+	downloadUpdateTime varchar(14) {gssb_charset} default NULL,
+	PRIMARY KEY  (downloadItemNumber,downloadLanguageId)
+ ) {gssb_charset};

@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}staticpages (
+	staticpagesIdNo int(11) unsigned NOT NULL,
+	menuentryTitle varchar(255) {gssb_charset} default NULL,
+	menuentryURL varchar(255) {gssb_charset} default NULL,
+	filesourcepath varchar(255) {gssb_charset} default NULL
+) {gssb_charset};

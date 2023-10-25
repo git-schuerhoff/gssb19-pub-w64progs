@@ -1,0 +1,93 @@
+<div class="product-essential">
+	<form action="#" method="post" id="product_addtocart_form">
+		<input name="form_key" value="" type="hidden">
+		<div class="no-display">
+			<input name="product" value="52" type="hidden">
+			<input name="related_product" id="related-products-field" value="" type="hidden">
+		</div>
+		<div class="product-img-box">
+			<img class="zoom-image" id="img_1" src="{GSSE_INCL_BIGIMG}" data-zoom-image="{GSSE_INCL_HUGEIMG}" alt="{GSSE_INCL_ITEMNAME}" title="{GSSE_INCL_ITEMNAME}" />
+			{GSSE_INCL_GALLERY}
+		</div>
+		<div class="product-shop omega grid_10">
+			{GSSE_INCL_PREV}
+			{GSSE_INCL_NEXT}
+			<div class="product-name">
+				<h1>{GSSE_INCL_ITEMNAME}</h1>
+			</div>
+			<!--product sku-->
+			<p class="sku">{GSSE_INCL_ITEMNUMBER}</p>
+			<script language="javascript">
+				jQuery(document).ready(function() {
+					jQuery(".gs_emailfuncs").fancybox({
+						maxWidth	: 800,
+						maxHeight	: 600,
+						fitToView	: false,
+						width		: '70%',
+						height		: '70%',
+						autoSize	: false,
+						closeClick	: false,
+						openEffect	: 'none',
+						closeEffect	: 'none'
+					});
+				});
+				/*jQuery(document).ready(function() {
+					jQuery(".gs_zoomfunc").fancybox({
+						maxWidth	: '95%',
+						maxHeight	: '95%',
+						fitToView	: true,
+						width		: '90%',
+						height		: '90%',
+						autoSize	: false,
+						closeClick	: true,
+						openEffect	: 'none',
+						closeEffect	: 'none'
+					});
+				});*/
+			</script>
+			{GSSE_FUNC_AVAILABILITY}
+            {GSSE_FUNC_VIDEO}
+			<div class="short-description">
+				<!--<h2>{GSSE_LANG_LangTagDescription}</h2>-->
+				<div class="std">
+					{GSSE_INCL_ITEMTEXT}
+				</div>
+			</div>
+			{GSSE_FUNC_BUNDLES}
+			{GSSE_FUNC_VARIANTS}
+			<!--
+			<div class="widget widget-static-block ">
+				<div class="box">
+					<p>Sample Block Here ...</p>
+					<p>This is a sample content in position Alert Url. You can add your own content by insert widget into position Alert Url</p>
+				</div>
+			</div>
+			-->
+			<!--p class="availability in-stock">Availability: <span>In stock</span></p>
+			<p class="availability out-of-stock">Availability: <span>Out of stock</span></p-->
+			{GSSE_FUNC_PRICEBOX}
+            {GSSE_INCL_ITEMPRICEINFO}
+			{GSSE_FUNC_COMINGSOON}
+			{GSSE_FUNC_ATTRIBUTESNEW}
+			{GSSE_FUNC_ITEMTEXTFIELD}
+			<div class="add-to-box">
+				{GSSE_FUNC_ADDTOCART}
+				{GSSE_FUNC_ADDTOLINKS}
+			</div>
+			{GSSE_FUNC_MINIMUMAGE}
+            {GSSE_FUNC_FINDCHEAPERNEW}
+			{GSSE_FUNC_TELLAFRIENDNEW}
+			{GSSE_FUNC_QUESTONPRODNEW}
+			{GSSE_FUNC_INQUIRYNEW}
+			<!--
+			<div class="widget widget-static-block ">
+				<div class="box">
+					<p>Sample Block Here ...</p>
+					<p>This is a sample content in position Product View Short Description After. You can add your own content by insert widget into position Product View Short Description After</p>
+				</div>
+			</div>
+			-->
+		</div>
+		<div class="clearer"></div>
+	</form>
+</div>

@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS  {dsbxx_}marketingkey (
+  mkKey varchar(10) {gssb_charset} NOT NULL,
+  mkDesc text {gssb_charset},
+  mkType int(11) NOT NULL,
+  canDelete CHAR(1) NOT NULL default 'Y',
+  canEdit CHAR(1) NOT NULL default 'Y',
+  PRIMARY KEY  (mkKey)
+) {gssb_charset};

@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}newsfeed 
+(
+	nfIdNo int(11) unsigned NOT NULL auto_increment,
+	nfTitle varchar(255) {gssb_charset} NOT NULL,
+	nfDescription text {gssb_charset},
+	nfLink varchar(255) {gssb_charset} default NULL,
+	nfChgTimestamp timestamp NOT NULL default CURRENT_TIMESTAMP,
+	nfChgUserIdNo int(11) NOT NULL default '0',
+	nfChgApplicId varchar(255) {gssb_charset} NOT NULL default '',
+	nfChgHistoryFlg char(1) {gssb_charset} NOT NULL default 'N',
+	nfDurationdays smallint(6) default NULL,
+	PRIMARY KEY  (nfIdNo)
+) {gssb_charset};

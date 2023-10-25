@@ -1,0 +1,129 @@
+a {text-decoration: none}
+a:link {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #10218C}
+a:hover {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #10218C; clip:    rect(   ); text-decoration: underline}
+a:visited {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #10218C}
+
+a.button { display: table-cell; margin-bottom:3px; margin-top:3px; text-align:center; width:100px; border-style:outset; border-width:2px; padding:2px; text-decoration:none; }
+a.button:link    { color:#223366; background-color:#CCCCCC; text-decoration: none; }
+a.button:visited { color:#223366; background-color:#CCCCCC; text-decoration: none; }
+a.button:hover   { color:#3377BB; background-color:#EEEEEE; text-decoration: none; }
+
+a.button50 { display: table-cell; margin-bottom:3px; margin-top:3px; text-align:center; width:50px; border-style:outset; border-width:2px; padding:2px; text-decoration:none; }
+a.button50:link    { color:#223366; background-color:#CCCCCC; text-decoration: none; }
+a.button50:visited { color:#223366; background-color:#CCCCCC; text-decoration: none; }
+a.button50:hover   { color:#3377BB; background-color:#EEEEEE; text-decoration: none; }
+
+a.button50lg { display: table-cell; margin-bottom:3px; margin-top:3px; text-align:center; width:50px; border-style:outset; border-width:2px; padding:2px; text-decoration:none; }
+a.button50lg:link    { color:#000000; background-color:#DCDCCC; text-decoration: none; }
+a.button50lg:visited { color:#000000; background-color:#DCDCCC; text-decoration: none; }
+a.button50lg:hover   { color:#AA1122; background-color:#FEFEEE; text-decoration: none; }
+
+a.button70lg { display: table-cell; margin-bottom:3px; margin-top:3px; text-align:center; width:70px; border-style:outset; border-width:2px; padding:2px; text-decoration:none; }
+a.button70lg:link    { color:#000000; background-color:#DCDCCC; text-decoration: none; }
+a.button70lg:visited { color:#000000; background-color:#DCDCCC; text-decoration: none; }
+a.button70lg:hover   { color:#AA1122; background-color:#FEFEEE; text-decoration: none; }
+
+a.button75 { display: table-cell; margin-bottom:3px; margin-top:3px; text-align:center; width:75px; border-style:outset; border-width:2px; padding:2px; text-decoration:none; }
+a.button75:link    { color:#223366; background-color:#CCCCCC; text-decoration: none; }
+a.button75:visited { color:#223366; background-color:#CCCCCC; text-decoration: none; }
+a.button75:hover   { color:#3377BB; background-color:#EEEEEE; text-decoration: none; }
+
+a.button75lg { display: table-cell; margin-bottom:3px; margin-top:3px; text-align:center; width:75px; border-style:outset; border-width:2px; padding:2px; text-decoration:none; }
+a.button75lg:link    { color:#000000; background-color:#DCDCCC; text-decoration: none; }
+a.button75lg:visited { color:#000000; background-color:#DCDCCC; text-decoration: none; }
+a.button75lg:hover   { color:#AA1122; background-color:#FEFEEE; text-decoration: none; }
+
+a.button100 { display: table-cell; margin-bottom:3px; margin-top:3px; text-align:center; width:100px; border-style:outset; border-width:2px; padding:2px; text-decoration:none; }
+a.button100:link    { color:#223366; background-color:#CCCCCC; text-decoration: none; font-weight: normal; }
+a.button100:visited { color:#223366; background-color:#CCCCCC; text-decoration: none; font-weight: normal; }
+a.button100:hover   { color:#3377BB; background-color:#EEEEEE; text-decoration: none; font-weight: normal; }
+
+a.button160 { display: table-cell; margin-bottom:3px; margin-top:3px; text-align:center; width:160px; border-style:outset; border-width:2px; padding:2px; text-decoration:none; }
+a.button160:link    { color:#223366; background-color:#CCCCCC; text-decoration: none; font-weight: normal; }
+a.button160:visited { color:#223366; background-color:#CCCCCC; text-decoration: none; font-weight: normal; }
+a.button160:hover   { color:#3377BB; background-color:#EEEEEE; text-decoration: none; font-weight: normal; }
+
+a.button160lg { display: table-cell; margin-bottom:3px; margin-top:3px; text-align:center; width:160px; border-style:outset; border-width:2px; padding:2px; text-decoration:none; }
+a.button160lg:link    { color:#000000; background-color:#DCDCCC; text-decoration: none; }
+a.button160lg:visited { color:#000000; background-color:#DCDCCC; text-decoration: none; }
+a.button160lg:hover   { color:#AA1122; background-color:#FEFEEE; text-decoration: none; }
+
+body { background-color: #FFFFFF; status: none }
+
+.frame { background-color: #FFFFFF; border: #406186 solid; padding:0px; border-width: 3px 3px 3px 3px}
+
+.select_checked_hilight { background-color: #FFCCCC; border: #FF3322 solid; border-width: 1px 0px 1px 0px; }
+.select_checked { background-color: #FF9999; border: #FF9999 solid; border-width: 1px 0px 1px 0px; }
+
+.select_normal_hilight { background-color: #F3F6FA; border: #406186 solid; border-width: 1px 0px 1px 0px; }
+.select_normal { background-color: #E3E6EA; border: #E3E6EA solid; border-width: 1px 0px 1px 0px; }
+.select_normal_title { padding:12px 2px 6px 2px; font-weight: bold; color: #406186; background-color: #E3E6EA; border-bottom-color: #406186; border-style:dotted; border-width: 0px 0px 1px 0px; }
+
+.textbold { font-weight: bold }
+.textbold2 { font-weight: bold; color: #406186; }
+.textwarn { font-weight: bold; color: #CE3333; }
+
+.textarea {  width: 300px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #10218C }
+.textarea_readonly { width: 300px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: #CCCCCC }
+
+.about_bgr { background-color: #EFEFEF; border: #406186 solid; border-width: 3px 3px 3px 3px; }
+.about_middle { background-color: #FFFFFF; border: #406186 solid; padding:2px; border-width: 3px 0px 3px 0px}
+
+.textarea_about_ro { width: 530px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; background-color: #DFDFDF; color: #406186 }
+.boldtext10 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color: #406186 }
+.boldtext11 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #406186 }
+.boldtext12 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #406186 }
+
+.tablecolor1 { background-color: #CDD0D4; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #406186; font-weight: bold; vertical-align: middle }
+.tablecolor1_bb { background-color: #CDD0D4; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #406186; font-weight: bold; vertical-align: middle; border: #406186 solid; padding:2px; border-width: 0px 0px 1px 0px }
+.tablecolor1_tb { background-color: #CDD0D4; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #406186; font-weight: bold; vertical-align: middle; border: #406186 solid; padding:2px; border-width: 1px 0px 0px 0px }
+.tablecolor1_tbb { background-color: #CDD0D4; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #406186; font-weight: bold; vertical-align: middle; border: #406186 solid; padding:2px; border-width: 1px 0px 1px 0px }
+.tablecolor1b { background-color: #CCCCCC; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #10218C}
+.tablecolor1c { background-color: #CCCCCC; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000}
+.tablecolor2 { background-color: #E3E6EA}
+.tablecolor3 { background-color: #ffcccc; color: #000000}
+
+.labelcolor1 { background-color: #ffffff; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #10218C; font-weight: bold} 
+.labelcolor2 { background-color: #E0E0E0; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #777777; font-weight: bold}  
+.labelbar1 { background-color: #6588bc}
+.labelbar2 { background-color: #abcaef}
+
+.tablistcolor1 { background-color: #E0E0E0; color: #000000}
+.tablistcolor2 { background-color: #d0d0e0; color: #000000}
+.tablistcolor3 { background-color: #E0E0E0; color: #006600}
+.tablistcolor4 { background-color: #E0E0E0; color: #bb0000}
+.tablistcolor5 { background-color: #446699; color: #ffffff}
+.tablistcolor6 { background-color: #FF9999; color: #000000}
+.tablistcolor7 { background-color: #FFCCCC; color: #000000}
+
+.inputbox50 {  width: 50px; height: 17px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333; background-color: #CCCCCC; border: 1px #333333 solid}
+.inputbox50_eingabe {  width: 50px; height: 17px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333 }
+.inputbox75 {  width: 75px; height: 17px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333; background-color: #CCCCCC; border: 1px #333333 solid}
+.inputbox75_eingabe {  width: 75px; height: 17px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333 }
+.inputbox100 {  width: 100px; height: 17px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333; background-color: #CCCCCC; border: 1px #333333 solid}
+.inputbox100_eingabe {  width: 100px; height: 17px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333 }
+.inputbox125 {  width: 125px; height: 17px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333; background-color: #CCCCCC; border: 1px #333333 solid}
+.inputbox125_eingabe {  width: 125px; height: 17px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333 }
+.inputbox150 {  width: 150px; height: 17px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333; background-color: #CCCCCC; border: 1px #333333 solid}
+.inputbox150_eingabe {  width: 150px; height: 17px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333 }
+.inputbox175 {  width: 175px; height: 17px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333; background-color: #CCCCCC; border: 1px #333333 solid}
+.inputbox175_eingabe {  width: 175px; height: 17px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333 }
+.inputbox200 {  width: 200px; height: 17px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333; background-color: #CCCCCC; border: 1px #333333 solid}
+.inputbox200_eingabe {  width: 200px; height: 17px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333 }
+.inputbox225 {  width: 225px; height: 17px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333; background-color: #CCCCCC; border: 1px #333333 solid}
+.inputbox225_eingabe {  width: 225px; height: 17px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333 }
+.inputbox250 {  width: 250px; height: 17px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333; background-color: #CCCCCC; border: 1px #333333 solid}
+.inputbox250_eingabe {  width: 250px; height: 17px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333 }
+
+.buttonLogin { width: 90px; height: 20px; 	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif ; color: #333333; background-color: #CCCCCC; border: 1px #333333 solid; cursor: pointer}
+
+table { font-family: Verdana, Arial, Helvetica, sans-serif }
+td { font-family: Verdana, Arial, Helvetica, sans-serif; color: #333333; font-size: 10px }
+hr { font-size: 1px; color: #999999; text-decoration: none }
+
+h1 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; color: #406186; }
+h2 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #406186; }
+h3 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #406186; }
+h4 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color: #406186; }
+
+.kontakt { margin-left:190px; }

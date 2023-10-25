@@ -1,0 +1,12 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}faq 
+(
+	faqId int(11) NOT NULL auto_increment,
+	faqTitle varchar(255) {gssb_charset} default NULL,
+	faqSubtitle text {gssb_charset},
+	faqText text {gssb_charset},
+	faqImage varchar(255) {gssb_charset} default NULL,
+	faqImageXSize int(4) default NULL,
+	faqImageYSize int(4) default NULL,
+	faqActive char(1) NOT NULL DEFAULT 'N',
+	PRIMARY KEY  (faqId)
+) {gssb_charset};

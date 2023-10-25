@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}availmail_settings (
+  avSettingsNo int(10) unsigned NOT NULL auto_increment,
+  avSenderAddress varchar(50) {gssb_charset} NOT NULL default '',
+  avMailSubject varchar(250) {gssb_charset} NOT NULL default '',
+  avMailBody text NOT NULL,
+  PRIMARY KEY  (avSettingsNo)
+) {gssb_charset};

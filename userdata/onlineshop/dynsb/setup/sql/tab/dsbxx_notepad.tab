@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}notepad 
+ (
+	npId int(32) unsigned NOT NULL auto_increment,
+	cusIdNo int(11) unsigned NOT NULL default '0',
+	itemNumber varchar(32) {gssb_charset} NOT NULL default '',
+	date varchar(8) {gssb_charset} NOT NULL default '',
+	PRIMARY KEY  (npId)
+ ) {gssb_charset};

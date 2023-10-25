@@ -1,0 +1,14 @@
+CREATE TABLE IF NOT EXISTS `{dsbxx_}productgroups` (
+  `ObjectCount` int(11) NOT NULL DEFAULT '0',
+  `ProductGroup` varchar(255) {gssb_charset} NOT NULL,
+  `TemplateFile` varchar(255) {gssb_charset} NOT NULL,
+  `ImageFile` varchar(255) {gssb_charset} NOT NULL,
+  `Parent` int(11) NOT NULL DEFAULT '0',
+  `Sequence` int(11) NOT NULL DEFAULT '0',
+  `GroupHint` varchar(255) {gssb_charset} NOT NULL,
+  `IsEdited` CHAR(1) NOT NULL DEFAULT 'N',
+  `Permalink`varchar(255) {gssb_charset} NOT NULL,
+  `Published` int(11) unsigned NOT NULL default '0',
+  PRIMARY KEY (`ObjectCount`),
+  KEY `Parent` (`Parent`)
+) {gssb_charset};

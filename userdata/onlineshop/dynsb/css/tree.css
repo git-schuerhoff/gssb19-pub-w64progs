@@ -1,0 +1,56 @@
+/*Tree Menu*/
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-color:#AACCFF;
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+}
+
+a {
+	text-decoration:none;
+	color: #000;
+}
+
+p {
+	margin: 0px;
+	padding: 4px;
+}
+
+.e1, .e2, .e3 {
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+.e1 {
+	background-color:#AACCFF;
+}
+.e2 {
+	background-color:#DAE9FF;
+	padding-left: 1em;
+}
+.e3{
+	background-color:#EAF1FF ;
+	padding-left: 2em;
+}
+
+
+.e1:hover,
+.e2:hover,
+.e3:hover {
+	background-color:#006FB4;
+	color:#FFF;
+}
+
+.e1:hover a,
+.e2:hover a,
+.e3:hover a  {
+	color:#FFF;
+}
+
+.node {
+	font-weight: bold;
+}

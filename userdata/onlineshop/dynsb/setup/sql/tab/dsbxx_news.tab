@@ -1,0 +1,19 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}news 
+ (
+	newsIdNo int(11) unsigned NOT NULL auto_increment,
+	newsSortIndex int(2) NOT NULL default '1',
+	newsTypeId int(2) default NULL,
+	newsTitle varchar(255) {gssb_charset} NOT NULL default '',
+	newsContent blob NOT NULL,
+	newsStartDate varchar(14) {gssb_charset} NOT NULL default '',
+	newsEndDate varchar(14) {gssb_charset} NOT NULL default '',
+	newsPicName varchar(255) {gssb_charset} default NULL,
+	newsPicLink varchar(255) {gssb_charset} default NULL,
+	newsPicXSize int(3) default '0',
+	newsPicYSize int(3) default '0',
+	newsChgTimestamp timestamp NOT NULL,
+	newsChgUserIdNo int(11) NOT NULL default '0',
+	newsChgApplicId varchar(255) {gssb_charset} NOT NULL default '',
+	newsChgHistoryFlg char(1) {gssb_charset} NOT NULL default 'N',
+	PRIMARY KEY  (newsIdNo)
+ ) {gssb_charset};

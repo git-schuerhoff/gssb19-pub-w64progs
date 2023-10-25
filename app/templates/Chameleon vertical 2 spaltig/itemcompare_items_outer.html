@@ -1,0 +1,14 @@
+<ol id="compare-items">
+	{GSSE_INCL_ITEMSTOCOMPARE}
+</ol>
+<script type="text/javascript">
+	decorateList('compare-items')
+</script>
+<div class="actions">
+	<button class="button" onclick="popWin('index.php?page=compare_items','compare','top:0,left:0,width=820,height=600,resizable=yes,scrollbars=yes,toolbar=no,location=no')" title="Compare" type="button">
+		<span>
+			<span>{GSSE_LANG_LangTagCompare}</span>
+		</span>
+	</button>
+	<a onclick="return confirm('{GSSE_LANG_LangTagRemoveAllFromCompare}');" href="javascript:mark_comparison2(window,-9999,'*#*#*');">{GSSE_LANG_LangTagClearAll}</a>
+</div>

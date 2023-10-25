@@ -1,0 +1,12 @@
+CREATE TABLE IF NOT EXISTS `{dsbxx_}downloadarticle_customer` (
+	`dlcuIdNo` int(11) unsigned NOT NULL auto_increment,
+	`dlcuItemNumber` varchar(32) {gssb_charset} NOT NULL default '',
+	`dlcuSLC` char(3) {gssb_charset} default NULL,
+	`dlcuFilename` varchar(255) {gssb_charset} default NULL,
+	`dlcuAllowedDownloads` int(5) default NULL,
+	`dlcuCusId` int(11) default NULL,
+	`dlcuOrdId` int(11) default NULL,
+	`dlcuCreateTime` varchar(14) {gssb_charset} NOT NULL default '',
+	PRIMARY KEY  (`dlcuIdNo`)
+) {gssb_charset};
+

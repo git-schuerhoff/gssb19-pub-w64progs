@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}crossselling (
+	`crsItemNumber` varchar(32) {gssb_charset} NOT NULL default '',
+	`crsCrossSelingItem` varchar(32) {gssb_charset} NOT NULL default '',
+	`crsCrossSelingIdNo` int(10) unsigned NOT NULL default '0',
+	`crsItemCount` int(4) unsigned NOT NULL default '0',
+	`crsCrossSelingCount` int(4) unsigned NOT NULL default '0'
+) {gssb_charset};

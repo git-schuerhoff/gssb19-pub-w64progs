@@ -1,0 +1,1 @@
+Um die Deeplink-Funktionalität nutzen zu können, müssen Sie zunächst die Deeplinks-Daten erzeugen oder aktualisieren. Klicken Sie dazu auf den Button "Deeplinks-Daten erzeugen/aktualisieren". Wenn Sie nach dem letzten Veröffentlichen weitere Änderungen an Ihrem Datenbestand vorgenommen haben, so müssen Sie diesen Vorgang wiederholen, um aktuelle Deeplink-Dateien zu generieren.

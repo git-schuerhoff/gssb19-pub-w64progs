@@ -1,0 +1,20 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}orderpos 
+ (
+	ordpOrdIdNo int(11) unsigned NOT NULL auto_increment,
+	ordpPosNo int(4) unsigned NOT NULL default '0',
+	ordpItemId varchar(32) {gssb_charset} NOT NULL default '',
+	ordpItemDesc varchar(255) {gssb_charset} NOT NULL default '',
+	ordpImage varchar(255) {gssb_charset} default NULL,
+	ordpQty decimal(9,2) NOT NULL default '0.00',
+	ordpPrice double NOT NULL default '0',
+	ordpPriceTotal double NOT NULL default '0',
+	ordpVATPrct decimal(9,2) NOT NULL default '0.00',
+	ordpVATValue double(9,2) NOT NULL default '0.00',
+	ordpChgTimestamp timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+	ordpChgUserIdNo int(11) NOT NULL default '0',
+	ordpChgApplicId varchar(255) {gssb_charset} NOT NULL default '',
+	ordpChgHistoryFlg char(1) {gssb_charset} NOT NULL default 'N',
+	PRIMARY KEY (ordpOrdIdNo,ordpPosNo),
+	KEY ordpItemId (ordpItemId),
+	KEY ordpOrdIdNo (ordpOrdIdNo)
+ ) {gssb_charset};

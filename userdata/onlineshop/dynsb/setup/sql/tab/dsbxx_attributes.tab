@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS {dsbxx_}attributes (
+	name varchar(255) {gssb_charset} NOT NULL default '',
+	value varchar(255) {gssb_charset} NOT NULL default '',
+	attributeOrder int(11) NOT NULL DEFAULT 0
+) {gssb_charset};

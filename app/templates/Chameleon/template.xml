@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+	<TemplateName>Chameleon</TemplateName>
+	<GSSBVersion>18</GSSBVersion>
+	<GSSBEdition>All</GSSBEdition>
+	<IsResponsive>1</IsResponsive>
+	<IsHTML5>0</IsHTML5>
+	<UseCSSEditor>0</UseCSSEditor>
+	<Images>
+		<ShopLogo>
+			<UseShopLogo>1</UseShopLogo>
+			<UseUserDefDimensions>0</UseUserDefDimensions>
+			<AspectRatio>4:3</AspectRatio>
+		</ShopLogo>
+	</Images>
+	<ItemGroups>
+		<MaximumColums>5</MaximumColums>
+		<MaximumItems>15</MaximumItems>
+		<UseGroupTemplate>0</UseGroupTemplate>
+	</ItemGroups>
+	<ItemMenu>
+		<PreCalculated>1</PreCalculated>
+	</ItemMenu>
+	<ItemBasket>
+		<UseMiniBasket>0</UseMiniBasket>
+	</ItemBasket>
+	<MenuOrientation>horizontal</MenuOrientation>
+	<SpecialTemplate>0</SpecialTemplate>
+	<SubTemplates>
+		<SubTemplate name="Blue Sky">
+			<Color prior="1">lightblue</Color>
+			<Color prior="2">white</Color>
+		</SubTemplate>
+		<SubTemplate name="Platinum">
+			<Color prior="1">grey</Color>
+			<Color prior="2">white</Color>
+		</SubTemplate>
+		<SubTemplate name="Braun">
+			<Color prior="1">lightbrown</Color>
+			<Color prior="2">white</Color>
+		</SubTemplate>
+		<SubTemplate name="dark blue">
+			<Color prior="1">blue</Color>
+			<Color prior="2">white</Color>
+		</SubTemplate>
+		<SubTemplate name="green">
+			<Color prior="1">green</Color>
+			<Color prior="2">white</Color>
+		</SubTemplate>
+		<SubTemplate name="light red">
+			<Color prior="1">lightred</Color>
+			<Color prior="2">white</Color>
+		</SubTemplate>
+		<SubTemplate name="red">
+			<Color prior="1">red</Color>
+			<Color prior="2">white</Color>
+		</SubTemplate>
+	</SubTemplates>
+</Template>

@@ -1,0 +1,44 @@
+<div class="totals">
+	<div class="totals-content">
+		<h2>{GSSE_LANG_LangTagTextOrderTotal}</h2>
+		<table id="shopping-cart-totals-table">
+			<colgroup>
+				<col>
+				<col width="1">
+			</colgroup>
+			<tfoot>
+				<!--<tr>
+					<td class="a-right" colspan="1" style="">
+						<strong>{GSSE_LANG_LangTagTextTotalPrice}</strong>
+					</td>
+					<td class="a-right" style="">
+						<strong>
+							<span class="price">{GSSE_INCL_GRANDTOTAL}</span>
+						</strong>
+					</td>
+				</tr>-->
+			</tfoot>
+			<tbody>
+				<tr>
+					<td class="a-right" colspan="1" style="">{GSSE_LANG_LangTagTextGoodsValue}</td>
+					<td class="a-right" style="">
+						<span class="price">{GSSE_INCL_SUBTOTAL}</span>
+					</td>
+				</tr>
+				<!--{GSSE_INCL_BASKETTOTALITEMS}-->
+			</tbody>
+		</table>
+		<ul class="checkout-types">
+			<li class="{GSSE_INCL_SHOWCOBUTTON}">
+				<button class="button btn-proceed-checkout btn-checkout" onclick="window.location='{GSSE_INCL_PATHTOBUY}';" title="{GSSE_INCL_CHECKOUTTXT}" type="button">
+					<span>
+						<span>{GSSE_INCL_CHECKOUTTXT}</span>
+					</span>
+				</button>
+			</li>
+			<li>
+				<p class="{GSSE_MSG_ERRORNEWCLASS}">{GSSE_MSG_ERRORNEW}</p>
+			</li>
+		</ul>
+	</div>
+</div>

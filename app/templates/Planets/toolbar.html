@@ -1,0 +1,47 @@
+<div class="toolbar" id="toolbar">
+	<div class="toolbar_row1">
+		<div class="sorter">
+			<div class="amount">
+				<strong><span id="items_count"></span> {GSSE_LANG_LangTagSearchItems}</strong>
+			</div>
+			<div class="sort-by">
+				<div>
+					<a class="sort" href="javascript:gs_chg_dirnew();" title="Set Descending Direction">
+						<img id="sortimg" src="template/images/i_asc_arrow.gif" alt="Set Descending Direction" class="v-middle" />
+						<input type="hidden" name="sortdir" id="sortdir" value="asc" />
+					</a>
+				</div>
+			</div>
+			<div class="limiter">
+				<div class="">
+					<label>{GSSE_LANG_LangTagOrderBy}</label>
+					<select class="sortby" name ="sortby" onchange="gs_chg_ordernew(this)">
+						<option value="pos">{GSSE_LANG_LangTagOrderByPos}</option>
+						<option value="name">{GSSE_LANG_LangTagOrderByName}</option>
+						<option value="price">{GSSE_LANG_LangTagOrderByPrice}</option>
+						<option value="rating">{GSSE_LANG_LangTagTextUserCommentsRating}</option>
+					</select>
+				</div>
+			</div>
+			
+			<div class="limiter">
+				<div class="">
+					<label>{GSSE_LANG_LangTagViewCount}</label>
+					<select id="gs-view-count" class="show" onchange="gs_chg_count(this)">
+					</select> 
+				</div>
+			</div>
+			<p id="gs_view-mode" class="view-mode">
+				<label>{GSSE_LANG_LangTagViewAs}</label>
+				<a href="javascript:gs_chg_view('grid');" title="Grid" class="grid">Grid</a>&nbsp;
+				<a href="javascript:gs_chg_view('list');" title="List" class="list">List</a>&nbsp;
+			</p>
+		</div>
+	</div>
+	<div class="toolbar_row2">
+	</div>
+</div>
+<div class="pager" id="pager">
+			<div id="gs_pager_top" class="pages">
+			</div>
+		</div>
