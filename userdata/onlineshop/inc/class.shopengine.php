@@ -53,7 +53,8 @@ class gs_shopengine
 		$this->gssbmodules = $gssbModules;
 		//E: Werte aus db.const.inc.php
 		$this->edition = $this->chk_edition($gssbInfo,$gssbEdition);
-		
+
+        session_start();
 		
 		if((!isset($_SESSION['aslc'])) || (!isset($_SESSION['acnt']))) {
 			echo "Loading languages";
