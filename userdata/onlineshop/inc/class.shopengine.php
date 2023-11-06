@@ -56,10 +56,14 @@ class gs_shopengine
 		
 		
 		if((!isset($_SESSION['aslc'])) || (!isset($_SESSION['acnt']))) {
-			$this->get_slccnts();
+			echo "Loading languages";
+            $this->get_slccnts();
 			$_SESSION['aslc'] = $this->aslcs;
 			$_SESSION['acnt'] = $this->acnts;
-		}
+		} else {
+            $this->aslcs = $_SESSION['aslc'];
+            $this->acnts = $_SESSION['acnt'];
+        }
 		
 		if(($this->edition === false) && ($this->demo === 0)) {
 			die("Licencing problem detected!!! Please contact the support!!!");
@@ -97,12 +101,12 @@ class gs_shopengine
 		
 		//$this->lngID = $gssbLang;
 		//$this->cntID = $gssbCountry;
-		if (!isset($_SESSION['aLang'])){
+		//if (!isset($_SESSION['aLang'])){
             $this->aLang = $this->getLng();
             $_SESSION['aLang'] = $this->aLang;
-        } else {
-            $this->aLang = $_SESSION['aLang'];
-        }
+        //} else {
+        //    $this->aLang = $_SESSION['aLang'];
+        //}
 		$this->crlf = chr(13) . chr(10);
 		
 		//$this->absurl = $this->get_setting('edAbsoluteShopPath_Text');
@@ -2772,8 +2776,8 @@ class gs_shopengine
 	function aprove_iban( $iban ) {
 		$iban = str_replace( ' ', '', $iban );
 		$iban1 = substr( $iban,4 )
-			. strval( ord( $iban[0] )-55 )
-			. strval( ord( $iban[1] )-55 )
+			. strval( ord( $iban{0} )-55 )
+			. strval( ord( $iban{1} )-55 )
 			. substr( $iban, 2, 2 );
 
 		$rest=0;
