@@ -1,14 +1,14 @@
 //TagName	Language	Translation	creation date yyyymmdd	Comments
 //  GS ShopBuilder, Copyright (c) 2014 by GS Software AG, Dortmund (www.gs-shopbuilder.com) - Do not remove this copyright notice!			date20020101	
-// ©2014 GS ShopBuilder - Droits de traduction réservés pour tous les pays. 			date20020102	
-// ©2014 GS ShopBuilder - All Rights Reserved.		All translations rights reserved.	date20020103	
-// ©2014 GS ShopBuilder - Todos los Derechos quedan reservados. 	 	Todas los derechos de traducción reservados.	date20020104	
-// ©2014 GS ShopBuilder - Alle Rechte vorbehalten.	 	Alle Übersetzungsrechte vorbehalten.	date20020105	
-// ©2014 GS ShopBuilder - Alle Rechten Voorbehouden. 	 		date20020106	
-// ©2014 GS ShopBuilder - Med ensamrätt.	 	 	date20020107	sv
-// ©2014 GS ShopBuilder - Tutti i Diritti Riservati. 	 	Tutti i diritti di traduzione riservati.	date20020108	
-// ©2014 GS ShopBuilder - Todos os Direitos Reservados.	 	Todas os direitos de tradução reservados.	date20020109	
-// ©2014 GS ShopBuilder - Med eneret.	 	 	date20020110	dk
+// ?2014 GS ShopBuilder - Droits de traduction r?serv?s pour tous les pays. 			date20020102	
+// ?2014 GS ShopBuilder - All Rights Reserved.		All translations rights reserved.	date20020103	
+// ?2014 GS ShopBuilder - Todos los Derechos quedan reservados. 	 	Todas los derechos de traducci?n reservados.	date20020104	
+// ?2014 GS ShopBuilder - Alle Rechte vorbehalten.	 	Alle ?bersetzungsrechte vorbehalten.	date20020105	
+// ?2014 GS ShopBuilder - Alle Rechten Voorbehouden. 	 		date20020106	
+// ?2014 GS ShopBuilder - Med ensamr?tt.	 	 	date20020107	sv
+// ?2014 GS ShopBuilder - Tutti i Diritti Riservati. 	 	Tutti i diritti di traduzione riservati.	date20020108	
+// ?2014 GS ShopBuilder - Todos os Direitos Reservados.	 	Todas os direitos de tradu??o reservados.	date20020109	
+// ?2014 GS ShopBuilder - Med eneret.	 	 	date20020110	dk
 // BITTE NUR AM ENDE EINFUEGEN !!!			date20020111	
 //Estonian, Latvian, Lithuanian		windows 1257	date20020112	
 //Romanian	Rom	Ro, osteuropaeische Sprachgruppe	Date20020112a	Oste
@@ -18,7 +18,7 @@
 //croatian	hrv	Croatian	date20020113	
 //serbian (latin)	srl	Serbian latin	date20020113	
 //serbian (cyrillic)	srb	Serbian cyrillic	date20020113	
-//hungarian	hun	Kosár megtekintése	date20020113	
+//hungarian	hun	Kos?r megtekint?se	date20020113	
 //Czech	csy	Czech	date20020114	
 //Slovenian	slv	Slovenian	date20020114	
 //Slovak	sky	Slovak	date20020114	
@@ -59,70 +59,70 @@ LangTagContentLanguage	fra	FR	date20020116
 //LangTagContentLanguage	plk	PL	date20020116	
 //LangTagContentLanguage	trk	TR	date20020116	
 //			Date20020117	
-LangTagISO2Lang	deu	de	date20030201	LinkMenü/Tabellenüberschrift
+LangTagISO2Lang	deu	de	date20030201	LinkMen?/Tabellen?berschrift
 LangTagISO2Lang	eng	en	date20030201	
 LangTagISO2Lang	fra	fr	date20030201	
-LangTagISO3Lang	deu	DEU	date20030201	LinkMenü/Tabellenüberschrift
+LangTagISO3Lang	deu	DEU	date20030201	LinkMen?/Tabellen?berschrift
 LangTagISO3Lang	eng	ENG	date20030201	
 LangTagISO3Lang	fra	FRA	date20030201	
-LangTagISO5Lang	deu	de-de	date20030201	LinkMenü/Tabellenüberschrift
+LangTagISO5Lang	deu	de-de	date20030201	LinkMen?/Tabellen?berschrift
 LangTagISO5Lang	eng	en-gb	date20030201	
 LangTagISO5Lang	fra	fr-fr	date20030201	
-LangTagBasket	deu	Warenkorb	date20030201	LinkMenü/Tabellenüberschrift
+LangTagBasket	deu	Warenkorb	date20030201	LinkMen?/Tabellen?berschrift
 LangTagBasket	eng	Basket	date20030202	
 LangTagBasket	fra	Panier	date20030203	
-LangTagOrder	deu	Zur Kasse	date20030204	LinkMenü/Tabellenüberschrift
+LangTagOrder	deu	Zur Kasse	date20030204	LinkMen?/Tabellen?berschrift
 LangTagOrder	eng	Order Form	date20030205	
 LangTagOrder	fra	Commande	date20030206	
-LangTagShipment	deu	Versand	date20030207	LinkMenü/Tabellenüberschrift
+LangTagShipment	deu	Versand	date20030207	LinkMen?/Tabellen?berschrift
 LangTagShipment	eng	Delivery	date20030208	
 LangTagShipment	fra	Livraison	date20030209	
-LangTagInfo	deu	Info	date20030210	LinkMenü/Tabellenüberschrift
+LangTagInfo	deu	Info	date20030210	LinkMen?/Tabellen?berschrift
 LangTagInfo	eng	Info	date20030211	
 LangTagInfo	fra	Info	date20030212	
-LangTagTermsAndCond	deu	AGB	date20030213	LinkMenü/Tabellenüberschrift
+LangTagTermsAndCond	deu	AGB	date20030213	LinkMen?/Tabellen?berschrift
 LangTagTermsAndCond	eng	Conditions	date20030214	
 LangTagTermsAndCond	fra	Conditions	date20030215	
-LangTagViewTermsAndCond	deu	AGB anzeigen	date20030213	LinkMenü/Tabellenüberschrift
+LangTagViewTermsAndCond	deu	AGB anzeigen	date20030213	LinkMen?/Tabellen?berschrift
 LangTagViewTermsAndCond	eng	view conditions	date20030214	
 LangTagViewTermsAndCond	fra	Conditions	date20030215	
-LangTagImprint	deu	Impressum	date20030216	LinkMenü/Tabellenüberschrift
+LangTagImprint	deu	Impressum	date20030216	LinkMen?/Tabellen?berschrift
 LangTagImprint	eng	Imprint	date20030217	
 LangTagImprint	fra	Qui sommes nous	date20030218	
-LangTagSitemap	deu	Sitemap	date20030219	LinkMenü/Tabellenüberschrift
+LangTagSitemap	deu	Sitemap	date20030219	LinkMen?/Tabellen?berschrift
 LangTagSitemap	eng	Sitemap	date20030220	
 LangTagSitemap	fra	Plan du site	date20030221	
-LangTagEmail	deu	Email	date20030222	LinkMenü
+LangTagEmail	deu	Email	date20030222	LinkMen?
 LangTagEmail	eng	Email	date20030223	
 LangTagEmail	fra	Email	date20030224	
-LangTagHome	deu	Home	date20030225	LinkMenü/Tabellenüberschrift
+LangTagHome	deu	Home	date20030225	LinkMen?/Tabellen?berschrift
 LangTagHome	eng	Home	date20030226	
 LangTagHome	fra	Accueil	date20030227	
 //LangTagTextQuantity	deu	Menge	date20030301	
 //LangTagTextQuantity	eng	Quantity	date20030301	
-//LangTagTextQuantity	fra	Quantité	date20030301	
+//LangTagTextQuantity	fra	Quantit?	date20030301	
 //NEUE TAGS :			date20030301	
 LangTagAccountHolderFirst	deu	Kontoinhaber Vorname	date20030301	
 LangTagAccountHolderFirst	eng	Account Holder firstname	date20030301	
-LangTagAccountHolderFirst	fra	Propriétaire du compte	date20030301	
+LangTagAccountHolderFirst	fra	Propri?taire du compte	date20030301	
 LangTagAccountHolderLast	deu	Kontoinhaber Nachname	date20030301	
 LangTagAccountHolderLast	eng	Account Holder lastname	date20030301	
-LangTagAccountHolderLast	fra	Propriétaire du compte	date20030301	
+LangTagAccountHolderLast	fra	Propri?taire du compte	date20030301	
 LangTagAccountNumber	deu	IBAN	date20030301	
 LangTagAccountNumber	eng	IBAN	date20030301	
 LangTagAccountNumber	fra	IBAN	date20030301	
 LangTagBankCodeNumber	deu	BIC	date20030301	
 LangTagBankCodeNumber	eng	BIC	date20030301	
 LangTagBankCodeNumber	fra	BIC	date20030301	
-LangTagButtonBack	deu	Zurück	date20030301
+LangTagButtonBack	deu	Zur?ck	date20030301
 LangTagButtonBack	eng	Back	date20030301	
 LangTagButtonBack	fra	Retour	date20030301	
-LangTagButtonBackToOrder	deu	Zurück zu Kundendaten	date20030301
+LangTagButtonBackToOrder	deu	Zur?ck zu Kundendaten	date20030301
 LangTagButtonBackToOrder	eng	Back to customerdata	date20030301
 LangTagButtonBackToOrder	fra	Retourner au formulaire de commande	date20030301	
 LangTagButtonCloseWindow	deu	Fenster schlie&szlig;en	date20030301
 LangTagButtonCloseWindow	eng	Close Window	date20030301	
-LangTagButtonCloseWindow	fra	Fermer la fenêtre	date20030301	
+LangTagButtonCloseWindow	fra	Fermer la fen?tre	date20030301	
 LangTagButtonCond	deu	AGB	date20030301	Buttonbeschriftung buy2
 LangTagButtonCond	eng	Conditions	date20030301	
 LangTagButtonCond	fra	Conditions	date20030301	
@@ -131,7 +131,7 @@ LangTagButtonOrderForm	eng	Go forward to Order Form	date20030301
 LangTagButtonOrderForm	fra	Continuer	date20030301	
 LangTagButtonPrintConditions	deu	AGB drucken	date20030301	Buttonbeschriftung cond
 LangTagButtonPrintConditions	eng	Print Conditions	date20030301	
-LangTagButtonPrintConditions	fra	Imprimer les conditions générales	date20030301	
+LangTagButtonPrintConditions	fra	Imprimer les conditions g?n?rales	date20030301	
 LangTagButtonPrintOrder	deu	Bestellung drucken	date20030301	Buttonbeschriftung buy3
 LangTagButtonPrintOrder	eng	Print Order	date20030301	
 LangTagButtonPrintOrder	fra	Imprimer la commande	date20030301	
@@ -146,26 +146,26 @@ LangTagCheckboxConditions	eng	Conditions	date20030301
 LangTagCheckboxConditions	fra	Conditions	date20030301	
 LangTagCheckboxConditionsValue	deu	gelesen	date20030301	
 LangTagCheckboxConditionsValue	eng	checked	date20030301	
-LangTagCheckboxConditionsValue	fra	lu et accepté	date20030301	
+LangTagCheckboxConditionsValue	fra	lu et accept?	date20030301	
 LangTagCreditCard	deu	Kreditinstitut	date20030301	
 LangTagCreditCard	eng	Credit Card	date20030301	
-LangTagCreditCard	fra	Carte de crédit	date20030301	
+LangTagCreditCard	fra	Carte de cr?dit	date20030301	
 LangTagCreditCardHolderFirst	deu	Kreditkarteninhaber Vorname	date20030301	
 LangTagCreditCardHolderFirst	eng	Credit Card Holder firstname	date20030301	
-LangTagCreditCardHolderFirst	fra	Propriétaire de la carte	date20030301	
+LangTagCreditCardHolderFirst	fra	Propri?taire de la carte	date20030301	
 LangTagCreditCardHolderLast	deu	Kreditkarteninhaber Nachname	date20030301	
 LangTagCreditCardHolderLast	eng	Credit Card Holder lastname	date20030301	
-LangTagCreditCardHolderLast	fra	Propriétaire de la carte	date20030301	
+LangTagCreditCardHolderLast	fra	Propri?taire de la carte	date20030301	
 LangTagCreditCardNumber	deu	Kreditkartennummer	date20030301	
 LangTagCreditCardNumber	eng	Credit Card Number	date20030301	
-LangTagCreditCardNumber	fra	Numéro de la carte	date20030301	
+LangTagCreditCardNumber	fra	Num?ro de la carte	date20030301	
 LangTagDetails	deu	Details	date20030301	
 LangTagDetails	eng	Details	date20030301	
-LangTagDetails	fra	Détails	date20030301	
-LangTagExpirationDate	deu	Gültig bis	date20030301	
+LangTagDetails	fra	D?tails	date20030301	
+LangTagExpirationDate	deu	G?ltig bis	date20030301	
 LangTagExpirationDate	eng	Expiration Date	date20030301	
-LangTagExpirationDate	fra	Validité de la carte	date20030301	
-LangTagFieldAddress	deu	Straße	date20030301	
+LangTagExpirationDate	fra	Validit? de la carte	date20030301	
+LangTagFieldAddress	deu	Stra?e	date20030301	
 LangTagFieldAddress	eng	Address Line 1	date20030301	
 LangTagFieldAddress	fra	Rue	date20030301	
 LangTagFieldAddress2	deu	Adressenzusatz	date20030301	
@@ -176,7 +176,7 @@ LangTagFieldCity	eng	Town/City	date20030301
 LangTagFieldCity	fra	Ville	date20030301	
 LangTagFieldCompany	deu	Firma	date20030301	
 LangTagFieldCompany	eng	Company	date20030301	
-LangTagFieldCompany	fra	Société	date20030301	
+LangTagFieldCompany	fra	Soci?t?	date20030301	
 LangTagFieldEmail	deu	Email	date20030301	
 LangTagFieldEmail	eng	Email	date20030301	
 LangTagFieldEmail	fra	Email	date20030301	
@@ -185,10 +185,10 @@ LangTagFieldCaptcha	eng	What code is in the image?	date20101230
 LangTagFieldCaptcha	fra	Captcha	date20101230	
 LangTagFieldFax	deu	Fax	date20030301	
 LangTagFieldFax	eng	Fax	date20030301	
-LangTagFieldFax	fra	Télécopie	date20030301	
+LangTagFieldFax	fra	T?l?copie	date20030301	
 LangTagFieldFirstName	deu	Vorname	date20030301	
 LangTagFieldFirstName	eng	First Name	date20030301	
-LangTagFieldFirstName	fra	Prénom	date20030301	
+LangTagFieldFirstName	fra	Pr?nom	date20030301	
 LangTagFieldFormToAddress	deu	Anrede	date20030301	
 LangTagFieldFormToAddress	eng	Title	date20030301	
 LangTagFieldFormToAddress	fra	Titre	date20030301	
@@ -197,7 +197,7 @@ LangTagFieldLastName	eng	Last Name	date20030301
 LangTagFieldLastName	fra	Nom	date20030301	
 LangTagFieldPhone	deu	Telefon	date20030301	
 LangTagFieldPhone	eng	Phone	date20030301	
-LangTagFieldPhone	fra	Téléphone	date20030301	
+LangTagFieldPhone	fra	T?l?phone	date20030301	
 LangTagFieldShippingAddress	deu	Abweichende Lieferadresse	date20030301	
 LangTagFieldShippingAddress	eng	Delivery address	date20030301	
 LangTagFieldShippingAddress	fra	Adresse de livraison:	date20030301	
@@ -216,27 +216,27 @@ LangTagHeadOrderData	fra	Votre commande	date20030301
 LangTagMonth	deu	Monat	date20030301	
 LangTagMonth	eng	Month	date20030301	
 LangTagMonth	fra	Mois	date20030301	
-LangTagMonthExpirationDate	deu	Monat der Gültigkeit Ihrer Kreditkarte	date20030301	
+LangTagMonthExpirationDate	deu	Monat der G?ltigkeit Ihrer Kreditkarte	date20030301	
 LangTagMonthExpirationDate	eng	Month of the Expiration Date	date20030301	
-LangTagMonthExpirationDate	fra	Mois de validité	date20030301	
-LangTagNews	deu	News	date20030301	Tabellenüberschrift
+LangTagMonthExpirationDate	fra	Mois de validit?	date20030301	
+LangTagNews	deu	News	date20030301	Tabellen?berschrift
 LangTagNews	eng	News	date20030301	
 LangTagNews	fra	Nouvelles	date20030301	
-LangTagNextPageLinkName	deu	nächste Seite	date20030301	
+LangTagNextPageLinkName	deu	n?chste Seite	date20030301	
 LangTagNextPageLinkName	eng	next page	date20030301	
 LangTagNextPageLinkName	fra	page suivante	date20030301	
 LangTagPrevPageLinkName	deu	vorherige Seite	date20030301	
 LangTagPrevPageLinkName	eng	previous page	date20030301	
-LangTagPrevPageLinkName	fra	page précédente	date20030301	
-LangTagProductGroups	deu	Warengruppen	date20030301	Tabellenüberschrift
+LangTagPrevPageLinkName	fra	page pr?c?dente	date20030301	
+LangTagProductGroups	deu	Warengruppen	date20030301	Tabellen?berschrift
 LangTagProductGroups	eng	Categories	date20030301	
-LangTagProductGroups	fra	Catégories	date20030301	
+LangTagProductGroups	fra	Cat?gories	date20030301	
 LangTagSearchItems	deu	Artikel	date20030301	
 LangTagSearchItems	eng	Items	date20030301	
 LangTagSearchItems	fra	Articles	date20030301	
 LangTagTextAddItem	deu	Hinweis:\nDer Artikel befindet sich bereits im Korb.\nSoll die Anzahl addiert werden?\nClicken Sie OK zum Addieren,\nKlicken Sie Abbrechen zum Ersetzen\n	date20030301	
 LangTagTextAddItem	eng	Notice:\nThis item is already in the basket.\nDo you want to add the quantity?\nClick OK to add,\nclick Abort to replace.\n	date20030301	
-LangTagTextAddItem	fra	Attention:\nL\'article est déjà dans le panier.\nCliquez OK pour l\'ajouter,\nCliquez l\'autre bouton pour remplacer\n	date20030301	
+LangTagTextAddItem	fra	Attention:\nL\'article est d?j? dans le panier.\nCliquez OK pour l\'ajouter,\nCliquez l\'autre bouton pour remplacer\n	date20030301	
 LangTagTextBasketEmpty	deu	Keine Artikel im Warenkorb	date20030301	
 LangTagTextBasketEmpty	eng	The basket is empty.	date20030301	
 LangTagTextBasketEmpty	fra	Le panier est vide.	date20030301	
@@ -244,7 +244,7 @@ LangTagTextBasketItem	deu	 Artikel im Warenkorb	date20030301
 LangTagTextBasketItem	eng	 Item(s) in the basket.	date20030301	
 LangTagTextBasketItem	fra	 article(s) dans le panier	date20030301
 
-LangTagItemToBask	deu	Der Artikel wurde erfolgreich zum Warenkorb hinzugefügt.	date20110128
+LangTagItemToBask	deu	Der Artikel wurde erfolgreich zum Warenkorb hinzugef?gt.	date20110128
 LangTagItemToBask	eng	The product was successfully added to your basket.	date20110128
 LangTagItemToBask	fra	Les Le produit a ete ajoute a votre panier.	date20110128
 
@@ -254,24 +254,24 @@ LangTagTextItemsInBasket	fra	dans le panier	date20110128
 
 LangTagTextBeforeUnload	deu	Sie haben Artikel im Warenkorb. Wenn Sie diesen Shop verlassen, wird Ihr Warenkorb geleert.	date20030301	
 LangTagTextBeforeUnload	eng	You have items in your basket. After leaving this shop all items will be removed from your basket.	date20030301	
-LangTagTextBeforeUnload	fra	Il y a des articles dans le panier. Les articles seront supprimés en quittant le shop.	date20030301	
+LangTagTextBeforeUnload	fra	Il y a des articles dans le panier. Les articles seront supprim?s en quittant le shop.	date20030301	
 LangTagTextChooseAttribute	deu	Bitte 	date20030301	
 LangTagTextChooseAttribute	eng	Please choose the 	date20030301	
 LangTagTextChooseAttribute	fra	Choisissez, s.v.p. 	date20030301	
-LangTagTextChooseAttribute2	deu	 wählen!	date20030301	
+LangTagTextChooseAttribute2	deu	 w?hlen!	date20030301	
 LangTagTextChooseAttribute2	eng	 !	date20030301	
 LangTagTextChooseAttribute2	fra	 !	date20030301	
-LangTagTextChooseDeliveryPayment	deu	1. Bitte wählen Sie die gewünschte Versand- und Zahlungsart aus: 	date20030301
+LangTagTextChooseDeliveryPayment	deu	1. Bitte w?hlen Sie die gew?nschte Versand- und Zahlungsart aus: 	date20030301
 LangTagTextChooseDeliveryPayment	eng	1. Please choose your Delivery and Payment Conditions: 	date20030301	
 LangTagTextChooseDeliveryPayment	fra	1. Choisissez vos conditons de livraison et de paiement:	date20030301
 	
-LangTagTextConfirmConditons	deu	Bitte bestätigen Sie unsere AGB	date20030301	
+LangTagTextConfirmConditons	deu	Bitte best?tigen Sie unsere AGB	date20030301	
 LangTagTextConfirmConditons	eng	Please confirm our Conditions	date20030301	
-LangTagTextConfirmConditons	fra	Veuillez accepter nos conditions générales	date20030301
+LangTagTextConfirmConditons	fra	Veuillez accepter nos conditions g?n?rales	date20030301
 
 LangTagTextConfirmConditonsJS	deu	Bitte best%E4tigen Sie unsere AGB	date20030301	
 LangTagTextConfirmConditonsJS	eng	Please confirm our Conditions	date20030301	
-LangTagTextConfirmConditonsJS	fra	Veuillez accepter nos conditions générales	date20030301
+LangTagTextConfirmConditonsJS	fra	Veuillez accepter nos conditions g?n?rales	date20030301
 	
 LangTagTextDelivery	deu	Versandart	date20030301	Seite buy
 LangTagTextDelivery	eng	Delivery Mode	date20030301	
@@ -282,9 +282,9 @@ LangTagTextEmailAddressIncorrect	fra	Adresse email incorrecte!	date20030301
 LangTagTextEncludedVAT	deu	Enthaltene	date20030301	
 LangTagTextEncludedVAT	eng	Included	date20030301	
 LangTagTextEncludedVAT	fra	Compris 	date20030301	
-LangTagTextIClear	deu	Sicher und bequem bezahlen mit iclear. Falls Sie per iclear bezahlen möchten, ist das Ausfüllen des Bestellformulars nicht erforderlich. Bitte klicken Sie dann hier: 	date20030301	
+LangTagTextIClear	deu	Sicher und bequem bezahlen mit iclear. Falls Sie per iclear bezahlen m?chten, ist das Ausf?llen des Bestellformulars nicht erforderlich. Bitte klicken Sie dann hier: 	date20030301	
 LangTagTextIClear	eng	Easy and secure payment by iclear. If you like to pay per iclear, it is not needed to enter the order form. In that case please click here: 	date20030301	
-LangTagTextIClear	fra	Simple et sûr - Paiement par iclear:	date20030301	
+LangTagTextIClear	fra	Simple et s?r - Paiement par iclear:	date20030301	
 LangTagTextIClearLink	deu	Bezahlen mit iclear	date20030301	
 LangTagTextIClearLink	eng	Payment by iclear 	date20030301	
 LangTagTextIClearLink	fra	Paiement par iclear 	date20030301	
@@ -294,13 +294,13 @@ LangTagTextInteger	fra	SVP, entrez un nombre positif!	date20030301
 LangTagTextItem	deu	Artikel	date20030301	
 LangTagTextItem	eng	Item	date20030301	
 LangTagTextItem	fra	Article	date20030301	
-LangTagTextItems	deu	Bitte wählen Sie die gewünschte Warengruppe aus	date20030301	
+LangTagTextItems	deu	Bitte w?hlen Sie die gew?nschte Warengruppe aus	date20030301	
 LangTagTextItems	eng	Please choose the relevant category	date20030301	
-LangTagTextItems	fra	Choisissez la catégorie	date20030301	
+LangTagTextItems	fra	Choisissez la cat?gorie	date20030301	
 LangTagTextMaxQuantity	deu	Die maximale Bestellmenge ist	date20030301	
 LangTagTextMaxQuantity	eng	The maximum order quantity is	date20030301	
-LangTagTextMaxQuantity	fra	La quantité maximum de commande est	date20030301	
-LangTagTextMinOrderValue1	deu	Sie haben Artikel für	date20030301	
+LangTagTextMaxQuantity	fra	La quantit? maximum de commande est	date20030301	
+LangTagTextMinOrderValue1	deu	Sie haben Artikel f?r	date20030301	
 LangTagTextMinOrderValue1	eng	You have articles for	date20030301	
 LangTagTextMinOrderValue1	fra	Il y a des articles pour	date20030301	
 LangTagTextMinOrderValue2	deu	in Ihrem Warenkorb.\nDer Mindestbestellwert von	date20030301	
@@ -317,31 +317,31 @@ LangTagTextMinOrderValue2js	deu	in Ihrem Warenkorb.%0ADer Mindestbestellwert von
 LangTagTextMinOrderValue2js	eng	in your basket.%0AThe least order value by	date20140301	
 LangTagTextMinOrderValue2js	fra	dans votre panier.%0ALa valeur miminum de commande n\'est	date20140301
 
-LangTagTextNoPaymentsAvailable	deu	Keine Zahlungsart verfügbar	date20100309	
+LangTagTextNoPaymentsAvailable	deu	Keine Zahlungsart verf?gbar	date20100309	
 LangTagTextNoPaymentsAvailable	eng	No payment available	date20100309	
 LangTagTextNoPaymentsAvailable	fra	Aucun paiement disponibles	date20100309
-LangTagTextNoDownloadPaymentsAvailable	deu	Ihr Warenkorb enthält Downloadartikel.\nDie dafür benötigte Zahlungsart 'Kreditkarte' ist nicht verfügbar	date20100309	
+LangTagTextNoDownloadPaymentsAvailable	deu	Ihr Warenkorb enth?lt Downloadartikel.\nDie daf?r ben?tigte Zahlungsart 'Kreditkarte' ist nicht verf?gbar	date20100309	
 LangTagTextNoDownloadPaymentsAvailable	eng	Your shopping cart contains Download articles.\nThe necessary payment 'Credit Card' is not available	date20100309	
-LangTagTextNoDownloadPaymentsAvailable	fra	Votre panier contient des articles Télécharger. \nLe paiement nécessaire de cartes de crédit 'n'est pas disponible	date20100309
+LangTagTextNoDownloadPaymentsAvailable	fra	Votre panier contient des articles T?l?charger. \nLe paiement n?cessaire de cartes de cr?dit 'n'est pas disponible	date20100309
 
 
 	
 LangTagTextNoItems	deu	In dieser Warengruppe gibt es zur Zeit keine Produkte und keine weiteren Unterwarengruppen. 	date20030301	
 LangTagTextNoItems	eng	No items are listed in this category.	date20030301	
-LangTagTextNoItems	fra	Aucun article dans cette catégorie.	date20030301	
-LangTagTextOrderForm	deu	2. Bitte füllen Sie das folgende Bestellformular aus (*Felder bitte unbedingt angeben) und drücken Sie den 'Bestellung fortsetzen' Knopf.	date20030301	Seite buy2
+LangTagTextNoItems	fra	Aucun article dans cette cat?gorie.	date20030301	
+LangTagTextOrderForm	deu	2. Bitte f?llen Sie das folgende Bestellformular aus (*Felder bitte unbedingt angeben) und dr?cken Sie den 'Bestellung fortsetzen' Knopf.	date20030301	Seite buy2
 LangTagTextOrderForm	eng	2. Please enter the information below (*text fields are required). To complete your order click on 'Submit'.	date20030301	
-LangTagTextOrderForm	fra	2. Veuillez remplir le formulaire suivant et appuyer sur le bouton "Envoyer la commande". Les cases marquées d'une * doivent être obligatoirement remplies.	date20030301	
+LangTagTextOrderForm	fra	2. Veuillez remplir le formulaire suivant et appuyer sur le bouton "Envoyer la commande". Les cases marqu?es d'une * doivent ?tre obligatoirement remplies.	date20030301	
 LangTagTextOrderTotal	deu	Summe	date20030301	
 LangTagTextOrderTotal	eng	Order Total	date20030301	
 LangTagTextOrderTotal	fra	Prix final	date20030301	
-LangTagTextPaybox	deu	Paybox - Bezahlen per Handy. Falls Sie per Handy bezahlen möchten, wählen Sie oben als Zahlungsart bitte Paybox aus.	date20030301	
+LangTagTextPaybox	deu	Paybox - Bezahlen per Handy. Falls Sie per Handy bezahlen m?chten, w?hlen Sie oben als Zahlungsart bitte Paybox aus.	date20030301	
 LangTagTextPaybox	eng	Paybox - Pay by mobile. Please choose Paybox as Payment Conditions if you like to pay with your mobile.	date20030301	
-LangTagTextPaybox	fra	Paybox - Paiement par tél. portable	date20030301	
+LangTagTextPaybox	fra	Paybox - Paiement par t?l. portable	date20030301	
 LangTagTextPayment	deu	Zahlungsart	date20030301	Seite buy
 LangTagTextPayment	eng	Payment	date20030301	
 LangTagTextPayment	fra	Paiement	date20030301	
-LangTagTextPleaseChoose	deu	Bitte wählen	date20030301	
+LangTagTextPleaseChoose	deu	Bitte w?hlen	date20030301	
 LangTagTextPleaseChoose	eng	Please choose	date20030301	
 LangTagTextPleaseChoose	fra	Choisissez, s.v.p.	date20030301	
 LangTagTextPleaseEnter	deu	Bitte eingeben:	date20030301	
@@ -352,25 +352,25 @@ LangTagTextPostage	eng	Delivery Charges	date20030301
 LangTagTextPostage	fra	Livraison	date20030301	
 LangTagTextQuantity	deu	Menge	date20030301	
 LangTagTextQuantity	eng	Quantity	date20030301	
-LangTagTextQuantity	fra	Quantité	date20030301	
+LangTagTextQuantity	fra	Quantit?	date20030301	
 LangTagTextRabat	deu	Rabatt (Warenwert)	date20030301	
 LangTagTextRabat	eng	Discount (value of goods)	date20030301	
 LangTagTextRabat	fra	Remise1	date20030301	
-LangTagTextRemoveConfirm	deu	Möchten Sie wirklich alle Artikel aus dem Einkaufswagen entfernen?	date20030301	
+LangTagTextRemoveConfirm	deu	M?chten Sie wirklich alle Artikel aus dem Einkaufswagen entfernen?	date20030301	
 LangTagTextRemoveConfirm	eng	Do you really want to remove all items from the basket?	date20030301	
 LangTagTextRemoveConfirm	fra	Voulez vous vraiment enlever tous les articles de votre panier?	date20030301	
 LangTagTextRemoveItem	deu	Entfernen	date20030301	
 LangTagTextRemoveItem	eng	Remove	date20030301	
 LangTagTextRemoveItem	fra	Supprimer	date20030301	
-//LangTagTextSaveData	deu	Eingegebene Formulardaten speichern.<br />(Die Daten werden als Cookie abgespeichert.)	date20030301	Tabellenüberschrift buy3.htm
+//LangTagTextSaveData	deu	Eingegebene Formulardaten speichern.<br />(Die Daten werden als Cookie abgespeichert.)	date20030301	Tabellen?berschrift buy3.htm
 //LangTagTextSaveData	eng	Save the formular data.(Data are saved in a cookie)	date20030301	
-//LangTagTextSaveData	fra	Enregistrer les données	date20030301	
+//LangTagTextSaveData	fra	Enregistrer les donn?es	date20030301	
 LangTagTextSearchEnter	deu	Bitte einen Suchbegriff eingeben!	date20030301	
 LangTagTextSearchEnter	eng	Please enter a word to search for!	date20030301	
 LangTagTextSearchEnter	fra	Indiquez un mot pour la recherche!	date20030301	
 LangTagTextSearchNoResult	deu	nicht gefunden!	date20030301	
 LangTagTextSearchNoResult	eng	not found!	date20030301	
-LangTagTextSearchNoResult	fra	Aucun résultat!	date20030301	
+LangTagTextSearchNoResult	fra	Aucun r?sultat!	date20030301	
 LangTagTextSearchResults	deu	Suchresultate	date20030301	
 LangTagTextSearchResults	eng	Search Results	date20030301	
 LangTagTextSearchResults	fra	Resultat de la recherche	date20030301	
@@ -406,36 +406,36 @@ LangTagTotalAmount	eng	Invoice total	date20030301
 LangTagTotalAmount	fra	Montant total	date20030301	
 LangTagYear	deu	Jahr	date20030301	
 LangTagYear	eng	Year	date20030301	
-LangTagYear	fra	Année	date20030301	
-LangTagYearExpirationDate	deu	Jahr der Gültigkeit Ihrer Kreditkarte	date20030301	
+LangTagYear	fra	Ann?e	date20030301	
+LangTagYearExpirationDate	deu	Jahr der G?ltigkeit Ihrer Kreditkarte	date20030301	
 LangTagYearExpirationDate	eng	Year of the Expiration Date	date20030301	
-LangTagYearExpirationDate	fra	Année de validité!	date20030301	
+LangTagYearExpirationDate	fra	Ann?e de validit?!	date20030301	
 x			date20030301	
 			date20030301	
 				
 				
 				
 				
-LangTagIssueNumber	deu	Prüfnummer	date20030315	
+LangTagIssueNumber	deu	Pr?fnummer	date20030315	
 LangTagIssueNumber	eng	Issue Number<br />(Switch/Solo only)	date20030315	
-LangTagIssueNumber	fra	Numéro	date20030315	
+LangTagIssueNumber	fra	Num?ro	date20030315	
 LangTagNoImage	deu	kein Bild!	date20030315	
 LangTagNoImage	eng	no image!	date20030315	
 LangTagNoImage	fra	pas d\'image!	date20030315	
-LangTagSecurityCode	deu	Prüfnummer2	date20030315	
+LangTagSecurityCode	deu	Pr?fnummer2	date20030315	
 LangTagSecurityCode	eng	Security Code	date20030315	
-LangTagSecurityCode	fra	Numéro2	date20030315	
+LangTagSecurityCode	fra	Num?ro2	date20030315	
 x			date20030315	
 x			date20030315	
 x			date20030315	
 x			date20030315	
-LangTagExpirationMonth	deu	GültigkeitMonat	date20030502	
+LangTagExpirationMonth	deu	G?ltigkeitMonat	date20030502	
 LangTagExpirationMonth	eng	ExpirationMonth	date20030502	
 LangTagExpirationMonth	fra	MoisExpiration	date20030502	
-LangTagExpirationYear	deu	GültigkeitJahr	date20030502	
+LangTagExpirationYear	deu	G?ltigkeitJahr	date20030502	
 LangTagExpirationYear	eng	ExpirationYear	date20030502	
 LangTagExpirationYear	fra	AnneeExpiration	date20030502	
-LangTagTermsAndCondChecked	deu	gelesen und bestätigt	date20030502	
+LangTagTermsAndCondChecked	deu	gelesen und best?tigt	date20030502	
 LangTagTermsAndCondChecked	eng	checked	date20030502	
 LangTagTermsAndCondChecked	fra	lu et accepte	date20030502	
 x			date20030502	
@@ -536,12 +536,12 @@ LangTagErrorOrderPaymorrow	eng	Incorrect order	date20100107
 LangTagErrorOrderPaymorrow	fra	Incorrect ordre	date20100107	
 LangTagLongTextDownload	deu	Um Ihren Downloadartikel herunter zu laden, melden Sie sich bitte mit Ihrem Benutzername und Passwort erneut in unserem Online-Shop an. Sie finden dann einen Button [Downloadartikel], mit dem Sie in Ihren Downloadbereich gelangen.	date20100215	
 LangTagLongTextDownload	eng	For downloading of your download items, please log in again with your username and password in our Online-Shop. You will find a button [Download Article], which takes you to your download area.	date20100215
-LangTagLongTextDownload	fra	Pour le téléchargement de vos éléments de téléchargement, s'il vous plaît vous connecter à nouveau avec votre nom d'utilisateur et mot de passe dans notre Online-Shop. Vous trouverez dans la rubrique [Mon compte] sur un bouton [Télécharger l'article], qui vous conduit à votre zone de téléchargement.	date20100215	
+LangTagLongTextDownload	fra	Pour le t?l?chargement de vos ?l?ments de t?l?chargement, s'il vous pla?t vous connecter ? nouveau avec votre nom d'utilisateur et mot de passe dans notre Online-Shop. Vous trouverez dans la rubrique [Mon compte] sur un bouton [T?l?charger l'article], qui vous conduit ? votre zone de t?l?chargement.	date20100215	
 
 
 LangTagPersonalData	deu	Personenbezogene Daten	date20030509	
 LangTagPersonalData	eng	Personal Data	date20030509	
-LangTagPersonalData	fra	Identité	date20030509	
+LangTagPersonalData	fra	Identit?	date20030509	
 
 
 x			date20030509	
@@ -576,13 +576,13 @@ L_OrderButton	deu	bestellen	date20031201
 L_OrderButton	eng	order	date20031201	
 L_OrderButton	fra	commander	date20031201	
 				
-L_OrderDialog	deu	: Möchten Sie diesen Artikel in den Warenkorb legen ?	date20031201	
+L_OrderDialog	deu	: M?chten Sie diesen Artikel in den Warenkorb legen ?	date20031201	
 L_OrderDialog	eng	: This item will be stored in the basket?	date20031201	
 L_OrderDialog	fra	: Voulez vous mettre cet article dans le panier d'achats ?	date20031201	
 				
 L_OnlineShopSlogan	deu	Welcome to our international Online Shop!	date20031201	
 L_OnlineShopSlogan	eng	Welcome to our international Online Shop!	date20031201	
-L_OnlineShopSlogan	fra	Bienvenue sur notre boutique électronique internationale!	date20031201	
+L_OnlineShopSlogan	fra	Bienvenue sur notre boutique ?lectronique internationale!	date20031201	
 				
 				
 L_PaperflierOnlineShop	deu	Paperflieger Shop	date20031201	
@@ -595,7 +595,7 @@ LangTagTellAFriend	fra	Envoyer cette page	date20040128
 
 LangTagTitleInquiry	deu	Anfrage zum Artikel	date20100224	
 LangTagTitleInquiry	eng	Inquiry to article	date20100224	
-LangTagTitleInquiry	fra	Renseignements à l'article	date20100224	
+LangTagTitleInquiry	fra	Renseignements ? l'article	date20100224	
 
 LangTagInquiry	deu	Anfrage	date20100224	
 LangTagInquiry	eng	Inquiry	date20100224	
@@ -657,21 +657,21 @@ LangTagWorldPayPayment	deu	WorldPay Bezahlung OK?	date20040129
 LangTagWorldPayPayment	eng	WorldPay Payment OK?	date20040129	
 LangTagWorldPayPayment	fra	Paiement WorldPay OK?	date20040129	
 				
-LangTagPaymentSelection	deu	Zurück zur Versand- und Zahlungsart	date20040129	
+LangTagPaymentSelection	deu	Zur?ck zur Versand- und Zahlungsart	date20040129	
 LangTagPaymentSelection	eng	Back to Payment Selection	date20040129	
-LangTagPaymentSelection	fra	Retour sélection de mode de paiement	date20040129	
+LangTagPaymentSelection	fra	Retour s?lection de mode de paiement	date20040129	
 				
 LangTagFieldCustomerNR	deu	KundenNr	date20040129	
 LangTagFieldCustomerNR	eng	CustomerNo	date20040129	
-LangTagFieldCustomerNR	fra	Client n°	date20040129	
+LangTagFieldCustomerNR	fra	Client n?	date20040129	
 			date20040130	
 LangTagFNFieldCustomerNR	deu	KundenNr	date20040130	
 LangTagFNFieldCustomerNR	eng	CustomerNo	date20040130	
 LangTagFNFieldCustomerNR	fra	ClientNo	date20040130	
 			date20040131	
-LangTagTextSaveData	deu	Eingegebene Formulardaten speichern.<br />(Die Daten werden als Cookie abgespeichert.)	date20040131	Tabellenüberschrift buy3.htm
+LangTagTextSaveData	deu	Eingegebene Formulardaten speichern.<br />(Die Daten werden als Cookie abgespeichert.)	date20040131	Tabellen?berschrift buy3.htm
 LangTagTextSaveData	eng	Save the formular data.(Data are saved in a cookie)	date20040131	
-LangTagTextSaveData	fra	Enregistrer les données (dans un cookie)	date20040131	
+LangTagTextSaveData	fra	Enregistrer les donn?es (dans un cookie)	date20040131	
 			date20040201	
 LangTagFrom	deu	ab	date20040201	
 LangTagFrom	eng	min.	date20040201	
@@ -679,7 +679,7 @@ LangTagFrom	fra	min.	date20040201
 				
 LangTextFieldCustomerNrLogin	deu	Kundennummer	date20040201	
 LangTextFieldCustomerNrLogin	eng	CustomerNumber	date20040201	
-LangTextFieldCustomerNrLogin	fra	Client n°	date20040201	
+LangTextFieldCustomerNrLogin	fra	Client n?	date20040201	
 				
 LangTextFNFieldCustomerNrLogin	deu	Kundennummer	date20040201	
 LangTextFNFieldCustomerNrLogin	eng	CustomerNumber	date20040201	
@@ -691,7 +691,7 @@ LangTagCrossSellingText	fra	Autres articles	date20040201
 			date20040207	
 LangTagFieldLastNameSender	deu	Absender	date20040207	
 LangTagFieldLastNameSender	eng	Sender	date20040207	
-LangTagFieldLastNameSender	fra	Envoyé par	date20040207	
+LangTagFieldLastNameSender	fra	Envoy? par	date20040207	
 x			date20040210	
 LangTagCashInclude	deu	inkl.	date20040211	
 LangTagCashInclude	eng	incl.	date20040211	
@@ -704,9 +704,9 @@ x			date20040214
 x			date20040215	
 LangTagItemNumber	deu	ArtikelNr.	date20040302	
 LangTagItemNumber	eng	ProductNo	date20040302	
-LangTagItemNumber	fra	Article n°	date20040302	
+LangTagItemNumber	fra	Article n?	date20040302	
 //Folgende Zeile bleibt englisch		//kann vom Anwender nach Bedarf angepasst werden	date20040303	
-LangTagPleaseActivateJavascript	deu	Der Onlineshop benötigt JavaScript um zu funktionieren.<br />Bitte aktivieren Sie JavaScript in Ihren Browser-Einstellungen.<br />	date20040304	
+LangTagPleaseActivateJavascript	deu	Der Onlineshop ben?tigt JavaScript um zu funktionieren.<br />Bitte aktivieren Sie JavaScript in Ihren Browser-Einstellungen.<br />	date20040304	
 LangTagPleaseActivateJavascript	eng	The onlineshop needs JavaScript for full functionality.<br />Please activate JavaScript in your browser settings.<br />	date20040304	
 LangTagPleaseActivateJavascript	fra	The onlineshop needs JavaScript for full functionality.<br />Please activate JavaScript in your browser settings.<br />	date20040304	
 LangTagFieldShippingTitle	deu	Abweichende Lieferadresse	date20040325	
@@ -714,7 +714,7 @@ LangTagFieldShippingTitle	eng	Delivery Address	date20040325
 LangTagFieldShippingTitle	fra	Adresse de livraison	date20040325	
 LangTagFieldShippingFirstName	deu	Vorname	date20040325	
 LangTagFieldShippingFirstName	eng	First Name	date20040325	
-LangTagFieldShippingFirstName	fra	Prénom	date20040325	
+LangTagFieldShippingFirstName	fra	Pr?nom	date20040325	
 LangTagFNFieldShippingFirstName	deu	LieferVorname	date20040325	
 LangTagFNFieldShippingFirstName	eng	DeliveryFirstName	date20040325	
 LangTagFNFieldShippingFirstName	fra	Prenom_livraison	date20040325	
@@ -724,7 +724,7 @@ LangTagFieldShippingLastName	fra	Nom	date20040325
 LangTagFNFieldShippingLastName	deu	LieferNachname	date20040325	
 LangTagFNFieldShippingLastName	eng	DeliveryLastName	date20040325	
 LangTagFNFieldShippingLastName	fra	Nom_livraison	date20040325	
-LangTagFieldShippingStreet	deu	Straße	date20040325	
+LangTagFieldShippingStreet	deu	Stra?e	date20040325	
 LangTagFieldShippingStreet	eng	Address	date20040325	
 LangTagFieldShippingStreet	fra	Rue	date20040325	
 LangTagFNFieldShippingStreet	deu	LieferStrasse	date20040325	
@@ -766,7 +766,7 @@ LangTagShippingAddress	eng	Shipping address	date20041202
 LangTagShippingAddress	fra	Adresse de livraison	date20041202	
 LangTagFieldShippingCompany	deu	Lieferfirma	date20041202	
 LangTagFieldShippingCompany	eng	Shipping company	date20041202	
-LangTagFieldShippingCompany	fra	Livraison société	date20041202	
+LangTagFieldShippingCompany	fra	Livraison soci?t?	date20041202	
 LangTagFNFieldShippingCompany	deu	Lieferfirma	date20041202	
 LangTagFNFieldShippingCompany	eng	ShippingCompany	date20041202	
 LangTagFNFieldShippingCompany	fra	Societe_livraison	date20041202	
@@ -784,13 +784,13 @@ LangTagFieldShippingEmail	eng	ShippingEmail	date20041202
 LangTagFieldShippingEmail	fra	Courriel_livraison	date20041202	
 LangTagShippingFieldPhone	deu	Telefon	date20041202	
 LangTagShippingFieldPhone	eng	Shipping phone	date20041202	
-LangTagShippingFieldPhone	fra	Téléphone livraison	date20041202	
+LangTagShippingFieldPhone	fra	T?l?phone livraison	date20041202	
 LangTagFNFieldShippingTelefon	deu	LieferTelefon	date20041202	
 LangTagFNFieldShippingTelefon	eng	ShippingTelefon	date20041202	
 LangTagFNFieldShippingTelefon	fra	Telephone_livraison	date20041202	
 LangTagShippingFieldFax	deu	Lieferfax	date20041202	
 LangTagShippingFieldFax	eng	Shipping fax	date20041202	
-LangTagShippingFieldFax	fra	Télécopie livraison	date20041202	
+LangTagShippingFieldFax	fra	T?l?copie livraison	date20041202	
 LangTagFNFieldShippingFax	deu	Lieferfax	date20041202	
 LangTagFNFieldShippingFax	eng	ShippingFax	date20041202	
 LangTagFNFieldShippingFax	fra	Telecopie_livraison	date20041202	
@@ -800,22 +800,22 @@ LangTagFieldShippingAddress2	fra	Adresse_2	date20041202
 LangTagFNFieldShippingAddress2	deu	LieferAdressenZusatz	date20041202	
 LangTagFNFieldShippingAddress2	eng	ShippingAddress2_	date20041202	
 LangTagFNFieldShippingAddress2	fra	Adresse2_de_livraison	date20041202	
-LangTagTextAddressArea	deu	Länderzone	date20041206	
+LangTagTextAddressArea	deu	L?nderzone	date20041206	
 LangTagTextAddressArea	eng	Address area	date20041206	
 LangTagTextAddressArea	fra	Addresse en	date20041206	
 LangTagTextShippingAddressArea	deu	Versandgebiet	date20041206	
 LangTagTextShippingAddressArea	eng	Shipping to	date20041206	
 LangTagTextShippingAddressArea	fra	Livraison	date20041206	
-LangTagTextPaymentAddressArea	deu	Länderzone (Rechnung)	date20041206	
+LangTagTextPaymentAddressArea	deu	L?nderzone (Rechnung)	date20041206	
 LangTagTextPaymentAddressArea	eng	Billing to	date20041206	
 LangTagTextPaymentAddressArea	fra	Facturation	date20041206	
-LangTagInfoPage	deu	Info	date20041207	LinkMenü/Tabellenüberschrift
+LangTagInfoPage	deu	Info	date20041207	LinkMen?/Tabellen?berschrift
 LangTagInfoPage	eng	Info	date20041207	
 LangTagInfoPage	fra	Info	date20041207	
-LangTagInfoTitleNews	deu	News	date20041207	LinkMenü/Tabellenüberschrift
+LangTagInfoTitleNews	deu	News	date20041207	LinkMen?/Tabellen?berschrift
 LangTagInfoTitleNews	eng	News	date20041207	
 LangTagInfoTitleNews	fra	News	date20041207	
-LangTagSearchAllWordsAnd	deu	Alle Wörter (AND)	date20041207	
+LangTagSearchAllWordsAnd	deu	Alle W?rter (AND)	date20041207	
 LangTagSearchAllWordsAnd	eng	All words (AND)	date20041207	
 LangTagSearchAllWordsAnd	fra	Tous les mots (AND)	date20041207	
 LangTagSearchOneWordOr	deu	Ein Wort (OR)	date20041207	
@@ -824,9 +824,9 @@ LangTagSearchOneWordOr	fra	Un mot (OR)	date20041207
 LangTagFieldTellMessage	deu	Weitere Nachricht?	date20041209	
 LangTagFieldTellMessage	eng	Your message	date20041209	
 LangTagFieldTellMessage	fra	Your message	date20041209	
-LangTagMessageFreeText	deu	Zusätzlicher Freitext	date20100224	
+LangTagMessageFreeText	deu	Zus?tzlicher Freitext	date20100224	
 LangTagMessageFreeText	eng	Additional free text	date20100224	
-LangTagMessageFreeText	fra	Supplémentaires de texte libre	date20100224	
+LangTagMessageFreeText	fra	Suppl?mentaires de texte libre	date20100224	
 LangTagOnlyFreeText	deu	Nur Freitext	date20100224	
 LangTagOnlyFreeText	eng	Only free text	date20100224	
 LangTagOnlyFreeText	fra	Seulement en texte libre	date20100224	
@@ -844,13 +844,13 @@ LangTagCBPrice	eng	Price	date20100224
 LangTagCBPrice	fra	Prix	date20100224	
 LangTagCBQuantity	deu	Menge	date20100224	
 LangTagCBQuantity	eng	Quantity	date20100224	
-LangTagCBQuantity	fra	Quantité	date20100224	
+LangTagCBQuantity	fra	Quantit?	date20100224	
 LangTagQuestRelatedTo	deu	Meine Anfrage betrifft	date20100224	
 LangTagQuestRelatedTo	eng	My question is related to	date20100224	
-LangTagQuestRelatedTo	fra	Ma question est liée à	date20100224	
-LangTagInquiryFields	deu	Bitte nutzen Sie die nachfolgenden Felder für Ihre Anfrage	date20100224	
+LangTagQuestRelatedTo	fra	Ma question est li?e ?	date20100224	
+LangTagInquiryFields	deu	Bitte nutzen Sie die nachfolgenden Felder f?r Ihre Anfrage	date20100224	
 LangTagInquiryFields	eng	Please use the fields below for your inquiry	date20100224	
-LangTagInquiryFields	fra	S'il vous plaît utilisez les champs ci-dessous pour votre enquête	date20100224	
+LangTagInquiryFields	fra	S'il vous pla?t utilisez les champs ci-dessous pour votre enqu?te	date20100224	
 LangTagQuestionsAbout	deu	Sie haben Fragen zu diesen Artikel	date20100224	
 LangTagQuestionsAbout	eng	You have questions about this item	date20100224	
 LangTagQuestionsAbout	fra	Vous avez des questions sur cet article	date20100224	
@@ -872,15 +872,15 @@ LangTagInquiryMailAvaPrice	fra	au prix de	date20100224
 
 LangTagInquiryMailAvaDate	deu	bis zum	date20100224	
 LangTagInquiryMailAvaDate	eng	until	date20100224	
-LangTagInquiryMailAvaDate	fra	à ce jour	date20100224	
+LangTagInquiryMailAvaDate	fra	? ce jour	date20100224	
 
-LangTagInquiryMailInfo	deu	Bitte senden Sie mir für diesen Artikel Angaben	date20100224	
+LangTagInquiryMailInfo	deu	Bitte senden Sie mir f?r diesen Artikel Angaben	date20100224	
 LangTagInquiryMailInfo	eng	Please send me information for this article	date20100224	
-LangTagInquiryMailInfo	fra	S'il vous plaît envoyez-moi des informations sur cet article	date20100224	
+LangTagInquiryMailInfo	fra	S'il vous pla?t envoyez-moi des informations sur cet article	date20100224	
 
-LangTagInquiryMailInfoAmount	deu	zur verfügbaren Menge	date20100224	
+LangTagInquiryMailInfoAmount	deu	zur verf?gbaren Menge	date20100224	
 LangTagInquiryMailInfoAmount	eng	about the available quantity	date20100224	
-LangTagInquiryMailInfoAmount	fra	a propos de la quantité disponible	date20100224	
+LangTagInquiryMailInfoAmount	fra	a propos de la quantit? disponible	date20100224	
 
 LangTagInquiryMailInfoPrice	deu	zum Preis	date20100224	
 LangTagInquiryMailInfoPrice	eng	about the price	date20100224	
@@ -890,24 +890,24 @@ LangTagInquiryMailInfoDate	deu	zum Lieferdatum	date20100224
 LangTagInquiryMailInfoDate	eng	about the delivery date	date20100224	
 LangTagInquiryMailInfoDate	fra	a propos de la date de livraison	date20100224	
 
-LangTagInquiryAskDesc	deu	Können Sie für diesen Artikel eine Produktbeschreibung senden	date20100224	
+LangTagInquiryAskDesc	deu	K?nnen Sie f?r diesen Artikel eine Produktbeschreibung senden	date20100224	
 LangTagInquiryAskDesc	eng	Can you send a product description for this item	date20100224	
 LangTagInquiryAskDesc	fra	Pouvez-vous envoyer une description de cet item	date20100224	
 
 LangTagGreetingInquiry	deu	Sehr geehrter Shopbetreiber	date20100224	
 LangTagGreetingInquiry	eng	Dear store owner	date20100224	
-LangTagGreetingInquiry	fra	Chers propriétaires de magasin	date20100224	
+LangTagGreetingInquiry	fra	Chers propri?taires de magasin	date20100224	
 
 
 LangTagInquiryThisItem	deu	Ich habe eine Anfrage zu diesem Artikel	date20100224	
 LangTagInquiryThisItem	eng	I have an inquiry to this article	date20100224	
-LangTagInquiryThisItem	fra	J'ai une question à cet article	date20100224	
+LangTagInquiryThisItem	fra	J'ai une question ? cet article	date20100224	
 
 LangTagInquiryOtherItem	deu	Ich habe eine Anfrage zu einem anderen Artikel, als bei Ihnen im Shop gesehen	date20100224	
 LangTagInquiryOtherItem	eng	I have an inquiry  about another article outside of your shop	date20100224	
 LangTagInquiryOtherItem	fra	J'ai une question concernant un autre article, en dehors de votre boutique	date20100224	
 
-LangTagGreetingsInquiry	deu	Mit freundlichen Grüßen	date20100224	
+LangTagGreetingsInquiry	deu	Mit freundlichen Gr??en	date20100224	
 LangTagGreetingsInquiry	eng	Sincerely	date20100224	
 LangTagGreetingsInquiry	fra	Cordialement	date20100224	
 
@@ -929,7 +929,7 @@ LangTagPaymorrowValidationFile	fra	Le fichier	date20100303
 
 LangTagPaymorrowFailed	deu	fehlgeschlagen	date20100303	
 LangTagPaymorrowFailed	eng	failed	date20100303	
-LangTagPaymorrowFailed	fra	échoué pas	date20100303	
+LangTagPaymorrowFailed	fra	?chou? pas	date20100303	
 
 LangTagPaymorrowNotFound	deu	ist nicht vorhanden	date20100303	
 LangTagPaymorrowNotFound	eng	does not exist	date20100303	
@@ -945,7 +945,7 @@ LangTagFieldBuy2Message	fra	Votre message perso	date20041209
 LangTagFNFieldBuy2Message	deu	Nachricht	date20041209	
 LangTagFNFieldBuy2Message	eng	Message	date20041209	
 LangTagFNFieldBuy2Message	fra	Message	date20041209	
-LangTagFieldEmailFormat	deu	Gewünschtes Format der Bestätigungsemail	date20041209	
+LangTagFieldEmailFormat	deu	Gew?nschtes Format der Best?tigungsemail	date20041209	
 LangTagFieldEmailFormat	eng	Email format	date20041209	
 LangTagFieldEmailFormat	fra	Formatage de la confirmation de commande	date20041209	
 LangTagFNFieldEmailFormat	deu	EmailFormat	date20041209	
@@ -971,7 +971,7 @@ LangTagFNFieldTextItem	eng	Items	date20041213
 LangTagFNFieldTextItem	fra	Articles	date20041213	
 LangTagFNFieldDownloadTxt	deu	Downloadartikel	date20100212	
 LangTagFNFieldDownloadTxt	eng	Download item	date20100212	
-LangTagFNFieldDownloadTxt	fra	Télécharger l'élément	date20100212
+LangTagFNFieldDownloadTxt	fra	T?l?charger l'?l?ment	date20100212
 LangTagTextDownloadYes	deu	Ja	date20100212	
 LangTagTextDownloadYes	eng	yes item	date20100212	
 LangTagTextDownloadYes	fra	oui	date20100212	
@@ -1011,7 +1011,7 @@ LangTagFNFieldLongVat	fra	TVA	date20041213
 LangTagFNFieldShippingAddressArea	deu	Versandgebiet	date20041213	
 LangTagFNFieldShippingAddressArea	eng	ShippingTo	date20041213	
 LangTagFNFieldShippingAddressArea	fra	Livraison	date20041213	
-LangTagFNFieldPaymentCharge	deu	Gebühr	date20041213	
+LangTagFNFieldPaymentCharge	deu	Geb?hr	date20041213	
 LangTagFNFieldPaymentCharge	eng	Charge	date20041213	
 LangTagFNFieldPaymentCharge	fra	Taxe	date20041213
 LangTagFNFieldPaymentChargeJS	deu	Geb%FChr	date20041213	
@@ -1026,7 +1026,7 @@ LangTagFNFieldPID	eng	Ordernumber	date20041213
 LangTagFNFieldPID	fra	NoCommande	date20041213	
 LangTagFieldPID	deu	AuftragsNr	date20041213	
 LangTagFieldPID	eng	OderNo	date20041213	
-LangTagFieldPID	fra	N° de commande	date20041213	
+LangTagFieldPID	fra	N? de commande	date20041213	
 LangTagFNFieldSender	deu	Absender	date20041213	
 LangTagFNFieldSender	eng	Sender	date20041213	
 LangTagFNFieldSender	fra	Expediteur	date20041213	
@@ -1050,10 +1050,10 @@ LangTagFNFieldFirmVATId	eng	TaxNumber	date20041221
 LangTagFNFieldFirmVATId	fra	TaxNumber	date20041221	
 LangTagNoVariantDetail	deu	Zu dieser Variante ist keine Detailseite vorhanden.	date20050104	
 LangTagNoVariantDetail	eng	No detail page available for this variant.	date20050104	
-LangTagNoVariantDetail	fra	Pas de page détaillée pour cette variante.	date20050104	
+LangTagNoVariantDetail	fra	Pas de page d?taill?e pour cette variante.	date20050104	
 LangTagTextPreview	deu	Template-Vorschau	date20050104	
 LangTagTextPreview	eng	Template preview	date20050104	
-LangTagTextPreview	fra	Aperçu	date20050104	
+LangTagTextPreview	fra	Aper?u	date20050104	
 LangTagFNSubTotal	deu	Zwischensumme	date20050106	
 LangTagFNSubTotal	eng	Subtotal	date20050106	
 LangTagFNSubTotal	fra	Sous-Total	date20050106	
@@ -1078,15 +1078,15 @@ LangTagTextLogin	fra	Login	date20050112
 LangTagTextLogout	deu	Abmelden	date20050112	
 LangTagTextLogout	eng	Logout	date20050112	
 LangTagTextLogout	fra	Logout	date20050112	
-LangTagChangeAddress	deu	Adressdaten ändern	date20050112	
+LangTagChangeAddress	deu	Adressdaten ?ndern	date20050112	
 LangTagChangeAddress	eng	Change Address Data	date20050112	
-LangTagChangeAddress	fra	Modification des données	date20050112	
+LangTagChangeAddress	fra	Modification des donn?es	date20050112	
 LangTagAdressData	deu	Kundendaten	date20050112	
 LangTagAdressData	eng	Customer data	date20050112	
-LangTagAdressData	fra	Données personnelles	date20050112	
-LangTagTextAdressData	deu	Sie haben hier die Möglichkeit, Ihre bei uns gespeicherten Adressdaten zu ändern. <br />Ändern Sie Ihre Angaben und klicken Sie anschließend auf "Speichern". <br />Die mit * gekennzeichneten Felder sind zwingend auszufüllen.	date20050112	
+LangTagAdressData	fra	Donn?es personnelles	date20050112	
+LangTagTextAdressData	deu	Sie haben hier die M?glichkeit, Ihre bei uns gespeicherten Adressdaten zu ?ndern. <br />?ndern Sie Ihre Angaben und klicken Sie anschlie?end auf "Speichern". <br />Die mit * gekennzeichneten Felder sind zwingend auszuf?llen.	date20050112	
 LangTagTextAdressData	eng	You may change here your address data saved on our database server. <br />* fields must be filled	date20050112	
-LangTagTextAdressData	fra	Ici vous pouvez changer vos données enregistrées sur le serveur. <br />Les données marquées par * sont indispensables.	date20050112	
+LangTagTextAdressData	fra	Ici vous pouvez changer vos donn?es enregistr?es sur le serveur. <br />Les donn?es marqu?es par * sont indispensables.	date20050112	
 LangTagSave	deu	Speichern	date20050112	
 LangTagSave	eng	Save	date20050112	
 LangTagSave	fra	Enregistrer	date20050112	
@@ -1096,7 +1096,7 @@ LangTagTextLoginError	fra	Erreur de login	date20050113
 LangTagTextLoginWelcome	deu	Willkommen	date20050113	
 LangTagTextLoginWelcome	eng	Welcome	date20050113	
 LangTagTextLoginWelcome	fra	Bienvenue	date20050113	
-LangTagTextChangePassword	deu	Passwort ändern	date20050114	
+LangTagTextChangePassword	deu	Passwort ?ndern	date20050114	
 LangTagTextChangePassword	eng	Change Password	date20050114	
 LangTagTextChangePassword	fra	Mot de passe	date20050114	
 LangTagTextPasswordOld	deu	Altes Passwort	date20050114	
@@ -1117,9 +1117,9 @@ LangTagRequestFormular	fra	Formulaire	date20050114
 LangTagRequestSubmit	deu	Anfrage abschicken	date20050114	
 LangTagRequestSubmit	eng	Submit Request	date20050114	
 LangTagRequestSubmit	fra	Envoyer	date20050114	
-LangTagRequestText	deu	2. Bitte füllen Sie das folgende Anfrageformular aus (*Felder bitte unbedingt angeben) und drücken Sie den 'Anfrage abschicken' Knopf.	date20050114	
+LangTagRequestText	deu	2. Bitte f?llen Sie das folgende Anfrageformular aus (*Felder bitte unbedingt angeben) und dr?cken Sie den 'Anfrage abschicken' Knopf.	date20050114	
 LangTagRequestText	eng	2. Please enter the information below (*text fields are required). To complete your request click on 'Submit Request'.	date20050114	
-LangTagRequestText	fra	2. Veuillez remplir le formulaire suivant (les champs marquées par une étoile * sont indispensables). Pour terminer appuyer sur envoyer.	date20050114	
+LangTagRequestText	fra	2. Veuillez remplir le formulaire suivant (les champs marqu?es par une ?toile * sont indispensables). Pour terminer appuyer sur envoyer.	date20050114	
 LangTagDescription	deu	Beschreibung	date20050114	
 LangTagDescription	eng	Description	date20050114	
 LangTagDescription	fra	Description	date20050114	
@@ -1127,19 +1127,19 @@ LangTagManufacturer	deu	Hersteller	date20050114
 LangTagManufacturer	eng	Manufacturer	date20050114	
 LangTagManufacturer	fra	Fabricant	date20050114	
 
-//LangTagCookie	deu	Für unser Login sind Cookies erforderlich. Bitte aktivieren Sie Cookies in Ihren Browserseinstellungen	date20050869	
+//LangTagCookie	deu	F?r unser Login sind Cookies erforderlich. Bitte aktivieren Sie Cookies in Ihren Browserseinstellungen	date20050869	
 //LangTagCookie	eng	Please activate Cookies in your browser settings.	date20050869	
 //LangTagCookie	fra	Please activate Cookies in your browser settings.	date20050869	
 				
-LangTagMsgChangePasswordSuccess	deu	Passwort ist geändert.	date20050116	
+LangTagMsgChangePasswordSuccess	deu	Passwort ist ge?ndert.	date20050116	
 LangTagMsgChangePasswordSuccess	eng	Password was changed.	date20050116	
-LangTagMsgChangePasswordSuccess	fra	Le mot de passe est enregistré.	date20050116	
+LangTagMsgChangePasswordSuccess	fra	Le mot de passe est enregistr?.	date20050116	
 				
 LangTagMsgChangePasswordRepetitionError	deu	Falsches Passwort.	date20050116	
 LangTagMsgChangePasswordRepetitionError	eng	Wrong password.	date20050116	
 LangTagMsgChangePasswordRepetitionError	fra	Le mot de passe est incorrect.	date20050116	
 				
-LangTagMsgChangePasswordUpdateError	deu	Fehler beim Ändern.	date20050116	
+LangTagMsgChangePasswordUpdateError	deu	Fehler beim ?ndern.	date20050116	
 LangTagMsgChangePasswordUpdateError	eng	Password update error.	date20050116	
 LangTagMsgChangePasswordUpdateError	fra	Erreur d'enregistrement.	date20050116	
 				
@@ -1152,11 +1152,11 @@ LangTagMsgChangePasswordEmptyPasswordError	eng	Password too short (min. 6 charac
 LangTagMsgChangePasswordEmptyPasswordError	fra	Le mot de passe doit contenir au moins 6 lettres.	date20050116	
 LangTagSearchProductGroups	deu	Warengruppe(n)	date20050126	
 LangTagSearchProductGroups	eng	product group(s)	date20050126	
-LangTagSearchProductGroups	fra	catégorie(s)	date20050126	
-LangTagOpenAll	deu	alle öffnen	date20050126	
+LangTagSearchProductGroups	fra	cat?gorie(s)	date20050126	
+LangTagOpenAll	deu	alle ?ffnen	date20050126	
 LangTagOpenAll	eng	open all	date20050126	
 LangTagOpenAll	fra	tout afficher	date20050126	
-LangTagCloseAll	deu	alle schließen	date20050126	
+LangTagCloseAll	deu	alle schlie?en	date20050126	
 LangTagCloseAll	eng	close all	date20050126	
 LangTagCloseAll	fra	fermer	date20050126	
 LangTagLastViewedItem	deu	Angesehene Artikel	date20050310	
@@ -1196,7 +1196,7 @@ LangTagItemUnit	eng	Pck.	date20050601
 LangTagItemUnit	fra	Paq.	date20050601	
 LangTagVacations	deu	Urlaubszeiten 	date20050601	
 LangTagVacations	eng	Vacations 	date20050601	
-LangTagVacations	fra	En congé	date20050601	
+LangTagVacations	fra	En cong?	date20050601	
 				
 				
 				
@@ -1208,7 +1208,7 @@ LangTagFAQ	eng	FAQ	date20050601
 LangTagFAQ	fra	Questions	date20050601	
 LangTagSpecials	deu	Sonderaktionen 	date20050601	
 LangTagSpecials	eng	Specials	date20050601	
-LangTagSpecials	fra	Spéciales	date20050601	
+LangTagSpecials	fra	Sp?ciales	date20050601	
 LangTagGallery	deu	Galerie 	date20050601	
 LangTagGallery	eng	Gallery	date20050601	
 LangTagGallery	fra	Galerie	date20050601	
@@ -1216,9 +1216,9 @@ LangTagGallery	fra	Galerie	date20050601
  				
 LangTagInclusiveVatAndExcludingDelivery	deu	inkl. MwSt. zzgl. Versandkosten	date20051003	
 LangTagInclusiveVatAndExcludingDelivery	eng	inc. VAT and excluding delivery	date20051003	
-LangTagInclusiveVatAndExcludingDelivery	fra	TTC marchandise non-livrée	date20051003	
+LangTagInclusiveVatAndExcludingDelivery	fra	TTC marchandise non-livr?e	date20051003	
 				
-LangTagCookie	deu	Für unser Login sind Cookies erforderlich. Bitte aktivieren Sie Cookies in Ihren Browserseinstellungen	date20051003	
+LangTagCookie	deu	F?r unser Login sind Cookies erforderlich. Bitte aktivieren Sie Cookies in Ihren Browserseinstellungen	date20051003	
 LangTagCookie	eng	Please activate Cookies in your browser settings.	date20051003	
 LangTagCookie	fra	Please activate Cookies in your browser settings.	date20051003	
 				
@@ -1227,11 +1227,11 @@ LangTagBestseller	eng	Bestseller	date20051012
 LangTagBestseller	fra	Bestseller	date20051012	
 LangTagAccountData	deu	Kontodaten	date20051012	
 LangTagAccountData	eng	Account data	date20051012	
-LangTagAccountData	fra	Données	date20051012	
+LangTagAccountData	fra	Donn?es	date20051012	
 LangTagFieldDiscount	deu	Kundenrabatt	date20051012	
 LangTagFieldDiscount	eng	Customer allowance	date20051012	
 LangTagFieldDiscount	fra	Remise	date20051012	
-LangTagTextChgCData	deu	Kundendaten ändern	date20051012	
+LangTagTextChgCData	deu	Kundendaten ?ndern	date20051012	
 LangTagTextChgCData	eng	change customer data	date20051012	
 LangTagTextChgCData	fra	Modifier	date20051012
 LangTagTextChgCData1	deu	Kundendaten	date20110107
@@ -1243,21 +1243,21 @@ LangTagViewOrderData	fra	Afficher	date20051012
 LangTagOrderData	deu	Bestellungen	date20051012	
 LangTagOrderData	eng	order data	date20051012	
 LangTagOrderData	fra	Commandes	date20051012	
-LangTagTextOrderData	deu	Sie haben hier die Möglichkeit, Ihre letzten Bestellungen einzusehen.	date20051012	
+LangTagTextOrderData	deu	Sie haben hier die M?glichkeit, Ihre letzten Bestellungen einzusehen.	date20051012	
 LangTagTextOrderData	eng	Here you are able to view your last orderdata.	date20051012	
-LangTagTextOrderData	fra	Les dernières commandes	date20051012	
-LangTagTextDownloadArea	deu	Hier können Sie Ihre bestellten Download-Artikel herunterladen.	date20100205	
+LangTagTextOrderData	fra	Les derni?res commandes	date20051012	
+LangTagTextDownloadArea	deu	Hier k?nnen Sie Ihre bestellten Download-Artikel herunterladen.	date20100205	
 LangTagTextDownloadArea	eng	Here you can download your ordered download articles.	date20100205	
-LangTagTextDownloadArea	fra	Ici vous pouvez télécharger vos articles commandés.	date20100205	
-LangTagTextDownloadAreb	deu	Sie haben für diesen Artikel keinen Download mehr frei.	date20100211	
+LangTagTextDownloadArea	fra	Ici vous pouvez t?l?charger vos articles command?s.	date20100205	
+LangTagTextDownloadAreb	deu	Sie haben f?r diesen Artikel keinen Download mehr frei.	date20100211	
 LangTagTextDownloadAreb	eng	You do not have any more free downloads this product.	date20100211	
-LangTagTextDownloadAreb	fra	Vous n'avez pas plus des téléchargements libres de ce produit.	date20100211	
-LangTagHonorCoupon	deu	Gutschein einlösen	date20051012	
+LangTagTextDownloadAreb	fra	Vous n'avez pas plus des t?l?chargements libres de ce produit.	date20100211	
+LangTagHonorCoupon	deu	Gutschein einl?sen	date20051012	
 LangTagHonorCoupon	eng	honor coupon	date20051012	
-LangTagHonorCoupon	fra	Bon de réduction	date20051012	
-LangTagCouponText	deu	Sie haben hier die Möglichkeit Ihren Gutschein einzulösen. Tragen Sie den Gutscheincode ein und klicken Sie auf "ok".	date20051012	
+LangTagHonorCoupon	fra	Bon de r?duction	date20051012	
+LangTagCouponText	deu	Sie haben hier die M?glichkeit Ihren Gutschein einzul?sen. Tragen Sie den Gutscheincode ein und klicken Sie auf "ok".	date20051012	
 LangTagCouponText	eng	You are able to honor a coupon here. Enter your coupon&#039;s number and press "ok".	date20051012	
-LangTagCouponText	fra	Indiquez le numéro du bon de réduction s.v.p.	date20051012	
+LangTagCouponText	fra	Indiquez le num?ro du bon de r?duction s.v.p.	date20051012	
 LangTagFNFieldValue	deu	Wert	date20051012	
 LangTagFNFieldValue	eng	value	date20051012	
 LangTagFNFieldValue	fra	Valeur	date20051012	
@@ -1267,40 +1267,40 @@ LangTagCouponCode	fra	Code	date20051012
 LangTagOk	deu	OK	date20051012	
 LangTagOk	eng	OK	date20051012	
 LangTagOk	fra	OK	date20051012	
-LangTagHonor	deu	einlösen	date20051012	
+LangTagHonor	deu	einl?sen	date20051012	
 LangTagHonor	eng	honor	date20051012	
 LangTagHonor	fra	Accepter	date20051012	
 LangTagCoupon	deu	Gutschein	date20051012	
 LangTagCoupon	eng	coupon	date20051012	
-LangTagCoupon	fra	Bon de réduction	date20051012	
-LangTagOnlyOneCoupon	deu	Es kann nur ein Gutschein eingelöst werden!	date20051012	
+LangTagCoupon	fra	Bon de r?duction	date20051012	
+LangTagOnlyOneCoupon	deu	Es kann nur ein Gutschein eingel?st werden!	date20051012	
 LangTagOnlyOneCoupon	eng	You can only use one coupon!	date20051012	
-LangTagOnlyOneCoupon	fra	Un seul bon de réduction est possible!	date20051012	
+LangTagOnlyOneCoupon	fra	Un seul bon de r?duction est possible!	date20051012	
 LangTagWrongCouponCode	deu	Der eingetragende Gutscheincode ist uns nicht bekannt!	date20051012	
 LangTagWrongCouponCode	eng	The entered coupon number is not valid! 	date20051012	
-LangTagWrongCouponCode	fra	Le numéro n´est pas valable.	date20051012	
+LangTagWrongCouponCode	fra	Le num?ro n?est pas valable.	date20051012	
 LangTagAutoCrossSelling	deu	Kunden, die diesen Artikel bestellt haben, haben auch bestellt...	date20051012	
 LangTagAutoCrossSelling	eng	Customer, who order this article, order also...	date20051012	
-LangTagAutoCrossSelling	fra	Les clients qui ont commandé cet article, ont aussi acheté...	date20051012	
+LangTagAutoCrossSelling	fra	Les clients qui ont command? cet article, ont aussi achet?...	date20051012	
 LangTagExtendedSearch	deu	Suche	date20051012	
 LangTagExtendedSearch	eng	Search	date20051012	
 LangTagExtendedSearch	fra	Recherche	date20051012	
-LangTagExtendedSearchText	deu	Die erweiterte Suche bietet Ihnen die Möglichkeit, Ihre Suche feiner einzugrenzen.	date20051012	
+LangTagExtendedSearchText	deu	Die erweiterte Suche bietet Ihnen die M?glichkeit, Ihre Suche feiner einzugrenzen.	date20051012	
 LangTagExtendedSearchText	eng	The extended search allows you to precise your search criteria.	date20051012	
-LangTagExtendedSearchText	fra	Vous pouvez indiquer des critères plus détaillés. 	date20051012	
+LangTagExtendedSearchText	fra	Vous pouvez indiquer des crit?res plus d?taill?s. 	date20051012	
 LangTagItemDescriptionKeyword	deu	Artikelbeschreibung / Stichwort	date20051013	
 LangTagItemDescriptionKeyword	eng	Item Description / Keyword	date20051013	
-LangTagItemDescriptionKeyword	fra	Description, mot clé	date20051013	
+LangTagItemDescriptionKeyword	fra	Description, mot cl?	date20051013	
 LangTagFromPrice	deu	von	date20051013	
 LangTagFromPrice	eng	from	date20051013	
 LangTagFromPrice	fra	De	date20051013	
 LangTagTo	deu	bis	date20051013	
 LangTagTo	eng	to	date20051013	
-LangTagTo	fra	À	date20051013	
+LangTagTo	fra	?	date20051013	
 LangTagOnlySpecialItems	deu	nur Sonderposten	date20051013	
 LangTagOnlySpecialItems	eng	only special items	date20051013	
 LangTagOnlySpecialItems	fra	Promotions	date20051013	
-LangTagReset	deu	Eingaben löschen	date20051013	
+LangTagReset	deu	Eingaben l?schen	date20051013	
 LangTagReset	eng	Reset inputs	date20051013	
 LangTagReset	fra	Effacer	date20051013	
 LangTagStartSearch	deu	Suche starten	date20051013	
@@ -1308,16 +1308,16 @@ LangTagStartSearch	eng	Start search	date20051013
 LangTagStartSearch	fra	OK	date20051013	
 LangTagManufacturerNo	deu	Herstellernummer	date20051020	
 LangTagManufacturerNo	eng	Manufacturer No.	date20051020	
-LangTagManufacturerNo	fra	Fabricant n°	date20051020	
+LangTagManufacturerNo	fra	Fabricant n?	date20051020	
 LangTagResultsExtendedSearch	deu	Resultate der erweiterten Suche	date20051020	
 LangTagResultsExtendedSearch	eng	Results of the extended search	date20051020	
-LangTagResultsExtendedSearch	fra	Résultat	date20051020	
+LangTagResultsExtendedSearch	fra	R?sultat	date20051020	
 LangTagSearchCriteria	deu	Suchkriterien	date20051020	
 LangTagSearchCriteria	eng	search criteria	date20051020	
-LangTagSearchCriteria	fra	Critères	date20051020	
+LangTagSearchCriteria	fra	Crit?res	date20051020	
 LangTagNoSearchResults	deu	Die Suche ergab keine Ergebnisse	date20051020	
 LangTagNoSearchResults	eng	There are no search results	date20051020	
-LangTagNoSearchResults	fra	Aucun résultat	date20051020	
+LangTagNoSearchResults	fra	Aucun r?sultat	date20051020	
 LangTagFieldName	deu	Name	date20051024	
 LangTagFieldName	eng	Name	date20051024	
 LangTagFieldName	fra	Nom	date20051024	
@@ -1332,17 +1332,17 @@ LangTagDear	eng	Dear	date20051026
 LangTagDear	fra	Dear	date20051026	
 LangTagYourOrderData	deu	Ihre Bestelldaten	date20051027	
 LangTagYourOrderData	eng	Your order data	date20051027	
-LangTagYourOrderData	fra	Données de la commande	date20051027	
-LangTagCouponCashed	deu	Gutschein eingelöst!	date20051031	
+LangTagYourOrderData	fra	Donn?es de la commande	date20051027	
+LangTagCouponCashed	deu	Gutschein eingel?st!	date20051031	
 LangTagCouponCashed	eng	Coupon cashed	date20051031	
-LangTagCouponCashed	fra	Bon de réduction transmis	date20051031	
+LangTagCouponCashed	fra	Bon de r?duction transmis	date20051031	
 LangTagFinancialInstitution	deu	Geldinstitut	date20051102	
 LangTagFinancialInstitution	eng	Financial institution	date20051102	
 LangTagFinancialInstitution	fra	Agence	date20051102	
 LangTagValue	deu	Wert	date20051102	
 LangTagValue	eng	value	date20051102	
 LangTagValue	fra	Valeur	date20051102	
-LangTagFieldPaymentCharge	deu	Gebühr	date20051103	
+LangTagFieldPaymentCharge	deu	Geb?hr	date20051103	
 LangTagFieldPaymentCharge	eng	Charge	date20051103	
 LangTagFieldPaymentCharge	fra	Taxe	date20051103	
 LangTagEmailFormat	deu	EmailFormat	date20051103	
@@ -1397,7 +1397,7 @@ LangTagPrint	fra	Imprimer	date20051111
 				
 LangTagToTheTop	deu	Zum Seitenanfang	date20051111	
 LangTagToTheTop	eng	To the top	date20051111	
-LangTagToTheTop	fra	Début de page	date20051111	
+LangTagToTheTop	fra	D?but de page	date20051111	
 				
 LangTagOldPrice	deu	Alter Preis	date20051230	
 LangTagOldPrice	eng	Old Price	date20051230	
@@ -1406,11 +1406,11 @@ LangTagOldPrice	fra	Ancien Prix	date20051230
 				
 LangIntQuantWarning	deu	Es sind nur ganzzahlige Mengenangaben erlaubt!	date20100407	
 LangIntQuantWarning	eng	There are allowed only even quantities!	date20100407	
-LangIntQuantWarning	fra	Il ne sont autorisés que même des quantités!	date20100407	
+LangIntQuantWarning	fra	Il ne sont autoris?s que m?me des quantit?s!	date20100407	
 				
 LangTagReferencePrice	deu	Grundpreis	date20051230	
 LangTagReferencePrice	eng	Reference Price	date20051230	
-LangTagReferencePrice	fra	Prix de réference	date20051230	
+LangTagReferencePrice	fra	Prix de r?ference	date20051230	
 				
 LangTagBrand	deu	Marke	date20051230	
 LangTagBrand	eng	Brand	date20051230	
@@ -1439,7 +1439,7 @@ LangTagSelectAustralia	deu	Australien	date20051230
 LangTagSelectAustralia	eng	Australia	date20051230	
 LangTagSelectAustralia	fra	Australie	date20051230	
 				
-LangTagSelectAustria	deu	Österreich	date20051230	
+LangTagSelectAustria	deu	?sterreich	date20051230	
 LangTagSelectAustria	eng	Austria	date20051230	
 LangTagSelectAustria	fra	Autriche	date20051230	
 				
@@ -1457,9 +1457,9 @@ LangTagSelectCyprus	fra	Chypre	date20051230
 				
 LangTagSelectCzechRep	deu	Tschechien	date20051230	
 LangTagSelectCzechRep	eng	Czech Republic	date20051230	
-LangTagSelectCzechRep	fra	République Tchèque	date20051230	
+LangTagSelectCzechRep	fra	R?publique Tch?que	date20051230	
 				
-LangTagSelectDenmark	deu	Dänemark	date20051230	
+LangTagSelectDenmark	deu	D?nemark	date20051230	
 LangTagSelectDenmark	eng	Denmark	date20051230	
 LangTagSelectDenmark	fra	Danemark	date20051230	
 				
@@ -1477,7 +1477,7 @@ LangTagSelectFrance	fra	France	date20051230
 				
 LangTagSelectGreece	deu	Griechenland	date20051230	
 LangTagSelectGreece	eng	Greece	date20051230	
-LangTagSelectGreece	fra	Grèce	date20051230	
+LangTagSelectGreece	fra	Gr?ce	date20051230	
 				
 LangTagSelectHungary	deu	Ungarn	date20051230	
 LangTagSelectHungary	eng	Hungary	date20051230	
@@ -1521,11 +1521,11 @@ LangTagSelectNether	fra	Pays-Bas	date20051230
 				
 LangTagSelectNewZealand	deu	Neuseeland	date20051230	
 LangTagSelectNewZealand	eng	NewZealand	date20051230	
-LangTagSelectNewZealand	fra	Nouvelle-Zélande	date20051230	
+LangTagSelectNewZealand	fra	Nouvelle-Z?lande	date20051230	
 				
 LangTagSelectNorway	deu	Norwegen	date20051230	
 LangTagSelectNorway	eng	Norway	date20051230	
-LangTagSelectNorway	fra	Norvège	date20051230	
+LangTagSelectNorway	fra	Norv?ge	date20051230	
 				
 LangTagSelectPoland	deu	Polen	date20051230	
 LangTagSelectPoland	eng	Poland	date20051230	
@@ -1543,7 +1543,7 @@ LangTagSelectSlovakia	deu	Slowakei	date20051230
 LangTagSelectSlovakia	eng	Slovakia	date20051230	
 LangTagSelectSlovakia	fra	Slovaquie	date20051230	
 				
-LangTagSelectSouthAfri	deu	Südafrika	date20051230	
+LangTagSelectSouthAfri	deu	S?dafrika	date20051230	
 LangTagSelectSouthAfri	eng	South Africa	date20051230	
 LangTagSelectSouthAfri	fra	Afrique Du Sud	date20051230	
 				
@@ -1553,13 +1553,13 @@ LangTagSelectSpain	fra	Espagne	date20051230
 				
 LangTagSelectSweden	deu	Schweden	date20051230	
 LangTagSelectSweden	eng	Sweden	date20051230	
-LangTagSelectSweden	fra	Suède	date20051230	
+LangTagSelectSweden	fra	Su?de	date20051230	
 				
 LangTagSelectSwitzerl	deu	Schweiz	date20051230	
 LangTagSelectSwitzerl	eng	Switzerland	date20051230	
 LangTagSelectSwitzerl	fra	Suisse	date20051230	
 				
-LangTagSelectTurkey	deu	Türkei	date20051230	
+LangTagSelectTurkey	deu	T?rkei	date20051230	
 LangTagSelectTurkey	eng	Turkey	date20051230	
 LangTagSelectTurkey	fra	Turquie	date20051230	
 				
@@ -1582,57 +1582,57 @@ LangTagSubTotal	fra	Sous-Total	date20060104
 LangTagCreateCustomer	deu	Noch kein Kunde?	date20060104	
 LangTagCreateCustomer	eng	No customer?	date20060104	
 LangTagCreateCustomer	fra	Pas encore client?	date20060104	
-LangTagCreateCustomerText	deu	Hier können Sie sich als Kunde registrieren lassen. Nach erfolgreicher Registrierung erhalten Sie von uns eine Email mit Ihren Login-Daten.	date20060104	
+LangTagCreateCustomerText	deu	Hier k?nnen Sie sich als Kunde registrieren lassen. Nach erfolgreicher Registrierung erhalten Sie von uns eine Email mit Ihren Login-Daten.	date20060104	
 LangTagCreateCustomerText	eng	You are able to register yourself as one of our customers here. After your successfull registration we will send you an email with your login data.	date20060104	
-LangTagCreateCustomerText	fra	Vous pouvez enregistrer vos coordonnées ici. Vous recevrez ensuite un courriel vous indiquant la marche à suivre.	date20060104	
+LangTagCreateCustomerText	fra	Vous pouvez enregistrer vos coordonn?es ici. Vous recevrez ensuite un courriel vous indiquant la marche ? suivre.	date20060104	
 LangTagUserdata	deu	Benutzerdaten	date20060104	
 LangTagUserdata	eng	User data	date20060104	
-LangTagUserdata	fra	Vos coordonnées	date20060104	
+LangTagUserdata	fra	Vos coordonn?es	date20060104	
 LangTagCustomerCreated	deu	Sie wurden als Kunde registriert!	date20060104	
 LangTagCustomerCreated	eng	You were successfully registred as our customer!	date20060104	
-LangTagCustomerCreated	fra	Vous êtes maintenant enregistré comme client!	date20060104	
+LangTagCustomerCreated	fra	Vous ?tes maintenant enregistr? comme client!	date20060104	
 LangTagNewsletter	deu	Newsletter	date20060104	
 LangTagNewsletter	eng	Newsletter	date20060104	
 LangTagNewsletter	fra	Newsletter	date20060104	
-LangTagNewsletterText	deu	Möchten Sie über Neuerungen, Angebote und Aktionen rund um unsere Produkte informiert sein, können Sie sich gern in unserem Newsletter-Dienst mit Ihrer Email-Adresse eintragen	date20060104	
+LangTagNewsletterText	deu	M?chten Sie ?ber Neuerungen, Angebote und Aktionen rund um unsere Produkte informiert sein, k?nnen Sie sich gern in unserem Newsletter-Dienst mit Ihrer Email-Adresse eintragen	date20060104	
 LangTagNewsletterText	eng	Do you like to subscribe yourself in our email newsletter if you'd like to be steadily informed about our improvements, offers and promotions.	date20060104	
-LangTagNewsletterText	fra	Vous pouvez vous abonner à notre newsletter pour recevoir régulièrement des annonces, offres et promotions.	date20060104	
+LangTagNewsletterText	fra	Vous pouvez vous abonner ? notre newsletter pour recevoir r?guli?rement des annonces, offres et promotions.	date20060104	
 LangTagEmailAlreadyExist	deu	Ihre Email-Adresse ist bereits vorhanden!	date20060104	
 LangTagEmailAlreadyExist	eng	Your email address already exists!	date20060104	
-LangTagEmailAlreadyExist	fra	Votre adresse existe déjà!	date20060104	
+LangTagEmailAlreadyExist	fra	Votre adresse existe d?j?!	date20060104	
 LangTagEmailWrong	deu	Ihre Email-Adresse ist falsch!	date20060104	
 LangTagEmailWrong	eng	Your email address is not correct!	date20060104	
 LangTagEmailWrong	fra	Votre adresse n'est pas conforme!	date20060104	
 LangTagEmailSaved	deu	Ihre Email-Adresse wurde gespeichert!	date20060104	
 LangTagEmailSaved	eng	Your email address was saved!	date20060104	
-LangTagEmailSaved	fra	Votre adresse est enregistrée!	date20060104	
+LangTagEmailSaved	fra	Votre adresse est enregistr?e!	date20060104	
 LangTagEnter	deu	Eintragen	date20060104	
 LangTagEnter	eng	Enter	date20060104	
 LangTagEnter	fra	Entrer	date20060104	
-LangTagEnterEmail	deu	Sie müssen Ihre Email-Adresse eingeben!	date20060104	
+LangTagEnterEmail	deu	Sie m?ssen Ihre Email-Adresse eingeben!	date20060104	
 LangTagEnterEmail	eng	You have to enter your email address!	date20060104	
 LangTagEnterEmail	fra	Indiquez votre adresse s.v.p.!	date20060104	
 LangTagNoData	deu	Keine Daten	date20060104	
 LangTagNoData	eng	No data	date20060104	
-LangTagNoData	fra	Pas de données	date20060104	
-LangTagFieldFilled	deu	Bitte füllen Sie dieses Feld aus	date20060104	
+LangTagNoData	fra	Pas de donn?es	date20060104	
+LangTagFieldFilled	deu	Bitte f?llen Sie dieses Feld aus	date20060104	
 LangTagFieldFilled	eng	Please fill out this field	date20060104	
-LangTagFieldFilled	fra	S'il vous plaît remplir ce champ	date20060104
+LangTagFieldFilled	fra	S'il vous pla?t remplir ce champ	date20060104
 
 LangTagFieldFilledJS	deu	Bitte f%FCllen Sie das folgendes Feld aus	date20140808
 LangTagFieldFilledJS	eng	Your have to fill in	date20060104	
 LangTagFieldFilledJS	fra	Vous devez enregistrer le champ suivant	date20060104
 	
-LangTagNewsletterInfoText	deu	Die mit einem * gekennzeichneten Felder müssen ausgefüllt werden!<br /><br />Die Weitergabe Ihrer eMail-Adresse und der von uns ermittelten Daten<br />dienen ausschließlich internen Zwecken und werden an unberechtigte Dritte<br />grundsätzlich nicht weitergegeben.	date20060104	
+LangTagNewsletterInfoText	deu	Die mit einem * gekennzeichneten Felder m?ssen ausgef?llt werden!<br /><br />Die Weitergabe Ihrer eMail-Adresse und der von uns ermittelten Daten<br />dienen ausschlie?lich internen Zwecken und werden an unberechtigte Dritte<br />grunds?tzlich nicht weitergegeben.	date20060104	
 LangTagNewsletterInfoText	eng	The fields with * have to be filled in!<br /><br />You can find more information about how we process<br />personal information in our terms and conditions.	date20060104	
-LangTagNewsletterInfoText	fra	Les champs * doivent être remplis!<br /><br />Veuillez consulter les conditions générales de vente et les règles de confidentialité  <br />pour tout renseignement sur le traitement de vos données.	date20060104	
+LangTagNewsletterInfoText	fra	Les champs * doivent ?tre remplis!<br /><br />Veuillez consulter les conditions g?n?rales de vente et les r?gles de confidentialit?  <br />pour tout renseignement sur le traitement de vos donn?es.	date20060104	
 LangTagSignOut	deu	Austragen	date20060105	
 LangTagSignOut	eng	unsubcribe	date20060105	
-LangTagSignOut	fra	désabonner	date20060105	
+LangTagSignOut	fra	d?sabonner	date20060105	
 LangTagFieldPIDLong	deu	Auftragsnummer	date20060105	
 LangTagFieldPIDLong	eng	Ordernumber	date20060105	
 LangTagFieldPIDLong	fra	Ordernumber	date20060105	
-LangTagEmailDeleted	deu	Ihre Email-Adresse wurde gelöscht!	date20060106	
+LangTagEmailDeleted	deu	Ihre Email-Adresse wurde gel?scht!	date20060106	
 LangTagEmailDeleted	eng	Your email address is deleted!	date20060106	
 LangTagEmailDeleted	fra	Your email address is deleted!	date20060106	
 LangTagEmailNotExisting	deu	Ihre Email-Adresse ist nicht vorhanden!	date20060106	
@@ -1641,32 +1641,32 @@ LangTagEmailNotExisting	fra	Your email address is not existing!	date20060106
 LangTagProductCode	deu	Produktcode	date20060106	
 LangTagProductCode	eng	Product code	date20060106	
 LangTagProductCode	fra	Product code	date20060106	
-LangTagEmailNotDeletable	deu	Ihre Email-Adresse konnte nicht gelöscht werden!	date20060106	
+LangTagEmailNotDeletable	deu	Ihre Email-Adresse konnte nicht gel?scht werden!	date20060106	
 LangTagEmailNotDeletable	eng	Your email address is temporay not deletable!	date20060106	
 LangTagEmailNotDeletable	fra	Your email address is temporay not deletable!	date20060106	
 LangTagEanISBN	deu	EAN/ISBN	date20060106	
 LangTagEanISBN	eng	EAN/ISBN	date20060106	
 LangTagEanISBN	fra	EAN/ISBN	date20060106	
-LangTagTrustedShopsClick	deu	Trusted Shops Gütesiegel - Bitte hier Gültigkeit prüfen!	date20060106	
+LangTagTrustedShopsClick	deu	Trusted Shops G?tesiegel - Bitte hier G?ltigkeit pr?fen!	date20060106	
 LangTagTrustedShopsClick	eng	Certified online shop with free money-back guarantee by Trusted Shops. Click to verify!	date20060106	
 LangTagTrustedShopsClick	fra	Sceau Trusted Shops - Cliquez pour le verifier.	date20060106	
-LangTagTrustedShopsSiegel	deu	Geprüfter Online-Shop mit kostenloser Geld-zurück- Garantie von Trusted Shops. Klicken Sie auf das Gütesiegel, um die Gültigkeit zu prüfen.	date20060106	
+LangTagTrustedShopsSiegel	deu	Gepr?fter Online-Shop mit kostenloser Geld-zur?ck- Garantie von Trusted Shops. Klicken Sie auf das G?tesiegel, um die G?ltigkeit zu pr?fen.	date20060106	
 LangTagTrustedShopsSiegel	eng	Certified online shop with free money-back guarantee by Trusted Shops. Click to verify! 	date20060106	
-LangTagTrustedShopsSiegel	fra	Sites marchands certifiés par Trusted Shops avec une garantie de remboursement sans frais. Cliquez pour le verifier. .	date20060106	
-LangTagTrustedShopsText	deu	Als Trusted Shops Mitglied bieten wir Ihnen als zusätzlichen Service die Geld-zurück-Garantie der Atradius Versicherungsgruppe an. Wir übernehmen alle Kosten dieser Garantie, Sie müssen sich lediglich anmelden.	date20060106	
+LangTagTrustedShopsSiegel	fra	Sites marchands certifi?s par Trusted Shops avec une garantie de remboursement sans frais. Cliquez pour le verifier. .	date20060106	
+LangTagTrustedShopsText	deu	Als Trusted Shops Mitglied bieten wir Ihnen als zus?tzlichen Service die Geld-zur?ck-Garantie der Atradius Versicherungsgruppe an. Wir ?bernehmen alle Kosten dieser Garantie, Sie m?ssen sich lediglich anmelden.	date20060106	
 LangTagTrustedShopsText	eng	As a certified Trusted Shops member, we offer the additional service of the money-back guarantee backed by the Atradius Insurance Group. We cover all costs for the guarantee. You only have to register.	date20060106	
-LangTagTrustedShopsText	fra	Ce shop est un site marchand certifié par Trusted Shops. Nous vous offrons donc la garantie «Satisfait ou Remboursé», assurée par le groupe international d'assurances Atradius. Il suffit de vous enregistrer!	date20060106	
-LangTagTrustedShopsSignIn	deu	Anmeldung zur Geld-zurück-Garantie	date20060106	
+LangTagTrustedShopsText	fra	Ce shop est un site marchand certifi? par Trusted Shops. Nous vous offrons donc la garantie ?Satisfait ou Rembours??, assur?e par le groupe international d'assurances Atradius. Il suffit de vous enregistrer!	date20060106	
+LangTagTrustedShopsSignIn	deu	Anmeldung zur Geld-zur?ck-Garantie	date20060106	
 LangTagTrustedShopsSignIn	eng	Register for money-back guarantee...	date20060106	
 LangTagTrustedShopsSignIn	fra	Enregistrez votre garantie...	date20060106	
 				
-LangTagPrivacy	deu	Datenschutzerklärung	date20060107	
+LangTagPrivacy	deu	Datenschutzerkl?rung	date20060107	
 LangTagPrivacy	eng	Privacy	date20060107	
-LangTagPrivacy	fra	Confidentialité	date20060108	
+LangTagPrivacy	fra	Confidentialit?	date20060108	
 				
 LangTagUnits	deu	Stk.	date20060109	
 LangTagUnits	eng	units	date20060109	
-LangTagUnits	fra	Unités	date20060109	
+LangTagUnits	fra	Unit?s	date20060109	
 LangTagFieldValue	deu	Wert	date20060111	
 LangTagFieldValue	eng	Value	date20060111	
 LangTagFieldValue	fra	Valeur	date20060111	
@@ -1683,9 +1683,9 @@ LangTagSubscribeNewsletter	fra	Abonner	date20060111
 				
 LangTagUnsubscribeNewsletter	deu	Austragen	date20060111	
 LangTagUnsubscribeNewsletter	eng	Unsubcribe	date20060111	
-LangTagUnsubscribeNewsletter	fra	Désabonner	date20060111	
+LangTagUnsubscribeNewsletter	fra	D?sabonner	date20060111	
 				
-LangTagSpecialItemText	deu	Jetzt günstiger!	date20060112	
+LangTagSpecialItemText	deu	Jetzt g?nstiger!	date20060112	
 LangTagSpecialItemText	eng	Special Offer!	date20060112	
 LangTagSpecialItemText	fra	En promotion!	date20060112	
 				
@@ -1747,16 +1747,16 @@ LangTag__FieldEmailFormat	eng	EmailFormat	date20060119
 LangTag__FieldEmailFormat	fra	Formatage	date20060119	
 LangTag__FieldFax	deu	Fax	date20060119	
 LangTag__FieldFax	eng	Fax	date20060119	
-LangTag__FieldFax	fra	Télécopie	date20060119	
+LangTag__FieldFax	fra	T?l?copie	date20060119	
 LangTag__FieldFirmVATId	deu	UstID	date20060119	
 LangTag__FieldFirmVATId	eng	TaxNumber	date20060119	
 LangTag__FieldFirmVATId	fra	TaxNumber	date20060119	
 LangTag__FieldFirstName	deu	Vorname	date20060119	
 LangTag__FieldFirstName	eng	FirstName	date20060119	
-LangTag__FieldFirstName	fra	Prénom	date20060119	
+LangTag__FieldFirstName	fra	Pr?nom	date20060119	
 LangTag__FieldFirstNameSender	deu	AbsenderVorname	date20060119	
 LangTag__FieldFirstNameSender	eng	FirstNameSender	date20060119	
-LangTag__FieldFirstNameSender	fra	Prénom	date20060119	
+LangTag__FieldFirstNameSender	fra	Pr?nom	date20060119	
 LangTag__FieldFormToAddress	deu	Anrede	date20060119	
 LangTag__FieldFormToAddress	eng	Title	date20060119	
 LangTag__FieldFormToAddress	fra	Titre	date20060119	
@@ -1784,12 +1784,12 @@ LangTag__FieldMessage	fra	Message	date20060119
 LangTag__FieldPayment	deu	Zahlungsart	date20060119	
 LangTag__FieldPayment	eng	Payment	date20060119	
 LangTag__FieldPayment	fra	Paiement	date20060119	
-LangTag__FieldPaymentCharge	deu	Gebühr	date20060119	
+LangTag__FieldPaymentCharge	deu	Geb?hr	date20060119	
 LangTag__FieldPaymentCharge	eng	Charge	date20060119	
 LangTag__FieldPaymentCharge	fra	Taxe	date20060119	
 LangTag__FieldPhone	deu	Telefon	date20060119	
 LangTag__FieldPhone	eng	Phone	date20060119	
-LangTag__FieldPhone	fra	Téléphone	date20060119	
+LangTag__FieldPhone	fra	T?l?phone	date20060119	
 LangTag__FieldPID	deu	Auftragsnummer	date20060119	
 LangTag__FieldPID	eng	Ordernumber	date20060119	
 LangTag__FieldPID	fra	NoCommande	date20060119	
@@ -1801,7 +1801,7 @@ LangTag__FieldQuantity	eng	Quantity	date20060119
 LangTag__FieldQuantity	fra	Quantite	date20060119	
 LangTag__FieldSender	deu	Absender	date20060119	
 LangTag__FieldSender	eng	Sender	date20060119	
-LangTag__FieldSender	fra	Expéditeur	date20060119	
+LangTag__FieldSender	fra	Exp?diteur	date20060119	
 LangTag__FieldShippingAddress	deu	Abweichende_Lieferadresse	date20060119	
 LangTag__FieldShippingAddress	eng	DeliveryAddress	date20060119	
 LangTag__FieldShippingAddress	fra	Adresse de livraison	date20060119	
@@ -1816,13 +1816,13 @@ LangTag__FieldShippingCity	eng	DeliveryCity	date20060119
 LangTag__FieldShippingCity	fra	Ville (livraison)	date20060119	
 LangTag__FieldShippingCompany	deu	Lieferfirma	date20060119	
 LangTag__FieldShippingCompany	eng	ShippingCompany	date20060119	
-LangTag__FieldShippingCompany	fra	Société (livraison)	date20060119	
+LangTag__FieldShippingCompany	fra	Soci?t? (livraison)	date20060119	
 LangTag__FieldShippingFax	deu	Lieferfax	date20060119	
 LangTag__FieldShippingFax	eng	ShippingFax	date20060119	
-LangTag__FieldShippingFax	fra	Télécopie (livraison)	date20060119	
+LangTag__FieldShippingFax	fra	T?l?copie (livraison)	date20060119	
 LangTag__FieldShippingFirstName	deu	LieferVorname	date20060119	
 LangTag__FieldShippingFirstName	eng	DeliveryFirstName	date20060119	
-LangTag__FieldShippingFirstName	fra	Prénom	date20060119	
+LangTag__FieldShippingFirstName	fra	Pr?nom	date20060119	
 LangTag__FieldShippingFormToAddress	deu	LieferAnrede	date20060119	
 LangTag__FieldShippingFormToAddress	eng	ShippingFormToAddress	date20060119	
 LangTag__FieldShippingFormToAddress	fra	Titre_livraison	date20060119	
@@ -1861,10 +1861,10 @@ LangTag__FieldTextItem	eng	Items	date20060119
 LangTag__FieldTextItem	fra	Articles	date20060119	
 LangTag__DownloadTxt	deu	Downloadartikel	date20100212	
 LangTag__DownloadTxt	eng	Download item	date20100212	
-LangTag__DownloadTxt	fra	Télécharger l'élément	date20100212	
+LangTag__DownloadTxt	fra	T?l?charger l'?l?ment	date20100212	
 LangTag__FieldTextUnitPrice	deu	Preis	date20060119	
 LangTag__FieldTextUnitPrice	eng	Price	date20060119	
-LangTag__FieldTextUnitPrice	fra	Prix à l´unité	date20060119	
+LangTag__FieldTextUnitPrice	fra	Prix ? l?unit?	date20060119	
 LangTag__FieldTotalAmount	deu	Rechnungsbetrag	date20060119	
 LangTag__FieldTotalAmount	eng	Invoice_total	date20060119	
 LangTag__FieldTotalAmount	fra	Montant total	date20060119	
@@ -1910,7 +1910,7 @@ LangTag__YearExpirationDate	eng	ExpirationDateYear	date20060119
 LangTag__YearExpirationDate	fra	ExpirationDateAnnee	date20060119	
 				
 				
-LangTagAvailability	deu	Verfügbarkeit	date20060125	
+LangTagAvailability	deu	Verf?gbarkeit	date20060125	
 LangTagAvailability	eng	Availability	date20060125	
 LangTagAvailability	fra	Availability	date20060125	
 				
@@ -1920,45 +1920,45 @@ LangTagFNFieldShopURL	fra	Boutique	date20060126
 				
 LangTag__FieldShopURL	deu	Onlineshop	date20060126	
 LangTag__FieldShopURL	eng	Online shop	date20060126	
-LangTag__FieldShopURL	fra	Boutique électronique	date20060126	
+LangTag__FieldShopURL	fra	Boutique ?lectronique	date20060126	
 				
 LangTagStartOnlineShop	deu	Zum Shop	date20060215	
 LangTagStartOnlineShop	eng	online shop	date20060215	
 LangTagStartOnlineShop	fra	Entrez !	date20060215	
 				
-DefaultAnswerCustomerInfos	deu	Wichtige Kundeninformationen:<br /><br />-----------------------<br />1. Geltungsbereich<br />-----------------------<br /><br />Für alle Lieferungen von DemoShop e.K. (nachfolgend: DemoShop) an Verbraucher (§ 13 BGB) gelten diese Allgemeinen Geschäftsbedingungen (AGB).<br />... <br />2.<br />3.	date20060302	
+DefaultAnswerCustomerInfos	deu	Wichtige Kundeninformationen:<br /><br />-----------------------<br />1. Geltungsbereich<br />-----------------------<br /><br />F?r alle Lieferungen von DemoShop e.K. (nachfolgend: DemoShop) an Verbraucher (? 13 BGB) gelten diese Allgemeinen Gesch?ftsbedingungen (AGB).<br />... <br />2.<br />3.	date20060302	
 DefaultAnswerCustomerInfos	eng	Important informations:<br /><br />-----------------------<br />1. Governing law and jurisdiction<br />-----------------------<br /><br />....<br />.... <br />2.<br />3.	date20060302	
-DefaultAnswerCustomerInfos	fra	Informations importantes:<br /><br />-----------------------<br />Article 1: Droit applicable et juridiction compétente<br />-----------------------<br /><br />...<br />.... <br />Article 2<br />...<br />Article 3<br />...	date20060302	
-DefaultAnswerGreetingText	deu	Herzlichen Dank für Ihre Bestellung beim Papierflieger Shop und vielen Dank für Ihr Interesse an der GS ShopBuilder Produktfamilie. Mit dieser Email ist der Kaufvertrag zustande gekommen.<p>Bitte kontrollieren Sie nochmals, ob alle Angaben korrekt sind und teilen uns gegebenenfalls Änderungswünsche mit.<p>Bitte beachten Sie ebenfalls unsere Allgemeinen Geschäftsbedingungen mit der Widerrufsbelehrung.	date20060302	
-DefaultAnswerGreetingText	eng	Herzlichen Dank für Ihre Bestellung beim Papierflieger Shop und vielen Dank für Ihr Interesse an der GS ShopBuilder Produktfamilie. Mit dieser Email ist der Kaufvertrag zustande gekommen.<p>Bitte kontrollieren Sie nochmals, ob alle Angaben korrekt sind und teilen uns gegebenenfalls Änderungswünsche mit.<p>Bitte beachten Sie ebenfalls unsere Allgemeinen Geschäftsbedingungen mit der Widerrufsbelehrung.	date20060302	
-DefaultAnswerGreetingText	fra	Herzlichen Dank für Ihre Bestellung beim Papierflieger Shop und vielen Dank für Ihr Interesse an der GS ShopBuilder Produktfamilie. Mit dieser Email ist der Kaufvertrag zustande gekommen.<p>Bitte kontrollieren Sie nochmals, ob alle Angaben korrekt sind und teilen uns gegebenenfalls Änderungswünsche mit.<p>Bitte beachten Sie ebenfalls unsere Allgemeinen Geschäftsbedingungen mit der Widerrufsbelehrung.	date20060302	
+DefaultAnswerCustomerInfos	fra	Informations importantes:<br /><br />-----------------------<br />Article 1: Droit applicable et juridiction comp?tente<br />-----------------------<br /><br />...<br />.... <br />Article 2<br />...<br />Article 3<br />...	date20060302	
+DefaultAnswerGreetingText	deu	Herzlichen Dank f?r Ihre Bestellung beim Papierflieger Shop und vielen Dank f?r Ihr Interesse an der GS ShopBuilder Produktfamilie. Mit dieser Email ist der Kaufvertrag zustande gekommen.<p>Bitte kontrollieren Sie nochmals, ob alle Angaben korrekt sind und teilen uns gegebenenfalls ?nderungsw?nsche mit.<p>Bitte beachten Sie ebenfalls unsere Allgemeinen Gesch?ftsbedingungen mit der Widerrufsbelehrung.	date20060302	
+DefaultAnswerGreetingText	eng	Herzlichen Dank f?r Ihre Bestellung beim Papierflieger Shop und vielen Dank f?r Ihr Interesse an der GS ShopBuilder Produktfamilie. Mit dieser Email ist der Kaufvertrag zustande gekommen.<p>Bitte kontrollieren Sie nochmals, ob alle Angaben korrekt sind und teilen uns gegebenenfalls ?nderungsw?nsche mit.<p>Bitte beachten Sie ebenfalls unsere Allgemeinen Gesch?ftsbedingungen mit der Widerrufsbelehrung.	date20060302	
+DefaultAnswerGreetingText	fra	Herzlichen Dank f?r Ihre Bestellung beim Papierflieger Shop und vielen Dank f?r Ihr Interesse an der GS ShopBuilder Produktfamilie. Mit dieser Email ist der Kaufvertrag zustande gekommen.<p>Bitte kontrollieren Sie nochmals, ob alle Angaben korrekt sind und teilen uns gegebenenfalls ?nderungsw?nsche mit.<p>Bitte beachten Sie ebenfalls unsere Allgemeinen Gesch?ftsbedingungen mit der Widerrufsbelehrung.	date20060302	
 				
 DefaultAnswerProvider	deu	-----------<br />Anbieter:<br />-----------<br /><br />Firma: ...<br />Inhaber: ...<br />Strasse: ...<br />Ort: ....<br />Telefon: +49-123-123456<br />Email: ...<br /><br />Bitte geben Sie hier auch Ihre Bankverbindung an.<br /><br />	date20060302	
 DefaultAnswerProvider	eng	-----------<br />Shop provider:<br />-----------<br /><br />Company: ...<br />CEO: ...<br />Street: ...<br />City: ....<br />Phone: +49-123-123456<br />Email: ...<br /><br />Please do not forget... .<br /><br />	date20060302	
-DefaultAnswerProvider	fra	-----------<br />Magasin:<br />-----------<br /><br />Société: ...<br />PDG: ...<br />Rue: ...<br />Ville: ....<br />Téléphone: +49-123-123456<br />Courriel: ...<br /><br />S.v.p., n'oubliez pas d'indiquer... .<br /><br />	date20060302	
+DefaultAnswerProvider	fra	-----------<br />Magasin:<br />-----------<br /><br />Soci?t?: ...<br />PDG: ...<br />Rue: ...<br />Ville: ....<br />T?l?phone: +49-123-123456<br />Courriel: ...<br /><br />S.v.p., n'oubliez pas d'indiquer... .<br /><br />	date20060302	
 			date20060302	
 			date20060302	
-DefaultLoginDataEmailText1	deu	Es freut uns Sie als Kunden in unserem Shop begrüßen zu dürfen. Mit dieser Email erhalten Sie ihre Logindaten für unseren Kundenbereich.	date20060302	
+DefaultLoginDataEmailText1	deu	Es freut uns Sie als Kunden in unserem Shop begr??en zu d?rfen. Mit dieser Email erhalten Sie ihre Logindaten f?r unseren Kundenbereich.	date20060302	
 DefaultLoginDataEmailText1	eng	Please translate	date20060302	
-DefaultLoginDataEmailText1	fra	Merci de votre visite dans notre boutique. Veuillez recevoir vos données d'accès au service clients.	date20060302	
+DefaultLoginDataEmailText1	fra	Merci de votre visite dans notre boutique. Veuillez recevoir vos donn?es d'acc?s au service clients.	date20060302	
 			date20060302	
-DefaultLoginDataEmailText2	deu	Im Kundenbereich können Sie sich Ihre Bestellungen ansehen oder Ihre Benutzerdaten einsehen und ändern. Mit freundlichen Grüssen	date20060302	
+DefaultLoginDataEmailText2	deu	Im Kundenbereich k?nnen Sie sich Ihre Bestellungen ansehen oder Ihre Benutzerdaten einsehen und ?ndern. Mit freundlichen Gr?ssen	date20060302	
 DefaultLoginDataEmailText2	eng	You may view your order in the customer database or modify your contact data. <br /> Best regards, <br /> http://www.shopcity24.de	date20060302	
-DefaultLoginDataEmailText2	fra	L'accès au service clients vous permettra de vérifier vos commandes et de modifier vos coordonnées.<br /> Cordialement, ...	date20060302	
+DefaultLoginDataEmailText2	fra	L'acc?s au service clients vous permettra de v?rifier vos commandes et de modifier vos coordonn?es.<br /> Cordialement, ...	date20060302	
 				
-DefaultTextAfterRequest	deu	Vielen Dank für Ihre Anfrage...	date20060302	
+DefaultTextAfterRequest	deu	Vielen Dank f?r Ihre Anfrage...	date20060302	
 DefaultTextAfterRequest	eng	Thank you for your request	date20060302	
 DefaultTextAfterRequest	fra	Merci pour votre demande...	date20060302	
 				
-DefaultTextBeforeOrderData	deu	Bitte überprüfen Sie Ihre Eingaben. Sie können diese durch Klicken über den entsprechenden Button korrigieren. Wenn alle Eingaben richtig sind, klicken Sie auf "Bestellung abschicken".	date20060302	
+DefaultTextBeforeOrderData	deu	Bitte ?berpr?fen Sie Ihre Eingaben. Sie k?nnen diese durch Klicken ?ber den entsprechenden Button korrigieren. Wenn alle Eingaben richtig sind, klicken Sie auf "Bestellung abschicken".	date20060302	
 DefaultTextBeforeOrderData	eng	Please check your data. After you have completed the order please click the button to send it...	date20060302	
-DefaultTextBeforeOrderData	fra	Dès réception de votre commande, nous vous enverrons une confirmation.
-Veuillez bien nous contacter dans les 24 heures qui suivent votre commande pour tous changements éventuels.
-Merci et à bientôt .... 	date20060302	
+DefaultTextBeforeOrderData	fra	D?s r?ception de votre commande, nous vous enverrons une confirmation.
+Veuillez bien nous contacter dans les 24 heures qui suivent votre commande pour tous changements ?ventuels.
+Merci et ? bient?t .... 	date20060302	
 				
-DefaultTextOrderFormular	deu	<b>2. Bitte füllen Sie das folgende Bestellformular aus (*Felder bitte unbedingt angeben) und klicken Sie den 'Bestellung fortsetzen' Knopf. </b><br /><br /><br />Vor dem Absenden der Bestellung sehen Sie noch einmal die von Ihnen eingegebenen Daten und haben die Möglichkeit, diese durch Anklicken des entsprechenden Buttons zu korrigieren. Den Bestellvorgang können Sie jederzeit durch Schließen des Browser-Fensters abbrechen oder durch Anklicken des Buttons 'Bestellung abschicken' abschließen.	date20060302	
+DefaultTextOrderFormular	deu	<b>2. Bitte f?llen Sie das folgende Bestellformular aus (*Felder bitte unbedingt angeben) und klicken Sie den 'Bestellung fortsetzen' Knopf. </b><br /><br /><br />Vor dem Absenden der Bestellung sehen Sie noch einmal die von Ihnen eingegebenen Daten und haben die M?glichkeit, diese durch Anklicken des entsprechenden Buttons zu korrigieren. Den Bestellvorgang k?nnen Sie jederzeit durch Schlie?en des Browser-Fensters abbrechen oder durch Anklicken des Buttons 'Bestellung abschicken' abschlie?en.	date20060302	
 DefaultTextOrderFormular	eng	Please translate	date20060302	
-DefaultTextOrderFormular	fra	<b>2. Veuillez remplir le formulaire suivant et appuyer sur la touche "Envoyer la commande". Les cases marquées d'une * doivent être obligatoirement remplies.	e20060302	
+DefaultTextOrderFormular	fra	<b>2. Veuillez remplir le formulaire suivant et appuyer sur la touche "Envoyer la commande". Les cases marqu?es d'une * doivent ?tre obligatoirement remplies.	e20060302	
 				
 DefaultAnswerSubject	deu	Ihre Bestellung im Demoshop	date20060302	
 DefaultAnswerSubject	eng	Please translate...	date20060302	
@@ -1966,11 +1966,11 @@ DefaultAnswerSubject	fra	Votre commande	date20060302
 				
 DefaultAnswerSubjectTellAFriend	deu	Artikelempfehlung	date20060302	
 DefaultAnswerSubjectTellAFriend	eng	Tell a friend subject	date20060302	
-DefaultAnswerSubjectTellAFriend	fra	Articles conseillés	date20060302	
+DefaultAnswerSubjectTellAFriend	fra	Articles conseill?s	date20060302	
 				
-LangTagDefaultAnswerSubjectRequiry	deu	Bitte informieren Sie mich über den Artikel	date20100224	
+LangTagDefaultAnswerSubjectRequiry	deu	Bitte informieren Sie mich ?ber den Artikel	date20100224	
 LangTagDefaultAnswerSubjectRequiry	eng	Please inform me about this article	date20100224	
-LangTagDefaultAnswerSubjectRequiry	fra	S'il vous plaît me renseigner sur cet article	date20100224	
+LangTagDefaultAnswerSubjectRequiry	fra	S'il vous pla?t me renseigner sur cet article	date20100224	
 				
 				
 DefaultAnswerTextEnd	deu	Mit freundlichem Gruss,	date20060302	
@@ -1981,36 +1981,36 @@ DefaultAnswerTextTellAFriend	deu	Sie haben eine Artikelempfehlung erhalten.	date
 DefaultAnswerTextTellAFriend	eng	Please translate...	date20060302	
 DefaultAnswerTextTellAFriend	fra	Vous venez de recevoir une recommandation d'articles	date20060302	
 				
-DefaultBasket	deu	Die folgenden Artikel haben Sie für Ihre Bestellung ausgewählt. Sie können die Stückzahlen überschreiben und durch Anklicken des grünen Häkchens den Warenkorb aktualisieren, oder Sie können den Artikel aus der Liste entfernen. 	date20060302	
+DefaultBasket	deu	Die folgenden Artikel haben Sie f?r Ihre Bestellung ausgew?hlt. Sie k?nnen die St?ckzahlen ?berschreiben und durch Anklicken des gr?nen H?kchens den Warenkorb aktualisieren, oder Sie k?nnen den Artikel aus der Liste entfernen. 	date20060302	
 DefaultBasket	eng	Please translate...	date20060302	
-DefaultBasket	fra	N'hésitez pas à nous contacter par courriel ou bien par téléphone si vous rencontrez des difficultés pour commander dans la boutique.	date20060302	
+DefaultBasket	fra	N'h?sitez pas ? nous contacter par courriel ou bien par t?l?phone si vous rencontrez des difficult?s pour commander dans la boutique.	date20060302	
 				
-DefaultBuyText	deu	<b>Versand / Lieferung</b><br /><br />Die Lieferung erfolgt nur innerhalb Deutschlands.<br /><br />Die Lieferzeit beträgt im Regelfall 3 Werktage. Auf evtl. abweichende Lieferzeiten weisen wir auf der jeweiligen Produktseite hin..<br /><br /><hr>.<br /><br /><b>Zahlungsarten</b>.<br /><br />....	date20060302	
+DefaultBuyText	deu	<b>Versand / Lieferung</b><br /><br />Die Lieferung erfolgt nur innerhalb Deutschlands.<br /><br />Die Lieferzeit betr?gt im Regelfall 3 Werktage. Auf evtl. abweichende Lieferzeiten weisen wir auf der jeweiligen Produktseite hin..<br /><br /><hr>.<br /><br /><b>Zahlungsarten</b>.<br /><br />....	date20060302	
 DefaultBuyText	eng	Please translate...	date20060302	
-DefaultBuyText	fra	<b>Livraison</b><br />La livraison sera effectuée dans un délai de quelques jours ou quelques années... <br /><b>Modes de paiement</b><br...	date20060302	
+DefaultBuyText	fra	<b>Livraison</b><br />La livraison sera effectu?e dans un d?lai de quelques jours ou quelques ann?es... <br /><b>Modes de paiement</b><br...	date20060302	
 				
-DefaultTermsAndCond	deu	<i class=red>Beispielhafte AGB mit wichtigen Kundeninformationen. Bitte passen Sie die AGB auf Ihre eigenen Bedürfnisse an.</i>	date20060302	
+DefaultTermsAndCond	deu	<i class=red>Beispielhafte AGB mit wichtigen Kundeninformationen. Bitte passen Sie die AGB auf Ihre eigenen Bed?rfnisse an.</i>	date20060302	
 DefaultTermsAndCond	eng	Please translate...	date20060302	
 DefaultTermsAndCond	fra	<i class=red>N'oubliez pas d'indiquer vos conditions de ventes et de livraison ici.....</i>	date20060302	
 
 LangTagTermsAndCondAccept	deu	Ich habe die AGB gelesen und akzeptiert.	date20060302
 LangTagTermsAndCondAccept	eng	I aggree with the terms and conditions.	date20060302
-LangTagTermsAndCondAccept	fra	Conditions de Vente - lu et accepté 	date20060302
+LangTagTermsAndCondAccept	fra	Conditions de Vente - lu et accept? 	date20060302
 				
 DefaultTermsAndCondAccept	deu	Ich habe die AGB gelesen und akzeptiert.	date20060302	
 DefaultTermsAndCondAccept	eng	I aggree with the terms and conditions.	date20060302	
-DefaultTermsAndCondAccept	fra	Conditions de Vente - lu et accepté 	date20060302
+DefaultTermsAndCondAccept	fra	Conditions de Vente - lu et accept? 	date20060302
 
-DefaultSwallow	deu	Die Silberschwalbe ist der ganze Stolz unserer Modellreihe A 2000 und imitiert täuschend echt das Flugverhalten einer richtigen Schwalbe.	date20060302	
+DefaultSwallow	deu	Die Silberschwalbe ist der ganze Stolz unserer Modellreihe A 2000 und imitiert t?uschend echt das Flugverhalten einer richtigen Schwalbe.	date20060302	
 DefaultSwallow	eng	Silverswallow	date20060302	
 DefaultSwallow	fra	Hirondelle	date20060302	
 DefaultMississipi	deu	Diese handgefertigte detailgetreue Abbildung eines original Mississippi-Raddampfers sollte der Stolz jeder Papiermodelsammlung sein.	date20060302	
 DefaultMississipi	eng	Mississippi steamer	date20060302	
-DefaultMississipi	fra	Petit bateau modèle Mississipi	date20060302	
+DefaultMississipi	fra	Petit bateau mod?le Mississipi	date20060302	
 				
-DefaultHelicopter	deu	Filigrane Feinstarbeit zeichnet die Bauweise des XR-2i aus und verleiht ihm ein Flugverhalten von unglaublicher Stabilität.	date20060302	
+DefaultHelicopter	deu	Filigrane Feinstarbeit zeichnet die Bauweise des XR-2i aus und verleiht ihm ein Flugverhalten von unglaublicher Stabilit?t.	date20060302	
 DefaultHelicopter	eng	Blue helicopter	date20060302	
-DefaultHelicopter	fra	Hélicoptère bleu	date20060302	
+DefaultHelicopter	fra	H?licopt?re bleu	date20060302	
 				
 LangTagSort	deu	Sortierung	date20060315	
 LangTagSort	eng	Sort	date20060315	
@@ -2018,7 +2018,7 @@ LangTagSort	fra	Type de tri	date20060315
 				
 LangTagCreditCardData	deu	Kreditkartendaten	date20060412	
 LangTagCreditCardData	eng	Credit card data	date20060412	
-LangTagCreditCardData	fra	Les indications de la carte de crédit	date20060412	
+LangTagCreditCardData	fra	Les indications de la carte de cr?dit	date20060412	
 				
 LangTagFieldPaymentCost	deu	Zahlungskosten	date20060418	
 LangTagFieldPaymentCost	eng	Costs of payment	date20060418	
@@ -2045,21 +2045,21 @@ LangTagTxDeliveryMode	eng	Delivery Mode	Date20060515
 LangTagTxDeliveryMode	fra	Mode de livraison	Date20060515	
 				
 				
-DefaultPaynovaContractText	deu	Vielen Dank für Ihre Bezahlung mit Kreditkarte	Date20060515	
+DefaultPaynovaContractText	deu	Vielen Dank f?r Ihre Bezahlung mit Kreditkarte	Date20060515	
 DefaultPaynovaContractText	eng	Specification of the purchase. Text will be shown in payment confirmation email to customer.	Date20060515	
-DefaultPaynovaContractText	fra	Ce texte est envoyé avec la confirmation de la transaction.	Date20060515	
+DefaultPaynovaContractText	fra	Ce texte est envoy? avec la confirmation de la transaction.	Date20060515	
 				
-LangTagPaynovaContractText	deu	Vielen Dank für Ihre Bezahlung mit Kreditkarte	Date20060515	
+LangTagPaynovaContractText	deu	Vielen Dank f?r Ihre Bezahlung mit Kreditkarte	Date20060515	
 LangTagPaynovaContractText	eng	Specification of the purchase. Text will be shown in payment confirmation email to customer.	Date20060515	
-LangTagPaynovaContractText	fra	Ce texte est envoyé avec la confirmation de la transaction.	Date20060515	
+LangTagPaynovaContractText	fra	Ce texte est envoy? avec la confirmation de la transaction.	Date20060515	
 				
 LangTagTextFailed	deu	Fehler	date20060516	
 LangTagTextFailed	eng	Failure	date20060516	
 LangTagTextFailed	fra	Erreur 	date20060516	
 				
-LangTagFNFieldAvail	deu	Verfügbarkeit	date20060526	
+LangTagFNFieldAvail	deu	Verf?gbarkeit	date20060526	
 LangTagFNFieldAvail	eng	Availability	date20060526	
-LangTagFNFieldAvail	fra	Disponibilité	date20060526	
+LangTagFNFieldAvail	fra	Disponibilit?	date20060526	
 				
 LangTagFNFieldVat	deu	MwSt	date20060526	
 LangTagFNFieldVat	eng	VAT	date20060526	
@@ -2069,39 +2069,39 @@ LangTagOrderForm	deu	Bestellformular	date20060526
 LangTagOrderForm	eng	Order Form	date20060526	
 LangTagOrderForm	fra	Commande	date20060526	
 				
-LangTagTextFailedPaynova	deu	Bei der Bezahlung über Kreditkarte ist ein Fehler aufgetreten.<br />Wählen Sie bitte eine andere Zahlungsart.	date20060531	
+LangTagTextFailedPaynova	deu	Bei der Bezahlung ?ber Kreditkarte ist ein Fehler aufgetreten.<br />W?hlen Sie bitte eine andere Zahlungsart.	date20060531	
 LangTagTextFailedPaynova	eng	Payment with credit card failed	date20060531	
-LangTagTextFailedPaynova	fra	Le paiement par carte de crédit n'est pas accessible. Choisissez un autre mode de paiement.	date20060531	
+LangTagTextFailedPaynova	fra	Le paiement par carte de cr?dit n'est pas accessible. Choisissez un autre mode de paiement.	date20060531	
 				
 x		{PaynovaFailedText}
-Wir bedauern, es konnte keine Verbindung zum Server unseres Zahlungsanbieters zur Abwicklung der gesicherten Kreditkartenzahlung aufgebaut werden. Ihre Bestellung haben wir erfolgreich erhalten. Wir werden uns bezüglich der Zahlungsmöglichkeiten Ihrer Bestellung mit Ihnen in Verbindung setzen.		
-DefaultPaynovaFailedText	deu	Wir bedauern, es konnte keine Verbindung zum Server unseres Zahlungsanbieters zur Abwicklung der gesicherten Kreditkartenzahlung aufgebaut werden. Bitte wählen Sie eine alternative Zahlungsvariante aus.	Date20060601	
+Wir bedauern, es konnte keine Verbindung zum Server unseres Zahlungsanbieters zur Abwicklung der gesicherten Kreditkartenzahlung aufgebaut werden. Ihre Bestellung haben wir erfolgreich erhalten. Wir werden uns bez?glich der Zahlungsm?glichkeiten Ihrer Bestellung mit Ihnen in Verbindung setzen.		
+DefaultPaynovaFailedText	deu	Wir bedauern, es konnte keine Verbindung zum Server unseres Zahlungsanbieters zur Abwicklung der gesicherten Kreditkartenzahlung aufgebaut werden. Bitte w?hlen Sie eine alternative Zahlungsvariante aus.	Date20060601	
 DefaultPaynovaFailedText	eng	Credit card paiement is not available for  now. Please contact us to process your order.	Date20060601	
-DefaultPaynovaFailedText	fra	Le mode de paiement par carte de crédit n'est pas disponible en ce moment. Nous avons bien reçu votre commande. Nous allons vous contacter pour vous proposer une autre modalité de paeiment.	Date20060601	
+DefaultPaynovaFailedText	fra	Le mode de paiement par carte de cr?dit n'est pas disponible en ce moment. Nous avons bien re?u votre commande. Nous allons vous contacter pour vous proposer une autre modalit? de paeiment.	Date20060601	
 				
-LangTagBackToCash	deu	Zurück zur Auswahl der Zahlungsvariante	date20060606	
+LangTagBackToCash	deu	Zur?ck zur Auswahl der Zahlungsvariante	date20060606	
 LangTagBackToCash	eng	back to cash 	date20060606	
-LangTagBackToCash	fra	Retour à la case départ	date20060606	
+LangTagBackToCash	fra	Retour ? la case d?part	date20060606	
 				
-HelpParameter	deu	Die Daten konnten nicht angezeigt werden,<br />mögliche Ursachen hierfür sind:<br />1. Sie haben den Shop noch nicht veröffentlicht.<br />2. Die dynamischen Erweiterungen sind nicht eingeschaltet.<br />3. Die Software zum Shop im Internet hat eine falsche Versionsnummer.<br />4. Die URL zum Shop ist falsch.<br />(http://www.shopcity24.de/)<br />5. Die Datenbank zum Shop im Internet ist fehlerhaft.<br />...	date20060606	
+HelpParameter	deu	Die Daten konnten nicht angezeigt werden,<br />m?gliche Ursachen hierf?r sind:<br />1. Sie haben den Shop noch nicht ver?ffentlicht.<br />2. Die dynamischen Erweiterungen sind nicht eingeschaltet.<br />3. Die Software zum Shop im Internet hat eine falsche Versionsnummer.<br />4. Die URL zum Shop ist falsch.<br />(http://www.shopcity24.de/)<br />5. Die Datenbank zum Shop im Internet ist fehlerhaft.<br />...	date20060606	
 HelpParameter	eng	Database is not available,<br />possible reasons are:<br />1. Your shop is not online.<br />2. Dynamic extensions are off (settings)<br />3. Shop online and software have different versions<br />4. URL of the shop is wrong (http://www.shopcity24.de)<br />5. The database is corrupt.<br />...	date20060606	
-HelpParameter	fra	La banque de données en ligne n'est pas disponible. Des raisons possibles sont: 1. La boutique n'est pas encore en ligne. 2....	date20060606	
+HelpParameter	fra	La banque de donn?es en ligne n'est pas disponible. Des raisons possibles sont: 1. La boutique n'est pas encore en ligne. 2....	date20060606	
 				
-HelpDeeplinksBrowser	deu	Um die Deeplink-Funktionalität nutzen zu können, müssen Sie zunächst Ihren Onlineshop erzeugen. Hierzu ist auch das lokale Erzeugen des Onlineshops auf Ihrer Festplatte ausreichend. Wenn Sie nach dem letzten Erzeugen des Onlineshops weitere Änderungen an Ihrem Datenbestand vorgenommen haben, so müssen Sie diesen Vorgang wiederholen, um aktuelle Deeplink-Dateien zu generieren.	date20060606	
+HelpDeeplinksBrowser	deu	Um die Deeplink-Funktionalit?t nutzen zu k?nnen, m?ssen Sie zun?chst Ihren Onlineshop erzeugen. Hierzu ist auch das lokale Erzeugen des Onlineshops auf Ihrer Festplatte ausreichend. Wenn Sie nach dem letzten Erzeugen des Onlineshops weitere ?nderungen an Ihrem Datenbestand vorgenommen haben, so m?ssen Sie diesen Vorgang wiederholen, um aktuelle Deeplink-Dateien zu generieren.	date20060606	
 HelpDeeplinksBrowser	eng	Please publish your shop before you use deeplinks. If you modify your items, please generate the shop once more before you use the deeplinks again.	date20060606	
 HelpDeeplinksBrowser	fra	Veuillez publier votre boutique avant d'utiliser ce programme. Si vous modifiez vos articles veuillez recompiler votre boutique avant de transmettre les fichiers de deeplinks.	date20060606	
 				
-LangTagTextSSLFailedPaynova	deu	Ihre Bestellung wurde erfolgreich ausgeführt. Bei der Bezahlung über Kreditkarte ist jedoch ein Fehler aufgetreten. Der Shopbetreiber wird sich mit Ihnen in Verbindung setzen.	date20060817	
+LangTagTextSSLFailedPaynova	deu	Ihre Bestellung wurde erfolgreich ausgef?hrt. Bei der Bezahlung ?ber Kreditkarte ist jedoch ein Fehler aufgetreten. Der Shopbetreiber wird sich mit Ihnen in Verbindung setzen.	date20060817	
 LangTagTextSSLFailedPaynova	eng	Please contact the merchant (onlineshop). Creditcard payment is missing.	date20060817	
-LangTagTextSSLFailedPaynova	fra	Veuillez entrer en contact avec le responsible de la boutique électronique. Le payment par carte de crédit ne fonctionne pas.	date20060817	
+LangTagTextSSLFailedPaynova	fra	Veuillez entrer en contact avec le responsible de la boutique ?lectronique. Le payment par carte de cr?dit ne fonctionne pas.	date20060817	
 
 
 LangTagDirectOrder	deu	Direkt-Bestellung	date20060905
 LangTagDirectOrder	eng	Direct order	date20060905
 LangTagDirectOrder	fra	Direct order	date20060905
-LangTagDirektOrderText	deu	Hier können Sie Ihre Wunschartikel direkt über die Artikelnummer in den Warenkorb legen.	date20060905 
-LangTagDirektOrderText	eng	Hier können Sie Ihre Wunschartikel direkt über die Artikelnummer in den Warenkorb legen. 	date20060905
-LangTagDirektOrderText	fra	Hier können Sie Ihre Wunschartikel direkt über die Artikelnummer in den Warenkorb legen. 	date20060905
+LangTagDirektOrderText	deu	Hier k?nnen Sie Ihre Wunschartikel direkt ?ber die Artikelnummer in den Warenkorb legen.	date20060905 
+LangTagDirektOrderText	eng	Hier k?nnen Sie Ihre Wunschartikel direkt ?ber die Artikelnummer in den Warenkorb legen. 	date20060905
+LangTagDirektOrderText	fra	Hier k?nnen Sie Ihre Wunschartikel direkt ?ber die Artikelnummer in den Warenkorb legen. 	date20060905
 LangTagItemNumberLong	deu	Artikelnummer	date20060905
 LangTagItemNumberLong	eng	Artikelnummer	date20060905
 LangTagItemNumberLong	fra	Artikelnummer	date20060905
@@ -2114,13 +2114,13 @@ LangTagArticleNotFound	fra	Article not found	date20060907
 LangTagNotepad	deu	Merkzettel	date20060918
 LangTagNotepad	eng	Notepad	date20060918
 LangTagNotepad	fra	Notepad	date20060918
-LangTagNotepadText	deu	<b>Hinweis:</b> Nicht mehr geführte Artikel werden automatisch von ihrem Merkzettel entfernt.	date20060918
-LangTagNotepadText	eng	<b>Hinweis:</b> Nicht mehr geführte Artikel werden automatisch von ihrem Merkzettel entfernt.	date20060918
-LangTagNotepadText	fra	<b>Hinweis:</b> Nicht mehr geführte Artikel werden automatisch von ihrem Merkzettel entfernt.	date20060918
-LangTagDelete	deu	Löschen	date20060918
+LangTagNotepadText	deu	<b>Hinweis:</b> Nicht mehr gef?hrte Artikel werden automatisch von ihrem Merkzettel entfernt.	date20060918
+LangTagNotepadText	eng	<b>Hinweis:</b> Nicht mehr gef?hrte Artikel werden automatisch von ihrem Merkzettel entfernt.	date20060918
+LangTagNotepadText	fra	<b>Hinweis:</b> Nicht mehr gef?hrte Artikel werden automatisch von ihrem Merkzettel entfernt.	date20060918
+LangTagDelete	deu	L?schen	date20060918
 LangTagDelete	eng	Delete	date20060918
 LangTagDelete	fra	Delete	date20060918
-LangTagQuestionNotepadDelete	deu	Möchten Sie die Artikel wirklich löschen?	date20060919
+LangTagQuestionNotepadDelete	deu	M?chten Sie die Artikel wirklich l?schen?	date20060919
 LangTagQuestionNotepadDelete	eng	Do You really want to delete the articles?	date20060919
 LangTagQuestionNotepadDelete	fra	Do You really want to delete the articles?	date20060919
 LangTagNoArticlesOnNotepad	deu	Es sind keine Artikel auf Ihrem Merkzettel!	date20060919	
@@ -2144,9 +2144,9 @@ LangTagNameOrEmail	fra	Name or E-Mail-Address	date20060921
 LangTagWishList	deu	Wunschliste	date20060921
 LangTagWishList	eng	wish list	date20060921
 LangTagWishList	fra	wish list	date20060921
-LangTagWishListText	deu	<b>Hinweis:</b> Nicht mehr geführte Artikel werden automatisch aus der Wunschliste entfernt.	date20060921
-LangTagWishListText	eng	<b>Hinweis:</b> Nicht mehr geführte Artikel werden automatisch aus der Wunschliste entfernt.	date20060921
-LangTagWishListText	fra	<b>Hinweis:</b> Nicht mehr geführte Artikel werden automatisch aus der Wunschliste entfernt.	date20060921
+LangTagWishListText	deu	<b>Hinweis:</b> Nicht mehr gef?hrte Artikel werden automatisch aus der Wunschliste entfernt.	date20060921
+LangTagWishListText	eng	<b>Hinweis:</b> Nicht mehr gef?hrte Artikel werden automatisch aus der Wunschliste entfernt.	date20060921
+LangTagWishListText	fra	<b>Hinweis:</b> Nicht mehr gef?hrte Artikel werden automatisch aus der Wunschliste entfernt.	date20060921
 LangTagNoArticlesInWishList	deu	Es sind keine Artikel in der Wunschliste!	date20060921
 LangTagNoArticlesInWishList	eng	There no articles on the wish list!	date20060921
 LangTagNoArticlesInWishList	fra	There no articles on the wish list!	date20060921
@@ -2156,7 +2156,7 @@ LangTagMoveToWishList	fra	To my wish list	date20060921
 LangTagCustomer	deu	Kunde	date20060921
 LangTagCustomer	eng	Customer	date20060921
 LangTagCustomer	fra	Customer	date20060921
-LangTagSearchResultFor	deu	Suchergebnisse für	date20060926
+LangTagSearchResultFor	deu	Suchergebnisse f?r	date20060926
 LangTagSearchResultFor	eng	Search result for	date20060926
 LangTagSearchResultFor	fra	Search result for	date20060926
 LangTagMatches	deu	Treffer	date20060926
@@ -2168,7 +2168,7 @@ LangTagToWishList	fra	to wish list	date20060926
 LangTagFAQs	deu	FAQ's	date20060927
 LangTagFAQs	eng	FAQ's	date20060927
 LangTagFAQs	fra	FAQ's	date20060927
-LangTagFaqText	deu	Häufig gestellte Fragen	date20060926
+LangTagFaqText	deu	H?ufig gestellte Fragen	date20060926
 LangTagFaqText	eng	Frequently Asked Questions	date20060926
 LangTagFaqText	fra	Frequently Asked Questions	date20060926
 LangTagFunktionDisabled	deu	Diese Funktion ist deaktiviert	date20061110
@@ -2211,7 +2211,7 @@ LangTagFormat	deu	Format	date20080118
 LangTagFormat	eng	Format	date20080118
 LangTagActivationCode	deu	Aktivierungscode	date20080118
 LangTagActivationCode	eng	Activation code	date20080118
-LangTagTextAddressActivated	deu	Ihre Emailadresse wurde erfolgreich für unseren Newsletter aktiviert!	date20080118
+LangTagTextAddressActivated	deu	Ihre Emailadresse wurde erfolgreich f?r unseren Newsletter aktiviert!	date20080118
 LangTagTextAddressActivated	eng	Your email address has been successfully activated for our newsletter!	date20080118
 LangTagMailingGroup	deu	Gruppe	date20080813
 LangTagMailingGroup	eng	Group	date20080813
@@ -2245,7 +2245,7 @@ LangTagTextUserCommentsErr	eng	Please enter data in all fields.	date20090112
 LangTagTextUserCommentsNoticeNotVisible	deu	Bitte beachten Sie: Ihre Bewertung wird erst angezeigt, wenn sie vom Shopbetreiber freigeschaltet wurde.	date20090112
 LangTagTextUserCommentsNoticeNotVisible	eng	Please notice: Your rating has to be approved by the shop owner.	date20090112
 
-LangTagUserCommentsQuestionDelete	deu	Möchten Sie die gewählten Bewertung(en) wirklich löschen?	date20090113
+LangTagUserCommentsQuestionDelete	deu	M?chten Sie die gew?hlten Bewertung(en) wirklich l?schen?	date20090113
 LangTagUserCommentsQuestionDelete	eng	Are you sure you want to delete the selected ratings?	date20090113
 
 LangTagBestsellerPg	deu	Bestseller in dieser Warengruppe	date20090114
@@ -2261,7 +2261,7 @@ Default...	fra	Francais	date20060817
 LangTagReturningticket	deu	R&uuml;cksende-<br />begleitschein	date20090101
 LangTagReturningticket	eng	Returning-<br />ticket	date20090101
 
-LangTagReturningticket_txt1	deu	A) Rücksendeaufkleber. Bitte an den Trennlinien schneiden und auf das Rücksendungspaket kleben.	date20090101
+LangTagReturningticket_txt1	deu	A) R?cksendeaufkleber. Bitte an den Trennlinien schneiden und auf das R?cksendungspaket kleben.	date20090101
 LangTagReturningticket_txt1	eng	A) Back transmission sticker. Please cut at the dividing lines and stick on the return package.	date20090101
 
 LangTagReturningticket_txt2	deu	R&uuml;cksendung - Retoure	date20090101
@@ -2338,13 +2338,13 @@ LangTagReturningticket_datesignature	eng	Date, signature	date20090101
 
 LangTagReturningticket_footinfo	deu	Achten Sie bitte auf korrekte und vollst&auml;ndige Formularangaben und legen es der R&uuml;cksendung bei.	date20090101
 LangTagReturningticket_footinfo	eng	Please pay attention to correct and complete form data and attach it to the back transmission.	date20090101
-LangTagTextBestsellerAttribute	deu	Bitte wählen sie erst die fehlenden Artikelmerkmale auf der Detailseite aus!	date20091009	
+LangTagTextBestsellerAttribute	deu	Bitte w?hlen sie erst die fehlenden Artikelmerkmale auf der Detailseite aus!	date20091009	
 LangTagTextBestsellerAttribute	eng	Please select the item specifics on the detailpage!	date20091009
 
 LangTagBonusPoints	deu	Bonuspunkte	date20100204
 LangTagBonusPoints	eng	bonus points	date20100204
 
-LangTagBonuses	deu	Bonuspunkte einlösen	date20100208
+LangTagBonuses	deu	Bonuspunkte einl?sen	date20100208
 LangTagBonuses	eng	Bonus points	date20100208
 LangTagBonuses1	deu	Bonuspunkte	date20100208
 LangTagBonuses1	eng	Bonus points	date20100208
@@ -2368,7 +2368,7 @@ LangTagTitleArticleComparison	fra	Article Comparison date20100107
 LangTagNoBonusArticles	deu	Derzeit sind keine Bonusartikel vorhanden	date20100208
 LangTagNoBonusArticles	eng	no bonus articles defined	date20100208
 
-LangTagAvailInformMe	deu	Der Artikel ist momentan nicht verfügbar. Sie können hier ihre E-Mailadresse eintragen und werden benachrichtigt sobald der Artikel wieder verfügbar ist	date20100208
+LangTagAvailInformMe	deu	Der Artikel ist momentan nicht verf?gbar. Sie k?nnen hier ihre E-Mailadresse eintragen und werden benachrichtigt sobald der Artikel wieder verf?gbar ist	date20100208
 LangTagAvailInformMe	eng	This item is currently unavailable. You can enter your e-mail address here and will be notified as soon as the article is available again	date20100208
 
 LangTagShopComments	deu	Shopbewertung	date20100208
@@ -2385,21 +2385,21 @@ LangTagShowShopComments	eng	look	date20100208
 LangTagTextItemWeight	deu	Artikelgewicht	date20100323
 LangTagTextItemWeight	eng	Item weight	date20100323	
 LangTagTextItemWeight	fra	Point de poids	date20100323	
-LangTagArticleDirectCatalog	deu	Folgende Artikel sind Katalogartikel und können nicht bestellt werden	date20100329
+LangTagArticleDirectCatalog	deu	Folgende Artikel sind Katalogartikel und k?nnen nicht bestellt werden	date20100329
 LangTagArticleDirectCatalog	eng	The following items are catalog items and can not be ordered	date20100329
-LangTagArticleDirectCatalog	fra	Les éléments suivants sont les articles du catalogue et ne peuvent être classés	date20100329
+LangTagArticleDirectCatalog	fra	Les ?l?ments suivants sont les articles du catalogue et ne peuvent ?tre class?s	date20100329
 LangTagArticleDirectDownload	deu	Die Bestellung eines Downloadartikels erfordert die vorherige Anmeldung als Shopbenutzer	date20100329
 LangTagArticleDirectDownload	eng	The order of a download article requires prior registration as a shop user	date20100329
-LangTagArticleDirectDownload	fra	La nomination d'un téléchargement d'article exige la notification préalable comme utilisateur de la boutique	date20100329
-LangTagArticleDirectNoPrice	deu	Folgende Artikel haben keinen Preis und können nicht bestellt werden	date20100330
+LangTagArticleDirectDownload	fra	La nomination d'un t?l?chargement d'article exige la notification pr?alable comme utilisateur de la boutique	date20100329
+LangTagArticleDirectNoPrice	deu	Folgende Artikel haben keinen Preis und k?nnen nicht bestellt werden	date20100330
 LangTagArticleDirectNoPrice	eng	The following items have no price and can not be ordered	date20100330
-LangTagArticleDirectNoPrice	fra	Les articles suivants n'ont pas de prix et ne peut être commandée	date20100330
+LangTagArticleDirectNoPrice	fra	Les articles suivants n'ont pas de prix et ne peut ?tre command?e	date20100330
 
 LangTagTextItemWeight	deu	Artikelgewicht	date20100503
 LangTagTextItemWeight	eng	Products Weight	date20100503
 LangTagTextItemWeight	fra	Poids du produit	date20100503
 
-LangTagErrorFroms	deu	Bitte füllen Sie die rot markierten Felder aus.	date20101230
+LangTagErrorFroms	deu	Bitte f?llen Sie die rot markierten Felder aus.	date20101230
 LangTagErrorFroms	eng	The red fields must be filled out.	date20101230	
 LangTagErrorFroms	fra	The red fields must be filled out.	date20101230	
 
@@ -2409,28 +2409,28 @@ LangTagThankSendMail	fra	Thank you, your email has been sent.	date20101230
 LangTagErrorSendMail	deu	Fehler beim Senden der e-Mail.	date20101230	
 LangTagErrorSendMail	eng	Error in sendmail.	date20101230	
 LangTagErrorSendMail	fra	Error in sendmail.	date20101230	
-LangTagTextReqCredCardCheckNum	deu	Sie müssen Ihre dreistellige Prüfnummer eingeben.	date20101125	
+LangTagTextReqCredCardCheckNum	deu	Sie m?ssen Ihre dreistellige Pr?fnummer eingeben.	date20101125	
 LangTagTextReqCredCardCheckNum	eng	You need to enter your three digit security code.	date20101125	
-LangTagTextReqCredCardCheckNum	fra	Vous devez entrer votre code à trois chiffres de sécurité.	date20101125	
+LangTagTextReqCredCardCheckNum	fra	Vous devez entrer votre code ? trois chiffres de s?curit?.	date20101125	
 LangTagTextSpecialPostage	deu	Spezialversand	date20101228	
 LangTagTextSpecialPostage	eng	Special Shipping	date20101228	
-LangTagTextSpecialPostage	fra	Livraison spéciale	date20101228	
+LangTagTextSpecialPostage	fra	Livraison sp?ciale	date20101228	
 
-LangTagMsgChangedData	deu	Die Daten wurden geändert	date20110113
+LangTagMsgChangedData	deu	Die Daten wurden ge?ndert	date20110113
 LangTagMsgChangedData	eng	The data was changed	date20110113	
 LangTagMsgChangedData	fra	Les donnees ont ete modifiees	date20110113	
 
-LangTagResendPasswMailText1	deu	Sie haben Ihr Passwort vergessen?<br />Mit dieser Email senden wir Ihnen erneut ihre Logindaten für unseren Kundenbereich.	date20110124	
+LangTagResendPasswMailText1	deu	Sie haben Ihr Passwort vergessen?<br />Mit dieser Email senden wir Ihnen erneut ihre Logindaten f?r unseren Kundenbereich.	date20110124	
 LangTagResendPasswMailText1	eng	Forgot your password? <br /> With this email we send you your login credentials again for our customer area.	date20110124	
-LangTagResendPasswMailText1	fra	Mot de passe oublié? <br /> Avec cet e-mail nous vous enverrons vos identifiants de connexion à nouveau pour notre espace client.	date20110124	
+LangTagResendPasswMailText1	fra	Mot de passe oubli?? <br /> Avec cet e-mail nous vous enverrons vos identifiants de connexion ? nouveau pour notre espace client.	date20110124	
 
-LangTagResendPasswMailText2	deu	<br /> Mit freundlichen Grüssen	date20110124	
+LangTagResendPasswMailText2	deu	<br /> Mit freundlichen Gr?ssen	date20110124	
 LangTagResendPasswMailText2	eng	<br /> Best regards, <br /> http://www.shopcity24.de	date20110124	
 LangTagResendPasswMailText2	fra	<br /> Cordialement, ...	date20110124	
 
 LangTagResendPasswdCustomer	deu	Passwort vergessen?	date20110124
 LangTagResendPasswdCustomer	eng	Forgot your password?	date20110124	
-LangTagResendPasswdCustomer	fra	Mot de passe oublié?	date20110124	
+LangTagResendPasswdCustomer	fra	Mot de passe oubli??	date20110124	
 		
 LangTagUnknownUser	deu	Benutzername (Emailadresse) unbekannt.	date20110124	
 LangTagUnknownUser	eng	User name (email address) is unknown.	date20110124	
@@ -2438,7 +2438,7 @@ LangTagUnknownUser	fra	Nom d'utilisateur (adresse e-mail) n'est pas connue.	date
 
 LangTagResentCustPasswd	deu	Passwort erneut versendet.	date20110124	
 LangTagResentCustPasswd	eng	Password sent again.	date20110124	
-LangTagResentCustPasswd	fra	Mot de passe envoyé à nouveau.	date20110124
+LangTagResentCustPasswd	fra	Mot de passe envoy? ? nouveau.	date20110124
 
 LangTagResentCPasswd	deu	Passwort erneut anfordern.	date20110128
 LangTagResentCPasswd	eng	Request your password again.	date20110128
@@ -2448,33 +2448,33 @@ LangTagQuestToProduct	deu	Frage zum Produkt	date20110208
 LangTagQuestToProduct	eng	Question on Product	date20110208
 LangTagRQuestToProduct	fra	Question on Product.	date20110208
 
-DefaultTermsAndCondAcceptWithdrawal1	deu	Hiermit bestätige ich, dass ich über das zweiwöchige Widerrufsrecht informiert wurde und dieses akzeptiere.	date20110127	
+DefaultTermsAndCondAcceptWithdrawal1	deu	Hiermit best?tige ich, dass ich ?ber das zweiw?chige Widerrufsrecht informiert wurde und dieses akzeptiere.	date20110127	
 DefaultTermsAndCondAcceptWithdrawal1	eng	I hereby certify that I have been informed about the two-week right of withdrawal and accept this.	date20110127	
-DefaultTermsAndCondAcceptWithdrawal1	fra	Je certifie que j'ai été informé de son droit de deux semaines du retrait et l'accepter. 	date20110127	
+DefaultTermsAndCondAcceptWithdrawal1	fra	Je certifie que j'ai ?t? inform? de son droit de deux semaines du retrait et l'accepter. 	date20110127	
 DefaultTermsAndCondAcceptWithdrawal2	deu	Hier finden Sie Einzelheiten zu Ihrem Widerrufsrecht.	date20110127	
 DefaultTermsAndCondAcceptWithdrawal2	eng	Here you find details about your withdrawal.	date20110127	
-DefaultTermsAndCondAcceptWithdrawal2	fra	Ici vous trouverez des détails sur votre retrait. 	date20110127	
-DefaultTermsAndCondAcceptNewsletter	deu	Ja, ich möchte den kostenlosen Newsletter erhalten und über Aktionen, Neuheiten und Preissenkungen per E-Mail informiert werden. Ich kann mich jederzeit ganz einfach wieder abmelden.	date20110131	
+DefaultTermsAndCondAcceptWithdrawal2	fra	Ici vous trouverez des d?tails sur votre retrait. 	date20110127	
+DefaultTermsAndCondAcceptNewsletter	deu	Ja, ich m?chte den kostenlosen Newsletter erhalten und ?ber Aktionen, Neuheiten und Preissenkungen per E-Mail informiert werden. Ich kann mich jederzeit ganz einfach wieder abmelden.	date20110131	
 DefaultTermsAndCondAcceptNewsletter	eng	Yes, I would like to receive the free newsletter and be informed of promotions, products and price cuts by e-mail. I can easily unsubscribe at any time.	date20110131	
-DefaultTermsAndCondAcceptNewsletter	fra	Oui, je souhaite recevoir gratuitement la newsletter et être informé des promotions, des produits et des réductions de prix par e-mail. Je peux facilement vous désabonner à tout moment. 	date20110131	
+DefaultTermsAndCondAcceptNewsletter	fra	Oui, je souhaite recevoir gratuitement la newsletter et ?tre inform? des promotions, des produits et des r?ductions de prix par e-mail. Je peux facilement vous d?sabonner ? tout moment. 	date20110131	
 
-LangTagTermsAndCondAcceptWithdrawal1	deu	Hiermit bestätige ich, dass ich über das zweiwöchige Widerrufsrecht informiert wurde und dieses akzeptiere.	date20110127
+LangTagTermsAndCondAcceptWithdrawal1	deu	Hiermit best?tige ich, dass ich ?ber das zweiw?chige Widerrufsrecht informiert wurde und dieses akzeptiere.	date20110127
 LangTagTermsAndCondAcceptWithdrawal1	eng	I hereby certify that I have been informed about the two-week right of withdrawal and accept this.	date20110127
-LangTagTermsAndCondAcceptWithdrawal1	fra	Je certifie que j'ai été informé de son droit de deux semaines du retrait et l'accepter. 	date20110127
+LangTagTermsAndCondAcceptWithdrawal1	fra	Je certifie que j'ai ?t? inform? de son droit de deux semaines du retrait et l'accepter. 	date20110127
 LangTagTermsAndCondAcceptWithdrawal2	deu	Hier finden Sie Einzelheiten zu Ihrem Widerrufsrecht.	date20110127
 LangTagTermsAndCondAcceptWithdrawal2	eng	Here you find details about your withdrawal.	date20110127
-LangTagTermsAndCondAcceptWithdrawal2	fra	Ici vous trouverez des détails sur votre retrait. 	date20110127
+LangTagTermsAndCondAcceptWithdrawal2	fra	Ici vous trouverez des d?tails sur votre retrait. 	date20110127
 
 
-LangTagTermsAndCondWithdrawalChecked	deu	gelesen und bestätigt	date20110127	
+LangTagTermsAndCondWithdrawalChecked	deu	gelesen und best?tigt	date20110127	
 LangTagTermsAndCondWithdrawalChecked	eng	checked	date20110127	
 LangTagTermsAndCondWithdrawalChecked	fra	lu et accepte	date20110127	
-LangTagTermsAndCondNewsletterChecked	deu	erwünscht	date20110131	
+LangTagTermsAndCondNewsletterChecked	deu	erw?nscht	date20110131	
 LangTagTermsAndCondNewsletterChecked	eng	desired	date20110131	
-LangTagTermsAndCondNewsletterChecked	fra	désiré	date20110131	
+LangTagTermsAndCondNewsletterChecked	fra	d?sir?	date20110131	
 LangTagTermsAndCondNewsletterNotChecked	deu	nicht angefordert	date20110131	
 LangTagTermsAndCondNewsletterNotChecked	eng	not required	date20110131	
-LangTagTermsAndCondNewsletterNotChecked	fra	pas nécessaire	date20110131	
+LangTagTermsAndCondNewsletterNotChecked	fra	pas n?cessaire	date20110131	
 
 LangTagFNTermsAndCondWithdrawal	deu	Widerrufsrecht	date20110127	
 LangTagFNTermsAndCondWithdrawal	eng	Withdrawal	date20110127	
@@ -2483,24 +2483,24 @@ LangTagFNTermsAndCondNewsletter	deu	MoechteNewsletter	date20110131
 LangTagFNTermsAndCondNewsletter	eng	WantNewsletter	date20110131	
 LangTagFNTermsAndCondNewsletter	fra	SeraitNewsletter	date20110131	
 
-LangTagTermsAndCondWithdrawal	deu	Widerrufsrecht	date20110127	LinkMenü/Tabellenüberschrift
+LangTagTermsAndCondWithdrawal	deu	Widerrufsrecht	date20110127	LinkMen?/Tabellen?berschrift
 LangTagTermsAndCondWithdrawal	eng	Withdrawal	date20110127	
 LangTagTermsAndCondWithdrawal	fra	Retrait	date20110127	
-LangTagTermsAndCondNewsletter	deu	Newsletter	date20110131	LinkMenü/Tabellenüberschrift
+LangTagTermsAndCondNewsletter	deu	Newsletter	date20110131	LinkMen?/Tabellen?berschrift
 LangTagTermsAndCondNewsletter	eng	Newsletter	date20110131	
 LangTagTermsAndCondNewsletter	fra	Newsletter	date20110131	
 
-LangTagTextConfirmWithdrawal	deu	Bitte bestätigen Sie, dass Sie über das Widerufsrecht informiert wurden	date20110127	
+LangTagTextConfirmWithdrawal	deu	Bitte best?tigen Sie, dass Sie ?ber das Widerufsrecht informiert wurden	date20110127	
 LangTagTextConfirmWithdrawal	eng	Please confirm that you have been informed of the right to withdrawal	date20110127	
-LangTagTextConfirmWithdrawal	fra	S'il vous plaît confirmer que vous avez été informé de son droit de retrait	date20110127	
+LangTagTextConfirmWithdrawal	fra	S'il vous pla?t confirmer que vous avez ?t? inform? de son droit de retrait	date20110127	
 
-LangTagTextConfirmAllConditions	deu	Bitte bestätigen Sie, dass Sie über die AGB, den Datenschutz und das Widerrufsrecht informiert wurden	date20110127	
+LangTagTextConfirmAllConditions	deu	Bitte best?tigen Sie, dass Sie ?ber die AGB, den Datenschutz und das Widerrufsrecht informiert wurden	date20110127	
 LangTagTextConfirmAllConditions	eng	Please confirm that you have been informed of the right to withdrawal, the terms an conditions and the privacy	date20110127	
-LangTagTextConfirmAllConditions	fra	S'il vous plaît confirmer que vous avez été informé de son droit de retrait	date20110127	
+LangTagTextConfirmAllConditions	fra	S'il vous pla?t confirmer que vous avez ?t? inform? de son droit de retrait	date20110127	
 
 LangTagTextConfirmWithdrawalJS	deu	Bitte best%E4tigen Sie%2C dass Sie %FCber das Widerufsrecht informiert wurden	date20110127	
 LangTagTextConfirmWithdrawalJS	eng	Please confirm that you have been informed of the right to withdrawal	date20110127	
-LangTagTextConfirmWithdrawalJS	fra	S'il vous plaît confirmer que vous avez été informé de son droit de retrait	date20110127
+LangTagTextConfirmWithdrawalJS	fra	S'il vous pla?t confirmer que vous avez ?t? inform? de son droit de retrait	date20110127
 
 LangTag__TermsAndCondWithdrawal	deu	Widerrufsrecht	date20110128	
 LangTag__TermsAndCondWithdrawal	eng	Withdrawal	date20110128	
@@ -2523,7 +2523,7 @@ LangTagBuy2ContactInputLabel	fra	Contact	date20110207
 
 LangTagBuy2InputLabelPrivat	deu	Privat	date20110207	
 LangTagBuy2InputLabelPrivat	eng	private	date20110207	
-LangTagBuy2InputLabelPrivat	fra	privé	date20110207	
+LangTagBuy2InputLabelPrivat	fra	priv?	date20110207	
 
 LangTagBuy2InputLabelBusiness	deu	Firma	date20110207	
 LangTagBuy2InputLabelBusiness	eng	business	date20110207	
@@ -2550,11 +2550,11 @@ LangTagFieldBirthdate	deu	Geburtsdatum	date20110207
 LangTagFieldBirthdate	eng	birth date	date20110207	
 LangTagFieldBirthdate	fra	Date de naissance	date20110207	
 
-LangTagTextPleaseEnterBirthdayFormat	deu	Sie müssen Ihr Geburtsdatum im Format "DD.MM.YYYY" eingeben	date20110207	
+LangTagTextPleaseEnterBirthdayFormat	deu	Sie m?ssen Ihr Geburtsdatum im Format "DD.MM.YYYY" eingeben	date20110207	
 LangTagTextPleaseEnterBirthdayFormat	eng	You must enter your birth date in the format "dd.mm.yyyy"	date20110207	
 LangTagTextPleaseEnterBirthdayFormat	fra	Vous devez entrer votre date de naissance dans le format "jj.mm.aaaa"	date20110207	
 
-LangTagNoMinimumAge	deu	Sie erfüllen nicht die erforderlichen Altersvorgaben für diese Bestellung!	date20140312
+LangTagNoMinimumAge	deu	Sie erf?llen nicht die erforderlichen Altersvorgaben f?r diese Bestellung!	date20140312
 LangTagNoMinimumAge	eng	You do not have reached the required age limit for this order!	date20140312
 
 LangTagTextMyAccount	deu	Mein Konto	date20110208	
@@ -2577,7 +2577,7 @@ LangTagTextYourRatingArticle	deu	Artikel bewerten	date20110217
 LangTagTextYourRatingArticle	eng	rating article	date20110217	
 LangTagTextYourRatingArticle	fra	Article Rating	date20110217	
 
-LangTagTextVariantsTitle	deu	Erhältliche Varianten - bitte anklicken	date20110518	
+LangTagTextVariantsTitle	deu	Erh?ltliche Varianten - bitte anklicken	date20110518	
 LangTagTextVariantsTitle	eng	Available variant - please click	date20110518	
 LangTagTextVariantsTitle	fra	Available variant	date20110518
 
@@ -2596,13 +2596,13 @@ LangTagBundleTableHead2	eng	quantitiy	date20110908
 LangTagBundleTableHead3	deu	Bezeichnung	date20110908
 LangTagBundleTableHead3	eng	identification	date20110908
 
-LangTagBundleTableHead4	deu	Verfügbarkeit	date20110908
+LangTagBundleTableHead4	deu	Verf?gbarkeit	date20110908
 LangTagBundleTableHead4	eng	availability	date20110908
 
-LangTagZoomText	deu	Fahren Sie mit der Maus über das Bild, zum Vergößern!	date20110908
+LangTagZoomText	deu	Fahren Sie mit der Maus ?ber das Bild, zum Verg??ern!	date20110908
 LangTagZoomText	eng	Move the mouse over the image to enlarge!	date20110908
 
-LangTagFieldAktKey	deu	Werbeschlüssel	date20111129
+LangTagFieldAktKey	deu	Werbeschl?ssel	date20111129
 LangTagFieldAktKey	eng	Adv. Key	date20111129
 
 LangTagFNFieldAktKey	deu	aktKey	date20111129
@@ -2611,7 +2611,7 @@ LangTagFNFieldAktKey	eng	aktKey	date20111129
 LangTag__FieldAktKey	deu	aktKey	date20110208	
 LangTag__FieldAktKey	eng	aktKey	date20110208	
 
-LangTagPleaseSelect	deu	Bitte wählen Sie	date20120105	
+LangTagPleaseSelect	deu	Bitte w?hlen Sie	date20120105	
 LangTagPleaseSelect	eng	Please select	date20120105
 
 LangTagRightOfRevocation	deu	Widerrufsbelehrung	date20120316
@@ -2623,7 +2623,7 @@ LangTagMinimumAge	eng	minimum age	date20130226
 LangTagYears	deu	Jahre	date20130226
 LangTagYears	eng	years	date20130226
 
-LangTagMinimumAgeOrder	deu	Mindestalter für diese Bestellung	date20130227
+LangTagMinimumAgeOrder	deu	Mindestalter f?r diese Bestellung	date20130227
 LangTagMinimumAgeOrder	eng	minimum age to proceed with order	date20130227
 
 LangTagCatalogueItem	deu	Artikel nicht bestellbar!	date20140213
@@ -2645,7 +2645,7 @@ LangTagOrderStep4	eng	Step 4 of 4	date20140225
 LangTagCountryAfganistan	deu	Afganistan	date20100514
 LangTagCountryAfganistan	eng	Afganistan	date20100514
 
-LangTagCountryEgypt	deu	Ägypten	date20100514
+LangTagCountryEgypt	deu	?gypten	date20100514
 LangTagCountryEgypt	eng	Egypt	date20100514
 
 LangTagCountryAlbania	deu	Albanien	date20100514
@@ -2672,7 +2672,7 @@ LangTagCountryAntarctica	eng	Antarctica	date20100514
 LangTagCountryAntiguaAndBarbuda	deu	Antigua und Barbuda	date20100514
 LangTagCountryAntiguaAndBarbuda	eng	Antigua and Barbuda	date20100514
 
-LangTagCountryEquatorialGuinea	deu	Äquatorialguinea	date20100514
+LangTagCountryEquatorialGuinea	deu	?quatorialguinea	date20100514
 LangTagCountryEquatorialGuinea	eng	Equatorial Guinea	date20100514
 
 LangTagCountryArgentina	deu	Argentinien	date20100514
@@ -2687,7 +2687,7 @@ LangTagCountryAruba	eng	Aruba	date20100514
 LangTagCountryAzerbaijan	deu	Aserbaidschan	date20100514
 LangTagCountryAzerbaijan	eng	Azerbaijan	date20100514
 
-LangTagCountryEthiopia	deu	Äthiopien	date20100514
+LangTagCountryEthiopia	deu	?thiopien	date20100514
 LangTagCountryEthiopia	eng	Ethiopia	date20100514
 
 LangTagCountryAustralia	deu	Australien	date20100514
@@ -2771,7 +2771,7 @@ LangTagCountryCostaRica	eng	Costa Rica	date20100514
 LangTagCountryCotedIvoire	deu	Cote dIvoire	date20100514
 LangTagCountryCotedIvoire	eng	Cote dIvoire	date20100514
 
-LangTagCountryDenmark	deu	Dänemark	date20100514
+LangTagCountryDenmark	deu	D?nemark	date20100514
 LangTagCountryDenmark	eng	Denmark	date20100514
 
 LangTagCountryGermany	deu	Deutschland	date20100514
@@ -2801,7 +2801,7 @@ LangTagCountryEstonia	eng	Estonia	date20100514
 LangTagCountryFalklandIslands	deu	Falklandinseln (Malvinen)	date20100514
 LangTagCountryFalklandIslands	eng	Falkland Islands (Malvinas)	date20100514
 
-LangTagCountryFaroeIslands	deu	Faröer	date20100514
+LangTagCountryFaroeIslands	deu	Far?er	date20100514
 LangTagCountryFaroeIslands	eng	Faroe Islands	date20100514
 
 LangTagCountryFiji	deu	Fidschi	date20100514
@@ -2813,13 +2813,13 @@ LangTagCountryFinland	eng	Finland	date20100514
 LangTagCountryFrance	deu	Frankreich	date20100514
 LangTagCountryFrance	eng	France	date20100514
 
-LangTagCountryFrenchSouthernTerritories	deu	Französische Südpolar-Territorien	date20100514
+LangTagCountryFrenchSouthernTerritories	deu	Franz?sische S?dpolar-Territorien	date20100514
 LangTagCountryFrenchSouthernTerritories	eng	French Southern Territories	date20100514
 
-LangTagCountryFrenchGuiana	deu	Französisch-Guayana	date20100514
+LangTagCountryFrenchGuiana	deu	Franz?sisch-Guayana	date20100514
 LangTagCountryFrenchGuiana	eng	French Guiana	date20100514
 
-LangTagCountryFrenchPolynesia	deu	Französisch-Polinesien	date20100514
+LangTagCountryFrenchPolynesia	deu	Franz?sisch-Polinesien	date20100514
 LangTagCountryFrenchPolynesia	eng	French Polynesia	date20100514
 
 LangTagCountryGabon	deu	Gabun	date20100514
@@ -2843,7 +2843,7 @@ LangTagCountryGrenada	eng	Grenada	date20100514
 LangTagCountryGreece	deu	Griechenland	date20100514
 LangTagCountryGreece	eng	Greece	date20100514
 
-LangTagCountryGreenland	deu	Grönland	date20100514
+LangTagCountryGreenland	deu	Gr?nland	date20100514
 LangTagCountryGreenland	eng	Greenland	date20100514
 
 LangTagCountryGuadeloupe	deu	Guadeloupe	date20100514
@@ -2945,7 +2945,7 @@ LangTagCountryKyrgyzstan	eng	Kyrgyzstan	date20100514
 LangTagCountryKiribati	deu	Kiribati	date20100514
 LangTagCountryKiribati	ebg	Kiribati	date20100514
 
-LangTagCountryUnitedStatesMinorOutlyingIslands	deu	Kleine US-Außeninseln	date20100514
+LangTagCountryUnitedStatesMinorOutlyingIslands	deu	Kleine US-Au?eninseln	date20100514
 LangTagCountryUnitedStatesMinorOutlyingIslands	eng	United States Minor Outlying Islands	date20100514
 
 LangTagCountryColombia	deu	Kolumbien	date20100514
@@ -3044,7 +3044,7 @@ LangTagCountryMacedoniaFormerYugoslavRepublic	eng	Macedonia, the Former Yugoslav
 LangTagCountryMexico	deu	Mexiko	date20100514
 LangTagCountryMexico	eng	Mexico	date20100514
 
-LangTagCountryMicronesiaFederatedStates	deu	Mikronesien, Staatsföderation	date20100514
+LangTagCountryMicronesiaFederatedStates	deu	Mikronesien, Staatsf?deration	date20100514
 LangTagCountryMicronesiaFederatedStates	eng	Micronesia, Federated States of	date20100514
 
 LangTagCountryMoldovaRepublic	deu	Moldawien, Republik	date20100514
@@ -3200,7 +3200,7 @@ LangTagCountrySeychelles	eng	Seychelles	date20100517
 LangTagCountrySierraLeone	deu	Sierra Leone	date20100517
 LangTagCountrySierraLeone	eng	Sierra Leone	date20100517
 
-LangTagCountryRepublicKorea	deu	Südkorea	date20140304
+LangTagCountryRepublicKorea	deu	S?dkorea	date20140304
 LangTagCountryRepublicKorea	eng	South Korea	date20140304
 
 LangTagCountryZimbabwe	deu	Simbabwe	date20100517
@@ -3366,10 +3366,10 @@ LangTagFNFieldCompanyOrPrivate	eng	PrivateOrBusiness	date20140227
 LangTagSummary	deu	Zusammenfassung	date20140302
 LangTagSummary	eng	Summary	date20140302
 
-LangTagDownloadsAvailable	deu	Verfügbare downloads	date20140315
+LangTagDownloadsAvailable	deu	Verf?gbare downloads	date20140315
 LangTagDownloadsAvailable	eng	Downloads available	date20140315
 
-LangTagTextBonusEmpty	deu	Sie haben noch keine Artikel ausgewählt.	date20030301	
+LangTagTextBonusEmpty	deu	Sie haben noch keine Artikel ausgew?hlt.	date20030301	
 LangTagTextBonusEmpty	eng	You have not selected any article. 	date20030301
 
 
@@ -3391,13 +3391,13 @@ LangTagArtIsOnNotepad	eng	This item is already on your notepad	date20140315
 LangTagArtIsOnWishlist	deu	Dieser Artikel ist bereits auf Ihrer Wunschliste	date20140315
 LangTagArtIsOnWishlist	deu	This item is already on your wishlist	date20140315
 
-LangTagPleaseFillAllFields	deu	Bitte füllen Sie alle Felder aus!	date20140316
+LangTagPleaseFillAllFields	deu	Bitte f?llen Sie alle Felder aus!	date20140316
 LangTagPleaseFillAllFields	eng	Please fill in all fields!	date20140316
 
 LangTagItemRated	deu	Sie haben diesen Artikel bereits bewertet	date20140316
 LangTagItemRated	eng	You have already rated this product	date20140316
 
-LangTagFillOneLine	deu	Bitte füllen Sie mindestens eine Zeile aus	date20140316
+LangTagFillOneLine	deu	Bitte f?llen Sie mindestens eine Zeile aus	date20140316
 LangTagFillOneLine	eng	Please fill in at least one row	date20140316
 
 LangTagItmMissing	deu	Artikel fehlt	date20140317
@@ -3407,16 +3407,16 @@ LangTagItemInBasket	deu	Artikel in den Warenkorb gelegt	date20140317
 LangTagItemInBasket	eng	Items placed in basket	date20140317
 
 
-LangTagTextBonusNotEnough	deu	Für diese Artikel sind nicht genug Bonuspunkte vorhanden!	date20140317
+LangTagTextBonusNotEnough	deu	F?r diese Artikel sind nicht genug Bonuspunkte vorhanden!	date20140317
 LangTagTextBonusNotEnough	eng	You do not have enough bonus points available!	date20140317
 
 LangTagTextBonusArtikel	deu	Artikel wurde(n) erfolgreich angefordert!	date20140317
 LangTagTextBonusArtikel	eng	item (s) successfully requested!	date20140317
 
-LangTagTextBonusArtikelConfirm	deu	anbei die Bestätigung der angefordeten Bonusartikel. <br />Folgende Artikel haben Sie angefordert:<br /><br />	date20140317
+LangTagTextBonusArtikelConfirm	deu	anbei die Best?tigung der angefordeten Bonusartikel. <br />Folgende Artikel haben Sie angefordert:<br /><br />	date20140317
 LangTagTextBonusArtikelConfirm	eng	the confirmation of bonus items. <br />The following items have requested:<br /><br />	date20140317
 
-LangTagTextBonusArtikelReceive	deu Sie werden die angeforderten Artikel in Kürze erhalten.	date20140317
+LangTagTextBonusArtikelReceive	deu Sie werden die angeforderten Artikel in K?rze erhalten.	date20140317
 LangTagTextBonusArtikelReceive	eng You will receive the requested items shortly.	date20140317
 
 LangTagTextBonusShop	deu	Sehr geehrter Shopbetreiber, <br /><br /> der Kunde mit der Kundennummer:	date20140317
@@ -3439,7 +3439,7 @@ LangTagPleaseLogin	eng	Please login	date20140410
 
 LangTagTitleNoArticleForComparison	deu	Keine Artikel zum Vergleichen markiert	date20140620
 LangTagTitleNoArticleForComparison	eng	No items marked to compare	date20140620
-LangTagTitleNoArticleForComparison	fra	Marqué Aucun article à comparer	date20140620
+LangTagTitleNoArticleForComparison	fra	Marqu? Aucun article ? comparer	date20140620
 
 LangTagModelWithdrawalForm	deu	Muster-Widerrufsformular	date20140623
 LangTagModelWithdrawalForm	eng	Model withdrawalform	date20140623
@@ -3510,7 +3510,7 @@ LangTagGoto	eng	Go to	date20140722
 LangTagItemCompare	deu	Artikelvergleich	date20140723
 LangTagItemCompare	eng	Compare Products	date20140723
 
-LangTagItemCompareNoItems	deu	Sie haben keine Artikel zum Vergleich ausgewählt	date20140723
+LangTagItemCompareNoItems	deu	Sie haben keine Artikel zum Vergleich ausgew?hlt	date20140723
 LangTagItemCompareNoItems	eng	You have no items to compare	date20140723
 
 LangTagRemoveFromCompare	deu	{GSSE_INCL_ICITEMNAME} vom Vergleich entfernen	date20140723
@@ -3523,13 +3523,13 @@ LangTagCompare	deu	Vergleichen	date20140724
 LangTagCompare	eng	Compare	date20140724
 LangTagCompare	fra	Compare	date20140724
 
-LangTagClearAll	deu	Alle löschen	date20140724
+LangTagClearAll	deu	Alle l?schen	date20140724
 LangTagClearAll	eng	Clear all	date20140724
 
 LangTagPleaseWait	deu	Bitte warten...	date20140724
 LangTagPleaseWait	eng	Please wait...	date20140724
 
-LangTagIncrease	deu	Menge erhöhen	date20140729
+LangTagIncrease	deu	Menge erh?hen	date20140729
 LangTagIncrease	eng	Increase Qty	date20140729
 
 LangTagDecrease	deu	Menge verringern	date20140729
@@ -3538,13 +3538,13 @@ LangTagDecrease	eng	Decrease Qty	date20140729
 LangTagAddToBasket	deu	In den Warenkorb legen	date20140729
 LangTagAddToBasket	eng	Add to basket	date20140729
 
-LangTagComingSoon	deu	Demnächst hier	date20140731
+LangTagComingSoon	deu	Demn?chst hier	date20140731
 LangTagComingSoon	eng	Coming soon	date20140731
 
 LangTagYourTextField	deu	Ihr Text	date20140731
 LangTagYourTextField	eng	Your text	date20140731
 
-LangTagAgeRequested	deu	Altersprüfung erforderlich!	date20140731
+LangTagAgeRequested	deu	Alterspr?fung erforderlich!	date20140731
 LangTagAgeRequested	eng	Age verification required!	date20140731
 
 LangTagClearBasket	deu	Warenkorb leeren	date20140805
@@ -3561,21 +3561,21 @@ LangTagEnterNumber	eng	Please enter a number!	date20140806
 
 LangTagIntQuantWarning	deu	Es sind nur ganzzahlige Mengenangaben erlaubt!	date20140806
 LangTagIntQuantWarning	eng	There are allowed only even quantities!	date20140806
-LangTagIntQuantWarning	fra	Il ne sont autorisés que même des quantités!	date20140806
+LangTagIntQuantWarning	fra	Il ne sont autoris?s que m?me des quantit?s!	date20140806
 
-LangTagExtendedDesc	deu	Ausführliche Beschreibung	date20140806
+LangTagExtendedDesc	deu	Ausf?hrliche Beschreibung	date20140806
 LangTagExtendedDesc	eng	Extended description	date20140806
 
-LangTagApplyCoupon	deu	Gutschein einlösen	date20140807
+LangTagApplyCoupon	deu	Gutschein einl?sen	date20140807
 LangTagApplyCoupon	eng	Apply coupon	date20140807
 
-LangTagClearBasketWarn	deu	Wollen Sie wirklich den kompletten Warenkorb löschen?	date20140807
+LangTagClearBasketWarn	deu	Wollen Sie wirklich den kompletten Warenkorb l?schen?	date20140807
 LangTagClearBasketWarn	eng	Do you really want delete the entire cart?	date20140807
 
-LangTagNextStep	deu Lade nächste Schritt...	date20140807
+LangTagNextStep	deu Lade n?chste Schritt...	date20140807
 LangTagNextStep	eng Loading next step...	date20140807
 
-LangTagTextMinOrderNewValue1	deu	Sie haben Artikel für	date20140808
+LangTagTextMinOrderNewValue1	deu	Sie haben Artikel f?r	date20140808
 LangTagTextMinOrderNewValue1	eng	You have articles for	date20140808
 LangTagTextMinOrderNewValue1	fra	Il y a des articles pour	date20140808
 
@@ -3587,7 +3587,7 @@ LangTagTextMinOrderNewValue3	deu	ist noch nicht erreicht.	date20140808
 LangTagTextMinOrderNewValue3	eng	is not reached yet.	date20140808
 LangTagTextMinOrderNewValue3	fra	pas encore atteinte	date20140808
 
-LangTagEdit	deu	Ändern	date20140814
+LangTagEdit	deu	?ndern	date20140814
 LangTagEdit	eng	Edit	date20140814
 
 LangTagNewsletterState	deu You are currently not subscribed to any newsletter.	date20140814
@@ -3595,7 +3595,7 @@ LangTagNewsletterState	eng You are currently not subscribed to any newsletter.	d
 
 LangTagStars	deu	Sterne	date20140812
 LangTagStars	eng	Stars	date20140812
-LangTagStars	fra	étoiles	date20140812
+LangTagStars	fra	?toiles	date20140812
 
 LangTagItemRatingSuccess	deu	Vielen Dank! Ihre Bewertung wurde gespeichert.	date20140812
 LangTagItemRatingSuccess	eng	Your rating has been saved. Thank you!	date20140812
@@ -3616,21 +3616,21 @@ LangTagDearFemale	deu	Sehr geehrte	date20140901
 LangTagDearFemale	eng	Dear	date20140901
 LangTagDearFemale	fra	Dear	date20140901
 
-LangTagNewsletterForRegCustomer	deu	Nur registrierte Kunden können die Newsletter empfangen	date20140901
+LangTagNewsletterForRegCustomer	deu	Nur registrierte Kunden k?nnen die Newsletter empfangen	date20140901
 LangTagNewsletterForRegCustomer	eng	Only registered users can receive the newsletter	date20140901
-LangTagNewsletterForRegCustomer	fra	Seuls les utilisateurs enregistrés peuvent recevoir la newsletter	date20140901
+LangTagNewsletterForRegCustomer	fra	Seuls les utilisateurs enregistr?s peuvent recevoir la newsletter	date20140901
 
 LangTagNoNewsletter	deu	Sie bekommen keine Newsletter	date20140901
 LangTagNoNewsletter	eng	You get no Newsletter	date20140901
 LangTagNoNewsletter	fra	Vous n'obtenez pas de bulletin	date20140901
 
-LangTagYesNewsletter	deu	Sie sind registriert für den Newsletter Empfang	date20140901
+LangTagYesNewsletter	deu	Sie sind registriert f?r den Newsletter Empfang	date20140901
 LangTagYesNewsletter	eng	You are registering for the newsletter received	date20140901
-LangTagYesNewsletter	fra	Vous vous inscrivez à la newsletter reçue	date20140901
+LangTagYesNewsletter	fra	Vous vous inscrivez ? la newsletter re?ue	date20140901
 
 LangTagAddInfo	deu	Zusatzinformation	date20140901
 LangTagAddInfo	eng	Additional Information	date20140901
-LangTagAddInfo	fra	Informations Complémentaires	date20140901
+LangTagAddInfo	fra	Informations Compl?mentaires	date20140901
 
 LangTagNoRatings	deu	Noch keine Bewertungen vorhanden	date20140909
 LangTagNoRatings	eng	no ratings present yet	date20140909
@@ -3641,13 +3641,13 @@ LangTagOrderPayPal	eng	continue with PayPal	date20140911
 LangTagOrderWorldPay	deu	weiter mit WorldPay	date20140916
 LangTagOrderWorldPay	eng	continue with WorldPay	date20140916
 
-LangTagOrderSofortPay	deu	weiter mit Sofortüberweisung	date20140916
+LangTagOrderSofortPay	deu	weiter mit Sofort?berweisung	date20140916
 LangTagOrderSofortPay	eng	continue with Sofort Pay	date20140916
 
 LangTagOrderSaferpay	deu	weiter mit Saferpay	date20140924
 LangTagOrderSaferpay	eng	continue with Saferpay Pay	date20140924 
 
-LangTagItemIsAvailable	deu	Bitte informieren Sie mich, wenn der folgende Artikel wieder verfügbar ist:	date20141117
+LangTagItemIsAvailable	deu	Bitte informieren Sie mich, wenn der folgende Artikel wieder verf?gbar ist:	date20141117
 LangTagItemIsAvailable	deu	Please let me know if that item is available again:	date20141117
 
 LangTagViewDetails	deu	Details anzeigen	date20141128
@@ -3676,7 +3676,7 @@ LangTagPlsEnterBankcode	eng	Enter your bankcode, please	date20150618
 LangTagPlsEnterIBAN	deu	Bitte geben Sie Ihre IBAN-Nummer ein!	date20150623
 LangTagPlsEnterIBAN	eng	Enter your IBAN-Number, please	date20150623
 
-LangTagPlsEnterValidIBAN	deu	Bitte geben Sie eine gültige IBAN-Nummer ein!	date20150623
+LangTagPlsEnterValidIBAN	deu	Bitte geben Sie eine g?ltige IBAN-Nummer ein!	date20150623
 LangTagPlsEnterValidIBAN	eng	Enter a valid IBAN-Number, please	date20150623
 
 LangTagPlsEnterBIC	deu	Bitte geben Sie die BIC Ihrer Bank ein!	date20150623
@@ -3695,43 +3695,43 @@ LangTagDoSearch	eng	Search term	date20150716
 LangTagSignIn	deu	Neu registrieren	date20150717
 LangTagSignIn	eng	Sign in	date20150717
 
-LangTagAllCondAccept	deu	Hiermit bestätige ich, die AGB, die Datenschutzerklärung und die Informationen über das 2-wöchige Widerrufsrecht gelesen und akzeptiert zu haben.	date20151015
+LangTagAllCondAccept	deu	Hiermit best?tige ich, die AGB, die Datenschutzerkl?rung und die Informationen ?ber das 2-w?chige Widerrufsrecht gelesen und akzeptiert zu haben.	date20151015
 LangTagAllCondAccept	eng	I hereby confirm that I have read the Terms and Conditions, the Privacy Policy and the information about the 2-week right of withdrawal and accepted.	date20151015
 
 LangTagEmailRepeat	deu	Email wiederholen	date20151127
 LangTagEmailRepeat	eng	Repeat email	date20151127
 
-LangTagEmailRepeatNotEqual	deu	Die Email-Adressen müssen gleich sein!	date20151130
+LangTagEmailRepeatNotEqual	deu	Die Email-Adressen m?ssen gleich sein!	date20151130
 LangTagEmailRepeatNotEqual	eng	The email addresses must be equal!	date20151130
 
 LangTagValidate	deu	Validierung	date20151130
 LangTagValidate	eng	Validation	date20151130
 
-LangTagValidationText	deu	Wir haben Ihnen soeben eine E-Mail mit einem Bestätigungscode geschickt. Bitte tragen Sie diesen Code in das Eingabefeld unterhalb ein.	date20151130
+LangTagValidationText	deu	Wir haben Ihnen soeben eine E-Mail mit einem Best?tigungscode geschickt. Bitte tragen Sie diesen Code in das Eingabefeld unterhalb ein.	date20151130
 LangTagValidationText	eng	We have send you an email with a confirmationcode. Please enter this code in the inputfield below.	date20151130
 
-LangTagFieldValidationCode	deu	Bestätigungscode	date20151130
+LangTagFieldValidationCode	deu	Best?tigungscode	date20151130
 LangTagFieldValidationCode	eng	Confirmationcode	date20151130
 
-LangTagButtonValidate	deu	Code bestätigen und weiter	date20151130
+LangTagButtonValidate	deu	Code best?tigen und weiter	date20151130
 LangTagButtonValidate	eng	Confirm code and continue	date20151130
 
-LangTagValMailSubject	deu	Ihr Bestätigungscode	date20151130
+LangTagValMailSubject	deu	Ihr Best?tigungscode	date20151130
 LangTagValMailSubject	eng	Your confirmationcode	date20151130
 
-LangTagValMailText1	deu	bitte geben Sie im Onlineshop folgenden Code zur Bestätigung Ihrer E-Mail-Adresse ein:	date20151130
+LangTagValMailText1	deu	bitte geben Sie im Onlineshop folgenden Code zur Best?tigung Ihrer E-Mail-Adresse ein:	date20151130
 LangTagValMailText1	eng	please enter the following code to confirm your emailaddress in the onlineshop:	date20151130
 
-LangTagValMailText2	deu	Vielen Dank für Ihre Mithilfe.	date20151130
+LangTagValMailText2	deu	Vielen Dank f?r Ihre Mithilfe.	date20151130
 LangTagValMailText2	eng	Thank you for your help.	date20151130
 
-LangTagValidateEnterCode	deu	Bitte geben Sie den Bestätigungscode ein!	date20151130
+LangTagValidateEnterCode	deu	Bitte geben Sie den Best?tigungscode ein!	date20151130
 LangTagValidateEnterCode	eng	Please enter the confirmationcode!	date20151130
 
 LangTagValidateWrongCode	deu	Der eingegebene Code ist falsch!	date20151130
 LangTagValidateWrongCode	eng	Wrong confirmationcode!	date20151130
 
-LangTagValidateResend	deu	Bestätigungscode erneut senden	date20151130
+LangTagValidateResend	deu	Best?tigungscode erneut senden	date20151130
 LangTagValidateResend	eng	Resend confirmationcode	date20151130
 
 LangTagPerSomething	deu	pro	date20151209
@@ -3761,22 +3761,22 @@ LangTagRentalMonths	eng	Months	date20151208
 LangTagRentalYears	deu	Jahre	date20151208
 LangTagRentalYears	eng	Years	date20151208
 
-LangTagRentalDaily	deu	täglich	date20151208
+LangTagRentalDaily	deu	t?glich	date20151208
 LangTagRentalDaily	eng	daily	date20151208
 
-LangTagRentalWeekly	deu	wöchentlich	date20151208
+LangTagRentalWeekly	deu	w?chentlich	date20151208
 LangTagRentalWeekly	eng	weekly	date20151208
 
 LangTagRentalMonthly	deu	monatlich	date20151208
 LangTagRentalMonthly	eng	monthly	date20151208
 
-LangTagRentalYearly	deu	jährlich	date20151208
+LangTagRentalYearly	deu	j?hrlich	date20151208
 LangTagRentalYearly	eng	yearly	date20151208
 
 LangTagUnknownValue	deu	unbekannt	date20151208
 LangTagUnknownValue	eng	unknown	date20151208
 
-LangTagForSomething	deu	für	date20151208
+LangTagForSomething	deu	f?r	date20151208
 LangTagForSomething	eng	for	date20151208
 
 LangTagAfterSomething	deu	danach	date20151208
@@ -3788,7 +3788,7 @@ LangTagForFree	eng	free	date20151208
 LangTagRentalRunTime	deu	Laufzeit	date20151208
 LangTagRentalRunTime	eng	Run-time	date20151208
 
-LangTagBillingFrequencyWish	deu	Bitte wählen Sie das gewünschte Zahlungsintervall	date20151211
+LangTagBillingFrequencyWish	deu	Bitte w?hlen Sie das gew?nschte Zahlungsintervall	date20151211
 LangTagBillingFrequencyWish	eng	Please select your preferred payingfrequency	date20151211
 
 LangTagTrialPeriod	deu	Testzeitraum	date20151211
@@ -3797,10 +3797,10 @@ LangTagTrialPeriod	eng	Trialperiod	date20151211
 LangTagInitialPrice	deu	Einmalige Einrichtung	date20151211
 LangTagInitialPrice	eng	Initial setup	date20151211
 
-LangTagBasketHasRentalItems	deu	Ihr Warenkorb enthält Artikel mit wiederkehrenden Rechnungen!	date20151211
+LangTagBasketHasRentalItems	deu	Ihr Warenkorb enth?lt Artikel mit wiederkehrenden Rechnungen!	date20151211
 LangTagBasketHasRentalItems	eng	Your basket contains items with subsequent invoices!	date20151211
 
-LangTagBasketIsFirstInvoice	deu	Die aufgeführten Posten werden mit der ersten Rechnung beglichen.	date20151211
+LangTagBasketIsFirstInvoice	deu	Die aufgef?hrten Posten werden mit der ersten Rechnung beglichen.	date20151211
 LangTagBasketIsFirstInvoice	eng	The listed postions will be payed with the first invoice.	date20151211
 
 LangTagBasketFollowingInv	deu	Bitte beachten Sie die Angaben zu Folgerechnungen bei den entsprechenden Artikeln.	date20151211
@@ -3827,37 +3827,37 @@ LangTagSepaMandatNumber	eng	Mandate reference number	date20170202
 LangTagMandatNumberMessage	deu	Wird separat mitgeteilt.	date20170202
 LangTagMandatNumberMessage	eng	Is communicated separately.	date20170202
 
-LangTagPaymentRecipients	deu	Zahlungsempfänger	date20170202
+LangTagPaymentRecipients	deu	Zahlungsempf?nger	date20170202
 LangTagPaymentRecipients	eng	Payment recipients	date20170202
 
-LangTagCreditor	deu	Gläubiger	date20170202
+LangTagCreditor	deu	Gl?ubiger	date20170202
 LangTagCreditor	eng	Creditor	date20170202
 
-LangTagCreditorNumber	deu	Gläubiger-Identifikationsnummer	date20170202
+LangTagCreditorNumber	deu	Gl?ubiger-Identifikationsnummer	date20170202
 LangTagCreditorNumber	eng	Creditor identification number	date20170202
 
-LangTagCreditCardNotAccept	deu	Ihre Kreditkarte wird leider nicht unterstützt	date20161110
+LangTagCreditCardNotAccept	deu	Ihre Kreditkarte wird leider nicht unterst?tzt	date20161110
 LangTagCreditCardNotAccept	eng	Your creditcard ist accepted	date20161110
 
-LangTagAllCondChecked	deu	Hiermit bestätige ich, die AGB, die Datenschutzerklärung und die Informationen über das 2-wöchige Widerrufsrecht gelesen und akzeptiert zu haben.	date20170102
+LangTagAllCondChecked	deu	Hiermit best?tige ich, die AGB, die Datenschutzerkl?rung und die Informationen ?ber das 2-w?chige Widerrufsrecht gelesen und akzeptiert zu haben.	date20170102
 LangTagAllCondChecked	eng	I hereby confirm that I have read and accepted the general terms and conditions, the data protection declaration and the information on the 2-week right of revocation.	date20170102
 
-LangTagCreditorAccept	deu	Hiermit ermächtige ich den Zahlungsempfänger, einmalig eine Zahlung von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, die von dem Zahlungsempfänger auf mein Konto gezogene Lastschrift einzulösen.<br/><br/>Hinweis: Ich kann innerhalb von acht Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrages verlangen. Es gelten dabei die mit meinem Kreditinstitut vereinbarten Bedingungen.	date20170202
+LangTagCreditorAccept	deu	Hiermit erm?chtige ich den Zahlungsempf?nger, einmalig eine Zahlung von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, die von dem Zahlungsempf?nger auf mein Konto gezogene Lastschrift einzul?sen.<br/><br/>Hinweis: Ich kann innerhalb von acht Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrages verlangen. Es gelten dabei die mit meinem Kreditinstitut vereinbarten Bedingungen.	date20170202
 LangTagCreditorAccept	eng	I hereby authorize the payee to collect a payment from my account by direct debit. At the same time, I instruct my credit institution to settle the direct debit drawn by the payee on my account.<br/><br/>Note: I can demand reimbursement of the debited amount within eight weeks, starting with the debit date. Applicable in this regard by the contract with my bank conditions.	date20170202
 
 LangTagPayable	deu	Zahlungspflichtiger	date20170202
 LangTagPayable	eng	Payable	date20170202
 
-LangTagLetterAutomatic	deu	Dieses Schreiben wurde maschinell erstellt und ist ohne Unterschrift gültig.	date20170203
+LangTagLetterAutomatic	deu	Dieses Schreiben wurde maschinell erstellt und ist ohne Unterschrift g?ltig.	date20170203
 LangTagLetterAutomatic	eng	This letter has been created automatically and is valid without signature.	date20170203
 
-LangTagSepaDeadline	deu	Bitte beachten Sie: Die Frist für die Vorabinformation der Sepa-Lastschrift wird auf einen Tag verkürzt.	date20170203
+LangTagSepaDeadline	deu	Bitte beachten Sie: Die Frist f?r die Vorabinformation der Sepa-Lastschrift wird auf einen Tag verk?rzt.	date20170203
 LangTagSepaDeadline	eng	Please note: The deadline for the pre-formalization of the Sepa direct debit will be reduced to one day.	date20170203
 
 LangTagSepaMandatIssue	deu	Hiermit erteile ich das Sepa-Lastschriftmandat.	date20170203
 LangTagSepaMandatIssue	eng	I hereby issue the Sepa direct debit mandate.	date20170203
 
-LangTagCreditorAcceptMultiple	deu	1. Einzugsermächtigung<br/><br/>Hiermit ermächtige ich den Zahlungsempfänger, die von mir zu entrichtenden Zahlungen bei Fälligkeit durch Lastschrift von meinem Konto einzuziehen.<br/><br/>2. SEPA-Lastschriftmandat<br/><br/>Hiermit ermächtige ich den Zahlungsempfänger, Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, die von dem Zahlungsempfänger auf mein Konto gezogenen Lastschriften einzulösen.<br/><br/>Hinweis: Ich kann innerhalb von acht Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrages verlangen. Es gelten dabei die mit meinem Kreditinstitut vereinbarten Bedingungen.	date20170202
+LangTagCreditorAcceptMultiple	deu	1. Einzugserm?chtigung<br/><br/>Hiermit erm?chtige ich den Zahlungsempf?nger, die von mir zu entrichtenden Zahlungen bei F?lligkeit durch Lastschrift von meinem Konto einzuziehen.<br/><br/>2. SEPA-Lastschriftmandat<br/><br/>Hiermit erm?chtige ich den Zahlungsempf?nger, Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, die von dem Zahlungsempf?nger auf mein Konto gezogenen Lastschriften einzul?sen.<br/><br/>Hinweis: Ich kann innerhalb von acht Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrages verlangen. Es gelten dabei die mit meinem Kreditinstitut vereinbarten Bedingungen.	date20170202
 LangTagCreditorAcceptMultiple	eng	1. Collection authorization<br/><br/>I hereby authorize the payee to collect the payments to be paid by me by direct debit from my account at maturity.<br/><br/>2. SEPA Direct Debit Mandate<br/><br/>I hereby authorize the payee to collect payments from my account by direct debit. At the same time, I instruct my credit institution to pay the direct debits drawn on my account by the payee.<br/><br/>Note: I can demand reimbursement of the debited amount within eight weeks, starting with the debit date. Applicable in this regard by the contract with my bank conditions.<br/><br/>Note: I can demand reimbursement of the debited amount within eight weeks, starting with the debit date. Applicable in this regard by the contract with my bank conditions.	date20170202
 
 LangTagPleaseDirectDebit	deu	Bitte erteilen Sie das Sepa-Lastschriftmandat!	date20170203
@@ -3866,7 +3866,7 @@ LangTagPleaseDirectDebit	eng	Please give the Sepa direct debit mandate!	date2017
 LangTagWeUseCookies	deu	Verwendung von Cookies	date20170324
 LangTagWeUseCookies	eng	Usage of cookies	date20170324
 
-LangTagCustPassword	deu	Dies ist Ihr Passwort für den Kundenbereich:	date20170410
+LangTagCustPassword	deu	Dies ist Ihr Passwort f?r den Kundenbereich:	date20170410
 LangTagCustPassword	eng	This is your password to the customerarea:	date20170410
 
 LangTagCustPasswordRemember	deu	Bitte merken Sie sich dieses Passwort gut. Es wird hier nur einmal angezeigt.	date20170410
@@ -3884,19 +3884,19 @@ LangTagPaymShipInfo	eng	Payment & Shipping	date20170411
 LangTagRegistration	deu	Anmeldung	date20170527
 LangTagRegistration	eng	Registration	date20170527
 
-LangTagPersonalInformation	deu	Persönliche Angaben	date20170527
+LangTagPersonalInformation	deu	Pers?nliche Angaben	date20170527
 LangTagPersonalInformation	eng	Personal Information	date20170527
 
-LangTagPersonalInformation	deu	Persönliche Angaben	date20170527
+LangTagPersonalInformation	deu	Pers?nliche Angaben	date20170527
 LangTagPersonalInformation	eng	Personal Information	date20170527
 
-LangTagConfirmPassword	deu	Passwort bestätigen	date20170605
+LangTagConfirmPassword	deu	Passwort best?tigen	date20170605
 LangTagConfirmPassword	eng	Confirm password	date20170605
 
-LangTagConfirmEmail	deu	Email bestätigen	date20170605
+LangTagConfirmEmail	deu	Email best?tigen	date20170605
 LangTagConfirmEmail	eng	Confirm email address	date20170605
 
-LangTagPasswordsNotIdentical	deu	Passwörter sind nicht identisch!	date20170605
+LangTagPasswordsNotIdentical	deu	Passw?rter sind nicht identisch!	date20170605
 LangTagPasswordsNotIdentical	eng	Passwords are not identical	date20170605
 
 LangTagRegistrationData	deu	Meine Registrierungsdaten	date20170608
@@ -3911,7 +3911,7 @@ LangTagCheckout	eng	Checkout	date20170811
 LangTagIhaveAccount	deu	Ich habe bereits ein Konto	date20170811
 LangTagIhaveAccount	eng	I already have an account	date20170811
 
-LangTagRegisterHere	deu	Solltest Du bereits über ein Kundenkonto verfügen, melde Dich bitte hier an.	date20170811
+LangTagRegisterHere	deu	Solltest Du bereits ?ber ein Kundenkonto verf?gen, melde Dich bitte hier an.	date20170811
 LangTagRegisterHere	eng	If you already have a customer account, please register here.	date20170811
 
 LangTagNewCustomer	deu	Ich bin Neukunde	date20170811
@@ -3923,13 +3923,13 @@ LangTagOrderWithoutRegistering	eng	You can order without registering as a custom
 LangTagWithoutRegistering	deu	Ohne Registrierung bestellen	date20170811
 LangTagWithoutRegistering	eng	Without registration	date20170811
 
-LangTagMsgRegistering	deu	Melde Dich an, spare Zeit und genieße exklusive Vorteile:<br/><br/>Schneller durch Nutzung des verkürzten Checkouts<br/>Einfach und bequem Ihr Profil verwalten und bestellen<br/>Exklusive Angebote und Informationen erhalten<br/>Auf einen Blick Ihre Bestellungen einsehen und verfolgen	date20170811
+LangTagMsgRegistering	deu	Melde Dich an, spare Zeit und genie?e exklusive Vorteile:<br/><br/>Schneller durch Nutzung des verk?rzten Checkouts<br/>Einfach und bequem Ihr Profil verwalten und bestellen<br/>Exklusive Angebote und Informationen erhalten<br/>Auf einen Blick Ihre Bestellungen einsehen und verfolgen	date20170811
 LangTagMsgRegistering	eng	Sign up, save time and enjoy exclusive benefits: <br/> <br/>Faster through use of shortened checkout<br/>Easy and convenient to manage your profile and order it<br/>Receive exclusive offers and information<br/>View and track your orders at a glance	date20170811
 
 LangTagRegisterAndOrder	deu	Registrieren und bestellen	date20170811
 LangTagRegisterAndOrder	eng	Register and order	date20170811
 
-LangTagContactAccept	deu	Ich willige ein, dass meine Angaben zur Kontaktaufnahme und Zuordnung für eventuelle Rückfragen dauerhaft gespeichert werden.<br/>Hinweis: Diese Einwilligung können Sie jederzeit mit Wirkung für die Zukunft widerrufen, indem Sie eine E-Mail an 	date20180418
+LangTagContactAccept	deu	Ich willige ein, dass meine Angaben zur Kontaktaufnahme und Zuordnung f?r eventuelle R?ckfragen dauerhaft gespeichert werden.<br/>Hinweis: Diese Einwilligung k?nnen Sie jederzeit mit Wirkung f?r die Zukunft widerrufen, indem Sie eine E-Mail an 	date20180418
 LangTagContactAccept	eng	I agree that my contact details and assignment will be stored permanently for any queries. <br/>Note: You can revoke this consent at any time with future effect by sending an e-mail to 	date20180418
 
 LangTagContactAcceptEnd	deu	 schicken.	date20180418
